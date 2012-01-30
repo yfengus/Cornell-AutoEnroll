@@ -1,0 +1,52 @@
+AMST 1101,Introduction to American Studies,http://cornell.chequerd.com/courses/4056/AMST/1101/
+AMST 1140,FWS:Cornell & Ithaca Collabor,http://cornell.chequerd.com/courses/157/AMST/1140/
+AMST 1312,History of Rock Music,http://cornell.chequerd.com/courses/4057/AMST/1312/
+AMST 1601,Introduction to American Indian Studies II: Contemporary Issues in Indigenous North America,http://cornell.chequerd.com/courses/7418/AMST/1601/
+AMST 2000,Introduction to Visual Studies,http://cornell.chequerd.com/courses/11372/AMST/2000/
+AMST 2004,Introductory Seminar in Historical Fiction,http://cornell.chequerd.com/courses/11339/AMST/2004/
+AMST 2040,Introduction to American Literatures: The Making of America: Reconstruction to the Present,http://cornell.chequerd.com/courses/4060/AMST/2040/
+AMST 2060,The Great American Cornell Novel,http://cornell.chequerd.com/courses/4061/AMST/2060/
+AMST 2292,American Capitalism,http://cornell.chequerd.com/courses/11361/AMST/2292/
+AMST 2299,Introduction to Lesbian, Gay, Bisexual, & Transgender Studies,http://cornell.chequerd.com/courses/10868/AMST/2299/
+AMST 2620,Asian American Literature,http://cornell.chequerd.com/courses/4062/AMST/2620/
+AMST 2655,Latinos in the United States,http://cornell.chequerd.com/courses/7420/AMST/2655/
+AMST 2660,Introduction to Native American History,http://cornell.chequerd.com/courses/4063/AMST/2660/
+AMST 2675,Cultures of the Cold War,http://cornell.chequerd.com/courses/10869/AMST/2675/
+AMST 2730,Women in American Society, Past and Present,http://cornell.chequerd.com/courses/10870/AMST/2730/
+AMST 2980,Inventing an Information Society,http://cornell.chequerd.com/courses/4064/AMST/2980/
+AMST 3032,Race and Revolution in the Americas: 1776-1900,http://cornell.chequerd.com/courses/10871/AMST/3032/
+AMST 3140,Hist Am Foreign Policy 1912-Pr,http://cornell.chequerd.com/courses/7423/AMST/3140/
+AMST 3181,U.S. Congress,http://cornell.chequerd.com/courses/4067/AMST/3181/
+AMST 3304,African American History: From the Age of Booker T. Washington to the Age of Barack Obama,http://cornell.chequerd.com/courses/9691/AMST/3304/
+AMST 3405,Multicultural Issues in Education,http://cornell.chequerd.com/courses/11340/AMST/3405/
+AMST 3430,American Civil War and Reconstruction, 1860-1877,http://cornell.chequerd.com/courses/6542/AMST/3430/
+AMST 3451,Cultural and Intellectual Life of 20th Century Americans,http://cornell.chequerd.com/courses/10872/AMST/3451/
+AMST 3611,American Renaissance,http://cornell.chequerd.com/courses/10873/AMST/3611/
+AMST 3635,Human Rights and Global Justice,http://cornell.chequerd.com/courses/9164/AMST/3635/
+AMST 3740,Painting Nineteenth-Century America,http://cornell.chequerd.com/courses/186/AMST/3740/
+AMST 3811,America Architecture and Building II,http://cornell.chequerd.com/courses/4077/AMST/3811/
+AMST 3980,Independent Research,http://cornell.chequerd.com/courses/4081/AMST/3980/
+AMST 3990,Readings in American Studies,http://cornell.chequerd.com/courses/4083/AMST/3990/
+AMST 4032,Immigration & Politics Research Seminar,http://cornell.chequerd.com/courses/4084/AMST/4032/
+AMST 4142,Causes and Consequences of US Foreign Policy,http://cornell.chequerd.com/courses/6551/AMST/4142/
+AMST 4211,Seminar on the American Revolution,http://cornell.chequerd.com/courses/10874/AMST/4211/
+AMST 4241,Contemporary American Politics,http://cornell.chequerd.com/courses/4085/AMST/4241/
+AMST 4301,The Rabinor Seminar,http://cornell.chequerd.com/courses/4086/AMST/4301/
+AMST 4306,Art and Social Histories,http://cornell.chequerd.com/courses/196/AMST/4306/
+AMST 4312,American Exceptionalism into the 21st Century,http://cornell.chequerd.com/courses/11308/AMST/4312/
+AMST 4550,Race and the University,http://cornell.chequerd.com/courses/10875/AMST/4550/
+AMST 4651,American Elegy,http://cornell.chequerd.com/courses/10876/AMST/4651/
+AMST 4696,The Art Market,http://cornell.chequerd.com/courses/9171/AMST/4696/
+AMST 4964,Signal to Noise: The Politics of Sound,http://cornell.chequerd.com/courses/10877/AMST/4964/
+AMST 4993,Honors Essay Tutorial I,http://cornell.chequerd.com/courses/207/AMST/4993/
+AMST 4994,Honors Essay Tutorial II,http://cornell.chequerd.com/courses/208/AMST/4994/
+AMST 6080,Readings in 20th Century U.S. History,http://cornell.chequerd.com/courses/10878/AMST/6080/
+AMST 6142,Causes and Consequences of US Foreign Policy,http://cornell.chequerd.com/courses/6559/AMST/6142/
+AMST 6202,Political Culture,http://cornell.chequerd.com/courses/7436/AMST/6202/
+AMST 6261,Seminar on the American Revolution,http://cornell.chequerd.com/courses/10879/AMST/6261/
+AMST 6291,Contemporary American Politics,http://cornell.chequerd.com/courses/4090/AMST/6291/
+AMST 6424,Ethnoracial Identity in Anthropology, Language, and Law,http://cornell.chequerd.com/courses/4091/AMST/6424/
+AMST 6643,The American 1890s,http://cornell.chequerd.com/courses/10880/AMST/6643/
+AMST 6696,The Art Market,http://cornell.chequerd.com/courses/9178/AMST/6696/
+AMST 6761,Art and Social Histories,http://cornell.chequerd.com/courses/10636/AMST/6761/
+

@@ -1,0 +1,3 @@
+11042,DIS,T,2:55p - 3:45p,RHD 471,Desjardins (od57),
+10830,LEC,MWF,11:15a - 12:05p,PHL 101,Desjardins (od57),
+

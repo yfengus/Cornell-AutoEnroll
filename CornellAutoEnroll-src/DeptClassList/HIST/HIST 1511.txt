@@ -1,0 +1,6 @@
+16802,DIS,F,11:15a - 12:05p,MCG 165,Donnell (bad2),
+8857,DIS,W,2:30p - 3:20p,URH 204,,
+5916,DIS,F,12:20p - 1:10p,GSH 350,,
+5915,DIS,F,1:25p - 2:15p,GSH 144,,
+5438,LEC,MW,11:15a - 12:05p,MCG 165,Weil (rjw5),
+

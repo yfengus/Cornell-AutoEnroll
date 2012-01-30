@@ -1,0 +1,3 @@
+13858,LEC,R,9:00a - 11:00a,CLA C2609,Warnick (ldw3),
+13858,LEC,MTW,1:00p - 3:00p,CLA C2609,Warnick (ldw3),
+

@@ -1,0 +1,45 @@
+PSYCH 1120,FWS:Personality & Social Psychology,http://cornell.chequerd.com/courses/7292/PSYCH/1120/
+PSYCH 1140,FWS: Perception, Cognition & Development,http://cornell.chequerd.com/courses/8874/PSYCH/1140/
+PSYCH 2090,Developmental Psychology,http://cornell.chequerd.com/courses/6159/PSYCH/2090/
+PSYCH 2140,Cognitive Psychology,http://cornell.chequerd.com/courses/3529/PSYCH/2140/
+PSYCH 2150,Psychology of Language,http://cornell.chequerd.com/courses/6160/PSYCH/2150/
+PSYCH 2800,Introduction to Social Psychology,http://cornell.chequerd.com/courses/6161/PSYCH/2800/
+PSYCH 2801,WIM: Introduction to Social Psychology,http://cornell.chequerd.com/courses/6162/PSYCH/2801/
+PSYCH 3150,Obesity and the Regulation of Body Weight,http://cornell.chequerd.com/courses/8187/PSYCH/3150/
+PSYCH 3160,Auditory Perception,http://cornell.chequerd.com/courses/6164/PSYCH/3160/
+PSYCH 3250,Adult Psychopathology,http://cornell.chequerd.com/courses/6165/PSYCH/3250/
+PSYCH 3280,Field Practicum II,http://cornell.chequerd.com/courses/6167/PSYCH/3280/
+PSYCH 3850,The Psychology of Emotion,http://cornell.chequerd.com/courses/3542/PSYCH/3850/
+PSYCH 4120,Laboratory in Cognition and Perception,http://cornell.chequerd.com/courses/6170/PSYCH/4120/
+PSYCH 4200,Adv. Neurobio Learning& Memory,http://cornell.chequerd.com/courses/9742/PSYCH/4200/
+PSYCH 4350,Olfaction, Pheromones, and Behavior,http://cornell.chequerd.com/courses/3547/PSYCH/4350/
+PSYCH 4410,Laboratory in Sleep Research,http://cornell.chequerd.com/courses/6176/PSYCH/4410/
+PSYCH 4650,Topics In High Level Vision,http://cornell.chequerd.com/courses/6178/PSYCH/4650/
+PSYCH 4700,Undergraduate Research in Psychology,http://cornell.chequerd.com/courses/3550/PSYCH/4700/
+PSYCH 4710,Advanced Undergraduate Research in Psychology,http://cornell.chequerd.com/courses/3551/PSYCH/4710/
+PSYCH 4840,Goals, Needs and Desires,http://cornell.chequerd.com/courses/9603/PSYCH/4840/
+PSYCH 4850,The Self,http://cornell.chequerd.com/courses/6179/PSYCH/4850/
+PSYCH 4910,Research Methods in Psychology,http://cornell.chequerd.com/courses/6180/PSYCH/4910/
+PSYCH 5190,Affect and Cognition,http://cornell.chequerd.com/courses/10502/PSYCH/5190/
+PSYCH 6000,General Research Seminar,http://cornell.chequerd.com/courses/3553/PSYCH/6000/
+PSYCH 6120,The Perception Seminar,http://cornell.chequerd.com/courses/3555/PSYCH/6120/
+PSYCH 6121,Laboratory in Cognition and Perception,http://cornell.chequerd.com/courses/6182/PSYCH/6121/
+PSYCH 6140,Cognitive Psychology,http://cornell.chequerd.com/courses/3556/PSYCH/6140/
+PSYCH 6200,Adv. Neurobio Learning& Memory,http://cornell.chequerd.com/courses/9743/PSYCH/6200/
+PSYCH 6210,Behavioral & Brain Sciences,http://cornell.chequerd.com/courses/3558/PSYCH/6210/
+PSYCH 6271,Topics In Biopsychology,http://cornell.chequerd.com/courses/3560/PSYCH/6271/
+PSYCH 6441,Laboratory in Sleep Research,http://cornell.chequerd.com/courses/6187/PSYCH/6441/
+PSYCH 6650,Topics In High Level Vision,http://cornell.chequerd.com/courses/6188/PSYCH/6650/
+PSYCH 6840,Goals, Needs & Desires,http://cornell.chequerd.com/courses/9605/PSYCH/6840/
+PSYCH 6850,The Self,http://cornell.chequerd.com/courses/6189/PSYCH/6850/
+PSYCH 6910,Research Methods in Psychology,http://cornell.chequerd.com/courses/6190/PSYCH/6910/
+PSYCH 7000,Research in Biopsychology,http://cornell.chequerd.com/courses/3567/PSYCH/7000/
+PSYCH 7090,Developmental Psychology,http://cornell.chequerd.com/courses/6192/PSYCH/7090/
+PSYCH 7100,Research in Human Experimental Psychology,http://cornell.chequerd.com/courses/6193/PSYCH/7100/
+PSYCH 7160,Auditory Perception,http://cornell.chequerd.com/courses/6194/PSYCH/7160/
+PSYCH 7200,Research in Social Psychology and Personality,http://cornell.chequerd.com/courses/3568/PSYCH/7200/
+PSYCH 7760,Proseminar in Social Psychology II,http://cornell.chequerd.com/courses/6195/PSYCH/7760/
+PSYCH 9000,Doctoral Thesis Research in Biopsychology,http://cornell.chequerd.com/courses/3571/PSYCH/9000/
+PSYCH 9100,Doctoral Thesis Research in Human Experimental Psychology,http://cornell.chequerd.com/courses/3572/PSYCH/9100/
+PSYCH 9200,Doctoral Thesis Research in Social Psychology and Personality,http://cornell.chequerd.com/courses/3573/PSYCH/9200/
+

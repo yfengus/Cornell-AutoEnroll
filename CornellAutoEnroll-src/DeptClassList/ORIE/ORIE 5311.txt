@@ -1,0 +1,3 @@
+10766,LAB,W,7:30p - 9:30p,RHD 471,Trotter (let3),
+10765,LEC,TR,8:40a - 9:55a,UPS B17,Trotter (let3),
+

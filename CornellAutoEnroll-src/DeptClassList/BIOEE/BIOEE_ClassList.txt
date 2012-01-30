@@ -1,0 +1,20 @@
+BIOEE 1610,Ecology and the Environment,http://cornell.chequerd.com/courses/8443/BIOEE/1610/
+BIOEE 1780,Evolutionary Biology and Diversity,http://cornell.chequerd.com/courses/8444/BIOEE/1780/
+BIOEE 2740,The Vertebrates: Structure, Function, and Evolution,http://cornell.chequerd.com/courses/4366/BIOEE/2740/
+BIOEE 3510,Conservation Oceanography,http://cornell.chequerd.com/courses/4367/BIOEE/3510/
+BIOEE 3690,Chemical Ecology,http://cornell.chequerd.com/courses/4368/BIOEE/3690/
+BIOEE 4570,Limnology: Ecology of Lakes, Lectures,http://cornell.chequerd.com/courses/7556/BIOEE/4570/
+BIOEE 4571,Limnology: Ecology of Lakes, Laboratory,http://cornell.chequerd.com/courses/7557/BIOEE/4571/
+BIOEE 4640,Macroevolution,http://cornell.chequerd.com/courses/7559/BIOEE/4640/
+BIOEE 4750,Ornithology,http://cornell.chequerd.com/courses/7560/BIOEE/4750/
+BIOEE 4790,Paleobiology,http://cornell.chequerd.com/courses/4376/BIOEE/4790/
+BIOEE 4980,Teaching Experience,http://cornell.chequerd.com/courses/4379/BIOEE/4980/
+BIOEE 6602,Graduate Field Course in Ecology,http://cornell.chequerd.com/courses/7561/BIOEE/6602/
+BIOEE 6680,Principles of Biogeochemistry,http://cornell.chequerd.com/courses/7562/BIOEE/6680/
+BIOEE 6900,Seminar in Ecology and Evolution of Infectious Disease,http://cornell.chequerd.com/courses/6709/BIOEE/6900/
+BIOEE 7600,Special Topics in Evolution and Ecology,http://cornell.chequerd.com/courses/662/BIOEE/7600/
+BIOEE 7640,Plant-Insect Interactions Seminar,http://cornell.chequerd.com/courses/663/BIOEE/7640/
+BIOEE 7800,Graduate Seminar in Ornithology,http://cornell.chequerd.com/courses/665/BIOEE/7800/
+BIOEE 8990,M.S. Thesis Research,http://cornell.chequerd.com/courses/666/BIOEE/8990/
+BIOEE 9990,Ph.D. Dissertation Research,http://cornell.chequerd.com/courses/667/BIOEE/9990/
+

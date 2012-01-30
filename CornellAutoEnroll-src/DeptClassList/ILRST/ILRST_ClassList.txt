@@ -1,0 +1,8 @@
+ILRST 2100,Introductory Statistics,http://cornell.chequerd.com/courses/2396/ILRST/2100/
+ILRST 2110,Statistical Methods for Scoal Sciences II,http://cornell.chequerd.com/courses/7129/ILRST/2110/
+ILRST 4100,Techniques of Multivariate Analysis,http://cornell.chequerd.com/courses/7987/ILRST/4100/
+ILRST 4110,Statistical Analysis of Qualitative Data,http://cornell.chequerd.com/courses/5461/ILRST/4110/
+ILRST 4550,Applied Time Series Analysis,http://cornell.chequerd.com/courses/11418/ILRST/4550/
+ILRST 5110,Statistical Methods for the Social Sciences II,http://cornell.chequerd.com/courses/2404/ILRST/5110/
+ILRST 7100,Special Topics in Statistics,http://cornell.chequerd.com/courses/5465/ILRST/7100/
+

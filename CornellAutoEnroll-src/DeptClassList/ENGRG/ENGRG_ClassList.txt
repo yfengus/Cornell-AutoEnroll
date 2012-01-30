@@ -1,0 +1,15 @@
+ENGRG 1009,Cooperative Workshop for CHEM 2090,http://cornell.chequerd.com/courses/1716/ENGRG/1009/
+ENGRG 1010,Cooperative Workshop for CS 1110,http://cornell.chequerd.com/courses/1717/ENGRG/1010/
+ENGRG 1011,Cooperative Workshop for CS 2110,http://cornell.chequerd.com/courses/1718/ENGRG/1011/
+ENGRG 1012,Cooperative Workshop for CS 1112,http://cornell.chequerd.com/courses/1719/ENGRG/1012/
+ENGRG 1020,Essentials of Entrepreneurism (for Kessler Fellows only),http://cornell.chequerd.com/courses/5059/ENGRG/1020/
+ENGRG 1092,Cooperative Workshop for MATH 1920,http://cornell.chequerd.com/courses/1722/ENGRG/1092/
+ENGRG 1093,Cooperative Workshop for Math 2930,http://cornell.chequerd.com/courses/1723/ENGRG/1093/
+ENGRG 1094,Cooperative Workshop for Math 2940,http://cornell.chequerd.com/courses/1724/ENGRG/1094/
+ENGRG 2350,Career Development for Engineering,http://cornell.chequerd.com/courses/5060/ENGRG/2350/
+ENGRG 2980,Inventing an Information Society,http://cornell.chequerd.com/courses/11349/ENGRG/2980/
+ENGRG 3230,Engineering Economics and Management,http://cornell.chequerd.com/courses/5061/ENGRG/3230/
+ENGRG 3600,Ethics in Engineering Practice,http://cornell.chequerd.com/courses/5062/ENGRG/3600/
+ENGRG 4920,Undergraduate Research in Nanoscale Science and Engineering,http://cornell.chequerd.com/courses/5063/ENGRG/4920/
+ENGRG 6780,Teaching Seminar,http://cornell.chequerd.com/courses/1728/ENGRG/6780/
+

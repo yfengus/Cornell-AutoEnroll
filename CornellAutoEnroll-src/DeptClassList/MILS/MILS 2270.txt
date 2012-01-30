@@ -1,0 +1,5 @@
+13436,LEC,W,11:00a - 12:00p,,Alexander (sea74), Davis (mad267),
+13428,LEC,R,1:00p - 2:00p,BTN G01,Alexander (sea74), Davis (mad267),
+13420,LEC,R,10:00a - 11:00a,BTN G01,Alexander (sea74), Davis (mad267),
+13419,LEC,W,9:00a - 10:00a,BTN G01,Alexander (sea74), Davis (mad267),
+

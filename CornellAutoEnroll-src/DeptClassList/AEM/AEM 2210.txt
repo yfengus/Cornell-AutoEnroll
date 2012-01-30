@@ -1,0 +1,8 @@
+4493,DIS,W,7:30p - 9:25p,STM G01,Little (jel52),
+4492,DIS,W,7:30p - 9:25p,PLS 143,Little (jel52),
+4491,DIS,R,12:20p - 2:15p,MRS 334,Little (jel52),
+4490,DIS,R,2:30p - 4:25p,WRN 131,Little (jel52),
+4489,DIS,R,2:30p - 4:25p,RRB 105,Little (jel52),
+4488,DIS,F,10:10a - 12:05p,MRS 334,Little (jel52),
+4487,LEC,MW,11:15a - 12:05p,BDF 101,Little (jel52),
+

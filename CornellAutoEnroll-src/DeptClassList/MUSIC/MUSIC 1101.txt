@@ -1,0 +1,4 @@
+7838,DIS,R,1:25p - 2:15p,LNC 140,,
+6189,DIS,R,12:20p - 1:10p,LNC 140,,
+6188,LEC,TR,2:55p - 4:10p,LNC B21,Feeney (tpf26),
+

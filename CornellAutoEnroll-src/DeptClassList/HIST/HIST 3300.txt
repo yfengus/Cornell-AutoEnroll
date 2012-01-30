@@ -1,0 +1,4 @@
+15531,DIS,M,10:10a - 11:00a,WHT 106,,
+15530,DIS,M,9:05a - 9:55a,MCG 365,,
+15529,LEC,WF,9:05a - 9:55a,GSH 142,Koschmann (jvk1),
+

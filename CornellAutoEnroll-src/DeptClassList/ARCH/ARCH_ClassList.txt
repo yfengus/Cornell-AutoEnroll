@@ -1,0 +1,59 @@
+ARCH 1102,Design II,http://cornell.chequerd.com/courses/4143/ARCH/1102/
+ARCH 1502,Drawing II: Constructed Drawing Systems,http://cornell.chequerd.com/courses/4145/ARCH/1502/
+ARCH 1612,Structural Concepts,http://cornell.chequerd.com/courses/10900/ARCH/1612/
+ARCH 1802,History of Architecture II,http://cornell.chequerd.com/courses/4146/ARCH/1802/
+ARCH 2102,Design IV,http://cornell.chequerd.com/courses/302/ARCH/2102/
+ARCH 2302,Architectural Analysis II,http://cornell.chequerd.com/courses/4147/ARCH/2302/
+ARCH 2503,Drawing III: Digital Media in Architecture,http://cornell.chequerd.com/courses/304/ARCH/2503/
+ARCH 2604,Structural Elements,http://cornell.chequerd.com/courses/4149/ARCH/2604/
+ARCH 3100,Elective Design Studio,http://cornell.chequerd.com/courses/308/ARCH/3100/
+ARCH 3101,Design V,http://cornell.chequerd.com/courses/309/ARCH/3101/
+ARCH 3102,Design VI,http://cornell.chequerd.com/courses/310/ARCH/3102/
+ARCH 3117,Contemporary Italian Culture,http://cornell.chequerd.com/courses/313/ARCH/3117/
+ARCH 3308,Special Topics in the Theory of Architecture I,http://cornell.chequerd.com/courses/315/ARCH/3308/
+ARCH 3309,Elements, Principles, and Theories in Japanese Architecture,http://cornell.chequerd.com/courses/4150/ARCH/3309/
+ARCH 3602,Environmental Systems II: Building Systems Integration,http://cornell.chequerd.com/courses/4151/ARCH/3602/
+ARCH 3603,Structural Systems,http://cornell.chequerd.com/courses/4152/ARCH/3603/
+ARCH 3811,America Architecture and Building II,http://cornell.chequerd.com/courses/4153/ARCH/3811/
+ARCH 3819,Special Topics in the History of Architecture and Urbanism,http://cornell.chequerd.com/courses/323/ARCH/3819/
+ARCH 3820,The Topography and Urban History of Rome in Antiquity and the Middle Ages,http://cornell.chequerd.com/courses/6605/ARCH/3820/
+ARCH 4100,Elective Design Studio,http://cornell.chequerd.com/courses/324/ARCH/4100/
+ARCH 4101,Design VII,http://cornell.chequerd.com/courses/325/ARCH/4101/
+ARCH 4102,Design VIII,http://cornell.chequerd.com/courses/326/ARCH/4102/
+ARCH 4508,Special Investigations in Visual Representation,http://cornell.chequerd.com/courses/327/ARCH/4508/
+ARCH 4509,Special Topics in Visual Representation I,http://cornell.chequerd.com/courses/328/ARCH/4509/
+ARCH 4605,Special Topics in Construction,http://cornell.chequerd.com/courses/330/ARCH/4605/
+ARCH 4609,Special Investigations in Structures,http://cornell.chequerd.com/courses/331/ARCH/4609/
+ARCH 4618,Special Investigations in Environmental Systems and Conservation,http://cornell.chequerd.com/courses/332/ARCH/4618/
+ARCH 4901,Undergraduate Thesis in the History of Architecture and Urbanism,http://cornell.chequerd.com/courses/336/ARCH/4901/
+ARCH 5100,Elective Design Studio,http://cornell.chequerd.com/courses/337/ARCH/5100/
+ARCH 5101,Design IX,http://cornell.chequerd.com/courses/338/ARCH/5101/
+ARCH 5110,Thesis Proseminar,http://cornell.chequerd.com/courses/341/ARCH/5110/
+ARCH 5112,Core Design Studios II,http://cornell.chequerd.com/courses/4157/ARCH/5112/
+ARCH 5114,Core Design Studios IV,http://cornell.chequerd.com/courses/4158/ARCH/5114/
+ARCH 5116,Vertical Design Studios,http://cornell.chequerd.com/courses/4159/ARCH/5116/
+ARCH 5201,Professional Practice,http://cornell.chequerd.com/courses/345/ARCH/5201/
+ARCH 5203,Curricular Practical Training,http://cornell.chequerd.com/courses/347/ARCH/5203/
+ARCH 5302,Architectural Analysis II,http://cornell.chequerd.com/courses/348/ARCH/5302/
+ARCH 5402,Architecture, Culture and Society,http://cornell.chequerd.com/courses/4161/ARCH/5402/
+ARCH 5512,Techniques in Visual Representation II,http://cornell.chequerd.com/courses/4162/ARCH/5512/
+ARCH 5604,Structural Elements,http://cornell.chequerd.com/courses/4163/ARCH/5604/
+ARCH 5612,Structural Concepts,http://cornell.chequerd.com/courses/10901/ARCH/5612/
+ARCH 5802,History of Architecture II,http://cornell.chequerd.com/courses/4164/ARCH/5802/
+ARCH 5902,Design X Thesis,http://cornell.chequerd.com/courses/353/ARCH/5902/
+ARCH 6308,Special Topics in the Theory of Architecture II,http://cornell.chequerd.com/courses/359/ARCH/6308/
+ARCH 6309,Speical Ivestigations in the Theory of Architecture II,http://cornell.chequerd.com/courses/360/ARCH/6309/
+ARCH 6509,Special Topics in Visual Representation II,http://cornell.chequerd.com/courses/363/ARCH/6509/
+ARCH 6602,Environmental Systems III - Building Systems Integration,http://cornell.chequerd.com/courses/4165/ARCH/6602/
+ARCH 6603,Structural Systems,http://cornell.chequerd.com/courses/4166/ARCH/6603/
+ARCH 6609,Special Topics in Construction,http://cornell.chequerd.com/courses/8376/ARCH/6609/
+ARCH 6803,Seminar in History of Theory,http://cornell.chequerd.com/courses/8377/ARCH/6803/
+ARCH 7702,Architectural Science Laboratory,http://cornell.chequerd.com/courses/4169/ARCH/7702/
+ARCH 7809,Graduate Independent Study in the History of Architecture and Urbanism,http://cornell.chequerd.com/courses/369/ARCH/7809/
+ARCH 7904,Thesis or Research in Architectural Science,http://cornell.chequerd.com/courses/4170/ARCH/7904/
+ARCH 8911,Proseminar in Design Research,http://cornell.chequerd.com/courses/373/ARCH/8911/
+ARCH 8912,Independent Design Thesis,http://cornell.chequerd.com/courses/374/ARCH/8912/
+ARCH 8913,Design C: ADR Project,http://cornell.chequerd.com/courses/9773/ARCH/8913/
+ARCH 8921,M.A. Essay in the History of Architecture and Urbanism,http://cornell.chequerd.com/courses/375/ARCH/8921/
+ARCH 9901,Ph.D. Dissertation in the History of Architecture and Urbanism,http://cornell.chequerd.com/courses/376/ARCH/9901/
+

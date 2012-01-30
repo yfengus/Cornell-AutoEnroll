@@ -1,0 +1,3 @@
+4354,DIS,W,1:25p - 2:40p,MNL B30B,Dudley (rgd6),
+4353,LEC,TR,1:25p - 2:40p,WRN 145,Dudley (rgd6),
+

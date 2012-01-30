@@ -1,0 +1,3 @@
+2170,LAB,TR,1:25p - 4:25p,PLS G29,Bassuk (nlb2), Trowbridge (pjt4),
+2169,LEC,TR,12:20p - 1:10p,PLS G29,Bassuk (nlb2), Trowbridge (pjt4),
+

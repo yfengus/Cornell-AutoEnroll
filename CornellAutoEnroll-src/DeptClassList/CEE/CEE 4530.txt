@@ -1,0 +1,3 @@
+14560,LAB,W,1:25p - 4:25p,HLS 150,Richardson (rer26),
+14559,LEC,M,1:25p - 2:40p,HLS 368,Richardson (rer26),
+

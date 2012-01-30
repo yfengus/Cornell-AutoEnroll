@@ -1,0 +1,7 @@
+16776,DIS,F,12:20p - 1:10p,HLS 401,Hernandez (cjh275),
+10803,DIS,R,1:25p - 2:15p,UPS 109,Hernandez (cjh275),
+10802,DIS,W,1:25p - 2:15p,UPS 111,Hernandez (cjh275),
+10801,DIS,T,1:25p - 2:15p,UPS 205,Hernandez (cjh275),
+10800,DIS,M,1:25p - 2:15p,PHL 219,Hernandez (cjh275),
+10799,LEC,TR,11:40a - 12:55p,UPS B17,Hernandez (cjh275),
+

@@ -1,0 +1,5 @@
+15923,SEM,TBA,,,,
+15922,SEM,R,2:30p - 4:25p,RND 205,Maymind (am969),
+5360,SEM,W,7:30p - 9:25p,RND 202,Mergold (am71),
+4925,SEM,R,2:30p - 4:25p,RND 202,Bartosh (alb388),
+

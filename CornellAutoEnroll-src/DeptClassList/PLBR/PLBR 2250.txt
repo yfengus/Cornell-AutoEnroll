@@ -1,0 +1,7 @@
+4643,LEC,MWF,11:15a - 12:05p,WRN 231,Mazourek (mm284),
+15907,LAB,R,1:25p - 4:25p,BDF 306,Mazourek (mm284),
+3363,LAB,W,1:25p - 4:25p,BDF 306,Mazourek (mm284),
+3362,LAB,T,1:25p - 4:25p,BDF 306,Mazourek (mm284),
+3361,LEC,MWF,11:15a - 12:05p,WRN 231,Mazourek (mm284),
+3360,LEC,MWF,11:15a - 12:05p,WRN 231,Mazourek (mm284),
+

@@ -1,0 +1,3 @@
+9288,LEC,W,3:30p - 5:00p,HNH 230,Fortess (jsf79),
+9101,LEC,MW,12:20p - 1:05p,TGL 201,Fortess (jsf79),
+

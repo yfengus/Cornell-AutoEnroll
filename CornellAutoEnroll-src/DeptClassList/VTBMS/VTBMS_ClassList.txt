@@ -1,0 +1,11 @@
+VTBMS 4010,Genomic Analysis,http://cornell.chequerd.com/courses/6429/VTBMS/4010/
+VTBMS 6000,Special Project in Anatomy,http://cornell.chequerd.com/courses/3896/VTBMS/6000/
+VTBMS 6120,Overview of Model Genetic Organisms,http://cornell.chequerd.com/courses/11305/VTBMS/6120/
+VTBMS 6200,Research Fellowship in Biomedical Sciences,http://cornell.chequerd.com/courses/3899/VTBMS/6200/
+VTBMS 6501,Natural Engineering: Developmental Biology Paradigms for Regenerative Medicine,http://cornell.chequerd.com/courses/6430/VTBMS/6501/
+VTBMS 7020,The Practice of Lab Animal Medicine,http://cornell.chequerd.com/courses/3901/VTBMS/7020/
+VTBMS 7030,The Biology and Diseases of Laboratory Animals,http://cornell.chequerd.com/courses/3902/VTBMS/7030/
+VTBMS 7100,Biological and Biomedical Graduate Program - Teaching Experience,http://cornell.chequerd.com/courses/7396/VTBMS/7100/
+VTBMS 7130,Cell Cycle Analysis,http://cornell.chequerd.com/courses/11306/VTBMS/7130/
+VTBMS 7200,Special Problems in molecular & Integrative Physiology,http://cornell.chequerd.com/courses/3903/VTBMS/7200/
+

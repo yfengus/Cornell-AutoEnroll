@@ -1,0 +1,11 @@
+10864,DIS,W,1:25p - 2:15p,UPS 109,Joachims (tj36),
+10863,DIS,W,12:20p - 1:10p,UPS 111,Joachims (tj36),
+10862,DIS,T,1:25p - 2:15p,UPS 109,Joachims (tj36),
+10861,DIS,T,12:20p - 1:10p,UPS 211,Joachims (tj36),
+10860,DIS,W,1:25p - 2:15p,UPS 215,Joachims (tj36),
+10859,DIS,W,12:20p - 1:10p,PHL 307,Joachims (tj36),
+10858,DIS,T,2:30p - 3:20p,PHL 213,Joachims (tj36),
+10857,DIS,T,1:25p - 2:15p,HLS 320,Joachims (tj36),
+10856,DIS,T,12:20p - 1:10p,HLS 320,Joachims (tj36),
+10855,LEC,TR,10:10a - 11:00a,OLH 155,Joachims (tj36),
+

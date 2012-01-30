@@ -1,0 +1,3 @@
+14226,LAB,W,2:00p - 4:25p,TBA,Thonney (mlt2),
+14225,LEC,TR,10:10a - 11:00a,MRS 334,Thonney (mlt2),
+

@@ -1,0 +1,12 @@
+MILS 1102,Basic Leadership,http://cornell.chequerd.com/courses/5764/MILS/1102/
+MILS 1111,Leadership Lab,http://cornell.chequerd.com/courses/2799/MILS/1111/
+MILS 2202,Small Organizational Operation,http://cornell.chequerd.com/courses/5765/MILS/2202/
+MILS 2211,Leadership Lab,http://cornell.chequerd.com/courses/2801/MILS/2211/
+MILS 2260,Basic Orienteering,http://cornell.chequerd.com/courses/2803/MILS/2260/
+MILS 2270,Basic Rifle Marskmanship,http://cornell.chequerd.com/courses/2804/MILS/2270/
+MILS 3302,Leadership and Ethics,http://cornell.chequerd.com/courses/5766/MILS/3302/
+MILS 3311,Leadership Lab,http://cornell.chequerd.com/courses/2806/MILS/3311/
+MILS 4400,Special Problems for Advanced Undergraduates,http://cornell.chequerd.com/courses/7199/MILS/4400/
+MILS 4402,Officership,http://cornell.chequerd.com/courses/5768/MILS/4402/
+MILS 4411,Leadership Lab,http://cornell.chequerd.com/courses/2808/MILS/4411/
+

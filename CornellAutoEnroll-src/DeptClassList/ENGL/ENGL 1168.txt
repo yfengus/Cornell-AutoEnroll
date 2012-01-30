@@ -1,0 +1,8 @@
+16358,SEM,TR,11:40a - 12:55p,GSH 160,Lara (ol45),
+16272,SEM,MW,2:55p - 4:10p,GSH G20,Coe (msc266),
+16271,SEM,TR,1:25p - 2:40p,BAL 3331,Lears (ael74),
+16270,SEM,TR,8:40a - 9:55a,ACH 106,Spears (mes94),
+16269,SEM,MW,7:30p - 8:45p,GSH 283,Brogan (jbb48),
+16268,SEM,MWF,10:10a - 11:00a,SSB 105,Desai (nd249),
+16267,SEM,MW,8:40a - 9:55a,GSH G20,Kibbee (mk282),
+

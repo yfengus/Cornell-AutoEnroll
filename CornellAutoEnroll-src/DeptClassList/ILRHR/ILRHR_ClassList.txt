@@ -1,0 +1,27 @@
+ILRHR 2600,Human Resource Management,http://cornell.chequerd.com/courses/2312/ILRHR/2600/
+ILRHR 2660,Essential Desktop Applications,http://cornell.chequerd.com/courses/2313/ILRHR/2660/
+ILRHR 3620,Career Development: Theory and Practice,http://cornell.chequerd.com/courses/2314/ILRHR/3620/
+ILRHR 3650,Organizational Consulting:Process and Results,http://cornell.chequerd.com/courses/5426/ILRHR/3650/
+ILRHR 3670,Employee Training and Development,http://cornell.chequerd.com/courses/2315/ILRHR/3670/
+ILRHR 4612,Compensation in Service Firms,http://cornell.chequerd.com/courses/7969/ILRHR/4612/
+ILRHR 4620,Staffing Organizations,http://cornell.chequerd.com/courses/7113/ILRHR/4620/
+ILRHR 4631,Managing Compensation,http://cornell.chequerd.com/courses/5427/ILRHR/4631/
+ILRHR 4632,Finance for Human Resources,http://cornell.chequerd.com/courses/5428/ILRHR/4632/
+ILRHR 4640,Business Strategy,http://cornell.chequerd.com/courses/2316/ILRHR/4640/
+ILRHR 4699,Advanced Desktop Applications,http://cornell.chequerd.com/courses/9471/ILRHR/4699/
+ILRHR 5600,Human Resource Management,http://cornell.chequerd.com/courses/2324/ILRHR/5600/
+ILRHR 6410,Disability Considerations in HR Policy and Practice,http://cornell.chequerd.com/courses/8717/ILRHR/6410/
+ILRHR 6590,HR Challenge:Balancing Ethics, Economics and Social Responsibility,http://cornell.chequerd.com/courses/7115/ILRHR/6590/
+ILRHR 6601,Research on Education Reforms and Human Resource Policy,http://cornell.chequerd.com/courses/5429/ILRHR/6601/
+ILRHR 6611,Seminar on Entrepreneurs and Entrepreneurial Organizations,http://cornell.chequerd.com/courses/2331/ILRHR/6611/
+ILRHR 6620,The Agile Enterprise: Exploring the Dynamics of Marketplace and Organizational Agility,http://cornell.chequerd.com/courses/5430/ILRHR/6620/
+ILRHR 6622,Compensation in Service Firms,http://cornell.chequerd.com/courses/7973/ILRHR/6622/
+ILRHR 6640,HR Online Research and Reporting Methods for Executive Decision-Making,http://cornell.chequerd.com/courses/5431/ILRHR/6640/
+ILRHR 6660,Strategic Human Resource Metrics,http://cornell.chequerd.com/courses/5432/ILRHR/6660/
+ILRHR 6930,Training and Development in Organizations,http://cornell.chequerd.com/courses/5434/ILRHR/6930/
+ILRHR 6990,Advanced Desktop Applications,http://cornell.chequerd.com/courses/5435/ILRHR/6990/
+ILRHR 7451,Leadership Assessment for Managers,http://cornell.chequerd.com/courses/7975/ILRHR/7451/
+ILRHR 9600,Workshop in Human Resource Studies,http://cornell.chequerd.com/courses/2338/ILRHR/9600/
+ILRHR 9630,Research Methods in HRM/Strategic Human Resource Management,http://cornell.chequerd.com/courses/7976/ILRHR/9630/
+ILRHR 9650,Doctoral Seminar: Research Methods- Advanced Topics,http://cornell.chequerd.com/courses/9472/ILRHR/9650/
+

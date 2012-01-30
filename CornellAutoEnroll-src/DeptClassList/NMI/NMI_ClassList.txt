@@ -1,0 +1,6 @@
+NMI 5000,Directed Reading & Research,http://cornell.chequerd.com/courses/3020/NMI/5000/
+NMI 5030,Six-Sigma Quality & Process Improvement,http://cornell.chequerd.com/courses/8128/NMI/5030/
+NMI 5061,CFA Review Level I,http://cornell.chequerd.com/courses/9710/NMI/5061/
+NMI 5062,CFA Review Level II,http://cornell.chequerd.com/courses/9711/NMI/5062/
+NMI 5063,CFA Review Level III,http://cornell.chequerd.com/courses/9712/NMI/5063/
+

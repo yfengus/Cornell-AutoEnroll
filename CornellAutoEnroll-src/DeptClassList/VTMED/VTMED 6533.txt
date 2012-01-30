@@ -1,0 +1,4 @@
+13855,LAB,F,2:00p - 5:00p,CLS C2555,Ducharme (ngd1),
+13854,LEC,MW,10:00a - 12:00p,CLU C2505,Ducharme (ngd1),
+13854,LEC,F,1:00p - 2:00p,CLU C2505,Ducharme (ngd1),
+

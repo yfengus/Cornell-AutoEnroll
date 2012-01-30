@@ -1,0 +1,3 @@
+4084,LAB,M,1:25p - 4:25p,TBA TBA,Arnink (kja1),
+4083,LEC,MW,12:20p - 1:10p,TBA TBA,Arnink (kja1),
+

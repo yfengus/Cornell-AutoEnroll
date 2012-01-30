@@ -1,0 +1,12 @@
+2018,RSC,TBA,,,Wilson (aw87),
+2017,RSC,TBA,,,Villenas (sav33),
+2016,RSC,TBA,,,Trumbull (djt2),
+2015,RSC,TBA,,,Schrader (des14),
+2014,RSC,TBA,,,Sipple (jws28),
+2013,RSC,TBA,,,Richardson (tar37),
+2012,RSC,TBA,,,Peters (sp236),
+2011,RSC,TBA,,,Park (tdp9),
+2010,RSC,TBA,,,Crawford (bac45),
+2009,RSC,TBA,,,Constas (mac223),
+2008,RSC,TBA,,,Caffarella (rsc29),
+

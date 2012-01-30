@@ -1,0 +1,3 @@
+13572,LEC,MW,11:55a - 1:10p,SGH 131,Noble-Grange (anj1),
+13501,LEC,TR,1:25p - 2:40p,SGH 131,Rosen (cjr13),
+

@@ -1,0 +1,13 @@
+SYSEN 5200,System Architecture, Behavior, and Optimization,http://cornell.chequerd.com/courses/6324/SYSEN/5200/
+SYSEN 5210,System Architecture, Behavior, and Optimization Distance Learning,http://cornell.chequerd.com/courses/6325/SYSEN/5210/
+SYSEN 5700,Special Topics in Systems Engineering,http://cornell.chequerd.com/courses/3754/SYSEN/5700/
+SYSEN 5710,Practicum in Systems Engineering,http://cornell.chequerd.com/courses/6326/SYSEN/5710/
+SYSEN 5750,Independent Study in Systems Engineering,http://cornell.chequerd.com/courses/6327/SYSEN/5750/
+SYSEN 5760,Systems Engineering Project - Track 1,http://cornell.chequerd.com/courses/3755/SYSEN/5760/
+SYSEN 5770,Systems Engineering,http://cornell.chequerd.com/courses/6328/SYSEN/5770/
+SYSEN 5900,Systems Engineering Design Project,http://cornell.chequerd.com/courses/3756/SYSEN/5900/
+SYSEN 5920,Systems Engineering Management for Virtual Teams,http://cornell.chequerd.com/courses/3757/SYSEN/5920/
+SYSEN 5940,Creativity and Innovation within Systems Engineering,http://cornell.chequerd.com/courses/8265/SYSEN/5940/
+SYSEN 5960,Systems Engineering Design Project for Virtual Teams,http://cornell.chequerd.com/courses/7359/SYSEN/5960/
+SYSEN 6100,Systems Seminar Series,http://cornell.chequerd.com/courses/10528/SYSEN/6100/
+

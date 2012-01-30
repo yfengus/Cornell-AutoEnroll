@@ -1,0 +1,6 @@
+11990,LAB,R,2:55p - 9:55p,STL 280,Lipinski (scl29),
+11989,LAB,W,2:55p - 9:55p,STL 280,Lipinski (scl29),
+11988,LAB,T,2:55p - 9:55p,STL 280,Lipinski (scl29),
+11987,LAB,M,2:55p - 9:55p,STL 280,Lipinski (scl29),
+11986,LEC,MW,11:40a - 12:55p,STL 265,Susskind (ams76),
+

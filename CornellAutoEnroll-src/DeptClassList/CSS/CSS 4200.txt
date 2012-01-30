@@ -1,0 +1,7 @@
+1007,LAB,F,1:25p - 4:25p,BDF 108,DeGloria (sdd4),
+1006,LAB,R,1:25p - 4:25p,BDF 108,DeGloria (sdd4),
+1005,LAB,W,10:10a - 1:10p,BDF 108,DeGloria (sdd4),
+1004,LAB,T,10:10a - 1:10p,BDF 108,DeGloria (sdd4),
+1003,LAB,M,1:25p - 4:25p,BDF 108,DeGloria (sdd4),
+1002,LEC,MW,9:05a - 9:55a,WRN 245,DeGloria (sdd4),
+

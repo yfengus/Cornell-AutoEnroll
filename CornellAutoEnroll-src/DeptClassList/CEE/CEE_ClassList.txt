@@ -1,0 +1,76 @@
+CEE 1130,Water Treatment Design,http://cornell.chequerd.com/courses/4498/CEE/1130/
+CEE 2550,Aguaclara: Sustainable Water Supply Project,http://cornell.chequerd.com/courses/833/CEE/2550/
+CEE 3080,Introduction to CADD,http://cornell.chequerd.com/courses/835/CEE/3080/
+CEE 3090,Special Topics in Civil and Environmental Engineering,http://cornell.chequerd.com/courses/836/CEE/3090/
+CEE 3200,Engineering Computation,http://cornell.chequerd.com/courses/10966/CEE/3200/
+CEE 3230,Engineering Economics and Management,http://cornell.chequerd.com/courses/4499/CEE/3230/
+CEE 3510,Environmental Quality Engineering,http://cornell.chequerd.com/courses/4501/CEE/3510/
+CEE 3610,Introduction to Transportation Engineering,http://cornell.chequerd.com/courses/4502/CEE/3610/
+CEE 3710,Structural Modeling and Behavior,http://cornell.chequerd.com/courses/4503/CEE/3710/
+CEE 4000,Senior Honors Thesis,http://cornell.chequerd.com/courses/839/CEE/4000/
+CEE 4010,Undergraduate Engineering Teaching in CEE,http://cornell.chequerd.com/courses/840/CEE/4010/
+CEE 4320,Hydrology,http://cornell.chequerd.com/courses/4505/CEE/4320/
+CEE 4350,Coastal Engineering,http://cornell.chequerd.com/courses/7611/CEE/4350/
+CEE 4410,Retaining Structures and Slopes,http://cornell.chequerd.com/courses/4507/CEE/4410/
+CEE 4450,Soil Dynamics and Geotechnical Earthquake Engineering,http://cornell.chequerd.com/courses/9769/CEE/4450/
+CEE 4530,Laboratory Research in Environmental Engineering,http://cornell.chequerd.com/courses/844/CEE/4530/
+CEE 4550,Aguaclara: Sustainable Water Supply Project,http://cornell.chequerd.com/courses/846/CEE/4550/
+CEE 4640,Transportation Systems Design,http://cornell.chequerd.com/courses/4508/CEE/4640/
+CEE 4730,Concrete Structures,http://cornell.chequerd.com/courses/849/CEE/4730/
+CEE 4740,Design of Steel Structures,http://cornell.chequerd.com/courses/4510/CEE/4740/
+CEE 4750,Concrete Materials and Construction,http://cornell.chequerd.com/courses/4511/CEE/4750/
+CEE 4780,Structural Dynamics and Earthquake Engineering,http://cornell.chequerd.com/courses/4512/CEE/4780/
+CEE 4810,LRFD-Based Engineering of Wood Structures,http://cornell.chequerd.com/courses/4513/CEE/4810/
+CEE 5022,Project in Environmental and Water Resources Systems,http://cornell.chequerd.com/courses/4514/CEE/5022/
+CEE 5032,Project in Environmental Fluid Mechanics and Hydrology,http://cornell.chequerd.com/courses/4515/CEE/5032/
+CEE 5042,Project in Geotechnical Engineering,http://cornell.chequerd.com/courses/4516/CEE/5042/
+CEE 5052,Project in Environmental Engineering: AguaClara - Sustainable Water Supply Project,http://cornell.chequerd.com/courses/4517/CEE/5052/
+CEE 5062,Project in Transportation Engineering,http://cornell.chequerd.com/courses/4518/CEE/5062/
+CEE 5072,Project in Structural Engineering,http://cornell.chequerd.com/courses/4519/CEE/5072/
+CEE 5252,System Architecture, Behavior, and Optimization,http://cornell.chequerd.com/courses/4522/CEE/5252/
+CEE 5900,Project Management,http://cornell.chequerd.com/courses/860/CEE/5900/
+CEE 5910,Engineering Management Project,http://cornell.chequerd.com/courses/861/CEE/5910/
+CEE 5970,Risk Analysis and Management,http://cornell.chequerd.com/courses/4524/CEE/5970/
+CEE 6015,Special TopicsRemote Sensing,http://cornell.chequerd.com/courses/863/CEE/6015/
+CEE 6021,Seminar: Environmental and Water Resources Systems Analysis,http://cornell.chequerd.com/courses/4525/CEE/6021/
+CEE 6025,Special Topics in Environmental and Water Resources Systems Analysis,http://cornell.chequerd.com/courses/865/CEE/6025/
+CEE 6030,Environmental Fluid Mechanics and Hydrology,http://cornell.chequerd.com/courses/4526/CEE/6030/
+CEE 6035,Special Topics in Hydraulics,http://cornell.chequerd.com/courses/866/CEE/6035/
+CEE 6045,Special Topics in Geotechnical Engineering,http://cornell.chequerd.com/courses/867/CEE/6045/
+CEE 6051,SeminarEnvironmental Quality Engineering,http://cornell.chequerd.com/courses/4527/CEE/6051/
+CEE 6055,Special Topics in Environmental Engineering,http://cornell.chequerd.com/courses/868/CEE/6055/
+CEE 6065,Special Topics in Transportation,http://cornell.chequerd.com/courses/869/CEE/6065/
+CEE 6075,Special Topics in Structural Engineering,http://cornell.chequerd.com/courses/871/CEE/6075/
+CEE 6095,Special Topics in Engineering Management,http://cornell.chequerd.com/courses/873/CEE/6095/
+CEE 6200,Water-Resources Systems Engineering,http://cornell.chequerd.com/courses/4529/CEE/6200/
+CEE 6320,Hydrology,http://cornell.chequerd.com/courses/4531/CEE/6320/
+CEE 6330,Flow in Porous Media and Groundwater,http://cornell.chequerd.com/courses/7614/CEE/6330/
+CEE 6350,Small and Finite Amplitude Water Waves,http://cornell.chequerd.com/courses/10967/CEE/6350/
+CEE 6410,Retaining Structures and Slopes,http://cornell.chequerd.com/courses/4533/CEE/6410/
+CEE 6450,Soil Dynamics and Geotechnical Earthquake Engineering,http://cornell.chequerd.com/courses/9770/CEE/6450/
+CEE 6570,Biological Processes,http://cornell.chequerd.com/courses/4534/CEE/6570/
+CEE 6730,Design of Concrete Structures,http://cornell.chequerd.com/courses/881/CEE/6730/
+CEE 6750,Concrete Materials and Construction,http://cornell.chequerd.com/courses/4537/CEE/6750/
+CEE 6760,Composite Materials,http://cornell.chequerd.com/courses/4538/CEE/6760/
+CEE 6780,Structural Dynamics and Earthquake Engineering,http://cornell.chequerd.com/courses/4539/CEE/6780/
+CEE 6900,Creativity, Innovation, and Leadership,http://cornell.chequerd.com/courses/4540/CEE/6900/
+CEE 6910,Principles of Project Leadership,http://cornell.chequerd.com/courses/4541/CEE/6910/
+CEE 6940,Research in Engineering Management,http://cornell.chequerd.com/courses/4542/CEE/6940/
+CEE 6970,Risk Analysis and Management,http://cornell.chequerd.com/courses/4543/CEE/6970/
+CEE 7010,Research - Remote Sensing,http://cornell.chequerd.com/courses/884/CEE/7010/
+CEE 7020,Environmental and Water Resources Systems Analysis Research,http://cornell.chequerd.com/courses/885/CEE/7020/
+CEE 7030,Research in Environmental Fluid Mechanics and Hydrology,http://cornell.chequerd.com/courses/886/CEE/7030/
+CEE 7040,Research in Geotechnical Engineering,http://cornell.chequerd.com/courses/887/CEE/7040/
+CEE 7050,Research in Environmental Engineering,http://cornell.chequerd.com/courses/888/CEE/7050/
+CEE 7070,Research in Structural Engineering,http://cornell.chequerd.com/courses/889/CEE/7070/
+CEE 7073,Civil and Environmental Engineering Materials Project,http://cornell.chequerd.com/courses/890/CEE/7073/
+CEE 7360,Turbulence and Turbulent Mixing in Environmental Stratified Flows,http://cornell.chequerd.com/courses/10968/CEE/7360/
+CEE 8100,Thesis - Remote Sensing,http://cornell.chequerd.com/courses/895/CEE/8100/
+CEE 8200,Thesis - Environmental and Water Resource Systems,http://cornell.chequerd.com/courses/896/CEE/8200/
+CEE 8300,Thesis - Environmental Fluid Mechanics and Hydrology,http://cornell.chequerd.com/courses/897/CEE/8300/
+CEE 8400,Thesis - Geotechnical Engineering,http://cornell.chequerd.com/courses/898/CEE/8400/
+CEE 8500,Thesis - Environmental Engineering,http://cornell.chequerd.com/courses/899/CEE/8500/
+CEE 8600,Thesis - Transportation Systems Engineering,http://cornell.chequerd.com/courses/900/CEE/8600/
+CEE 8700,Thesis - Structural Engineering,http://cornell.chequerd.com/courses/901/CEE/8700/
+CEE 8800,Thesis - Civil Infrastructure Systems,http://cornell.chequerd.com/courses/902/CEE/8800/
+

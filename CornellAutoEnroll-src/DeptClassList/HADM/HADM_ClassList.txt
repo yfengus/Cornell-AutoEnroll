@@ -1,0 +1,110 @@
+HADM 1150,Organizational Behavior & Leadership Skills,http://cornell.chequerd.com/courses/10297/HADM/1150/
+HADM 1210,Financial Accounting,http://cornell.chequerd.com/courses/10298/HADM/1210/
+HADM 1350,Introduction to Hotel Operations,http://cornell.chequerd.com/courses/10299/HADM/1350/
+HADM 1360,Introduction to Foodservice Operations,http://cornell.chequerd.com/courses/10300/HADM/1360/
+HADM 1410,Microeconomics for the Service Industry,http://cornell.chequerd.com/courses/10301/HADM/1410/
+HADM 1650,Management Communication I,http://cornell.chequerd.com/courses/10302/HADM/1650/
+HADM 1740,Business Computing,http://cornell.chequerd.com/courses/10303/HADM/1740/
+HADM 2010,Hospitality Quantitative Analysis,http://cornell.chequerd.com/courses/10305/HADM/2010/
+HADM 2210,The Management of Human Resources,http://cornell.chequerd.com/courses/2002/HADM/2210/
+HADM 2220,Finance,http://cornell.chequerd.com/courses/10307/HADM/2220/
+HADM 2230,Financial Accounting Principles,http://cornell.chequerd.com/courses/10308/HADM/2230/
+HADM 2250,Finance,http://cornell.chequerd.com/courses/10309/HADM/2250/
+HADM 2360,Culinary Theory and Practice,http://cornell.chequerd.com/courses/10310/HADM/2360/
+HADM 2410,Marketing Principles,http://cornell.chequerd.com/courses/10311/HADM/2410/
+HADM 2430,Marketing Management for Services,http://cornell.chequerd.com/courses/10312/HADM/2430/
+HADM 2550,Hospitality Development and Planning,http://cornell.chequerd.com/courses/10313/HADM/2550/
+HADM 2740,Business Computing,http://cornell.chequerd.com/courses/11085/HADM/2740/
+HADM 2750,Introduction to Information Systems Management,http://cornell.chequerd.com/courses/10314/HADM/2750/
+HADM 2810,Human Resources Management,http://cornell.chequerd.com/courses/10315/HADM/2810/
+HADM 3010,Service Operations Management,http://cornell.chequerd.com/courses/10316/HADM/3010/
+HADM 3030,Club Management,http://cornell.chequerd.com/courses/11086/HADM/3030/
+HADM 3040,Club Management,http://cornell.chequerd.com/courses/11087/HADM/3040/
+HADM 3101,Franchising in the Hospitality Industry,http://cornell.chequerd.com/courses/11088/HADM/3101/
+HADM 3135,Entrepreneur Lecture Series,http://cornell.chequerd.com/courses/11429/HADM/3135/
+HADM 3200,Personal Financial Management,http://cornell.chequerd.com/courses/10317/HADM/3200/
+HADM 3210,Hospitality Financial Management,http://cornell.chequerd.com/courses/10318/HADM/3210/
+HADM 3250,Financial Planning and Wealth Management,http://cornell.chequerd.com/courses/10319/HADM/3250/
+HADM 3350,Restaurant Management,http://cornell.chequerd.com/courses/10320/HADM/3350/
+HADM 3470,Consumer Behavior,http://cornell.chequerd.com/courses/10322/HADM/3470/
+HADM 3550,Hospitality Facilities Management,http://cornell.chequerd.com/courses/10324/HADM/3550/
+HADM 3640,Corporate Communication,http://cornell.chequerd.com/courses/11089/HADM/3640/
+HADM 3650,Management Communication II,http://cornell.chequerd.com/courses/10325/HADM/3650/
+HADM 3740,Fundamentals of Database Management and Data Analysis,http://cornell.chequerd.com/courses/11090/HADM/3740/
+HADM 3850,Business Law I,http://cornell.chequerd.com/courses/10326/HADM/3850/
+HADM 4010,Data Driven Analytics,http://cornell.chequerd.com/courses/11396/HADM/4010/
+HADM 4110,Negotiations in the Hospitality Industry,http://cornell.chequerd.com/courses/11091/HADM/4110/
+HADM 4120,Understanding and Managing Hospitality Sales,http://cornell.chequerd.com/courses/11092/HADM/4120/
+HADM 4140,Quality Systems and Processes,http://cornell.chequerd.com/courses/11093/HADM/4140/
+HADM 4144,Introduction to Hospitality Entrepreneurship,http://cornell.chequerd.com/courses/10331/HADM/4144/
+HADM 4150,Managerial Leadership in the 21st Century,http://cornell.chequerd.com/courses/11094/HADM/4150/
+HADM 4170,Hospitality Leadership,http://cornell.chequerd.com/courses/11095/HADM/4170/
+HADM 4175,Career Planning in the Hospitality Industry,http://cornell.chequerd.com/courses/11096/HADM/4175/
+HADM 4200,Principles of Real Estate,http://cornell.chequerd.com/courses/10334/HADM/4200/
+HADM 4211,Entrepreneurial Finance,http://cornell.chequerd.com/courses/11097/HADM/4211/
+HADM 4250,Securitization and Structured Financial Products,http://cornell.chequerd.com/courses/11098/HADM/4250/
+HADM 4280,Real Estate Finance and Investments,http://cornell.chequerd.com/courses/10338/HADM/4280/
+HADM 4290,Investment anaylsis and Portfolio Management,http://cornell.chequerd.com/courses/10339/HADM/4290/
+HADM 4300,Introduction to Wines,http://cornell.chequerd.com/courses/10340/HADM/4300/
+HADM 4301,Restaurant Entrepreneurship,http://cornell.chequerd.com/courses/10341/HADM/4301/
+HADM 4330,Specialty Food & Beverage Operations:Guest Chefs,http://cornell.chequerd.com/courses/11099/HADM/4330/
+HADM 4350,Selection, Procurement, and Supply Management,http://cornell.chequerd.com/courses/11100/HADM/4350/
+HADM 4360,Beverage Management,http://cornell.chequerd.com/courses/11101/HADM/4360/
+HADM 4370,Anheuser Busch Seminar in Quality Brewing and Fine Beer,http://cornell.chequerd.com/courses/10345/HADM/4370/
+HADM 4380,Seminar in Culture and Cuisine,http://cornell.chequerd.com/courses/11102/HADM/4380/
+HADM 4395,Implementing Strategies for Tying Wellness Practices to Company Profit,http://cornell.chequerd.com/courses/11103/HADM/4395/
+HADM 4405,International Marketing,http://cornell.chequerd.com/courses/11104/HADM/4405/
+HADM 4410,Hospitality Management Seminar,http://cornell.chequerd.com/courses/2029/HADM/4410/
+HADM 4510,Restaurant Development,http://cornell.chequerd.com/courses/11107/HADM/4510/
+HADM 4620,Intercultural Communication in Global Business,http://cornell.chequerd.com/courses/11108/HADM/4620/
+HADM 4760,Visual Basic for Applications: End-user Programming,http://cornell.chequerd.com/courses/10349/HADM/4760/
+HADM 4770,Advanced Business Modeling,http://cornell.chequerd.com/courses/10350/HADM/4770/
+HADM 4800,Law for Entrepreneurs,http://cornell.chequerd.com/courses/11109/HADM/4800/
+HADM 4810,Labor Relations in the Hospitality Industry,http://cornell.chequerd.com/courses/11110/HADM/4810/
+HADM 4820,Compensation in Service Firms,http://cornell.chequerd.com/courses/11111/HADM/4820/
+HADM 4850,Employment Law and Employment Discrimination,http://cornell.chequerd.com/courses/11112/HADM/4850/
+HADM 4870,Real Estate Law,http://cornell.chequerd.com/courses/10352/HADM/4870/
+HADM 4910,Hotel Ezra Cornell,http://cornell.chequerd.com/courses/10354/HADM/4910/
+HADM 4920,Information Survival Skills,http://cornell.chequerd.com/courses/11113/HADM/4920/
+HADM 4930,Management Intern Program I - Operations,http://cornell.chequerd.com/courses/10355/HADM/4930/
+HADM 4940,Management Intern Program II - Academic,http://cornell.chequerd.com/courses/10356/HADM/4940/
+HADM 4960,Hospitality Industry Practicum,http://cornell.chequerd.com/courses/10357/HADM/4960/
+HADM 4970,Undergraduate Latin Honors Research,http://cornell.chequerd.com/courses/10358/HADM/4970/
+HADM 4971,Latin Honors Research,http://cornell.chequerd.com/courses/10697/HADM/4971/
+HADM 4980,Undergraduate Independent Study,http://cornell.chequerd.com/courses/10359/HADM/4980/
+HADM 4990,Undergraduate Independent Study,http://cornell.chequerd.com/courses/10360/HADM/4990/
+HADM 6000,Advanced Revenue Management,http://cornell.chequerd.com/courses/11114/HADM/6000/
+HADM 6010,Data Driven Analytics,http://cornell.chequerd.com/courses/11397/HADM/6010/
+HADM 6030,Quality Systems and Processes,http://cornell.chequerd.com/courses/11115/HADM/6030/
+HADM 6050,Yield Management,http://cornell.chequerd.com/courses/10367/HADM/6050/
+HADM 6090,Airline Service and Management,http://cornell.chequerd.com/courses/11116/HADM/6090/
+HADM 6101,Franchising in the Hospitality Industry,http://cornell.chequerd.com/courses/11117/HADM/6101/
+HADM 6110,Negotiations in the Hospitality Industry,http://cornell.chequerd.com/courses/10709/HADM/6110/
+HADM 6135,Entrepreneur Lecture Series,http://cornell.chequerd.com/courses/11430/HADM/6135/
+HADM 6141,Firm and Global Business Environment,http://cornell.chequerd.com/courses/11118/HADM/6141/
+HADM 6175,Career Planning in the Hospitality Industry,http://cornell.chequerd.com/courses/11119/HADM/6175/
+HADM 6200,Principles of Real Estate,http://cornell.chequerd.com/courses/10373/HADM/6200/
+HADM 6211,Entrepreneurial Finance,http://cornell.chequerd.com/courses/11120/HADM/6211/
+HADM 6220,Hospitality Asset Management,http://cornell.chequerd.com/courses/11121/HADM/6220/
+HADM 6250,Securitization and Structured Financial Products,http://cornell.chequerd.com/courses/11122/HADM/6250/
+HADM 6271,Investment in Real Estate Securities and Funds,http://cornell.chequerd.com/courses/10377/HADM/6271/
+HADM 6280,Real Estate Finance and Investments,http://cornell.chequerd.com/courses/10378/HADM/6280/
+HADM 6290,Investment Analysis and Portfolio Management,http://cornell.chequerd.com/courses/10379/HADM/6290/
+HADM 6310,Case Studies in Multiunit Restaurant Management,http://cornell.chequerd.com/courses/11123/HADM/6310/
+HADM 6405,International Marketing,http://cornell.chequerd.com/courses/11124/HADM/6405/
+HADM 6470,Consumer Behavior,http://cornell.chequerd.com/courses/10381/HADM/6470/
+HADM 6471,Hospitality Marketing with Evolving Media: Social, Mobile, and Search,http://cornell.chequerd.com/courses/11366/HADM/6471/
+HADM 6501,Sustainable Development II,http://cornell.chequerd.com/courses/11126/HADM/6501/
+HADM 6510,Sustainable Development I,http://cornell.chequerd.com/courses/11127/HADM/6510/
+HADM 6770,Advanced Business Modeling,http://cornell.chequerd.com/courses/11371/HADM/6770/
+HADM 6800,Law for Entrepreneurs,http://cornell.chequerd.com/courses/11128/HADM/6800/
+HADM 6820,Compensation in Service Firms,http://cornell.chequerd.com/courses/11129/HADM/6820/
+HADM 6980,Graduate Independent Research,http://cornell.chequerd.com/courses/10384/HADM/6980/
+HADM 6990,Graduate Independent Study,http://cornell.chequerd.com/courses/10385/HADM/6990/
+HADM 7000,Cornell-Nanyang Institute of Hospitality Management,http://cornell.chequerd.com/courses/11130/HADM/7000/
+HADM 7144,Competitive Strategies for the Hospitality Industry,http://cornell.chequerd.com/courses/11131/HADM/7144/
+HADM 7820,Human Resources Management,http://cornell.chequerd.com/courses/11132/HADM/7820/
+HADM 7950,MMH Master Class,http://cornell.chequerd.com/courses/11133/HADM/7950/
+HADM 8900,M.S. Thesis Research,http://cornell.chequerd.com/courses/10389/HADM/8900/
+HADM 9900,Ph.D Thesis Research,http://cornell.chequerd.com/courses/10390/HADM/9900/
+

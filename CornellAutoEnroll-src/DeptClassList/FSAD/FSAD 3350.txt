@@ -1,0 +1,3 @@
+15068,LEC,T,2:30p - 4:25p,HEB 156,Netravali (ann2),
+15067,LEC,TR,1:25p - 2:15p,URH 382,Netravali (ann2),
+

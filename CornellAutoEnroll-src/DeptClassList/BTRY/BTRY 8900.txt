@@ -1,0 +1,9 @@
+1642,RSC,TBA,,,Wells (mtw1),
+1641,RSC,TBA,,,Strawderman (rls54),
+1640,RSC,TBA,,,Siepel (acs4),
+1639,RSC,TBA,,,Schwager (sjs5), Yu (hy299),
+1638,RSC,TBA,,,Mezey (jgm45),
+1637,RSC,TBA,,,Hooker (gjh27),
+1636,RSC,TBA,,,Keinan (ak735),
+1635,RSC,TBA,,,Booth (jb383),
+

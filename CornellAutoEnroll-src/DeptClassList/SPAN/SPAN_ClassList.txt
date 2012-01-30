@@ -1,0 +1,29 @@
+SPAN 1107,FWS:Music in Film & Literature in the Hispanic World,http://cornell.chequerd.com/courses/10734/SPAN/1107/
+SPAN 1110,FWS:Guts, Ghosts & Glory: The Writing of the Spanish Civil War,http://cornell.chequerd.com/courses/11336/SPAN/1110/
+SPAN 1220,Elementary Spanish,http://cornell.chequerd.com/courses/3691/SPAN/1220/
+SPAN 1230,Continuing Spanish,http://cornell.chequerd.com/courses/3692/SPAN/1230/
+SPAN 2070,Intermediate Spanish for the Medical and Health Professions,http://cornell.chequerd.com/courses/3693/SPAN/2070/
+SPAN 2090,Spanish Intermediate Composition and Conversation I,http://cornell.chequerd.com/courses/3694/SPAN/2090/
+SPAN 2140,The Spanish Difference: Readings in Modern Iberian Literatures,http://cornell.chequerd.com/courses/3695/SPAN/2140/
+SPAN 2150,The Tradition of Rupture: Latin American Writing From Modernism to the Present,http://cornell.chequerd.com/courses/3696/SPAN/2150/
+SPAN 2170,Early HIspanic Modernities: Readings in Medieval and Early Modern Iberian and Spanish American Lit,http://cornell.chequerd.com/courses/3697/SPAN/2170/
+SPAN 2190,Spanish Intermediate Composition and Conversation II,http://cornell.chequerd.com/courses/3698/SPAN/2190/
+SPAN 2240,Perspectives on the Caribbean,http://cornell.chequerd.com/courses/8908/SPAN/2240/
+SPAN 3100,Advanced Spanish Conversation and Pronunciation,http://cornell.chequerd.com/courses/3704/SPAN/3100/
+SPAN 3110,Advanced Spanish Writing Workshop,http://cornell.chequerd.com/courses/3705/SPAN/3110/
+SPAN 3310,Tales of Love & Lust,http://cornell.chequerd.com/courses/11273/SPAN/3310/
+SPAN 3340,Latin American Literarture in Translation,http://cornell.chequerd.com/courses/11274/SPAN/3340/
+SPAN 3990,More Than Meets the Eye: Spanish Theater and Early 20th Century Thought,http://cornell.chequerd.com/courses/8912/SPAN/3990/
+SPAN 4040,The Task of the Cleric,http://cornell.chequerd.com/courses/11275/SPAN/4040/
+SPAN 4200,Special Topics in Hispanic Literature,http://cornell.chequerd.com/courses/6285/SPAN/4200/
+SPAN 4300,Honors Work in Hispanic Literature,http://cornell.chequerd.com/courses/6286/SPAN/4300/
+SPAN 4455,Philanthropy: The Seduction of the Masses in 19th Century Spain,http://cornell.chequerd.com/courses/11276/SPAN/4455/
+SPAN 4550,Cervantes: Don Quixote,http://cornell.chequerd.com/courses/8241/SPAN/4550/
+SPAN 4700,Film, Photography, Literature, Visualizing Contemporary Spain,http://cornell.chequerd.com/courses/11277/SPAN/4700/
+SPAN 6040,The Task of the Cleric,http://cornell.chequerd.com/courses/11377/SPAN/6040/
+SPAN 6300,Spanish for Reading,http://cornell.chequerd.com/courses/8243/SPAN/6300/
+SPAN 6400,Special Topics in Hispanic Literature,http://cornell.chequerd.com/courses/6291/SPAN/6400/
+SPAN 6455,Philanthropy: The Seduction of the Masses in 19th Century Spain,http://cornell.chequerd.com/courses/11378/SPAN/6455/
+SPAN 6700,Film, Photography, Literature, Visualizing Contemporary Spain,http://cornell.chequerd.com/courses/11379/SPAN/6700/
+SPAN 6860,After Borges: Literature, Politics, and the Aesthetic Act,http://cornell.chequerd.com/courses/11278/SPAN/6860/
+

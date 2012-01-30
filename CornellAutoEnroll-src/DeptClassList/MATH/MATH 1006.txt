@@ -1,0 +1,3 @@
+5584,TA,W,4:30p - 5:45p,MLT 253,Alessi (pa31),
+5583,TA,T,2:55p - 4:10p,MLT 203,Alessi (pa31),
+

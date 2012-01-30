@@ -1,0 +1,6 @@
+10708,LAB,F,2:30p - 4:25p,RHD 453,Trotter (let3),
+10707,LAB,W,2:30p - 4:25p,RHD 453,Trotter (let3),
+10706,LAB,W,12:20p - 2:15p,RHD 453,Trotter (let3),
+10705,LAB,T,2:30p - 4:25p,RHD 453,Trotter (let3),
+10704,LEC,TR,8:40a - 9:55a,UPS B17,Trotter (let3),
+

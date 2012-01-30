@@ -1,0 +1,5 @@
+16167,LEC,TR,4:25p - 5:40p,TBA,Robinson (lwr2),
+15832,LEC,TR,2:55p - 4:10p,TBA,Robinson (lwr2),
+13512,LEC,TR,10:10a - 11:25a,TBA,Robinson (lwr2),
+13511,LEC,TR,8:40a - 9:55a,TBA,Robinson (lwr2),
+

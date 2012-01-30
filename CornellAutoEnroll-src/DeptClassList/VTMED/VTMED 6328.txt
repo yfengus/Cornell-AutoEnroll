@@ -1,0 +1,4 @@
+13605,DIS,R,2:00p - 3:00p,VEC S1165,,
+13604,LEC,W,3:00p - 4:00p,VEC S1165,Bischoff (klb72),
+13604,LEC,M,3:00p - 5:00p,VEC S1165,Bischoff (klb72),
+

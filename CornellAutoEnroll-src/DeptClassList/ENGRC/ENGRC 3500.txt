@@ -1,0 +1,4 @@
+10321,DIS,MWF,1:25p - 2:15p,HLS 312,Beebe (pjb7),
+10320,DIS,TR,2:55p - 4:10p,HLS 314,Evans (rae27),
+10319,DIS,MWF,11:15a - 12:05p,HLS 312,Beebe (pjb7),
+

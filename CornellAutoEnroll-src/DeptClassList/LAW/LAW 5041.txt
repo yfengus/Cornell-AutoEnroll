@@ -1,0 +1,3 @@
+15048,LEC,MTW,9:05a - 10:00a,,Rachlinski (jjr7),
+15047,LEC,MTW,10:10a - 11:05a,,Hillman (rah16),
+

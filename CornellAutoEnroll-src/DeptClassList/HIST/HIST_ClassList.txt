@@ -1,0 +1,70 @@
+HIST 1128,FWS: Women and Black Nationalism in the United States,http://cornell.chequerd.com/courses/8676/HIST/1128/
+HIST 1140,FWS: Humanitarian Aid in the 20th and 21st Centuries,http://cornell.chequerd.com/courses/10726/HIST/1140/
+HIST 1143,FWS: The Devil's Excrement: Oil, Development, and the State in Latin American History,http://cornell.chequerd.com/courses/11334/HIST/1143/
+HIST 1147,FWS: American Beauty (?): Exploring Ideas About Nature and Place,http://cornell.chequerd.com/courses/11328/HIST/1147/
+HIST 1153,FWS: Speaking Truth to Power: Christianity & The Black Prophetic Tradition,http://cornell.chequerd.com/courses/10728/HIST/1153/
+HIST 1250,FWS: Conceived in Liberty: War and Emancipation,http://cornell.chequerd.com/courses/11329/HIST/1250/
+HIST 1270,FWS: The US in the 1960's and 1970's,http://cornell.chequerd.com/courses/11330/HIST/1270/
+HIST 1511,Introduction to Western Civilization,http://cornell.chequerd.com/courses/5315/HIST/1511/
+HIST 1590,History and Popular Culture,http://cornell.chequerd.com/courses/11141/HIST/1590/
+HIST 1900,East Asia to 1800,http://cornell.chequerd.com/courses/9430/HIST/1900/
+HIST 1942,History of Science in Europe II,http://cornell.chequerd.com/courses/9431/HIST/1942/
+HIST 1955,No gods, no masters: Histories of Anarchism,http://cornell.chequerd.com/courses/11142/HIST/1955/
+HIST 2001,Supervised Reading,http://cornell.chequerd.com/courses/2146/HIST/2001/
+HIST 2003,Becker House Directed Study,http://cornell.chequerd.com/courses/10814/HIST/2003/
+HIST 2004,Becker House in Service,http://cornell.chequerd.com/courses/10825/HIST/2004/
+HIST 2062,Migrant Workers in the Americas,http://cornell.chequerd.com/courses/11143/HIST/2062/
+HIST 2161,Iran and the World,http://cornell.chequerd.com/courses/2147/HIST/2161/
+HIST 2190,Women & Gender in South Asia,http://cornell.chequerd.com/courses/11144/HIST/2190/
+HIST 2271,Family Life in Renaissance Italy,http://cornell.chequerd.com/courses/9436/HIST/2271/
+HIST 2292,American Capitalism,http://cornell.chequerd.com/courses/11145/HIST/2292/
+HIST 2412,The White Image in the Black Mind,http://cornell.chequerd.com/courses/7065/HIST/2412/
+HIST 2422,The History of the U.S. Prison,http://cornell.chequerd.com/courses/11146/HIST/2422/
+HIST 2492,Europe's Asia: Modern European Discourse on History and Subjectivity,http://cornell.chequerd.com/courses/9438/HIST/2492/
+HIST 2560,War&Peace In Greece&Rome,http://cornell.chequerd.com/courses/9440/HIST/2560/
+HIST 2660,Introduction to Native American History,http://cornell.chequerd.com/courses/5326/HIST/2660/
+HIST 2730,Women in American Society, Past and Present,http://cornell.chequerd.com/courses/11147/HIST/2730/
+HIST 2750,History of Modern South Asia,http://cornell.chequerd.com/courses/7915/HIST/2750/
+HIST 2791,International Humanitarianism,http://cornell.chequerd.com/courses/5331/HIST/2791/
+HIST 2920,Inventing an Information Society,http://cornell.chequerd.com/courses/5335/HIST/2920/
+HIST 2970,Imperial Russia: Peter the Great to the Revolution of 1917,http://cornell.chequerd.com/courses/7070/HIST/2970/
+HIST 3002,Supervised Research,http://cornell.chequerd.com/courses/2166/HIST/3002/
+HIST 3031,Race and Revolution in the Americas: 1776-1900,http://cornell.chequerd.com/courses/11148/HIST/3031/
+HIST 3101,British History, 1870-Present,http://cornell.chequerd.com/courses/11149/HIST/3101/
+HIST 3140,Hist Am Foreign Policy 1912-Pr,http://cornell.chequerd.com/courses/7916/HIST/3140/
+HIST 3200,The Viking Age,http://cornell.chequerd.com/courses/9444/HIST/3200/
+HIST 3300,Japan From War To Prosperity,http://cornell.chequerd.com/courses/8696/HIST/3300/
+HIST 3304,African American History: From the Age of Booker T. Washington to the Age of Barack Obama,http://cornell.chequerd.com/courses/7917/HIST/3304/
+HIST 3321,Central Asian Culture Wars,http://cornell.chequerd.com/courses/11150/HIST/3321/
+HIST 3430,American Civil War and Reconstruction, 1860-1877,http://cornell.chequerd.com/courses/7075/HIST/3430/
+HIST 3451,Cultural and Intellectual Life of 20th Century Americans,http://cornell.chequerd.com/courses/11151/HIST/3451/
+HIST 3650,West Africa and the West: 1450-1850,http://cornell.chequerd.com/courses/2179/HIST/3650/
+HIST 3677,Search For The Historical Muhammad,http://cornell.chequerd.com/courses/7922/HIST/3677/
+HIST 3790,The First World War: Causes, Conduct, Consequences,http://cornell.chequerd.com/courses/7924/HIST/3790/
+HIST 3960,Southeast Asian History from the Eighteenth Century,http://cornell.chequerd.com/courses/5349/HIST/3960/
+HIST 4000,Honors Proseminar,http://cornell.chequerd.com/courses/2183/HIST/4000/
+HIST 4002,Honors Research,http://cornell.chequerd.com/courses/5350/HIST/4002/
+HIST 4131,Comparative Environmental History,http://cornell.chequerd.com/courses/7081/HIST/4131/
+HIST 4140,Motivations of American Foreign Policy,http://cornell.chequerd.com/courses/11152/HIST/4140/
+HIST 4171,The Holocaust: The Personal and the Political,http://cornell.chequerd.com/courses/11153/HIST/4171/
+HIST 4211,Seminar on the American Revolution,http://cornell.chequerd.com/courses/11154/HIST/4211/
+HIST 4231,Gender and Technology,http://cornell.chequerd.com/courses/5353/HIST/4231/
+HIST 4291,Marriage and Divorce in Africa,http://cornell.chequerd.com/courses/11155/HIST/4291/
+HIST 4301,Black Leaders and Movements in African-American History,http://cornell.chequerd.com/courses/7926/HIST/4301/
+HIST 4551,Race and the University,http://cornell.chequerd.com/courses/11156/HIST/4551/
+HIST 4570,Seminar in European Fascism,http://cornell.chequerd.com/courses/11157/HIST/4570/
+HIST 4950,Gender&Pwr England:1600-1800,http://cornell.chequerd.com/courses/7933/HIST/4950/
+HIST 4961,History of Medicine and Healing in China,http://cornell.chequerd.com/courses/5367/HIST/4961/
+HIST 4965,The History of Pre-Industrial Noise in Europe, 1400-1800,http://cornell.chequerd.com/courses/11158/HIST/4965/
+HIST 6000,Graduate Research Seminar,http://cornell.chequerd.com/courses/5368/HIST/6000/
+HIST 6010,European History Colloquium,http://cornell.chequerd.com/courses/2211/HIST/6010/
+HIST 6030,The Americas Colloquium,http://cornell.chequerd.com/courses/2213/HIST/6030/
+HIST 6080,Readings in 20th Century U.S. History,http://cornell.chequerd.com/courses/11159/HIST/6080/
+HIST 6140,Readings in Cultural Materialism: Theory and Practice,http://cornell.chequerd.com/courses/7935/HIST/6140/
+HIST 6162,Graduate History Proseminar: Archives, Writing, and Research in Southeast Asian History,http://cornell.chequerd.com/courses/11422/HIST/6162/
+HIST 6261,Seminar on the American Revolution,http://cornell.chequerd.com/courses/11160/HIST/6261/
+HIST 6960,Southeast Asian History from the Eighteenth Century,http://cornell.chequerd.com/courses/5381/HIST/6960/
+HIST 6961,History of Medicine and Healing in China,http://cornell.chequerd.com/courses/5382/HIST/6961/
+HIST 7000,Special Topic 3: Issues in the Cultural History of Technology,http://cornell.chequerd.com/courses/7943/HIST/7000/
+HIST 8004,Supervised Reading,http://cornell.chequerd.com/courses/2228/HIST/8004/
+

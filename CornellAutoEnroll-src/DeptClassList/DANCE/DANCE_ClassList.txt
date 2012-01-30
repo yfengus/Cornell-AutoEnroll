@@ -1,0 +1,35 @@
+DANCE 1200,Dance Technique I,http://cornell.chequerd.com/courses/1278/DANCE/1200/
+DANCE 1250,Rehearsal and Performance,http://cornell.chequerd.com/courses/1279/DANCE/1250/
+DANCE 1610,Dance Production Laboratory I,http://cornell.chequerd.com/courses/1283/DANCE/1610/
+DANCE 1630,Dance Stage Management Production Laboratory I,http://cornell.chequerd.com/courses/1284/DANCE/1630/
+DANCE 2220,Dance Technique II/Modern,http://cornell.chequerd.com/courses/4800/DANCE/2220/
+DANCE 2500,Beginning Dance Composition,http://cornell.chequerd.com/courses/1289/DANCE/2500/
+DANCE 2610,Dance Production Laboratory II,http://cornell.chequerd.com/courses/1290/DANCE/2610/
+DANCE 2630,Dance Stage Management Lab II,http://cornell.chequerd.com/courses/1291/DANCE/2630/
+DANCE 3000,Independent Study,http://cornell.chequerd.com/courses/1292/DANCE/3000/
+DANCE 3125,Mapping the Moving Body,http://cornell.chequerd.com/courses/10246/DANCE/3125/
+DANCE 3210,Dance Technique III/Classical,http://cornell.chequerd.com/courses/1294/DANCE/3210/
+DANCE 3220,Dance Technique III/Modern,http://cornell.chequerd.com/courses/1295/DANCE/3220/
+DANCE 3500,Intermediate Composition I,http://cornell.chequerd.com/courses/1297/DANCE/3500/
+DANCE 3510,Intermediate Composition II,http://cornell.chequerd.com/courses/1298/DANCE/3510/
+DANCE 3550,Techno Soma Kinesics: Repositioning the Performing Body in Space through the Lenses of Digital Media,http://cornell.chequerd.com/courses/4805/DANCE/3550/
+DANCE 3555,Transpositioning the Body I,http://cornell.chequerd.com/courses/7705/DANCE/3555/
+DANCE 3590,Music, Dance, and Light,http://cornell.chequerd.com/courses/7706/DANCE/3590/
+DANCE 3610,Production Laboratory III,http://cornell.chequerd.com/courses/6855/DANCE/3610/
+DANCE 3680,Sound Design and Digital Audio,http://cornell.chequerd.com/courses/4806/DANCE/3680/
+DANCE 4000,Senior Paper In Dance,http://cornell.chequerd.com/courses/1301/DANCE/4000/
+DANCE 4010,Senior Project in Dance,http://cornell.chequerd.com/courses/1302/DANCE/4010/
+DANCE 4020,Senior Project in Dance II,http://cornell.chequerd.com/courses/4807/DANCE/4020/
+DANCE 4060,Honors Research Tutorial,http://cornell.chequerd.com/courses/1304/DANCE/4060/
+DANCE 4210,Dance Technique IV/Classical,http://cornell.chequerd.com/courses/1305/DANCE/4210/
+DANCE 4220,Dance Technique IV/Modern,http://cornell.chequerd.com/courses/1306/DANCE/4220/
+DANCE 4500,Advanced Composition I,http://cornell.chequerd.com/courses/1308/DANCE/4500/
+DANCE 4510,Advanced Composition II,http://cornell.chequerd.com/courses/1309/DANCE/4510/
+DANCE 4550,Techno Soma Kinesics II: Repositioning the Performing Body in Space through the Lenses of Digital,http://cornell.chequerd.com/courses/4811/DANCE/4550/
+DANCE 4555,Transpositioning the Body II,http://cornell.chequerd.com/courses/9668/DANCE/4555/
+DANCE 4660,Lighting Design Studio II,http://cornell.chequerd.com/courses/4812/DANCE/4660/
+DANCE 4700,50?s Movie Musicals and Modernism,http://cornell.chequerd.com/courses/11003/DANCE/4700/
+DANCE 4750,Performing Modernism in the Chinese Body,http://cornell.chequerd.com/courses/11004/DANCE/4750/
+DANCE 4961,Musicology in the Flesh: Sound and Senses,http://cornell.chequerd.com/courses/11005/DANCE/4961/
+DANCE 7000,Independent Study,http://cornell.chequerd.com/courses/1310/DANCE/7000/
+

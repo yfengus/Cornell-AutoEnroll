@@ -1,0 +1,3 @@
+13747,LAB,TRF,3:00p - 5:00p,,Gilbert (rog1),
+13746,LEC,TR,9:00a - 11:00a,CLS C2539,Gilbert (rog1),
+

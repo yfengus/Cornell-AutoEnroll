@@ -1,0 +1,31 @@
+LA 1420,Grounding in Landscape Architecture,http://cornell.chequerd.com/courses/5524/LA/1420/
+LA 2020,Medium of the Landscape,http://cornell.chequerd.com/courses/5525/LA/2020/
+LA 2620,Laboratory in Landscape Archaeology,http://cornell.chequerd.com/courses/5526/LA/2620/
+LA 3020,Integrating Theory and Practice II,http://cornell.chequerd.com/courses/5527/LA/3020/
+LA 3180,Site Construction,http://cornell.chequerd.com/courses/5528/LA/3180/
+LA 3600,Pre-Industrial Cities and Towns in North America,http://cornell.chequerd.com/courses/5529/LA/3600/
+LA 4020,Integrating Theory and Practice: Community Design Studio,http://cornell.chequerd.com/courses/5530/LA/4020/
+LA 4030,Directed Study: The Concentration,http://cornell.chequerd.com/courses/2500/LA/4030/
+LA 4100,Computer Applications in Landscape Architecture,http://cornell.chequerd.com/courses/2501/LA/4100/
+LA 4860,Placemaking by Design,http://cornell.chequerd.com/courses/2503/LA/4860/
+LA 4920,Creating the Urban Eden: Woody Plant Selection, Design, and Landscape Establishment (also LA 492),http://cornell.chequerd.com/courses/5533/LA/4920/
+LA 4970,Individual Study in Landscape Architecture,http://cornell.chequerd.com/courses/2506/LA/4970/
+LA 4980,Undergraduate Teaching,http://cornell.chequerd.com/courses/2507/LA/4980/
+LA 4990,Undergraduate Research,http://cornell.chequerd.com/courses/2508/LA/4990/
+LA 4991,Undergraduate Research Honors in Landscape Architecture,http://cornell.chequerd.com/courses/2509/LA/4991/
+LA 5020,Composition and Theory,http://cornell.chequerd.com/courses/5534/LA/5020/
+LA 5060,Graphic Communication II,http://cornell.chequerd.com/courses/5535/LA/5060/
+LA 5090,Master of Professional Studies Project,http://cornell.chequerd.com/courses/11346/LA/5090/
+LA 5450,The Parks and Fora of Imperial Rome,http://cornell.chequerd.com/courses/5536/LA/5450/
+LA 5900,Theoretical Foundations,http://cornell.chequerd.com/courses/5537/LA/5900/
+LA 5970,Graduate Individual Study in Landscape Architecture,http://cornell.chequerd.com/courses/2513/LA/5970/
+LA 5980,Graduate Teaching,http://cornell.chequerd.com/courses/2514/LA/5980/
+LA 6020,Integrating Theory and Practice II,http://cornell.chequerd.com/courses/5538/LA/6020/
+LA 6030,Directed Study: The Concentration,http://cornell.chequerd.com/courses/2516/LA/6030/
+LA 6180,Site Construction,http://cornell.chequerd.com/courses/5539/LA/6180/
+LA 6660,Pre-Industrial Cities and Towns in North America,http://cornell.chequerd.com/courses/5540/LA/6660/
+LA 6940,Special Topics in Landscape Architecture,http://cornell.chequerd.com/courses/2518/LA/6940/
+LA 7020,Advanced Design Studio,http://cornell.chequerd.com/courses/5541/LA/7020/
+LA 7910,Placemaking by Design,http://cornell.chequerd.com/courses/9518/LA/7910/
+LA 8900,Master's Thesis in Landscape Architecture,http://cornell.chequerd.com/courses/2521/LA/8900/
+

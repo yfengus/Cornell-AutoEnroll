@@ -1,0 +1,3 @@
+16318,SEM,MW,7:30p - 8:45p,GSH 164,Alwood (aha25),
+16317,SEM,TR,2:55p - 4:10p,GSH 348,Chung (hc445), Erdel (jte7),
+

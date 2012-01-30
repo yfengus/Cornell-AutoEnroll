@@ -1,0 +1,9 @@
+14684,SEM,TR,2:55p - 4:10p,ACH 106,Shapiro (ehs9),
+6685,SEM,TR,1:25p - 2:40p,GSH G19,Linder (mel238),
+6684,SEM,TR,11:40a - 12:55p,RCK 187,Carrick (thc33),
+6683,SEM,TR,10:10a - 11:25a,ACH 106,Perlow (smp254),
+6682,SEM,MW,2:55p - 4:10p,GSH 350,Haque (dsa33),
+6681,SEM,MWF,1:25p - 2:15p,GSH 283,Ziccardi (aiz2),
+6680,SEM,MWF,12:20p - 1:10p,GSH 144,Cummings (lbc29),
+6679,SEM,MWF,11:15a - 12:05p,GSH 283,Faulkner (df259),
+

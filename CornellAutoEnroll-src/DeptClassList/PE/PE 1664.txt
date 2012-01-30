@@ -1,0 +1,5 @@
+9315,LEC,S,10:00a - 5:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9315,LEC,M,5:00p - 8:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9142,LEC,W,5:00p - 8:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9142,LEC,F,1:30p - 6:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+

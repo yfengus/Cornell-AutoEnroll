@@ -1,0 +1,5 @@
+11483,LAB,F,2:00p - 4:25p,THR 102A,Kress Gazit (hk478),
+11461,LAB,R,2:00p - 4:25p,THR 102A,Kress Gazit (hk478),
+11460,LAB,W,10:10a - 12:35p,THR 102A,Kress Gazit (hk478),
+11459,LEC,TR,10:10a - 11:25a,PHL 203,Kress Gazit (hk478),
+

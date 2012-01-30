@@ -1,0 +1,36 @@
+DSOC 1101,Introduction to Sociology,http://cornell.chequerd.com/courses/1340/DSOC/1101/
+DSOC 1204,FWS: China in Transition,http://cornell.chequerd.com/courses/10721/DSOC/1204/
+DSOC 1205,FWS: The Power of Narrative: How Language Shapes our Environment,http://cornell.chequerd.com/courses/11369/DSOC/1205/
+DSOC 2050,International Development,http://cornell.chequerd.com/courses/4836/DSOC/2050/
+DSOC 2090,Social Inequality,http://cornell.chequerd.com/courses/1342/DSOC/2090/
+DSOC 2201,Society and Natural Resources,http://cornell.chequerd.com/courses/4837/DSOC/2201/
+DSOC 2650,Latinos in the United States,http://cornell.chequerd.com/courses/4839/DSOC/2650/
+DSOC 3010,Theories of Society and Development,http://cornell.chequerd.com/courses/4841/DSOC/3010/
+DSOC 3050,Education, Inequality and Development,http://cornell.chequerd.com/courses/1344/DSOC/3050/
+DSOC 3111,Sociology of Medicine,http://cornell.chequerd.com/courses/8552/DSOC/3111/
+DSOC 3130,Social Indicators, Data Management, and Analysis,http://cornell.chequerd.com/courses/1346/DSOC/3130/
+DSOC 3200,Rethinking Global Development: New Frameworks for Understanding Poverty, Inequality and Growth,http://cornell.chequerd.com/courses/9334/DSOC/3200/
+DSOC 3290,Comparative Politics of Latin America,http://cornell.chequerd.com/courses/4844/DSOC/3290/
+DSOC 3400,Agriculture, Food & Society,http://cornell.chequerd.com/courses/1347/DSOC/3400/
+DSOC 3700,Comparative Social Inequalities,http://cornell.chequerd.com/courses/1348/DSOC/3700/
+DSOC 4500,Bridges to Community,http://cornell.chequerd.com/courses/9335/DSOC/4500/
+DSOC 4800,Contemporary Problems in Development and Society,http://cornell.chequerd.com/courses/11006/DSOC/4800/
+DSOC 4810,Global Conflict and Terrorism,http://cornell.chequerd.com/courses/4850/DSOC/4810/
+DSOC 4970,Independent Study in Development Sociology,http://cornell.chequerd.com/courses/1352/DSOC/4970/
+DSOC 4991,Independent Honors Research in Social Science,http://cornell.chequerd.com/courses/1353/DSOC/4991/
+DSOC 5200,Rethinking Global Development: New Frameworks for Understanding Poverty, Inequality and Growth,http://cornell.chequerd.com/courses/9709/DSOC/5200/
+DSOC 5600,Analytical Mapping and Spatial Modeling,http://cornell.chequerd.com/courses/6868/DSOC/5600/
+DSOC 6001,Empirics of Development, Inequality and Social Change,http://cornell.chequerd.com/courses/7716/DSOC/6001/
+DSOC 6060,Sociological Theories of Development,http://cornell.chequerd.com/courses/4851/DSOC/6060/
+DSOC 6150,Qualitative Research Methods,http://cornell.chequerd.com/courses/1355/DSOC/6150/
+DSOC 6270,Agrarian Social Mobilization: From Resistance to Revlolution,http://cornell.chequerd.com/courses/11007/DSOC/6270/
+DSOC 6350,Indigenous Peoples and Globalization,http://cornell.chequerd.com/courses/11008/DSOC/6350/
+DSOC 7190,Advanced Regression and Spatial Statistics,http://cornell.chequerd.com/courses/7718/DSOC/7190/
+DSOC 7300,Sociology of Global Change,http://cornell.chequerd.com/courses/7719/DSOC/7300/
+DSOC 7600,Environment and Social Transitions: Graduate Seminar in Environmental Sociology,http://cornell.chequerd.com/courses/6872/DSOC/7600/
+DSOC 7900,Graduate-Level Thesis Research,http://cornell.chequerd.com/courses/1360/DSOC/7900/
+DSOC 7910,Teaching Experience,http://cornell.chequerd.com/courses/1361/DSOC/7910/
+DSOC 8720,Development Sociology,http://cornell.chequerd.com/courses/1362/DSOC/8720/
+DSOC 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/1363/DSOC/8900/
+DSOC 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/1364/DSOC/9900/
+

@@ -1,0 +1,5 @@
+6193,STU,R,7:00p - 9:00p,LNC 140,Merrill (pm75),
+6192,STU,W,5:00p - 7:00p,LNC 149,Merrill (pm75),
+6191,STU,W,5:00p - 7:00p,LNC 140,Merrill (pm75),
+6190,STU,T,7:00p - 9:00p,LNC 140,Merrill (pm75),
+

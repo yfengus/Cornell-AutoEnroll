@@ -1,0 +1,5 @@
+5290,SEM,TBA,,,,
+5282,SEM,W,9:00a - 1:00p,,Blanchard (jnb10),
+15904,SEM,W,10:10a - 12:05p,SBL 144,Otto (cfo1),
+5281,SEM,TR,12:20p - 1:10p,IVS 217,Mirin (ljm3),
+

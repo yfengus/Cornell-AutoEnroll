@@ -1,0 +1,31 @@
+HORT 1102,Hands-On Horticulture for Gardeners,http://cornell.chequerd.com/courses/5383/HORT/1102/
+HORT 1104,Introduction to Wines and Vines,http://cornell.chequerd.com/courses/5384/HORT/1104/
+HORT 1105,Introduction to Wines and Vines Laboratory,http://cornell.chequerd.com/courses/5385/HORT/1105/
+HORT 1115,The Nature of Plants,http://cornell.chequerd.com/courses/9460/HORT/1115/
+HORT 1160,FWS: Nature Writing,http://cornell.chequerd.com/courses/5386/HORT/1160/
+HORT 3120,Sustainability and Organic Grape and Wine Production I,http://cornell.chequerd.com/courses/9462/HORT/3120/
+HORT 3440,Viticulture and Vineyard Management,http://cornell.chequerd.com/courses/9464/HORT/3440/
+HORT 3920,Woody Plant Identification and Use II,http://cornell.chequerd.com/courses/5390/HORT/3920/
+HORT 4450,Ecological Orchard Management,http://cornell.chequerd.com/courses/7945/HORT/4450/
+HORT 4460,Advanced Viticulture Topics,http://cornell.chequerd.com/courses/7946/HORT/4460/
+HORT 4551,Mineral Nutrition of Crops and Landscape Plants: Crop Nutrition Principles,http://cornell.chequerd.com/courses/7948/HORT/4551/
+HORT 4660,Soil Ecology,http://cornell.chequerd.com/courses/7955/HORT/4660/
+HORT 4920,Creating the Urban Eden: Woody Plant Selection, Design, and Landscape Establishment (also LA 492),http://cornell.chequerd.com/courses/5396/HORT/4920/
+HORT 4940,Special Topics in Horticulture,http://cornell.chequerd.com/courses/2248/HORT/4940/
+HORT 4950,Undergraduate Seminar-Current Topics in Horticulture,http://cornell.chequerd.com/courses/2249/HORT/4950/
+HORT 4960,Internship in Horticulture,http://cornell.chequerd.com/courses/2250/HORT/4960/
+HORT 4970,Undergraduate Individual Study in Horticulture,http://cornell.chequerd.com/courses/2251/HORT/4970/
+HORT 4980,Undergraduate Teaching Experience,http://cornell.chequerd.com/courses/2252/HORT/4980/
+HORT 4990,Undergraduate Research,http://cornell.chequerd.com/courses/2253/HORT/4990/
+HORT 5900,Master of Professional Studies (Agriculture) Project,http://cornell.chequerd.com/courses/2254/HORT/5900/
+HORT 6000,Seminar in Horticulture,http://cornell.chequerd.com/courses/2255/HORT/6000/
+HORT 6190,Root and Rhizosphere Ecology,http://cornell.chequerd.com/courses/7957/HORT/6190/
+HORT 6251,Advanced Postharvest Biology: Advanced Postharvest Physiology,http://cornell.chequerd.com/courses/2259/HORT/6251/
+HORT 6252,Advanced Postharvest Biology: Plant Senescence,http://cornell.chequerd.com/courses/2260/HORT/6252/
+HORT 6253,Advanced Postharvest Biology: Postharvest Technology,http://cornell.chequerd.com/courses/2261/HORT/6253/
+HORT 6460,Advanced Viticulture Topics,http://cornell.chequerd.com/courses/7958/HORT/6460/
+HORT 6970,Graduate Individual Study in Horticulture,http://cornell.chequerd.com/courses/2263/HORT/6970/
+HORT 7000,Graduate Teaching Experience,http://cornell.chequerd.com/courses/2264/HORT/7000/
+HORT 8900,Thesis Research, Master of Science,http://cornell.chequerd.com/courses/2265/HORT/8900/
+HORT 9900,Thesis Research, Doctor of Philosophy,http://cornell.chequerd.com/courses/2266/HORT/9900/
+

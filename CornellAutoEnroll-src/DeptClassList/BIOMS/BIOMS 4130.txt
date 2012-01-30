@@ -1,0 +1,3 @@
+4029,LAB,MW,2:30p - 4:25p,VEC S2166A,Quaroni (aq10),
+4028,LEC,MW,1:25p - 2:15p,VRT T1003,Quaroni (aq10),
+

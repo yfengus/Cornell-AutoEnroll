@@ -1,0 +1,3 @@
+4829,LEC,MR,9:00a - 1:00p,,Brooks (nb275), Smith (gos2),
+4829,LEC,R,2:00p - 4:00p,,Brooks (nb275), Smith (gos2),
+

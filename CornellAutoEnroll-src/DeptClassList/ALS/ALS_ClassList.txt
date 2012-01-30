@@ -1,0 +1,15 @@
+ALS 3100,Foundations in Leadership: Skills For Professional Success and Life,http://cornell.chequerd.com/courses/10564/ALS/3100/
+ALS 3920,New York State Government Affairs,http://cornell.chequerd.com/courses/7414/ALS/3920/
+ALS 4000,Community Service Learning Project,http://cornell.chequerd.com/courses/6530/ALS/4000/
+ALS 4770,Environmental Stewardship in the Cornell Community,http://cornell.chequerd.com/courses/4052/ALS/4770/
+ALS 4960,Internship,http://cornell.chequerd.com/courses/149/ALS/4960/
+ALS 4990,Undergraduate Research in ALS,http://cornell.chequerd.com/courses/152/ALS/4990/
+ALS 4992,Honors Project II,http://cornell.chequerd.com/courses/4053/ALS/4992/
+ALS 5100,Leadership Development for Life Scientists,http://cornell.chequerd.com/courses/4054/ALS/5100/
+ALS 5780,International TA Program Course 1,http://cornell.chequerd.com/courses/7415/ALS/5780/
+ALS 5790,ITA Program Course: Teaching Techniques, Cross-cultural Classroom Dynamics, Oral Comm,http://cornell.chequerd.com/courses/7416/ALS/5790/
+ALS 5800,International Teaching Assistant Development Program Course 3,http://cornell.chequerd.com/courses/154/ALS/5800/
+ALS 5810,International Teaching Assistant Development Program Course 4,http://cornell.chequerd.com/courses/155/ALS/5810/
+ALS 6015,The Practice of Teaching in Higher Education,http://cornell.chequerd.com/courses/7417/ALS/6015/
+ALS 6016,Teaching as Research in Higher Education,http://cornell.chequerd.com/courses/11426/ALS/6016/
+

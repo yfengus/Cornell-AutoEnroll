@@ -1,0 +1,5 @@
+16048,DIS,F,1:25p - 2:15p,GSH 181,Attell (kda24),
+8828,DIS,F,12:20p - 1:10p,GSH 156,Braddock (jb358), Attell (kda24),
+8827,DIS,F,11:15a - 12:05p,GSH 156,Braddock (jb358), Attell (kda24),
+5463,LEC,MW,12:20p - 1:10p,GSH G22,Braddock (jb358), Attell (kda24),
+

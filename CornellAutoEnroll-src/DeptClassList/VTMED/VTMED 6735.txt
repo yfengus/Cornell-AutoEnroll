@@ -1,0 +1,3 @@
+13610,LEC,T,11:00a - 1:00p,VEC S1165,Kollias (gvk2), Travis (ajt32),
+13610,LEC,M,12:00p - 1:00p,VEC S1165,Kollias (gvk2), Travis (ajt32),
+

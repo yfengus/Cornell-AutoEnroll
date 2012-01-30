@@ -1,0 +1,4 @@
+13629,LEC,W,2:00p - 3:00p,VEC S1165,Earnest-Koons (kae1),
+13629,LEC,T,1:00p - 2:00p,VEC S1165,Earnest-Koons (kae1),
+13629,LEC,R,10:00a - 12:00p,VEC S1165,Earnest-Koons (kae1),
+

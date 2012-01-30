@@ -1,0 +1,14 @@
+BIOG 1035,Academic Support for BIOG 1350: Cell and Developmental Biology,http://cornell.chequerd.com/courses/8951/BIOG/1035/
+BIOG 1044,Academic Support for BIOG 1440: Physiology,http://cornell.chequerd.com/courses/8952/BIOG/1044/
+BIOG 1102,Biological Sciences Lectures,http://cornell.chequerd.com/courses/4385/BIOG/1102/
+BIOG 1104,Biological Sciences, Laboratory,http://cornell.chequerd.com/courses/4386/BIOG/1104/
+BIOG 1106,Introductory Biology,http://cornell.chequerd.com/courses/4387/BIOG/1106/
+BIOG 1200,Biology Scholars Program Freshman Seminar,http://cornell.chequerd.com/courses/4389/BIOG/1200/
+BIOG 1440,Introduction to Comparative Physiology,http://cornell.chequerd.com/courses/8448/BIOG/1440/
+BIOG 1500,Investigative Biology Laboratory,http://cornell.chequerd.com/courses/8449/BIOG/1500/
+BIOG 2000,Special Studies in Biology,http://cornell.chequerd.com/courses/677/BIOG/2000/
+BIOG 2990,Introduction to Research Methods in Biology,http://cornell.chequerd.com/courses/678/BIOG/2990/
+BIOG 3020,Seminar in Research Skills for Biologists: II,http://cornell.chequerd.com/courses/7563/BIOG/3020/
+BIOG 4980,Teaching Experience,http://cornell.chequerd.com/courses/683/BIOG/4980/
+BIOG 4990,Independent Undergraduate Research in Biology,http://cornell.chequerd.com/courses/684/BIOG/4990/
+

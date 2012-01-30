@@ -1,0 +1,6 @@
+13148,LEC,T,10:10a - 12:05p,IVS 118,Homrighouse (cmg4),
+13147,LEC,F,10:10a - 12:05p,IVS 118,Homrighouse (cmg4),
+13146,LEC,F,12:20p - 2:15p,IVS 118,Homrighouse (cmg4),
+13145,LEC,M,10:10a - 12:05p,IVS 118,Homrighouse (cmg4),
+13144,LEC,M,12:20p - 2:15p,IVS 118,Homrighouse (cmg4),
+

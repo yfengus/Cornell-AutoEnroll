@@ -1,0 +1,4 @@
+14049,DIS,F,11:15a - 12:05p,RCK 110,Sawyer (pls12),
+14048,DIS,F,11:15a - 12:05p,RCK 128,Sawyer (pls12),
+5435,LEC,MW,11:15a - 12:05p,GSH G22,Sawyer (pls12),
+

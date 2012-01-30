@@ -1,0 +1,5 @@
+9112,LEC,F,5:00p - 6:30p,HNH 230,Cho (hdc9),
+9111,LEC,F,3:30p - 5:00p,HNH 230,Cho (hdc9),
+15920,LEC,R,3:30p - 5:00p,HNH 230,Cho (hdc9),
+9110,LEC,T,3:30p - 5:00p,HNH 230,Cho (hdc9),
+

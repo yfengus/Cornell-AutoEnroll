@@ -1,0 +1,4 @@
+1566,LAB,T,1:25p - 2:15p,MNL B30B,Sullivan (pjs31),
+1565,LAB,T,12:20p - 1:10p,MNL B30B,Sullivan (pjs31),
+1564,LEC,TR,10:10a - 11:25a,WRN 231,Sullivan (pjs31),
+

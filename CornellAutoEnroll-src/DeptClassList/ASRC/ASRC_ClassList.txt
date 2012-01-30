@@ -1,0 +1,48 @@
+ASRC 1101,Elementary Swahili II,http://cornell.chequerd.com/courses/4265/ASRC/1101/
+ASRC 1109,Introduction to Yoruba II,http://cornell.chequerd.com/courses/4267/ASRC/1109/
+ASRC 1115,Elementary Zulu II,http://cornell.chequerd.com/courses/4268/ASRC/1115/
+ASRC 1202,Elementary Arabic II,http://cornell.chequerd.com/courses/9237/ASRC/1202/
+ASRC 1590,History and Popular Culture,http://cornell.chequerd.com/courses/11393/ASRC/1590/
+ASRC 1811,FWS: Women Writing in South Africa,http://cornell.chequerd.com/courses/544/ASRC/1811/
+ASRC 1813,FWS: Pan/African Freedom Fighters,http://cornell.chequerd.com/courses/4270/ASRC/1813/
+ASRC 1826,FWS: African American Autobiography: I Write, Therefore I am,http://cornell.chequerd.com/courses/11321/ASRC/1826/
+ASRC 1827,FWS: African Literature and Human Rights,http://cornell.chequerd.com/courses/11322/ASRC/1827/
+ASRC 1828,FWS: American Response to the Fascist Invasion of Ethiopia,http://cornell.chequerd.com/courses/11323/ASRC/1828/
+ASRC 1900,Research Strategies,http://cornell.chequerd.com/courses/4272/ASRC/1900/
+ASRC 2101,Intermediate Arabic II,http://cornell.chequerd.com/courses/4274/ASRC/2101/
+ASRC 2102,Intermediate Swahili I,http://cornell.chequerd.com/courses/8429/ASRC/2102/
+ASRC 2104,Intermediate Zulu II,http://cornell.chequerd.com/courses/9240/ASRC/2104/
+ASRC 2111,Intermediate Yoruba II,http://cornell.chequerd.com/courses/9241/ASRC/2111/
+ASRC 2117,Intermediate Zulu II,http://cornell.chequerd.com/courses/10939/ASRC/2117/
+ASRC 2200,Intermediate Arabic II,http://cornell.chequerd.com/courses/9242/ASRC/2200/
+ASRC 2204,Introduction to Quranic Arabic,http://cornell.chequerd.com/courses/11355/ASRC/2204/
+ASRC 2240,Perspectives on the Caribbean,http://cornell.chequerd.com/courses/8432/ASRC/2240/
+ASRC 2300,African Cultures and Civilizations,http://cornell.chequerd.com/courses/4277/ASRC/2300/
+ASRC 2307,The White Image in the Black Mind,http://cornell.chequerd.com/courses/6673/ASRC/2307/
+ASRC 3031,Race and Revolution in the Americas: 1776-1900,http://cornell.chequerd.com/courses/11368/ASRC/3031/
+ASRC 3101,Advanced Intermediate Arabic II,http://cornell.chequerd.com/courses/4282/ASRC/3101/
+ASRC 3111,Advanced Yoruba II,http://cornell.chequerd.com/courses/9243/ASRC/3111/
+ASRC 3117,Advanced Zulu II,http://cornell.chequerd.com/courses/9244/ASRC/3117/
+ASRC 3302,West Africa and the West: 1450-1850,http://cornell.chequerd.com/courses/548/ASRC/3302/
+ASRC 3304,African American History: From the Age of Booker T. Washington to the Age of Barack Obama,http://cornell.chequerd.com/courses/7522/ASRC/3304/
+ASRC 3600,Government and Politics in Africa,http://cornell.chequerd.com/courses/4284/ASRC/3600/
+ASRC 4291,Marriage and Divorce in Africa,http://cornell.chequerd.com/courses/10940/ASRC/4291/
+ASRC 4301,Black Leaders and Movements in African-American History,http://cornell.chequerd.com/courses/7527/ASRC/4301/
+ASRC 4302,Nile Valley Civilization: Ethiopia, Nubia, and Egypt,http://cornell.chequerd.com/courses/4286/ASRC/4302/
+ASRC 4345,South African Industrial Relations in Transition,http://cornell.chequerd.com/courses/11402/ASRC/4345/
+ASRC 4507,Black Women Writers: International Dimensions,http://cornell.chequerd.com/courses/4290/ASRC/4507/
+ASRC 4511,A Matter of Brevity: Borges in Translation,http://cornell.chequerd.com/courses/10941/ASRC/4511/
+ASRC 4600,Politics and Social Change in the Caribbean,http://cornell.chequerd.com/courses/554/ASRC/4600/
+ASRC 4602,Women and Gender Issues in Africa,http://cornell.chequerd.com/courses/4292/ASRC/4602/
+ASRC 4901,Honors Thesis,http://cornell.chequerd.com/courses/558/ASRC/4901/
+ASRC 4903,Independent Study,http://cornell.chequerd.com/courses/4295/ASRC/4903/
+ASRC 6201,Political Change in Africa,http://cornell.chequerd.com/courses/4297/ASRC/6201/
+ASRC 6208,Black Literary and Cultural Theory,http://cornell.chequerd.com/courses/10942/ASRC/6208/
+ASRC 6345,South African Industrial Relations in Transition,http://cornell.chequerd.com/courses/11403/ASRC/6345/
+ASRC 6507,Black Women Writers: International Dimensions,http://cornell.chequerd.com/courses/4300/ASRC/6507/
+ASRC 6521,Heidegger and Deleuze: A Matter of Temporality,http://cornell.chequerd.com/courses/10943/ASRC/6521/
+ASRC 6600,Education and Development in Africa,http://cornell.chequerd.com/courses/4304/ASRC/6600/
+ASRC 6901,Independent Study,http://cornell.chequerd.com/courses/4305/ASRC/6901/
+ASRC 6902,Africana Studies Graduate Seminar,http://cornell.chequerd.com/courses/564/ASRC/6902/
+ASRC 8901,Graduate Thesis,http://cornell.chequerd.com/courses/4307/ASRC/8901/
+

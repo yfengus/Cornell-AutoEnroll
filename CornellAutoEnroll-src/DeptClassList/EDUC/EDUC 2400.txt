@@ -1,0 +1,6 @@
+14716,LEC,M,12:20p - 2:15p,PLS G37,Perry (jap255),
+1905,LEC,W,2:30p - 4:25p,KND 103,Perry (jap255),
+1904,LEC,W,12:20p - 2:15p,KND 103,Perry (jap255),
+1903,LEC,M,2:30p - 4:25p,KND 101,Perry (jap255),
+1902,LEC,M,12:20p - 2:15p,KND 101,Perry (jap255),
+

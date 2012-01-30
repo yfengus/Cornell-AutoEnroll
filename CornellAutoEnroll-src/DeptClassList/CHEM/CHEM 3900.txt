@@ -1,0 +1,5 @@
+6839,DIS,R,1:25p - 2:15p,BKL 119,,
+6838,DIS,W,4:30p - 5:30p,BKL 119,,
+6837,DIS,M,1:25p - 2:15p,BKL 119,,
+6836,LEC,MWF,10:10a - 11:00a,MLT 228,Petersen (pbp33),
+

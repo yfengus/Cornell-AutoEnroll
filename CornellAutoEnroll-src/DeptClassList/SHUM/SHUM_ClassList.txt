@@ -1,0 +1,9 @@
+SHUM 1110,FWS: Reporting from Hell,http://cornell.chequerd.com/courses/7314/SHUM/1110/
+SHUM 3350,Radio and Sound Art Since 1945,http://cornell.chequerd.com/courses/11256/SHUM/3350/
+SHUM 4961,Musicology in the Flesh: Sound and Senses,http://cornell.chequerd.com/courses/11257/SHUM/4961/
+SHUM 4962,Islamic Aural Cultures,http://cornell.chequerd.com/courses/11258/SHUM/4962/
+SHUM 4963,Sounding the Animal,http://cornell.chequerd.com/courses/11259/SHUM/4963/
+SHUM 4964,Signal to Noise: The Politics of Sound,http://cornell.chequerd.com/courses/11260/SHUM/4964/
+SHUM 4965,The History of Pre-Industrial Noise in Europe, 1400-1800,http://cornell.chequerd.com/courses/11261/SHUM/4965/
+SHUM 4966,Science, Technology and Medicine: The Sonic Dimension,http://cornell.chequerd.com/courses/11262/SHUM/4966/
+

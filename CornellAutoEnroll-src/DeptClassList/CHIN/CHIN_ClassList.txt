@@ -1,0 +1,11 @@
+CHIN 1102,Beginning Mandarin II,http://cornell.chequerd.com/courses/4588/CHIN/1102/
+CHIN 1110,Beginning Chinese Reading and Writing for Students of Chinese Hertiage II,http://cornell.chequerd.com/courses/4589/CHIN/1110/
+CHIN 1112,Elementary Cantonese II,http://cornell.chequerd.com/courses/4590/CHIN/1112/
+CHIN 2202,Intermediate Mandarin II,http://cornell.chequerd.com/courses/4591/CHIN/2202/
+CHIN 2210,Intermediate Chinese Reading and Writing for Students of Chines Heritage II,http://cornell.chequerd.com/courses/4592/CHIN/2210/
+CHIN 2212,Intermediate Cantonese II,http://cornell.chequerd.com/courses/4593/CHIN/2212/
+CHIN 3302,High Intermediate Mandarin II,http://cornell.chequerd.com/courses/4595/CHIN/3302/
+CHIN 3312,Advanced Cantonese II,http://cornell.chequerd.com/courses/9288/CHIN/3312/
+CHIN 3360,Advanced Intensive Mandarin (Falcon),http://cornell.chequerd.com/courses/4596/CHIN/3360/
+CHIN 4412,Advanced Mandarin II,http://cornell.chequerd.com/courses/4597/CHIN/4412/
+

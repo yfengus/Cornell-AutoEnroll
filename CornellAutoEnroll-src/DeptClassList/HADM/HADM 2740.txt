@@ -1,0 +1,5 @@
+14959,LAB,TR,2:55p - 4:10p,STL 365,Clark (pac2),
+14958,LAB,TR,8:40a - 9:55a,STL 365,Homrighouse (cmg4),
+14957,LAB,MW,11:40a - 12:55p,STL 365,McCarthy (mrm10),
+14956,LEC,F,11:40a - 12:55p,STL 196,Talbert (mpt2),
+

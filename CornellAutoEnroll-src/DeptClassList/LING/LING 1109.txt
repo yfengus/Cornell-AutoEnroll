@@ -1,0 +1,4 @@
+14540,DIS,T,3:35p - 4:25p,MRL 107,Nussbaum (ajn8),
+14539,DIS,M,7:30p - 8:20p,MRL 107,Nussbaum (ajn8),
+5687,LEC,MWF,2:30p - 3:20p,GSH G64,Nussbaum (ajn8),
+

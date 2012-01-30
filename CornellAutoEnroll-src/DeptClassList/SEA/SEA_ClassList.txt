@@ -1,0 +1,9 @@
+SEA 3620,SEA Maritime History and Culture,http://cornell.chequerd.com/courses/3619/SEA/3620/
+SEA 3660,SEA Introduction to Oceanography,http://cornell.chequerd.com/courses/3620/SEA/3660/
+SEA 3670,SEA Introduction to Maritime Studies,http://cornell.chequerd.com/courses/3621/SEA/3670/
+SEA 3680,SEA Introduction to Nautical Science,http://cornell.chequerd.com/courses/3622/SEA/3680/
+SEA 3690,SEA Practical Oceanography I,http://cornell.chequerd.com/courses/3623/SEA/3690/
+SEA 3700,SEA Practical Oceanography II,http://cornell.chequerd.com/courses/3624/SEA/3700/
+SEA 3710,SEA Marine Environmental History,http://cornell.chequerd.com/courses/6236/SEA/3710/
+SEA 3800,SEA Oceanographic Field Methods,http://cornell.chequerd.com/courses/3627/SEA/3800/
+

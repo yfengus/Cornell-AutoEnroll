@@ -1,0 +1,3 @@
+4937,STU,TR,8:00a - 11:00a,FND 107,McGrain (tvm4),
+4936,STU,MW,8:00a - 11:00a,FND 107,Bertoia (rgb4),
+

@@ -1,0 +1,7 @@
+16232,SEM,TR,10:10a - 11:25a,GSH 160,McCullough (mkm23),
+16231,SEM,MW,2:55p - 4:10p,GSH 348,Rogers (elr75),
+16230,SEM,MW,2:55p - 4:10p,GSH 144,DeGooyer (sd286),
+16229,SEM,MWF,12:20p - 1:10p,BAL 3331,Cui (dlc243),
+16228,SEM,MWF,11:15a - 12:05p,BAL 3331,Stahl (ls527),
+16227,SEM,TR,1:25p - 2:40p,GSH 283,Lirette (cml273),
+

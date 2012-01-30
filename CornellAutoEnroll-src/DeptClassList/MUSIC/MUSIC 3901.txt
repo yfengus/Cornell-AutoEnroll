@@ -1,0 +1,12 @@
+6089,IND,TBA,,,Zaslaw (naz2),
+6088,IND,TBA,,,Yearsley (dgy2),
+6087,IND,TBA,,,Webster (jcw4),
+6086,IND,TBA,,,Stucky (ses6),
+6085,IND,TBA,,,Sierra (rs58),
+6084,IND,TBA,,,Richards (ar34),
+6083,IND,TBA,,,Pond (sfp8),
+6082,IND,TBA,,,Peraino (jap28),
+6081,IND,TBA,,,Groos (abg3),
+6080,IND,TBA,,,Harris-Warrick (rh14),
+6079,IND,TBA,,,Hatch (mfh2),
+

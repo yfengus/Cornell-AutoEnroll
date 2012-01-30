@@ -1,0 +1,8 @@
+12382,IND,TBA,,TBA TBA,Owens (ego5),
+13116,IND,TBA,,,Lovenheim (mfl55),
+13111,IND,TBA,,,Kleiner (sak272),
+12832,IND,TBA,,,Tennyson (st96),
+12829,IND,TBA,,,Lillard (drl3),
+12820,IND,TBA,,,Peters (ep22),
+12812,IND,TBA,,,Sassler (ss589),
+

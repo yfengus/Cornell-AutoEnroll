@@ -1,0 +1,3 @@
+12725,LAB,T,2:00p - 5:30p,MVR 360,Gier (eg47),
+12724,LEC,MW,9:05a - 9:55a,SVG 200,Gier (eg47),
+

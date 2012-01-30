@@ -1,0 +1,12 @@
+LSP 1101,Research Strategies,http://cornell.chequerd.com/courses/5664/LSP/1101/
+LSP 2010,Latinos in the United States,http://cornell.chequerd.com/courses/5666/LSP/2010/
+LSP 2062,Migrant Workers in the Americas,http://cornell.chequerd.com/courses/11210/LSP/2062/
+LSP 3010,Hispanic Theater Production,http://cornell.chequerd.com/courses/7179/LSP/3010/
+LSP 3405,Multicultural Issues in Education,http://cornell.chequerd.com/courses/11347/LSP/3405/
+LSP 4000,Contemporary Issues in Latin - Latino America,http://cornell.chequerd.com/courses/11420/LSP/4000/
+LSP 4032,Immigration & Politics Research Seminar,http://cornell.chequerd.com/courses/5673/LSP/4032/
+LSP 4210,Undergraduate Independent Study,http://cornell.chequerd.com/courses/2677/LSP/4210/
+LSP 6000,Issues in Latin/Latino America,http://cornell.chequerd.com/courses/8802/LSP/6000/
+LSP 6210,Graduate Student Independent Study,http://cornell.chequerd.com/courses/2680/LSP/6210/
+LSP 6424,Ethnoracial Identity in Anthropology, Language, and Law,http://cornell.chequerd.com/courses/5679/LSP/6424/
+

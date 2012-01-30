@@ -1,0 +1,6 @@
+11519,DIS,W,11:15a - 12:05p,RHD 453,Woodard (dbw59),
+11518,DIS,W,10:10a - 11:00a,RHD 453,Woodard (dbw59),
+11517,DIS,M,3:35p - 4:25p,RHD 453,Woodard (dbw59),
+11516,DIS,M,2:30p - 3:20p,RHD 453,Woodard (dbw59),
+11515,LEC,MWF,1:25p - 2:15p,OLH 165,Woodard (dbw59),
+

@@ -1,0 +1,25 @@
+HD 1170,Adolescence and Emerging Adulthood,http://cornell.chequerd.com/courses/7894/HD/1170/
+HD 2510,Social Gerontology: Aging and the Life Course,http://cornell.chequerd.com/courses/5282/HD/2510/
+HD 3200,Human Developmental Neuropsychology,http://cornell.chequerd.com/courses/9421/HD/3200/
+HD 3280,Field Practicum II,http://cornell.chequerd.com/courses/5283/HD/3280/
+HD 3300,Developmental Psychopathology,http://cornell.chequerd.com/courses/11134/HD/3300/
+HD 3460,The Role and Meaning of Play,http://cornell.chequerd.com/courses/2089/HD/3460/
+HD 3620,Human Bonding,http://cornell.chequerd.com/courses/5286/HD/3620/
+HD 3660,Emotional Functions of the Brain,http://cornell.chequerd.com/courses/5287/HD/3660/
+HD 3700,Adult Psychopathology,http://cornell.chequerd.com/courses/5288/HD/3700/
+HD 4150,Seminar on Emerging Adulthood,http://cornell.chequerd.com/courses/11136/HD/4150/
+HD 4260,Translational Research on Memory and Neuroscience,http://cornell.chequerd.com/courses/7897/HD/4260/
+HD 4300,Concepts and Theories in Childhood,http://cornell.chequerd.com/courses/11137/HD/4300/
+HD 4310,Mind,Self,and Emotion,http://cornell.chequerd.com/courses/5292/HD/4310/
+HD 4780,Attention Deficit/Hyperactivity Disorder in Children,http://cornell.chequerd.com/courses/5298/HD/4780/
+HD 4980,Senior Honors Seminar,http://cornell.chequerd.com/courses/2104/HD/4980/
+HD 6110,Psychology of Emotion,http://cornell.chequerd.com/courses/5300/HD/6110/
+HD 6220,Proseminar on Grant Proposal Writing,http://cornell.chequerd.com/courses/11138/HD/6220/
+HD 6230,Graduate Seminar in Personality Development,http://cornell.chequerd.com/courses/11139/HD/6230/
+HD 6350,Cultural Psychology,http://cornell.chequerd.com/courses/7901/HD/6350/
+HD 6510,Interdisciplinary Community-Based Scientific Research on Health Disparities,http://cornell.chequerd.com/courses/5302/HD/6510/
+HD 6520,Translational Research on Aging Seminar,http://cornell.chequerd.com/courses/2110/HD/6520/
+HD 6860,Graduate Seminar in Research Methods: Dynamical Systems and Development,http://cornell.chequerd.com/courses/11140/HD/6860/
+HD 7000,Directed Readings,http://cornell.chequerd.com/courses/2112/HD/7000/
+HD 7060,Supervised Teaching,http://cornell.chequerd.com/courses/11388/HD/7060/
+

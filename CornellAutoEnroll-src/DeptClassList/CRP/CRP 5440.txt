@@ -1,0 +1,4 @@
+5244,DIS,T,1:25p - 2:15p,SBL 318,Booth (rsb6),
+5243,DIS,T,11:15a - 12:05p,SBL 101,Booth (rsb6),
+4830,LEC,MWF,11:15a - 12:05p,SBL 208,Booth (rsb6),
+

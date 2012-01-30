@@ -1,0 +1,9 @@
+AIRS 1102,The Foundations of the United States Air Force II,http://cornell.chequerd.com/courses/9152/AIRS/1102/
+AIRS 1142,Initial Military Experiences II,http://cornell.chequerd.com/courses/4039/AIRS/1142/
+AIRS 2202,The Evolution of USAF Air and Space Power II,http://cornell.chequerd.com/courses/9153/AIRS/2202/
+AIRS 2242,Intermediate Military Experiences II,http://cornell.chequerd.com/courses/4042/AIRS/2242/
+AIRS 3342,Junior Officer Leadership Experiences II,http://cornell.chequerd.com/courses/4044/AIRS/3342/
+AIRS 4402,National Security Affairs / Preparation for Active Duty II,http://cornell.chequerd.com/courses/4045/AIRS/4402/
+AIRS 4442,Precommissioning Lab,http://cornell.chequerd.com/courses/4046/AIRS/4442/
+AIRS 4990,Independent Study for Air Science (Air Force ROTC),http://cornell.chequerd.com/courses/10150/AIRS/4990/
+

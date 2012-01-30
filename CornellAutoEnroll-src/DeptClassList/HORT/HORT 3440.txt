@@ -1,0 +1,3 @@
+1082,LAB,M,1:25p - 4:25p,PLS 114,Cousins (psc9), Lakso (anl2),
+1081,LEC,MW,10:10a - 11:00a,PLS 114,Cousins (psc9), Lakso (anl2),
+

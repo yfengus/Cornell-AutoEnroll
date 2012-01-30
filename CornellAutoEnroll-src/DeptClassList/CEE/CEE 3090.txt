@@ -1,0 +1,8 @@
+16784,IND,TR,8:40a - 9:55a,THR 205,Jenkins (jtj2),
+16651,IND,TBA,,,,
+16205,IND,TBA,,TBA TBA,Stedinger (jrs5),
+11731,IND,TBA,,,Richardson (rer26),
+11724,IND,TBA,,,Stedinger (jrs5),
+10520,IND,M,7:30p - 9:00p,TBA TBA,Vanek (fmv3), Richardson (rer26),
+10519,IND,TBA,,TBA TBA,Weber-Shirk (mw24),
+

@@ -1,0 +1,4 @@
+16312,SEM,TR,11:40a - 12:55p,IVS 103,Cudmore (dmc282),
+16311,SEM,TR,10:10a - 11:25a,URH 260,Streit (jrs238),
+16310,SEM,MWF,12:20p - 1:10p,URH G22,Matlis (cmm429),
+

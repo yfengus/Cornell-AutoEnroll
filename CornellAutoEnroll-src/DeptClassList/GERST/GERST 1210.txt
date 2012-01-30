@@ -1,0 +1,5 @@
+5459,DIS,MTWF,12:20p - 1:10p,WHT B14,Matthias (gm326),
+5458,DIS,MTWF,10:10a - 11:00a,URH G20,Taylor (njt38),
+5457,LEC,R,12:20p - 1:10p,WHT 110,Matthias (gm326),
+5456,LEC,R,11:15a - 12:05p,WHT 110,Matthias (gm326),
+

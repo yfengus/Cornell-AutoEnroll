@@ -1,0 +1,9 @@
+CAPS 3140,Hist Am Foreign Policy 1912-Pr,http://cornell.chequerd.com/courses/7605/CAPS/3140/
+CAPS 3403,China Under Revolution & Reform,http://cornell.chequerd.com/courses/8503/CAPS/3403/
+CAPS 3827,China and the World,http://cornell.chequerd.com/courses/10965/CAPS/3827/
+CAPS 4020,Honors Essay Tutorial II-,http://cornell.chequerd.com/courses/4495/CAPS/4020/
+CAPS 4030,Issues in China and Asia-Pacific Studies,http://cornell.chequerd.com/courses/7606/CAPS/4030/
+CAPS 4690,China's Economy under Mao and Deng,http://cornell.chequerd.com/courses/7608/CAPS/4690/
+CAPS 4827,Unifying While Integrating: China and the World,http://cornell.chequerd.com/courses/7609/CAPS/4827/
+CAPS 4999,CAPS Independent Study,http://cornell.chequerd.com/courses/4497/CAPS/4999/
+

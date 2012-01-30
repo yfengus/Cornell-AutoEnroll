@@ -1,0 +1,6 @@
+4044,DIS,F,2:00p - 4:25p,MRS 342,Imumorin (igi2),
+4043,DIS,R,2:00p - 4:25p,MRS 342,Imumorin (igi2),
+4042,DIS,W,2:00p - 4:25p,MRS 342,Imumorin (igi2),
+4041,DIS,T,2:00p - 4:25p,MRS 342,Imumorin (igi2),
+4040,LEC,TR,9:05a - 9:55a,MRS 146,Imumorin (igi2),
+

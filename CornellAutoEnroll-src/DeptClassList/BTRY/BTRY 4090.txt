@@ -1,0 +1,3 @@
+1568,DIS,F,12:20p - 1:10p,WRN 245,Diciccio (tjd9),
+1567,LEC,TR,10:10a - 11:25a,IVS 115,Diciccio (tjd9),
+

@@ -1,0 +1,3 @@
+5759,SEM,MWRF,1:25p - 2:15p,WHT B04,Glidja (ftg2),
+5758,SEM,MWRF,12:20p - 1:10p,WHT B04,Glidja (ftg2),
+

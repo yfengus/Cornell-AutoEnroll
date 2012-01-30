@@ -1,0 +1,8 @@
+15443,RSC,TBA,,TBA TBA,Wilks (dsw5),
+15442,RSC,TBA,,TBA TBA,Riha (sjr4),
+11626,RSC,TBA,,TBA TBA,Mahowald (nmm63),
+11236,RSC,TBA,,TBA TBA,Hess (pgh25),
+11235,RSC,TBA,,TBA TBA,Degaetano (atd2),
+11234,RSC,TBA,,TBA TBA,Colucci (sjc25),
+10643,RSC,TBA,,TBA TBA,Chen (gc352),
+

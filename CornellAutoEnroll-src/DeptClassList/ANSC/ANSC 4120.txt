@@ -1,0 +1,3 @@
+1030,LAB,T,1:25p - 4:25p,MRS 164,Ketterings (qmk2), Van Amburgh (mev1),
+1029,LEC,TR,11:15a - 12:05p,MRS 164,Ketterings (qmk2), Van Amburgh (mev1),
+

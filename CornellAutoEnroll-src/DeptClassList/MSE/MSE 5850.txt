@@ -1,0 +1,3 @@
+10686,LAB,M,3:35p - 4:25p,THR 203,Schlom (ds636),
+10685,LEC,MWF,10:10a - 11:00a,BRD 140,Schlom (ds636),
+

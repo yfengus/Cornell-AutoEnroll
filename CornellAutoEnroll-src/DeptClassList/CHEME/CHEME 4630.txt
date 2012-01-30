@@ -1,0 +1,6 @@
+16553,LAB,TBA,,,Hanrath (th358),
+16552,LAB,TBA,,,Hanrath (th358),
+16551,LAB,TBA,,,Hanrath (th358),
+16550,LAB,TBA,,,Hanrath (th358),
+16549,LEC,TR,10:10a - 11:00a,OLH 145,Hanrath (th358),
+

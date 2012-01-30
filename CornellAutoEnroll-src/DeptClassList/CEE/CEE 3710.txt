@@ -1,0 +1,4 @@
+10525,DIS,T,2:30p - 4:25p,HLS 320,Warner (dhw52),
+10524,DIS,M,2:30p - 4:25p,HLS 206,Warner (dhw52),
+10523,LEC,MW,8:40a - 9:55a,HLS 110,Warner (dhw52),
+

@@ -1,0 +1,30 @@
+EDUC 1111,Exploring Agricultural Education and Research,http://cornell.chequerd.com/courses/4973/EDUC/1111/
+EDUC 2110,Seminar in Agricultural Science Education,http://cornell.chequerd.com/courses/6913/EDUC/2110/
+EDUC 2210,Community Learning and Service Partnership,http://cornell.chequerd.com/courses/4974/EDUC/2210/
+EDUC 2400,The Art of Teaching,http://cornell.chequerd.com/courses/1567/EDUC/2400/
+EDUC 3310,Careers in Agriculture, Extension, and Adult Education,http://cornell.chequerd.com/courses/1570/EDUC/3310/
+EDUC 3350,Youth Organizations and Leadership Development for Agricultural Science Education,http://cornell.chequerd.com/courses/11016/EDUC/3350/
+EDUC 3405,Multicultural Issues in Education,http://cornell.chequerd.com/courses/11344/EDUC/3405/
+EDUC 4040,Learning and Teaching I,http://cornell.chequerd.com/courses/1571/EDUC/4040/
+EDUC 4200,Field Experience,http://cornell.chequerd.com/courses/1572/EDUC/4200/
+EDUC 4410,Language, Literacy, and Schooling,http://cornell.chequerd.com/courses/4976/EDUC/4410/
+EDUC 4940,Special Topics in Education,http://cornell.chequerd.com/courses/4977/EDUC/4940/
+EDUC 4970,Individual Study in Education,http://cornell.chequerd.com/courses/1576/EDUC/4970/
+EDUC 5020,Education and Development in Africa,http://cornell.chequerd.com/courses/4978/EDUC/5020/
+EDUC 5350,Youth Organizations for Agricultural Science Education,http://cornell.chequerd.com/courses/4980/EDUC/5350/
+EDUC 5440,Curriculum and Instruction,http://cornell.chequerd.com/courses/4981/EDUC/5440/
+EDUC 6010,Secondary Agriculture, Science, and Mathematics Teaching Practicum,http://cornell.chequerd.com/courses/1584/EDUC/6010/
+EDUC 6020,Practicum Seminar,http://cornell.chequerd.com/courses/1585/EDUC/6020/
+EDUC 6200,Internship In Education,http://cornell.chequerd.com/courses/1588/EDUC/6200/
+EDUC 6940,Special Topics in Education,http://cornell.chequerd.com/courses/1592/EDUC/6940/
+EDUC 6970,Graduate Individual Study in Education,http://cornell.chequerd.com/courses/1593/EDUC/6970/
+EDUC 6980,Graduate Supervised Teaching Education,http://cornell.chequerd.com/courses/1594/EDUC/6980/
+EDUC 7000,Directed Readings,http://cornell.chequerd.com/courses/1595/EDUC/7000/
+EDUC 7010,Empirical Research,http://cornell.chequerd.com/courses/1596/EDUC/7010/
+EDUC 7020,Practicum,http://cornell.chequerd.com/courses/1597/EDUC/7020/
+EDUC 7030,Teaching Assistantship,http://cornell.chequerd.com/courses/1598/EDUC/7030/
+EDUC 7040,Research Assistantship,http://cornell.chequerd.com/courses/1599/EDUC/7040/
+EDUC 7050,Extension Assistantship,http://cornell.chequerd.com/courses/1600/EDUC/7050/
+EDUC 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/1602/EDUC/8900/
+EDUC 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/1603/EDUC/9900/
+

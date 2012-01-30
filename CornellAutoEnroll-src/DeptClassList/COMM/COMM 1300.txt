@@ -1,0 +1,8 @@
+1658,DIS,F,2:20p - 4:25p,KND 211,Scherer (cws4),
+1657,DIS,F,12:20p - 2:15p,KND 211,Scherer (cws4),
+1656,DIS,F,12:20p - 2:15p,MRS 334,Scherer (cws4),
+1655,DIS,M,12:20p - 2:15p,MRS 163,Scherer (cws4),
+1653,DIS,M,12:20p - 2:15p,PLS 143,Scherer (cws4),
+1652,DIS,M,10:10a - 12:05p,PLS 143,Scherer (cws4),
+1651,LEC,TR,9:05a - 9:55a,PLS 233,Scherer (cws4),
+

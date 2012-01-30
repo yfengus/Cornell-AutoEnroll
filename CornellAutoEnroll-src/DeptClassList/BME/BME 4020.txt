@@ -1,0 +1,5 @@
+10491,LAB,F,1:25p - 4:25p,TBA TBA,Archer (sda4), King (cak57),
+10490,LAB,R,1:25p - 4:25p,TBA TBA,Archer (sda4), King (cak57),
+10489,LAB,W,1:25p - 4:25p,TBA TBA,Archer (sda4), King (cak57),
+10488,LEC,TR,11:40a - 12:55p,PHL 219,Archer (sda4), King (cak57),
+

@@ -1,0 +1,17 @@
+HE 1115,Critical Reading & Thinking,http://cornell.chequerd.com/courses/8674/HE/1115/
+HE 1121,Effective Learning Practicum,http://cornell.chequerd.com/courses/11310/HE/1121/
+HE 3920,New York State Government Affairs: Capital Semester in Albany,http://cornell.chequerd.com/courses/2121/HE/3920/
+HE 4020,Supervised Fieldwork,http://cornell.chequerd.com/courses/7051/HE/4020/
+HE 4040,Human Ecology Exchange Program,http://cornell.chequerd.com/courses/7052/HE/4040/
+HE 4050,Mentoring for Advanced Leadership,http://cornell.chequerd.com/courses/2124/HE/4050/
+HE 4800,Communities in Multicultural Practice,http://cornell.chequerd.com/courses/2126/HE/4800/
+HE 4900,Multicultural Practice,http://cornell.chequerd.com/courses/2127/HE/4900/
+HE 4901,Medical Anthropology,http://cornell.chequerd.com/courses/10849/HE/4901/
+HE 4902,Professional Practice and the World of Medicine,http://cornell.chequerd.com/courses/10850/HE/4902/
+HE 4903,Community Participation and Service in North Brooklyn,http://cornell.chequerd.com/courses/10851/HE/4903/
+HE 4921,Experienced Based Learning in Private and Public Sectors,http://cornell.chequerd.com/courses/10852/HE/4921/
+HE 4922,Action Inquiry in Service with Community,http://cornell.chequerd.com/courses/10853/HE/4922/
+HE 4923,Service, Professional Practice and Leadership,http://cornell.chequerd.com/courses/10854/HE/4923/
+HE 4950,Culture, Medicine, and Professional Practice in a Diverse World,http://cornell.chequerd.com/courses/2128/HE/4950/
+HE 4992,Honors Project II,http://cornell.chequerd.com/courses/5306/HE/4992/
+

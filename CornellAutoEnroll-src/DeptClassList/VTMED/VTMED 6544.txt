@@ -1,0 +1,3 @@
+13802,LEC,T,8:00a - 10:00a,VRT T1003,Kraus (msk16),
+13802,LEC,MT,3:00p - 7:00p,VEC S1165,Kraus (msk16),
+

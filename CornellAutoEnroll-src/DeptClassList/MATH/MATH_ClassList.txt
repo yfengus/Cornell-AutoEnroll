@@ -1,0 +1,64 @@
+MATH 1006,Academic Support for Math 1106,http://cornell.chequerd.com/courses/5715/MATH/1006/
+MATH 1011,Academic Support for Math 1110,http://cornell.chequerd.com/courses/2731/MATH/1011/
+MATH 1012,Academic Support for Math 1120,http://cornell.chequerd.com/courses/2732/MATH/1012/
+MATH 1101,Calculus Preparation,http://cornell.chequerd.com/courses/8809/MATH/1101/
+MATH 1106,Calculus for the Life and Social Sciences,http://cornell.chequerd.com/courses/5716/MATH/1106/
+MATH 1110,Calculus I,http://cornell.chequerd.com/courses/2734/MATH/1110/
+MATH 1120,Calculus II,http://cornell.chequerd.com/courses/2735/MATH/1120/
+MATH 1340,Mathematics and Politics,http://cornell.chequerd.com/courses/2738/MATH/1340/
+MATH 1600,Totally Awesome Mathematics,http://cornell.chequerd.com/courses/5717/MATH/1600/
+MATH 1710,Statistical Theory and Application in the Real World,http://cornell.chequerd.com/courses/2740/MATH/1710/
+MATH 1910,Calculus for Engineers,http://cornell.chequerd.com/courses/2741/MATH/1910/
+MATH 1920,Multivariable Calculus Engrs,http://cornell.chequerd.com/courses/2742/MATH/1920/
+MATH 2130,Calculus III,http://cornell.chequerd.com/courses/2743/MATH/2130/
+MATH 2210,Linear Algebra,http://cornell.chequerd.com/courses/2744/MATH/2210/
+MATH 2220,Multivariable Calculus,http://cornell.chequerd.com/courses/2745/MATH/2220/
+MATH 2240,Theoretical Linear Algebra and Calculus,http://cornell.chequerd.com/courses/5719/MATH/2240/
+MATH 2310,Linear Algebra with Applications,http://cornell.chequerd.com/courses/2747/MATH/2310/
+MATH 2930,Differential Equations Engrs,http://cornell.chequerd.com/courses/2748/MATH/2930/
+MATH 2940,Linear Algebra for Engineers,http://cornell.chequerd.com/courses/2749/MATH/2940/
+MATH 3040,Prove It,http://cornell.chequerd.com/courses/5721/MATH/3040/
+MATH 3110,Introduction to Analysis,http://cornell.chequerd.com/courses/2750/MATH/3110/
+MATH 3230,Introduction to Differential Equations,http://cornell.chequerd.com/courses/2752/MATH/3230/
+MATH 3360,Applicable Algebra,http://cornell.chequerd.com/courses/5722/MATH/3360/
+MATH 4130,Honors Introduction to Analysis I,http://cornell.chequerd.com/courses/2754/MATH/4130/
+MATH 4140,Honors Introduction Analysis II,http://cornell.chequerd.com/courses/5726/MATH/4140/
+MATH 4180,Introduction to the Theory of Functions of One Complex Variable,http://cornell.chequerd.com/courses/5727/MATH/4180/
+MATH 4280,Introduction to Partial Differential Equations,http://cornell.chequerd.com/courses/5731/MATH/4280/
+MATH 4320,Introduction to Algebra,http://cornell.chequerd.com/courses/5732/MATH/4320/
+MATH 4340,Honors Introduction to Algebra,http://cornell.chequerd.com/courses/5733/MATH/4340/
+MATH 4370,Computational Algebra,http://cornell.chequerd.com/courses/5734/MATH/4370/
+MATH 4420,Introduction to Combinatorics II,http://cornell.chequerd.com/courses/8062/MATH/4420/
+MATH 4500,Matrix Groups,http://cornell.chequerd.com/courses/2760/MATH/4500/
+MATH 4540,Introduction to Differential Geometry,http://cornell.chequerd.com/courses/5735/MATH/4540/
+MATH 4720,Statistics,http://cornell.chequerd.com/courses/5737/MATH/4720/
+MATH 4740,Stochastic Processes,http://cornell.chequerd.com/courses/5738/MATH/4740/
+MATH 4900,Independent Study,http://cornell.chequerd.com/courses/2764/MATH/4900/
+MATH 4901,Supervised Reading,http://cornell.chequerd.com/courses/10634/MATH/4901/
+MATH 5080,Mathematics for Secondary School Teachers,http://cornell.chequerd.com/courses/2765/MATH/5080/
+MATH 6120,Complex Analysis,http://cornell.chequerd.com/courses/5741/MATH/6120/
+MATH 6200,Partial Differential Equations,http://cornell.chequerd.com/courses/8065/MATH/6200/
+MATH 6220,Applied Functional Analysis,http://cornell.chequerd.com/courses/5743/MATH/6220/
+MATH 6320,Algebra,http://cornell.chequerd.com/courses/5744/MATH/6320/
+MATH 6410,Enumerative Combinatorics,http://cornell.chequerd.com/courses/11211/MATH/6410/
+MATH 6500,Lie Groups,http://cornell.chequerd.com/courses/8067/MATH/6500/
+MATH 6510,Introductory Algebraic Topology,http://cornell.chequerd.com/courses/5746/MATH/6510/
+MATH 6620,Riemannian Geometry,http://cornell.chequerd.com/courses/8068/MATH/6620/
+MATH 6720,Probability Theory II,http://cornell.chequerd.com/courses/5747/MATH/6720/
+MATH 6740,Introduction to Mathematical Statistics,http://cornell.chequerd.com/courses/5748/MATH/6740/
+MATH 7120,Seminar In Analysis,http://cornell.chequerd.com/courses/5750/MATH/7120/
+MATH 7130,Functional Analysis,http://cornell.chequerd.com/courses/8069/MATH/7130/
+MATH 7290,Seminar on Scientific Computing and Numerics,http://cornell.chequerd.com/courses/8070/MATH/7290/
+MATH 7310,Seminar In Algebra,http://cornell.chequerd.com/courses/2775/MATH/7310/
+MATH 7320,Seminar In Algebra,http://cornell.chequerd.com/courses/9549/MATH/7320/
+MATH 7350,Topics in Algebra,http://cornell.chequerd.com/courses/2776/MATH/7350/
+MATH 7390,Topics In Algebra,http://cornell.chequerd.com/courses/2777/MATH/7390/
+MATH 7520,Berstein Seminar In Topology,http://cornell.chequerd.com/courses/5753/MATH/7520/
+MATH 7560,Topology and Geometric Group Theory Seminar,http://cornell.chequerd.com/courses/5754/MATH/7560/
+MATH 7580,Topics In Topology,http://cornell.chequerd.com/courses/5755/MATH/7580/
+MATH 7670,Algebraic Geometry,http://cornell.chequerd.com/courses/5757/MATH/7670/
+MATH 7720,Seminar in Probability and Statistics,http://cornell.chequerd.com/courses/5758/MATH/7720/
+MATH 7820,Seminar In Logic,http://cornell.chequerd.com/courses/5759/MATH/7820/
+MATH 7830,Model Theory,http://cornell.chequerd.com/courses/8072/MATH/7830/
+MATH 7900,Supervised Reading & Research,http://cornell.chequerd.com/courses/2790/MATH/7900/
+

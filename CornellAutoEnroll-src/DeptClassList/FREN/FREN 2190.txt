@@ -1,0 +1,4 @@
+5776,SEM,MWF,12:20p - 1:10p,URH 312,LoBello (sl229),
+5775,SEM,MWF,11:15a - 12:05p,URH 260,Houze (bjh236),
+5774,SEM,MWF,10:10a - 11:00a,URH 260,Houze (bjh236),
+

@@ -1,0 +1,5 @@
+16352,LEC,TBA,,,Krall (dwk5),
+16185,LEC,M,10:10a - 12:05p,KND 462,Cerra (jfc299),
+16185,LEC,F,10:10a - 11:00a,KND 462,Cerra (jfc299),
+2277,LEC,TBA,,,Miller (mlm78),
+

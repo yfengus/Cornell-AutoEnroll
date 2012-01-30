@@ -1,0 +1,6 @@
+15196,DIS,F,2:55p - 4:10p,HLS 401,Manohar (rm92),
+15195,DIS,R,2:55p - 4:10p,HLS 368,Manohar (rm92),
+15194,DIS,W,3:35p - 4:50p,PHL 403,Manohar (rm92),
+15193,DIS,T,2:55p - 4:10p,SNE 1120,Manohar (rm92),
+15192,LEC,TR,1:25p - 2:40p,KMB B11,Manohar (rm92),
+

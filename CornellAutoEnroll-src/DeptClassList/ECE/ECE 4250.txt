@@ -1,0 +1,5 @@
+11545,LAB,R,2:00p - 4:25p,TBA TBA,Hemami (ssh10),
+11544,LAB,W,2:00p - 4:25p,TBA TBA,Hemami (ssh10),
+11543,LAB,T,2:00p - 4:25p,TBA TBA,Hemami (ssh10),
+11541,LEC,TR,10:10a - 11:25a,PHL 407,Hemami (ssh10),
+

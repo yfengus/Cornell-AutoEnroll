@@ -1,0 +1,13 @@
+4719,RSC,TBA,,,Niederdeppe (jdn56),
+1759,RSC,TBA,,,Yuan (yy239),
+1758,RSC,TBA,,,Shapiro (mas29),
+1757,RSC,TBA,,,Scherer (cws4),
+1756,RSC,TBA,,,McComas (kam19),
+1755,RSC,TBA,,,McLeod (plm29),
+1754,RSC,TBA,,,Lewenstein (bvl1),
+1753,RSC,TBA,,,Hancock (jth34),
+1752,RSC,TBA,,,Gillespie (tlg28),
+1751,RSC,TBA,,,Gay (gkg1),
+1750,RSC,TBA,,,Byrne (seb272),
+1749,RSC,TBA,,,Birnholtz (jpb277),
+

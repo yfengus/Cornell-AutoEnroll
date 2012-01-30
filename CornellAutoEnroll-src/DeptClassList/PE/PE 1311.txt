@@ -1,0 +1,4 @@
+9082,LEC,W,3:15p - 5:30p,BTL B22,Gaulke (jg338),
+9081,LEC,T,3:15p - 5:30p,BTL B22,Gaulke (jg338),
+9080,LEC,M,3:15p - 5:30p,BTL B22,Gaulke (jg338),
+

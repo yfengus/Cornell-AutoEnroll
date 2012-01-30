@@ -1,0 +1,5 @@
+ROMS 1103,FWS:Perspectives on Macho Madness,http://cornell.chequerd.com/courses/10744/ROMS/1103/
+ROMS 1104,FWS: Violence and Humanity in Spanish and Latin American Fiction,http://cornell.chequerd.com/courses/3596/ROMS/1104/
+ROMS 1112,FWS:The Divine Comedy:Ethics of the Afterlife,http://cornell.chequerd.com/courses/11387/ROMS/1112/
+ROMS 5070,Methodology of Romance Language Learning and Teaching,http://cornell.chequerd.com/courses/6219/ROMS/5070/
+

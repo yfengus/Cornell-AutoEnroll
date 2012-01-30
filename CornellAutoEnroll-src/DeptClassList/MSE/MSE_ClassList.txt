@@ -1,0 +1,33 @@
+MSE 1010,Supplemental Study, MSE Majors,http://cornell.chequerd.com/courses/5769/MSE/1010/
+MSE 1140,Materials: Enabling the Future of Energy,http://cornell.chequerd.com/courses/8073/MSE/1140/
+MSE 2060,Atomic and Molecular Structure of Matter,http://cornell.chequerd.com/courses/5772/MSE/2060/
+MSE 2620,Electronic Materials for the Information Age,http://cornell.chequerd.com/courses/5773/MSE/2620/
+MSE 2920,Research Involvement IIB,http://cornell.chequerd.com/courses/5774/MSE/2920/
+MSE 3040,Kinetics, Diffusion, and Phase Transformation,http://cornell.chequerd.com/courses/5775/MSE/3040/
+MSE 3050,Electronic, Magnetic and Dielectric Properties of Materials,http://cornell.chequerd.com/courses/5776/MSE/3050/
+MSE 3120,Junior Laboratory II,http://cornell.chequerd.com/courses/5777/MSE/3120/
+MSE 3920,Research Involvement IIIb,http://cornell.chequerd.com/courses/5778/MSE/3920/
+MSE 4030,Senior Materials Laboratory I,http://cornell.chequerd.com/courses/2820/MSE/4030/
+MSE 4060,Senior Experimental Thesis II,http://cornell.chequerd.com/courses/5780/MSE/4060/
+MSE 4070,Materials Design Concepts II,http://cornell.chequerd.com/courses/2822/MSE/4070/
+MSE 4330,Materials for Energy Production, Storage, and Conversion,http://cornell.chequerd.com/courses/7200/MSE/4330/
+MSE 4610,Biomedical Materials and Their Applications,http://cornell.chequerd.com/courses/5781/MSE/4610/
+MSE 4900,Independent Study in MSE,http://cornell.chequerd.com/courses/5783/MSE/4900/
+MSE 4920,Research Involvement IVa and IVb,http://cornell.chequerd.com/courses/5784/MSE/4920/
+MSE 4950,Undergraduate Teaching Involvement,http://cornell.chequerd.com/courses/2825/MSE/4950/
+MSE 5010,Special Project,http://cornell.chequerd.com/courses/2826/MSE/5010/
+MSE 5020,Special Project,http://cornell.chequerd.com/courses/2827/MSE/5020/
+MSE 5120,Mechanical Properties of Thin Films,http://cornell.chequerd.com/courses/5785/MSE/5120/
+MSE 5330,Materials for Energy Production, Storage, and Conversion,http://cornell.chequerd.com/courses/7201/MSE/5330/
+MSE 5410,Nanofabrication of Semiconductor Devices,http://cornell.chequerd.com/courses/2829/MSE/5410/
+MSE 5620,Biomineralization: The Formation and Properties of Inorganic Biomaterials,http://cornell.chequerd.com/courses/5788/MSE/5620/
+MSE 5710,Analytical Techniques for Material Science,http://cornell.chequerd.com/courses/8076/MSE/5710/
+MSE 5840,Kinetics, Diffusion, and Phase Transformation,http://cornell.chequerd.com/courses/5789/MSE/5840/
+MSE 5850,Electronic, Magnetic, and Dielectric Properties of Materials,http://cornell.chequerd.com/courses/5790/MSE/5850/
+MSE 6010,Chemistry of Materials,http://cornell.chequerd.com/courses/8077/MSE/6010/
+MSE 6550,Composite Materials,http://cornell.chequerd.com/courses/5795/MSE/6550/
+MSE 6710,Principles of Diffraction,http://cornell.chequerd.com/courses/11215/MSE/6710/
+MSE 8000,Research in Materials Science,http://cornell.chequerd.com/courses/2840/MSE/8000/
+MSE 8010,Materials Science and Engineering Colloquium,http://cornell.chequerd.com/courses/2841/MSE/8010/
+MSE 8020,Materials Science Research Seminars,http://cornell.chequerd.com/courses/2842/MSE/8020/
+

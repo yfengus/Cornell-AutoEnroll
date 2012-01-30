@@ -1,0 +1,5 @@
+9095,LEC,S,12:01a - 11:59p,BTL B01,Holton (mh45), Leeming (csl45), Woodin (akw2),
+9095,LEC,S,1:00p - 5:00p,BTL B01,Holton (mh45), Leeming (csl45), Woodin (akw2),
+9095,LEC,F,5:00p - 11:59p,BTL B01,Holton (mh45), Leeming (csl45), Woodin (akw2),
+9095,LEC,U,12:01a - 4:00p,,Holton (mh45), Leeming (csl45), Woodin (akw2),
+

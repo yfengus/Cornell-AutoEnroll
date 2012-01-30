@@ -1,0 +1,9 @@
+15086,LEC,U,,,Peck (nhp7),
+15086,LEC,M,4:25p - 7:10p,SGH B05,Peck (nhp7),
+15085,LEC,U,,,Peck (nhp7),
+15085,LEC,W,8:40a - 11:25a,SGH B09,Peck (nhp7),
+15084,LEC,U,,,Peck (nhp7),
+15084,LEC,T,4:25p - 7:10p,SGH B10,Peck (nhp7),
+14231,LEC,U,,,Peck (nhp7),
+14231,LEC,T,1:25p - 4:10p,SGH B10,Peck (nhp7),
+

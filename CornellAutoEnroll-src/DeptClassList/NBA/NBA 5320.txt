@@ -1,0 +1,4 @@
+14230,LEC,U,9:00a - 12:00p,SGH B09,BenDaniel (djb16),
+14230,LEC,F,1:25p - 5:45p,SGH B09,BenDaniel (djb16),
+14230,LEC,S,8:00a - 4:00p,SGH B09,BenDaniel (djb16),
+

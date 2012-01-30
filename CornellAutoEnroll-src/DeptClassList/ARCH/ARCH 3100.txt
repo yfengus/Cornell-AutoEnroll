@@ -1,0 +1,3 @@
+5195,STU,R,2:00p - 4:00p,,Zissovici (jez2),
+5195,STU,M,9:00a - 1:00p,,Zissovici (jez2),
+

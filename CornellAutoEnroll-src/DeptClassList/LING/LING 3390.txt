@@ -1,0 +1,12 @@
+14262,IND,TBA,,,Zec (dz17),
+8247,IND,TBA,,,Rooth (mr249),
+14261,IND,TBA,,,Tilsen (st657),
+7686,IND,TBA,,,Nussbaum (ajn8),
+14259,IND,TBA,,,Murray (sem269),
+7685,IND,TBA,,,Harbert (weh2),
+14258,IND,TBA,,,Diesing (md20),
+7683,IND,TBA,,,Cohn (acc4),
+7682,IND,TBA,,,Browne (ewb2),
+14257,IND,TBA,,,Bowers (jsb2),
+14255,IND,TBA,,,Abusch (da45),
+

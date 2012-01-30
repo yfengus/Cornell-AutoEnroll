@@ -1,0 +1,12 @@
+4947,STU,TBA,,,Bertoia (rgb4),
+4946,STU,TBA,,,Ashkin (ma352),
+5280,STU,TBA,,,Taft (wst4),
+4955,STU,TBA,,,Rickard (jkr33),
+4954,STU,TBA,,,Perlus (bap8),
+4953,STU,TBA,,,Park (myp4),
+4952,STU,TBA,,,Page (gp23),
+4951,STU,TBA,,,Ostendarp (cao24),
+4950,STU,TBA,,,Meyer (ehm2),
+4949,STU,TBA,,,McGrain (tvm4),
+4948,STU,TBA,,,Locey (jnl2),
+

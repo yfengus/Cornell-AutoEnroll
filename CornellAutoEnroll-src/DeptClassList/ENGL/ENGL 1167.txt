@@ -1,0 +1,8 @@
+16755,SEM,TR,1:25p - 2:40p,GSH 236,Gilbert (rsg2),
+16282,SEM,MWF,12:20p - 1:10p,GSH 236,Garcia (bag73),
+16281,SEM,TR,8:40a - 9:55a,GSH 236,Green (crg95),
+16280,SEM,MW,7:30p - 8:45p,GSH 144,Mao (wm237),
+16279,SEM,TR,1:25p - 2:40p,GSH 350,Adams (jra223),
+16278,SEM,MWF,9:05a - 9:55a,BAL 3343,Friedman (naf33),
+16277,SEM,MW,8:40a - 9:55a,RCK 187,Gawad (amg362),
+

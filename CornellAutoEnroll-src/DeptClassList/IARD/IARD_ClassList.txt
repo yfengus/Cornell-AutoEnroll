@@ -1,0 +1,17 @@
+IARD 4010,Experience Latin America: Rural and Urban Realities I,http://cornell.chequerd.com/courses/2271/IARD/4010/
+IARD 4910,Food, Farming, and Personal Beliefs,http://cornell.chequerd.com/courses/5402/IARD/4910/
+IARD 4940,Special Topics in International Agriculture and Rural Development,http://cornell.chequerd.com/courses/11161/IARD/4940/
+IARD 4960,International Internship,http://cornell.chequerd.com/courses/2276/IARD/4960/
+IARD 4970,Independent Study in IARD or LATA,http://cornell.chequerd.com/courses/2277/IARD/4970/
+IARD 5970,MPS Independent Study in IARD,http://cornell.chequerd.com/courses/7960/IARD/5970/
+IARD 5980,International Development M.P.S. Project Paper,http://cornell.chequerd.com/courses/2278/IARD/5980/
+IARD 5990,International Agriculture and Rural Development M.P.S. Project Paper,http://cornell.chequerd.com/courses/2279/IARD/5990/
+IARD 6020,Agriculture in the Developing Nations II,http://cornell.chequerd.com/courses/5404/IARD/6020/
+IARD 6030,Planning and Management of Agriculture and Rural Development,http://cornell.chequerd.com/courses/5405/IARD/6030/
+IARD 6180,System Dynamics Applications,http://cornell.chequerd.com/courses/9468/IARD/6180/
+IARD 6760,Professional Skills Development Seminar II,http://cornell.chequerd.com/courses/9469/IARD/6760/
+IARD 6940,Graduate Special Topics in IARD,http://cornell.chequerd.com/courses/5407/IARD/6940/
+IARD 6960,Agroecological Perspectives for Sustainable Development,http://cornell.chequerd.com/courses/2280/IARD/6960/
+IARD 6970,International Development M.P.S. Seminar,http://cornell.chequerd.com/courses/2281/IARD/6970/
+IARD 6990,MPS International Agriculture and Rural Development M.P.S. Project Seminar,http://cornell.chequerd.com/courses/2282/IARD/6990/
+

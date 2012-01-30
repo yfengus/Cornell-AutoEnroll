@@ -1,0 +1,26 @@
+FSAD 1140,Introduction to Computer-Aided Design,http://cornell.chequerd.com/courses/1877/FSAD/1140/
+FSAD 2370,Structural Fabric Design,http://cornell.chequerd.com/courses/1880/FSAD/2370/
+FSAD 2640,Draping,http://cornell.chequerd.com/courses/1881/FSAD/2640/
+FSAD 2660,Apparel Design: Product Development,http://cornell.chequerd.com/courses/5158/FSAD/2660/
+FSAD 3000,Special Studies for Undergraduates,http://cornell.chequerd.com/courses/1882/FSAD/3000/
+FSAD 3250,Color and Surface Design of Textiles,http://cornell.chequerd.com/courses/1883/FSAD/3250/
+FSAD 3320,Product Quality Assessment,http://cornell.chequerd.com/courses/8637/FSAD/3320/
+FSAD 3350,Fiber Science,http://cornell.chequerd.com/courses/6995/FSAD/3350/
+FSAD 3460,Design Process,http://cornell.chequerd.com/courses/1884/FSAD/3460/
+FSAD 3550,Active SportswearDesign,http://cornell.chequerd.com/courses/11309/FSAD/3550/
+FSAD 3690,Style, Fashion, and the Apparel Industry,http://cornell.chequerd.com/courses/1885/FSAD/3690/
+FSAD 4000,Directed Readings,http://cornell.chequerd.com/courses/1886/FSAD/4000/
+FSAD 4010,Empirical Research,http://cornell.chequerd.com/courses/1887/FSAD/4010/
+FSAD 4020,Supervised Fieldwork,http://cornell.chequerd.com/courses/1888/FSAD/4020/
+FSAD 4030,Teaching Apprenticeship,http://cornell.chequerd.com/courses/1889/FSAD/4030/
+FSAD 4360,Fiber Chemistry,http://cornell.chequerd.com/courses/7841/FSAD/4360/
+FSAD 4390,Biomedical Materials and Devices for Human Body Repair,http://cornell.chequerd.com/courses/5162/FSAD/4390/
+FSAD 4700,Fashion Presentation: Portfolio Development,http://cornell.chequerd.com/courses/1892/FSAD/4700/
+FSAD 4990,Honors Thesis Research,http://cornell.chequerd.com/courses/1893/FSAD/4990/
+FSAD 6000,Special Problems Grads,http://cornell.chequerd.com/courses/1894/FSAD/6000/
+FSAD 6370,Research Seminar: Apparel Design,http://cornell.chequerd.com/courses/1895/FSAD/6370/
+FSAD 6660,Fiber Formation: Theory and Practice,http://cornell.chequerd.com/courses/7842/FSAD/6660/
+FSAD 6700,Fashion Theory,http://cornell.chequerd.com/courses/6997/FSAD/6700/
+FSAD 8990,Master's Thesis and Research,http://cornell.chequerd.com/courses/1901/FSAD/8990/
+FSAD 9990,Doctoral Thesis and Research,http://cornell.chequerd.com/courses/1902/FSAD/9990/
+

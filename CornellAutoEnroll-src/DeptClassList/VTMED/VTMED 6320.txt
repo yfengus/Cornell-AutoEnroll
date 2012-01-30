@@ -1,0 +1,8 @@
+16070,LAB,TBA,,,Stokol (ts23),
+16069,DIS,F,1:30p - 3:30p,SRM S1017,Stokol (ts23),
+16068,DIS,F,10:00a - 12:00p,CLS C2539,Stokol (ts23),
+16067,DIS,F,10:00a - 12:00p,SRM S1017,Stokol (ts23),
+13595,LEC,T,10:00a - 12:00p,BSC S2067,Stokol (ts23),
+13595,LEC,T,9:00a - 10:00a,VEC S1165,Stokol (ts23),
+13595,LEC,M,10:00a - 11:00a,VEC S1165,Stokol (ts23),
+

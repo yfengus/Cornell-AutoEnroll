@@ -1,0 +1,3 @@
+13615,LAB,W,10:00a - 12:00p,BSC S2069B,Bowser (prb4),
+13591,LEC,W,9:00a - 10:00a,,Bowser (prb4),
+

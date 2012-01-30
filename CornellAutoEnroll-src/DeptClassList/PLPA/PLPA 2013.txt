@@ -1,0 +1,5 @@
+4617,DIS,F,11:15a - 12:05p,PLS 326,Hudler (gwh2),
+4064,DIS,F,10:10a - 11:05a,PLS 326,Hudler (gwh2),
+3841,DIS,F,9:05a - 9:55a,PLS 326,Hudler (gwh2),
+3840,LEC,TR,10:10a - 11:00a,KND 116,Hudler (gwh2),
+

@@ -1,0 +1,7 @@
+AAS 1100,Introduction to Asian American Studies,http://cornell.chequerd.com/courses/3980/AAS/1100/
+AAS 2100,South Asian Diaspora,http://cornell.chequerd.com/courses/10861/AAS/2100/
+AAS 2620,Asian American Literature,http://cornell.chequerd.com/courses/3981/AAS/2620/
+AAS 4310,Mind,Self,and Emotion,http://cornell.chequerd.com/courses/3984/AAS/4310/
+AAS 4550,Race and the University,http://cornell.chequerd.com/courses/10862/AAS/4550/
+AAS 4950,Independent Study,http://cornell.chequerd.com/courses/25/AAS/4950/
+

@@ -1,0 +1,3 @@
+14464,LEC,R,11:55a - 2:40p,SGH B06,Martin (srm238), Detert (jrd239),
+14463,LEC,T,11:55a - 2:40p,SGH B06,Detert (jrd239), Martin (srm238),
+

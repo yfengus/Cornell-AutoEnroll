@@ -1,0 +1,6 @@
+7707,DIS,W,2:30p - 3:20p,RCK 104,Law (jml16),
+7706,DIS,W,1:25p - 2:15p,URH 204,Law (jml16),
+7705,DIS,W,2:30p - 3:20p,RCK 127,Law (jml16),
+7704,DIS,W,1:25p - 2:15p,RCK 231,Law (jml16),
+7703,LEC,MW,12:20p - 1:10p,GSH 132,Law (jml16),
+

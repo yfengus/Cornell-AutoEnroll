@@ -1,0 +1,3 @@
+5277,STU,TR,1:25p - 4:25p,TJN B23,Page (gp23),
+5276,STU,MW,8:00a - 11:00a,TJN B04,Meyer (ehm2),
+

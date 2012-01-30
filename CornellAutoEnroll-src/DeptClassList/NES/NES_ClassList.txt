@@ -1,0 +1,46 @@
+NES 1102,Elementary Modern Hebrew II,http://cornell.chequerd.com/courses/5896/NES/1102/
+NES 1202,Elementary Arabic II,http://cornell.chequerd.com/courses/5897/NES/1202/
+NES 1312,Intoduction to Urdu Script,http://cornell.chequerd.com/courses/2979/NES/1312/
+NES 1321,Elementary Persian II,http://cornell.chequerd.com/courses/5898/NES/1321/
+NES 1331,Elementary Turkish II,http://cornell.chequerd.com/courses/5899/NES/1331/
+NES 1950,FWS: Many New Testaments: Early Christian Texts, Manuscripts & Their Arguments,http://cornell.chequerd.com/courses/11335/NES/1950/
+NES 1967,FWS:Law, Society & Culture in the Middle East,http://cornell.chequerd.com/courses/9679/NES/1967/
+NES 2100,Intermediate Modern Hebrew II,http://cornell.chequerd.com/courses/5901/NES/2100/
+NES 2200,Intermediate Arabic II,http://cornell.chequerd.com/courses/5902/NES/2200/
+NES 2202,Intermediate Urdu,http://cornell.chequerd.com/courses/5903/NES/2202/
+NES 2204,Introduction to Quranic Arabic,http://cornell.chequerd.com/courses/5904/NES/2204/
+NES 2205,Developing Arabic Writing Skills,http://cornell.chequerd.com/courses/11228/NES/2205/
+NES 2322,Intermediate Persian II,http://cornell.chequerd.com/courses/5906/NES/2322/
+NES 2530,Cultures of the Middle Ages,http://cornell.chequerd.com/courses/11229/NES/2530/
+NES 2556,Introduction to the Quran,http://cornell.chequerd.com/courses/11230/NES/2556/
+NES 2610,Archaeology of the Ancient Near East,http://cornell.chequerd.com/courses/11231/NES/2610/
+NES 2616,Iran and the World,http://cornell.chequerd.com/courses/2986/NES/2616/
+NES 2688,Cleopatra's Egypt: Tradition and Transformation,http://cornell.chequerd.com/courses/11232/NES/2688/
+NES 2728,Introduction to Modern Middle Eastern Literature,http://cornell.chequerd.com/courses/8107/NES/2728/
+NES 3102,Advanced Modern Hebrew II,http://cornell.chequerd.com/courses/5911/NES/3102/
+NES 3105,Conversational Hebrew,http://cornell.chequerd.com/courses/7223/NES/3105/
+NES 3202,Advanced Intermediate Arabic II,http://cornell.chequerd.com/courses/5912/NES/3202/
+NES 3205,Advanced Arabic Literature,http://cornell.chequerd.com/courses/8108/NES/3205/
+NES 3207,Current Events (IAP),http://cornell.chequerd.com/courses/8109/NES/3207/
+NES 3208,Arabic Reading & Writing: From the Sentence to the Paragraph (IAP),http://cornell.chequerd.com/courses/11399/NES/3208/
+NES 3213,Intro Jordanian Society (IAP),http://cornell.chequerd.com/courses/8110/NES/3213/
+NES 3411,Elementary Akkadian II,http://cornell.chequerd.com/courses/5914/NES/3411/
+NES 3588,Biblical Archaeology,http://cornell.chequerd.com/courses/8112/NES/3588/
+NES 3658,History of Iran,http://cornell.chequerd.com/courses/5920/NES/3658/
+NES 3677,Search For The Historical Muhammad,http://cornell.chequerd.com/courses/8114/NES/3677/
+NES 3914,Middle Eastern Music Ensemble,http://cornell.chequerd.com/courses/3003/NES/3914/
+NES 4102,Readings in the Biblical Hebrew Prose,http://cornell.chequerd.com/courses/7230/NES/4102/
+NES 4512,Slavery & Human Bondage in the Ancient Near East,http://cornell.chequerd.com/courses/11234/NES/4512/
+NES 4525,Palestinians in Israel,http://cornell.chequerd.com/courses/8835/NES/4525/
+NES 4544,Ceramic Analysis for Archaeology,http://cornell.chequerd.com/courses/11235/NES/4544/
+NES 4560,Theory and Method in Near Eastern Study,http://cornell.chequerd.com/courses/5925/NES/4560/
+NES 4700,Methods in Medieval,http://cornell.chequerd.com/courses/10484/NES/4700/
+NES 4962,Islamic Aural Cultures,http://cornell.chequerd.com/courses/11236/NES/4962/
+NES 4992,Independent Study, Undergraduate Level,http://cornell.chequerd.com/courses/5929/NES/4992/
+NES 4998,Senior Honors Essay,http://cornell.chequerd.com/courses/3011/NES/4998/
+NES 4999,Independent Study, Honors,http://cornell.chequerd.com/courses/5930/NES/4999/
+NES 6560,Theory & Method in Near Eastern Study,http://cornell.chequerd.com/courses/9795/NES/6560/
+NES 6677,Search for the Historical Muhammad,http://cornell.chequerd.com/courses/8125/NES/6677/
+NES 6700,Methods in Medieval,http://cornell.chequerd.com/courses/10488/NES/6700/
+NES 6992,Independent Study: Graduate Level,http://cornell.chequerd.com/courses/5938/NES/6992/
+

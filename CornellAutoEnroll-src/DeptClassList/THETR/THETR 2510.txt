@@ -1,0 +1,7 @@
+14087,STU,TBA,,,Archer (rja10),
+14086,STU,TBA,,,Intemann (edi1),
+14085,STU,TBA,,,Cross (wdc4),
+14084,STU,TBA,,,Bernstein (seb57),
+14083,STU,TBA,,,Goetz (klg2),
+14082,STU,TBA,,,,
+

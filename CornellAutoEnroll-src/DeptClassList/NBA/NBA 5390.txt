@@ -1,0 +1,3 @@
+11835,LEC,W,4:30p - 7:15p,SGH B08,Hass (jeh27),
+11835,LEC,W,4:30p - 6:30p,SGH B08,Hass (jeh27),
+

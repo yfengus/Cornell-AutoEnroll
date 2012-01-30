@@ -1,0 +1,58 @@
+ANTHR 1124,FWS: The Pop Psyche,http://cornell.chequerd.com/courses/8347/ANTHR/1124/
+ANTHR 1139,FWS: Capital, Crime, and Disorder in the former USSR,http://cornell.chequerd.com/courses/10714/ANTHR/1139/
+ANTHR 1141,FWS: Television, Culture, and Society,http://cornell.chequerd.com/courses/10715/ANTHR/1141/
+ANTHR 1147,FWS: Southeast Asian Religions and "Healing Traditions",http://cornell.chequerd.com/courses/11316/ANTHR/1147/
+ANTHR 1148,FWS: Politics, Order, Culture,http://cornell.chequerd.com/courses/11317/ANTHR/1148/
+ANTHR 1200,Ancient Peoples and Places,http://cornell.chequerd.com/courses/4118/ANTHR/1200/
+ANTHR 1300,Human Evolution: Genes, Behavior, and the Fossil Record,http://cornell.chequerd.com/courses/4119/ANTHR/1300/
+ANTHR 2010,Archaeology of the Ancient Near East,http://cornell.chequerd.com/courses/10882/ANTHR/2010/
+ANTHR 2400,Cultural Diversity and Contemporary Issues,http://cornell.chequerd.com/courses/4122/ANTHR/2400/
+ANTHR 2410,South Asian Diaspora,http://cornell.chequerd.com/courses/10883/ANTHR/2410/
+ANTHR 2455,Anthropology in the Real World,http://cornell.chequerd.com/courses/9183/ANTHR/2455/
+ANTHR 3390,Primate Behavior and Ecology,http://cornell.chequerd.com/courses/7445/ANTHR/3390/
+ANTHR 3405,Multicultural Issues in Education,http://cornell.chequerd.com/courses/11341/ANTHR/3405/
+ANTHR 3420,Myth, Ritual, and Symbol,http://cornell.chequerd.com/courses/4127/ANTHR/3420/
+ANTHR 3422,Culture, Politics, and Environment in the Circumpolar North,http://cornell.chequerd.com/courses/7446/ANTHR/3422/
+ANTHR 3425,Anthropology Of The University,http://cornell.chequerd.com/courses/9189/ANTHR/3425/
+ANTHR 3447,Sport,http://cornell.chequerd.com/courses/7447/ANTHR/3447/
+ANTHR 3461,Anthropology of Organizations,http://cornell.chequerd.com/courses/10885/ANTHR/3461/
+ANTHR 3545,People and Cultures of the Himalayas,http://cornell.chequerd.com/courses/4129/ANTHR/3545/
+ANTHR 4011,Ceramic Analysis for Archaeology,http://cornell.chequerd.com/courses/10886/ANTHR/4011/
+ANTHR 4062,Islamic Aural Cultures,http://cornell.chequerd.com/courses/11363/ANTHR/4062/
+ANTHR 4150,Archaeology of Greek Religion: Theory, Methods, and Practice,http://cornell.chequerd.com/courses/10887/ANTHR/4150/
+ANTHR 4220,Inkas and Their Empire,http://cornell.chequerd.com/courses/10888/ANTHR/4220/
+ANTHR 4260,Field and Analytical Methods in Archaeology,http://cornell.chequerd.com/courses/4131/ANTHR/4260/
+ANTHR 4264,Zooarchaeological Interpretation,http://cornell.chequerd.com/courses/7450/ANTHR/4264/
+ANTHR 4423,Inter-war Anthropologies,http://cornell.chequerd.com/courses/10889/ANTHR/4423/
+ANTHR 4429,Anthropology and Psychoanalysis,http://cornell.chequerd.com/courses/6588/ANTHR/4429/
+ANTHR 4446,Gender, Liberalism, and Postcolonial Theory,http://cornell.chequerd.com/courses/10891/ANTHR/4446/
+ANTHR 4453,Political Anthropology,http://cornell.chequerd.com/courses/10892/ANTHR/4453/
+ANTHR 4467,Self and Subjectivity,http://cornell.chequerd.com/courses/10893/ANTHR/4467/
+ANTHR 4543,Religion and Ritual in China,http://cornell.chequerd.com/courses/11354/ANTHR/4543/
+ANTHR 4712,Cuisine. Production, & Biodiversity in Peru 2,http://cornell.chequerd.com/courses/9197/ANTHR/4712/
+ANTHR 4900,Field Research Abroad,http://cornell.chequerd.com/courses/276/ANTHR/4900/
+ANTHR 4910,Independent Study: Undergrad I,http://cornell.chequerd.com/courses/277/ANTHR/4910/
+ANTHR 4920,Independent Study: Undergrad II,http://cornell.chequerd.com/courses/278/ANTHR/4920/
+ANTHR 4984,Honors Thesis Write-Up,http://cornell.chequerd.com/courses/4135/ANTHR/4984/
+ANTHR 4992,Honors Workshop II,http://cornell.chequerd.com/courses/4136/ANTHR/4992/
+ANTHR 6010,Proseminar: Social Organization,http://cornell.chequerd.com/courses/281/ANTHR/6010/
+ANTHR 6102,Political Culture,http://cornell.chequerd.com/courses/7457/ANTHR/6102/
+ANTHR 6422,Culture, Politcs, and Environment in the Circumpolar North,http://cornell.chequerd.com/courses/7459/ANTHR/6422/
+ANTHR 6424,Ethnoracial Identity in Anthropology, Language, and Law,http://cornell.chequerd.com/courses/4138/ANTHR/6424/
+ANTHR 6440,Research Design,http://cornell.chequerd.com/courses/4139/ANTHR/6440/
+ANTHR 6482,Perspectives on the Nation,http://cornell.chequerd.com/courses/4140/ANTHR/6482/
+ANTHR 7220,Inkas and Their Empire,http://cornell.chequerd.com/courses/10894/ANTHR/7220/
+ANTHR 7422,Advanced Topic in the Anthropology of Law,http://cornell.chequerd.com/courses/10895/ANTHR/7422/
+ANTHR 7423,Inter-war Anthropologies,http://cornell.chequerd.com/courses/10896/ANTHR/7423/
+ANTHR 7429,Anthropology & Psychoanalysis,http://cornell.chequerd.com/courses/6599/ANTHR/7429/
+ANTHR 7445,Gender, Liberalism, and Postcolonial Theory,http://cornell.chequerd.com/courses/10897/ANTHR/7445/
+ANTHR 7453,Political Anthropology,http://cornell.chequerd.com/courses/10898/ANTHR/7453/
+ANTHR 7467,Self and Subjectivity,http://cornell.chequerd.com/courses/10899/ANTHR/7467/
+ANTHR 7520,Southeast Asia: Readings in Special Problems,http://cornell.chequerd.com/courses/289/ANTHR/7520/
+ANTHR 7530,South Asia: Readings in Special Problems,http://cornell.chequerd.com/courses/290/ANTHR/7530/
+ANTHR 7545,Peoples and Cultures of the Himalayas,http://cornell.chequerd.com/courses/4142/ANTHR/7545/
+ANTHR 7550,East Asia: Readings in Special Problems,http://cornell.chequerd.com/courses/291/ANTHR/7550/
+ANTHR 7910,Independent Study: Grad I,http://cornell.chequerd.com/courses/292/ANTHR/7910/
+ANTHR 7920,Independent Study: Grad II,http://cornell.chequerd.com/courses/293/ANTHR/7920/
+ANTHR 7930,Independent Study: Grad III,http://cornell.chequerd.com/courses/294/ANTHR/7930/
+

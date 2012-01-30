@@ -1,0 +1,4 @@
+13860,LEC,TR,8:00a - 10:00a,CLU C2505,Bowman (ddb3),
+13807,LEC,W,1:00p - 3:00p,CLU C2505,Bowman (ddb3),
+13807,LEC,F,12:00p - 2:00p,CLU C2505,Bowman (ddb3),
+

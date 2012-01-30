@@ -1,0 +1,5 @@
+16557,LEC,TBA,,,Gries (djg17), White (wmw2),
+16555,LEC,MWF,2:30p - 3:20p,HLS B14,Gries (djg17), White (wmw2),
+11247,DIS,MWF,3:35p - 4:25p,HLS B14,Gries (djg17), White (wmw2),
+11246,DIS,MWF,2:30p - 3:20p,HLS B14,Gries (djg17), White (wmw2),
+

@@ -1,0 +1,4 @@
+5604,DIS,TR,9:05a - 9:55a,RCK 102,,
+5603,DIS,TR,8:00a - 8:50a,RCK 110,,
+5602,LEC,MWF,1:25p - 2:15p,MLT 406,Conley (ctc83),
+

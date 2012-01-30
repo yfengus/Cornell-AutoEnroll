@@ -1,0 +1,10 @@
+NBAE 5430,Financial Markets,http://cornell.chequerd.com/courses/11412/NBAE/5430/
+NBAE 5540,International Finance,http://cornell.chequerd.com/courses/11406/NBAE/5540/
+NBAE 5650,Corporate Governance,http://cornell.chequerd.com/courses/11413/NBAE/5650/
+NBAE 5710,Cornell Management Simulation,http://cornell.chequerd.com/courses/11414/NBAE/5710/
+NBAE 6020,IT STRATEGY,http://cornell.chequerd.com/courses/2967/NBAE/6020/
+NBAE 6340,Brand Management,http://cornell.chequerd.com/courses/11415/NBAE/6340/
+NBAE 6660,Negotiations,http://cornell.chequerd.com/courses/11407/NBAE/6660/
+NBAE 6790,Advanced Financial Strategy,http://cornell.chequerd.com/courses/11408/NBAE/6790/
+NBAE 6830,Entrepreneurship and Private Equity,http://cornell.chequerd.com/courses/11416/NBAE/6830/
+

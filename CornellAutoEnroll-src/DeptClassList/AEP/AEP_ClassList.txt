@@ -1,0 +1,33 @@
+AEP 2170,Physics II: Electricity and Magnetism,http://cornell.chequerd.com/courses/91/AEP/2170/
+AEP 2520,The Physics of Life,http://cornell.chequerd.com/courses/92/AEP/2520/
+AEP 3560,Intermediate Electrodynamics,http://cornell.chequerd.com/courses/4027/AEP/3560/
+AEP 3620,Intermediate Quantum Mechanics,http://cornell.chequerd.com/courses/4028/AEP/3620/
+AEP 3630,Electronic Circuits,http://cornell.chequerd.com/courses/99/AEP/3630/
+AEP 4220,Mathematical Physics II,http://cornell.chequerd.com/courses/9151/AEP/4220/
+AEP 4340,Continuum Physics,http://cornell.chequerd.com/courses/4030/AEP/4340/
+AEP 4380,Computational Engineering Physics,http://cornell.chequerd.com/courses/4031/AEP/4380/
+AEP 4400,Quantum and Nonlinear Optics,http://cornell.chequerd.com/courses/4032/AEP/4400/
+AEP 4840,Introduction to Controlled Fusion: Principles and Technology,http://cornell.chequerd.com/courses/4033/AEP/4840/
+AEP 4900,Independent Study in Engineering Physics,http://cornell.chequerd.com/courses/104/AEP/4900/
+AEP 4910,Independent Study in Engineering Physics,http://cornell.chequerd.com/courses/4034/AEP/4910/
+AEP 5500,Applied Solid State Physics,http://cornell.chequerd.com/courses/4035/AEP/5500/
+AEP 5520,Physics of Life,http://cornell.chequerd.com/courses/105/AEP/5520/
+AEP 7110,Principles of Diffraction,http://cornell.chequerd.com/courses/10866/AEP/7110/
+AEP 7510,M. Eng. Project,http://cornell.chequerd.com/courses/110/AEP/7510/
+AEP 7540,Special Topics Seminar Applied Physics,http://cornell.chequerd.com/courses/4037/AEP/7540/
+AEP 8020,Graduate Thesis,http://cornell.chequerd.com/courses/112/AEP/8020/
+AEP 8030,Graduate Thesis,http://cornell.chequerd.com/courses/113/AEP/8030/
+AEP 8050,Graduate Thesis,http://cornell.chequerd.com/courses/114/AEP/8050/
+AEP 8070,Graduate Thesis,http://cornell.chequerd.com/courses/115/AEP/8070/
+AEP 8090,Graduate Thesis,http://cornell.chequerd.com/courses/116/AEP/8090/
+AEP 8130,Graduate Thesis,http://cornell.chequerd.com/courses/117/AEP/8130/
+AEP 8140,Graduate Thesis,http://cornell.chequerd.com/courses/118/AEP/8140/
+AEP 8150,Graduate Thesis,http://cornell.chequerd.com/courses/119/AEP/8150/
+AEP 8160,Graduate Thesis,http://cornell.chequerd.com/courses/120/AEP/8160/
+AEP 8170,Graduate Thesis,http://cornell.chequerd.com/courses/121/AEP/8170/
+AEP 8180,Graduate Thesis,http://cornell.chequerd.com/courses/122/AEP/8180/
+AEP 8200,Graduate Thesis,http://cornell.chequerd.com/courses/123/AEP/8200/
+AEP 8210,Graduate Thesis,http://cornell.chequerd.com/courses/124/AEP/8210/
+AEP 8220,Graduate Thesis,http://cornell.chequerd.com/courses/4038/AEP/8220/
+AEP 8230,Graduate Thesis,http://cornell.chequerd.com/courses/125/AEP/8230/
+

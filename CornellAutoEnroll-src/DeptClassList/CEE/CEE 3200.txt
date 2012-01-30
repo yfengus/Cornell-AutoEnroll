@@ -1,0 +1,7 @@
+14551,DIS,F,1:25p - 2:15p,CRP 104,Shoemaker (cas12),
+14550,DIS,F,12:20p - 1:10p,CRP 104,Shoemaker (cas12),
+14549,DIS,F,11:15a - 12:05p,CRP 104,Shoemaker (cas12),
+14548,DIS,F,10:10a - 11:00a,CRP 104,Shoemaker (cas12),
+14547,LEC,TR,9:05a - 9:55a,OLH 165,Shoemaker (cas12),
+14546,LEC,TR,10:10a - 11:00a,OLH 165,Shoemaker (cas12),
+

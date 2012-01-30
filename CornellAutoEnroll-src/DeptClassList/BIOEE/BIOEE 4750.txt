@@ -1,0 +1,3 @@
+14222,LAB,TR,1:25p - 4:25p,JLO 184,Winkler (dww4),
+14221,LEC,TR,12:20p - 1:10p,JLO 101,Winkler (dww4),
+

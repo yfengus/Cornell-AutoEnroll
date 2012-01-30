@@ -1,0 +1,23 @@
+BIOMI 2900,General Microbiology Lectures,http://cornell.chequerd.com/courses/709/BIOMI/2900/
+BIOMI 2911,General Microbiology Lab,http://cornell.chequerd.com/courses/710/BIOMI/2911/
+BIOMI 2920,General Microbiology Discussion,http://cornell.chequerd.com/courses/4404/BIOMI/2920/
+BIOMI 3210,The Normal Microbes of the Human Body in Health and Disease,http://cornell.chequerd.com/courses/7568/BIOMI/3210/
+BIOMI 3310,General Parasitology (also VETMI 331),http://cornell.chequerd.com/courses/4405/BIOMI/3310/
+BIOMI 3500,Marine Microbiology,http://cornell.chequerd.com/courses/7569/BIOMI/3500/
+BIOMI 3970,Environmental Microbiology,http://cornell.chequerd.com/courses/4406/BIOMI/3970/
+BIOMI 4040,Pathogenic Bacteriology,http://cornell.chequerd.com/courses/7570/BIOMI/4040/
+BIOMI 4160,Bacterial Physiology,http://cornell.chequerd.com/courses/10953/BIOMI/4160/
+BIOMI 4480,Symbiotic Associations:Evolution and Ecology,http://cornell.chequerd.com/courses/7571/BIOMI/4480/
+BIOMI 4811,Molecular Plant-Microbe Interactions,http://cornell.chequerd.com/courses/10954/BIOMI/4811/
+BIOMI 4980,Teaching Experience,http://cornell.chequerd.com/courses/716/BIOMI/4980/
+BIOMI 6430,Veterinary Perspectives on Pathogen Control in Animal Manure,http://cornell.chequerd.com/courses/4409/BIOMI/6430/
+BIOMI 6904,Prokaryotic Biology: Microbial Genetics,http://cornell.chequerd.com/courses/4410/BIOMI/6904/
+BIOMI 6905,Prokaryotic Biology: Microbial Pathogenesis,http://cornell.chequerd.com/courses/4411/BIOMI/6905/
+BIOMI 6906,Viral Diversity and Ecology,http://cornell.chequerd.com/courses/9276/BIOMI/6906/
+BIOMI 6990,Toxicology Journal Club,http://cornell.chequerd.com/courses/4412/BIOMI/6990/
+BIOMI 7910,Advanced Topics in Microbiology,http://cornell.chequerd.com/courses/722/BIOMI/7910/
+BIOMI 7960,Current Topics in Microbiology,http://cornell.chequerd.com/courses/723/BIOMI/7960/
+BIOMI 7970,Scientific Communication Skills,http://cornell.chequerd.com/courses/724/BIOMI/7970/
+BIOMI 7980,Graduate Research Seminar in Microbiology,http://cornell.chequerd.com/courses/725/BIOMI/7980/
+BIOMI 7990,Microbiology Seminar,http://cornell.chequerd.com/courses/726/BIOMI/7990/
+

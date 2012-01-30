@@ -1,0 +1,7 @@
+KOREA 1102,Elementary Korean,http://cornell.chequerd.com/courses/5518/KOREA/1102/
+KOREA 1110,Elementary Korean Reading and Writing,http://cornell.chequerd.com/courses/5519/KOREA/1110/
+KOREA 2202,Intermediate Korean,http://cornell.chequerd.com/courses/5520/KOREA/2202/
+KOREA 2210,Intermediate Korean Reading and Writing,http://cornell.chequerd.com/courses/5521/KOREA/2210/
+KOREA 3302,High Intermediate Korean,http://cornell.chequerd.com/courses/5522/KOREA/3302/
+KOREA 4402,Advanced Korean II,http://cornell.chequerd.com/courses/5523/KOREA/4402/
+

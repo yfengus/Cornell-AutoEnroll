@@ -1,0 +1,4 @@
+4322,LEC,R,11:15a - 12:05p,TBA TBA,Blankenship (jeb14),
+4321,LEC,W,1:25p - 2:15p,TBA TBA,Blankenship (jeb14),
+4320,LEC,T,1:25p - 2:15p,TBA TBA,Blankenship (jeb14),
+

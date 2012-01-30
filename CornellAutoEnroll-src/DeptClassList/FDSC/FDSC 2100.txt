@@ -1,0 +1,6 @@
+16561,LAB,R,1:25p - 4:25p,STK 209,Liu (rl23), Orta-Ramirez (ao98),
+3619,LAB,T,1:25p - 4:25p,STK 209,Liu (rl23), Orta-Ramirez (ao98),
+2144,LAB,M,12:20p - 3:20p,STK 209,Liu (rl23), Orta-Ramirez (ao98),
+4603,DIS,F,2:30p - 3:20p,MRS 163,Liu (rl23), Orta-Ramirez (ao98),
+2143,LEC,WF,1:25p - 2:15p,MRS 163,Liu (rl23), Orta-Ramirez (ao98),
+

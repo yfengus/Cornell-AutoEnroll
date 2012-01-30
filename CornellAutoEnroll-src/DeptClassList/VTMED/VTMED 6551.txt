@@ -1,0 +1,3 @@
+13803,LEC,W,8:00a - 10:00a,VRT T1003,Fletcher (djf42),
+13803,LEC,R,10:00a - 12:00p,,Fletcher (djf42),
+

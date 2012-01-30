@@ -1,0 +1,179 @@
+AAS,Asian American Studies
+AEM,Applied Economics & Management
+AEP,Applied & Engineering Physics
+AGSCI,Agriculture Sciences
+AIRS,Air Force Science
+AIS,American Indian Studies
+ALS,Agriculture & Life Sciences
+AMST,American Studies
+ANSC,Animal Science
+ANTHR,Anthropology
+ARCH,Architecture
+ARKEO,Archaeology
+ART,Art
+ARTH,Art History
+ASIAN,Asian Studies
+ASRC,Africana Studies & Res Center
+ASTRO,Astronomy
+BCS,Bosnian, Croatian, Serbian
+BEE,Biological & Environmental Eng
+BENGL,Bengali
+BIOAP,Animal Physiology & Anatomy
+BIOBM,Biochem, Molecular & Cell Bio
+BIOEE,Ecology & Evolutionary Biology
+BIOG,Biology: General Courses
+BIOGD,Genetics & Development
+BIOMG,Molecular Biology and Genetics
+BIOMI,Microbiology
+BIOMS,Bio Medical Science
+BIONB,Neurobiology & Behavior
+BIOPL,Plant Biology
+BIOSM,Shoals Marine Laboratory
+BME,Biomedical Engineering
+BSOC,Biology & Society
+BTRY,Biometry & Statistics
+BURM,Burmese
+CAPS,China & Asia Pacific Studies
+CATAL,Catalan
+CEE,Civil & Environmental Engr
+CHEM,Chemistry
+CHEME,Chemical Engineering
+CHIN,Chinese
+CHLIT,Chinese Literature
+CIS,Computing&Information Science
+CLASS,Classics
+COGST,Cognitive Studies
+COLLS,College Scholar Program
+COML,Comparative Literature
+COMM,Communication
+CRP,City & Regional Planning
+CS,Computer Science
+CSS,Crop & Soil Sciences
+CZECH,Czech
+DANCE,Dance
+DEA,Design & Environmental Analy
+DSOC,Development Sociology
+DUTCH,Dutch
+EAS,Earth & Atmospheric Sciences
+ECE,Electrical&ComputerEngineering
+ECON,Economics
+EDUC,Education
+ENGL,English
+ENGLB,English for Later Bilinguals
+ENGLF,English (as a Foreign Lang)
+ENGRC,Engineering Communications
+ENGRD,Engineering Distribution
+ENGRG,Engineering General Interest
+ENGRI,Introduction to Engineering
+ENINT,English for International Stdt
+ENTOM,Entomology
+EXTLS,ILR Extension Labor Studies
+FDSC,Food Science
+FGSS,Feminist,Gender,Sexuality Stdy
+FILM,Film Studies
+FREN,French
+FSAD,Fiber Science & Apparel Design
+GERST,German Studies
+GOVT,Government
+GRAD,Graduate Research
+GREEK,Greek
+HADM,Hotel Administration
+HD,Human Development Studies
+HE,Human Ecology Nondepartmental
+HINDI,Hindi
+HIST,History
+HORT,Horticulture Sciences
+HUNGR,Hungarian
+IARD,Intl Agriculture & Rural Dev
+ILRCB,ILR Collective Bargaining
+ILRHR,ILR Human Resource Management
+ILRIC,ILR International & Comp Labor
+ILRID,ILR Interdepartmental
+ILRLE,ILR Labor Economics
+ILRLR,ILR Labor Relations, Law, Hist
+ILROB,ILR Organizational Behavior
+ILRST,ILR Social Statistics
+IM,Independent Major
+INDO,Indonesian
+INFO,Information Science
+ITAL,Italian
+JAPAN,Japanese
+JPLIT,Japanese Literature
+JWST,Jewish Studies
+KHMER,Khmer
+KOREA,Korean
+LA,Landscape Architecture
+LANAR,Landscape Architecture
+LATA,Latin American Studies
+LATIN,Latin
+LAW,Law
+LING,Linguistics
+LSP,Latino Studies Program
+MAE,Mechanical & Aerospace Eng
+MATH,Mathematics
+MEDVL,Medieval Studies
+MILS,Military Science
+MSE,Materials Science & Engr
+MUSIC,Music
+NAVS,Naval Science
+NBA,Grad Mgmt Business Admin
+NBAB,Executive Boardroom Electives
+NBAE,Business Admin Electives EMBA
+NCC,Grad Mgmt Common Core
+NCCE,Common Core Courses EMBA
+NEPAL,Nepali
+NES,Near Eastern Studies
+NMI,Grad Mgmt Individual Study
+NRE,Graduate Management Research
+NS,Nutritional Science
+NSE,Nuclear Science & Engineering
+NTRES,Natural Resources
+ORIE,Op Research & Information Engr
+OVST,Overseas Study
+PALI,Pali
+PAM,Policy, Analysis & Management
+PE,Physical Education & Athletics
+PHIL,Philosophy
+PHYS,Physics
+PLBR,Plant Breeding
+PLPA,Plant Pathology
+POLSH,Polish
+PORT,Portuguese
+PSYCH,Psychology
+QUECH,Quechua
+RELST,Religious Studies
+ROMS,Romance Studies
+RUSSA,Russian
+RUSSL,Russian Literature
+SANSK,Sanskrit
+SEA,Sea Education Association
+SEBCR,Serbo-Croatian
+SHUM,Society for Humanities
+SINHA,Sinhalese
+SNES,Science of Natural & Envir Sys
+SNLIT,Sanskrit Literature
+SOC,Sociology
+SPAN,Spanish
+STS,Science & Technology Studies
+STSCI,Statistical Science
+SWED,Swedish
+SYSEN,Systems Engineering
+TAG,Tagalog
+TAM,Theoretical & Appl Mechanics
+TAMIL,Tamil
+THAI,Thai
+THETR,Theatre Arts
+TOX,Toxicology
+UKRAN,Ukrainian
+UNIV,Cornell University General
+URDU,Urdu
+VETCS,Vet Med Clinical Sciences
+VETMI,Vet Med Microbiology
+VETMM,Vet Medicine MolecularMedicine
+VIEN,Viticulture and Enology
+VIET,Vietnamese
+VISST,Visual Studies
+VTBMS,Vet Med BioMedical Sciences
+VTMED,Vet Med Professional Curriculm
+VTPMD,Population Med&Diagnostic Svc
+WRIT,Writing Program

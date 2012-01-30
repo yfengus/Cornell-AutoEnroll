@@ -1,0 +1,7 @@
+11445,LAB,M,2:15p - 4:10p,TBA,Pollock (crp10),
+10378,LAB,W,12:20p - 2:15p,TBA,Pollock (crp10),
+10377,LAB,T,12:20p - 2:15p,TBA,Pollock (crp10),
+10380,DIS,W,2:55p - 4:10p,HLS 401,Pollock (crp10),
+10379,DIS,M,2:55p - 4:10p,HLS 401,Pollock (crp10),
+10376,LEC,MWF,10:10a - 11:00a,THR 205,Pollock (crp10),
+

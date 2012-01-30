@@ -1,0 +1,5 @@
+10870,DIS,TBA,,,Foster (jnf27),
+10869,DIS,MW,3:35p - 4:25p,UPS 111,Foster (jnf27),
+10868,DIS,MW,2:30p - 3:20p,UPS 111,Foster (jnf27),
+10867,LEC,TR,10:10a - 11:00a,HLS B14,Foster (jnf27),
+

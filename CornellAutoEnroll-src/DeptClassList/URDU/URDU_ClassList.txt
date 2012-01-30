@@ -1,0 +1,3 @@
+URDU 1125,Intoduction to Urdu Script,http://cornell.chequerd.com/courses/3837/URDU/1125/
+URDU 2226,Intermediate Urdu Reading & Writing II,http://cornell.chequerd.com/courses/9640/URDU/2226/
+

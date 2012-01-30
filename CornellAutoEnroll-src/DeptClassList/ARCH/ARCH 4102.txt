@@ -1,0 +1,5 @@
+4919,STU,MF,9:00a - 2:00p,TBA,,
+4918,STU,MR,2:00p - 4:00p,,Zissovici (jez2),
+4918,STU,MR,9:00a - 1:00p,TBA TBA,Zissovici (jez2),
+4913,STU,MWF,12:20p - 4:25p,,,
+

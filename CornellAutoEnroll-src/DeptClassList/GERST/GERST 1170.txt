@@ -1,0 +1,4 @@
+16295,SEM,MWF,1:25p - 2:15p,BAL 3343,McBride (dbm93),
+16294,SEM,MWF,12:20p - 1:10p,BAL 3343,Andrei (aa674),
+16293,SEM,MWF,10:10a - 11:00a,GSH 158,Calla (mdc249),
+

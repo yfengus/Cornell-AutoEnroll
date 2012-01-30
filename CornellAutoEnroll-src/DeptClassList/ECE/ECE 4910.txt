@@ -1,0 +1,4 @@
+14176,LAB,T,12:20p - 4:25p,CMS B150,Johnson (brj1),
+14175,LAB,M,12:20p - 4:25p,CMS B150,Johnson (brj1),
+14174,LEC,MW,10:10a - 11:00a,KND 101,Johnson (brj1),
+

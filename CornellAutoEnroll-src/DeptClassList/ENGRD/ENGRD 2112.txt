@@ -1,0 +1,5 @@
+15179,LAB,MW,7:30p - 8:20p,HLS 306,Myers (acm22),
+15154,DIS,W,1:25p - 2:15p,HLS 362,Myers (acm22),
+15153,DIS,T,12:20p - 1:10p,THR 202,Myers (acm22),
+15152,LEC,TR,10:10a - 11:00a,THR 203,Myers (acm22),
+

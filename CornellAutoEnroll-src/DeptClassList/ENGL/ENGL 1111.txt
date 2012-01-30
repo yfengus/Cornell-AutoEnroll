@@ -1,0 +1,6 @@
+16255,SEM,TR,10:10a - 11:25a,RCK 187,Casey (arc249),
+16254,SEM,MW,2:55p - 4:10p,GSH 283,Brady (mpb23),
+16253,SEM,MWF,1:25p - 2:15p,GSH 236,Mohanty (spm5),
+16256,SEM,TR,11:40a - 12:55p,GSH 283,Crawford (mc884),
+16252,SEM,MWF,10:10a - 11:00a,GSH 160,(anw52),
+

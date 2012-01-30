@@ -1,0 +1,8 @@
+ILRLE 2400,Economics of Wages&Employment,http://cornell.chequerd.com/courses/2369/ILRLE/2400/
+ILRLE 3440,Development of Economic Thought and Institutions,http://cornell.chequerd.com/courses/2370/ILRLE/3440/
+ILRLE 4440,The Evolution of Social Policy in Britain &America,http://cornell.chequerd.com/courses/5443/ILRLE/4440/
+ILRLE 4450,Women in the Economy,http://cornell.chequerd.com/courses/7981/ILRLE/4450/
+ILRLE 7420,Applied Econometrics II,http://cornell.chequerd.com/courses/5445/ILRLE/7420/
+ILRLE 7460,Seminar in Labor Economics II,http://cornell.chequerd.com/courses/5446/ILRLE/7460/
+ILRLE 9400,Workshop in Labor Economics,http://cornell.chequerd.com/courses/2382/ILRLE/9400/
+

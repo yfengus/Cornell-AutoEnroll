@@ -1,0 +1,3 @@
+10566,DIS,W,2:30p - 4:25p,OLH 255,Archer (laa25),
+10565,LEC,MWF,11:15a - 12:05p,HLS B14,Archer (laa25),
+

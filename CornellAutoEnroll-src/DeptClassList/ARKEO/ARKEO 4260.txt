@@ -1,0 +1,6 @@
+15937,LAB,T,12:20p - 4:25p,MCG B60A,Jordan (kj21),
+15935,DIS,R,12:20p - 4:25p,MCG B60A,Jordan (kj21),
+16095,SEM,TR,10:10a - 11:25a,MCG B60A,Jordan (kj21),
+15936,LAB,T,12:20p - 4:25p,MCG B60A,Jordan (kj21),
+15934,SEM,TR,10:10a - 11:25a,MCG B60A,Jordan (kj21),
+

@@ -1,0 +1,5 @@
+HINDI 1102,Elementary Hindi,http://cornell.chequerd.com/courses/5307/HINDI/1102/
+HINDI 1110,Accelerated Elementary Hindi,http://cornell.chequerd.com/courses/5308/HINDI/1110/
+HINDI 2202,Intermediate Hindi,http://cornell.chequerd.com/courses/5309/HINDI/2202/
+HINDI 3302,Advanced Hindi,http://cornell.chequerd.com/courses/5310/HINDI/3302/
+

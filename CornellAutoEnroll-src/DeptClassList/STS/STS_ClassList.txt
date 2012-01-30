@@ -1,0 +1,21 @@
+STS 1123,FWS:Technology and Society,http://cornell.chequerd.com/courses/3721/STS/1123/
+STS 1126,FWS:Science and Society,http://cornell.chequerd.com/courses/3722/STS/1126/
+STS 1942,History of Science in Europe II,http://cornell.chequerd.com/courses/9626/STS/1942/
+STS 2051,Ethical Issues in Health and Medicine,http://cornell.chequerd.com/courses/3723/STS/2051/
+STS 2851,Communication in Life Sciences,http://cornell.chequerd.com/courses/6296/STS/2851/
+STS 2921,Inventing an Information Society,http://cornell.chequerd.com/courses/6298/STS/2921/
+STS 3111,Sociology of Medicine,http://cornell.chequerd.com/courses/6299/STS/3111/
+STS 3601,Ethics in Engineering Practice,http://cornell.chequerd.com/courses/6304/STS/3601/
+STS 3991,Undergraduate Independent Study,http://cornell.chequerd.com/courses/3731/STS/3991/
+STS 4071,Law, Science, and Public Values,http://cornell.chequerd.com/courses/8247/STS/4071/
+STS 4131,Comparative Environmental History,http://cornell.chequerd.com/courses/7344/STS/4131/
+STS 4200,Information Policy: Research, Analysis, and Design,http://cornell.chequerd.com/courses/11417/STS/4200/
+STS 4231,Gender and Technology,http://cornell.chequerd.com/courses/6308/STS/4231/
+STS 4661,Public Communication of Science and Technology,http://cornell.chequerd.com/courses/8250/STS/4661/
+STS 4961,History of Medicine and Healing in China,http://cornell.chequerd.com/courses/6312/STS/4961/
+STS 4966,Science, Technology and Medicine: The Sonic Dimension,http://cornell.chequerd.com/courses/11279/STS/4966/
+STS 4992,Honors Project II,http://cornell.chequerd.com/courses/6313/STS/4992/
+STS 6311,Qualitative Research Methods for Studying Science,http://cornell.chequerd.com/courses/6316/STS/6311/
+STS 6991,Graduate Independent Study,http://cornell.chequerd.com/courses/3742/STS/6991/
+STS 7003,Special Topic 3: Issues in the Cultural History of Technology,http://cornell.chequerd.com/courses/8255/STS/7003/
+

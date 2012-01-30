@@ -1,0 +1,3 @@
+7112,LEC,TR,2:55p - 4:10p,MLT 224,Connelly (rc46),
+5598,LEC,TR,10:10a - 11:25a,MLT 224,Connelly (rc46),
+

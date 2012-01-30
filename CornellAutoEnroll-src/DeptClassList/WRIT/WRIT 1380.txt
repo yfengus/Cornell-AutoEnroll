@@ -1,0 +1,7 @@
+16347,SEM,TR,1:25p - 2:15p,RCK 178,Carrick (thc33),
+16346,SEM,TR,11:15a - 12:05p,RCK 178,Depew (bcd28),
+16345,SEM,TR,10:10a - 11:00a,RCK 178,Depew (bcd28),
+16344,SEM,MW,1:25p - 2:15p,RCK 178,Cummings (lbc29),
+16343,SEM,MW,11:15a - 12:05p,RCK 178,Martin (jam8),
+16342,SEM,MW,10:10a - 11:00a,RCK 178,Martin (jam8),
+

@@ -1,0 +1,3 @@
+9032,LEC,W,7:45p - 9:15p,HNH 230,Gudaz (jag245), Ziver (irz2),
+9031,LEC,U,6:00p - 7:30p,HNH 230,Ziver (irz2),
+

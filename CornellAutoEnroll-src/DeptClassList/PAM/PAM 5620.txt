@@ -1,0 +1,3 @@
+12754,DIS,W,2:30p - 4:25p,BDF 101,Curtis (rtc3),
+12753,LEC,TR,1:25p - 2:40p,WRN 231,Curtis (rtc3),
+

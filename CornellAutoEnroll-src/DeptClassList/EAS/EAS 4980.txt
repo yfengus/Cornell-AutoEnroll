@@ -1,0 +1,8 @@
+15389,DIS,TBA,,TBA TBA,Wysocki (mww3),
+15385,DIS,TBA,,TBA TBA,Wilks (dsw5),
+15383,DIS,TBA,,TBA TBA,Riha (sjr4),
+11222,DIS,TBA,,TBA TBA,Mahowald (nmm63),
+11221,DIS,TBA,,TBA TBA,Degaetano (atd2),
+10631,DIS,TBA,,TBA TBA,Colucci (sjc25),
+10630,DIS,TBA,,TBA TBA,Chen (gc352),
+

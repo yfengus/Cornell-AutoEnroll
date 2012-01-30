@@ -1,0 +1,4 @@
+6761,DIS,W,1:25p - 2:15p,RCK 104,Vengalattore (mv277),
+6760,DIS,R,3:35p - 4:25p,RCK 104,Vengalattore (mv277),
+6759,LEC,MWF,9:05a - 9:55a,RCK 132,Vengalattore (mv277),
+

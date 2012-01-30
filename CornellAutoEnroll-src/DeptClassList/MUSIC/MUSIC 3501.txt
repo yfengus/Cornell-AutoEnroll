@@ -1,0 +1,11 @@
+15844,STU,TBA,,,Riley (cjr20),
+6655,STU,TBA,,,,
+6654,STU,TBA,,,Kellock (jgk6),
+6653,STU,TBA,,,,
+6652,STU,TBA,,,Feeney (tpf26),
+6651,STU,TBA,,,Harlow (rwh276),
+6650,STU,TBA,,,Pepinsky (jm857),
+6649,STU,TBA,,,Ernste (kme32),
+6648,STU,TBA,,,Stucky (ses6),
+6647,STU,TBA,,,Haines-Eitzen (jah242),
+

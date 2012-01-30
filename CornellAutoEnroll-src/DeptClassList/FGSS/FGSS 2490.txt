@@ -1,0 +1,4 @@
+14740,DIS,F,10:10a - 11:00a,GSH G19,Kosch (mak229),
+14739,DIS,F,10:10a - 11:00a,GSH 348,Kosch (mak229),
+14738,LEC,TR,11:40a - 12:55p,URH 202,Kosch (mak229),
+

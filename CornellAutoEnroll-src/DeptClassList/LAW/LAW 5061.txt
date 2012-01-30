@@ -1,0 +1,3 @@
+15052,LEC,MTWF,11:15a - 12:10p,,Ohlin (jdo43),
+15050,LEC,MTWR,11:15a - 12:10p,,Garvey (spg3),
+

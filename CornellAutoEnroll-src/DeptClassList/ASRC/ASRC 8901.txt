@@ -1,0 +1,13 @@
+7867,RSC,TBA,,,Gosa (tlg72),
+7866,RSC,TBA,,,Byfield (jab632),
+7050,RSC,TBA,,,Richardson (rdr83),
+7049,RSC,TBA,,,Makki (fmm2),
+7048,RSC,TBA,,,Hassan (sh40),
+7047,RSC,TBA,,,Assie-Lumumba (na12),
+7046,RSC,TBA,,,Boyce Davies (ceb278),
+7045,RSC,TBA,,,Turner (jet8),
+7044,RSC,TBA,,,Farred (gaf38),
+7043,RSC,TBA,,,Harris (rlh10),
+7042,RSC,TBA,,,Bekerie (ab67),
+7041,RSC,TBA,,,Edmondson (le18),
+

@@ -1,0 +1,3 @@
+11529,DIS,T,9:05a - 9:55a,HLS 372,O'Rourke (tdo1),
+10531,LEC,MW,8:40a - 9:55a,HLS 372,O'Rourke (tdo1),
+

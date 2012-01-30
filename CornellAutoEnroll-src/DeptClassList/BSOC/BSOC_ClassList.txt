@@ -1,0 +1,14 @@
+BSOC 1942,History of Science in Europe II,http://cornell.chequerd.com/courses/9280/BSOC/1942/
+BSOC 2051,Ethical Issues in Health and Medicine,http://cornell.chequerd.com/courses/789/BSOC/2051/
+BSOC 2201,Society and Natural Resources,http://cornell.chequerd.com/courses/10960/BSOC/2201/
+BSOC 2640,Introduction to Ancient Medicine,http://cornell.chequerd.com/courses/10961/BSOC/2640/
+BSOC 3111,Sociology of Medicine,http://cornell.chequerd.com/courses/10962/BSOC/3111/
+BSOC 3751,Independent Study,http://cornell.chequerd.com/courses/791/BSOC/3751/
+BSOC 4000,Community Service Learning Project,http://cornell.chequerd.com/courses/9028/BSOC/4000/
+BSOC 4071,Law, Science, and Public Values,http://cornell.chequerd.com/courses/7599/BSOC/4071/
+BSOC 4131,Comparative Environmental History,http://cornell.chequerd.com/courses/6741/BSOC/4131/
+BSOC 4303,The GMO Debate: Environmental Impacts,http://cornell.chequerd.com/courses/9681/BSOC/4303/
+BSOC 4961,History of Medicine and Healing in China,http://cornell.chequerd.com/courses/4474/BSOC/4961/
+BSOC 4966,Science, Technology and Medicine: The Sonic Dimension,http://cornell.chequerd.com/courses/10963/BSOC/4966/
+BSOC 4992,Honors Project II,http://cornell.chequerd.com/courses/4475/BSOC/4992/
+

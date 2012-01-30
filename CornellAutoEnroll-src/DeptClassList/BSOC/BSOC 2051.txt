@@ -1,0 +1,11 @@
+13944,DIS,F,2:30p - 3:20p,RCK 189,Hilgartner (shh6),
+13942,DIS,F,2:30p - 3:20p,RCK 187,Hilgartner (shh6),
+13940,DIS,F,2:30p - 3:20p,RCK 183,Hilgartner (shh6),
+13938,DIS,F,1:25p - 2:15p,RCK 189,Hilgartner (shh6),
+13936,DIS,F,1:25p - 2:15p,RCK 187,Hilgartner (shh6),
+13934,DIS,F,1:25p - 2:15p,GSH 160,Hilgartner (shh6),
+13928,DIS,F,12:20p - 1:10p,RCK 189,Hilgartner (shh6),
+13924,DIS,F,12:20p - 1:10p,RCK 187,Hilgartner (shh6),
+13917,DIS,F,12:20p - 1:10p,RCK 185,Hilgartner (shh6),
+13913,LEC,MWF,11:15a - 12:05p,GSH G76,Hilgartner (shh6),
+

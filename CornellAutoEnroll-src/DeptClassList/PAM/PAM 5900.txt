@@ -1,0 +1,6 @@
+13055,LEC,S,9:00a - 3:00p,,White (wdw8),
+13055,LEC,S,9:00a - 5:00p,,White (wdw8),
+13055,LEC,F,1:30p - 5:30p,,White (wdw8),
+13045,LEC,S,9:00a - 1:00p,,White (wdw8),
+13045,LEC,F,1:30p - 5:00p,,White (wdw8),
+

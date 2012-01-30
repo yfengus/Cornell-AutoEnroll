@@ -1,0 +1,120 @@
+VTMED 5220,Neuroanatomy,http://cornell.chequerd.com/courses/6431/VTMED/5220/
+VTMED 5300,Function and Dysfunction: Part I (Foundation Course IIIa),http://cornell.chequerd.com/courses/6432/VTMED/5300/
+VTMED 5500,Animal Health and Disease: Part I (Foundation Course Va),http://cornell.chequerd.com/courses/6433/VTMED/5500/
+VTMED 5600,Ambulatory & Production Medicine,http://cornell.chequerd.com/courses/3911/VTMED/5600/
+VTMED 5601,Community Practice Service: Medicine,http://cornell.chequerd.com/courses/3912/VTMED/5601/
+VTMED 5602,Small Animal Medicine Service,http://cornell.chequerd.com/courses/3913/VTMED/5602/
+VTMED 5603,Small Animal Soft Tissue Sergery Service,http://cornell.chequerd.com/courses/3914/VTMED/5603/
+VTMED 5604,Large-Animal Medicine Service,http://cornell.chequerd.com/courses/3915/VTMED/5604/
+VTMED 5605,Large-Animal Surgery Service,http://cornell.chequerd.com/courses/3916/VTMED/5605/
+VTMED 5606,Anesthesiology Service,http://cornell.chequerd.com/courses/3917/VTMED/5606/
+VTMED 5607,Dermatology Service,http://cornell.chequerd.com/courses/3918/VTMED/5607/
+VTMED 5608,Ophthalmology Service,http://cornell.chequerd.com/courses/3919/VTMED/5608/
+VTMED 5609,Pathology Service,http://cornell.chequerd.com/courses/3920/VTMED/5609/
+VTMED 5610,Imaging Service,http://cornell.chequerd.com/courses/3921/VTMED/5610/
+VTMED 5611,Small Animal Clinical Emergency and Critical Care Medicine,http://cornell.chequerd.com/courses/3922/VTMED/5611/
+VTMED 5612,Fourth-Year Seminar,http://cornell.chequerd.com/courses/3923/VTMED/5612/
+VTMED 5613,Small Animal Surgery Orthopedics,http://cornell.chequerd.com/courses/11307/VTMED/5613/
+VTMED 5703,Animals, Veterinarians, and Society: Part C (Foundation Course VIIc),http://cornell.chequerd.com/courses/6434/VTMED/5703/
+VTMED 5705,Animals, Veterinarians, and Society: Part E (Foundation Course VIIe),http://cornell.chequerd.com/courses/6435/VTMED/5705/
+VTMED 6100,Anatomy of the Carnivore,http://cornell.chequerd.com/courses/6436/VTMED/6100/
+VTMED 6101,Anatomy of the Horse,http://cornell.chequerd.com/courses/6437/VTMED/6101/
+VTMED 6102,Anatomy of the Ruminant,http://cornell.chequerd.com/courses/6438/VTMED/6102/
+VTMED 6103,Comparative Anatomy: Pattern and Function,http://cornell.chequerd.com/courses/6439/VTMED/6103/
+VTMED 6120,Anatomy & Histology of Fish,http://cornell.chequerd.com/courses/6440/VTMED/6120/
+VTMED 6198,Special Project in Veterinary Medicine - I,http://cornell.chequerd.com/courses/6441/VTMED/6198/
+VTMED 6199,Research Opportunities in Veterinary Medicine,http://cornell.chequerd.com/courses/8307/VTMED/6199/
+VTMED 6222,Canine and Feline Medical Genetics,http://cornell.chequerd.com/courses/6442/VTMED/6222/
+VTMED 6299,Research Opportunities in Veterinary Medicine,http://cornell.chequerd.com/courses/6443/VTMED/6299/
+VTMED 6320,Clinical Pathology,http://cornell.chequerd.com/courses/6444/VTMED/6320/
+VTMED 6321,Management of Fluid and Electrolyte Disorders,http://cornell.chequerd.com/courses/6445/VTMED/6321/
+VTMED 6324,Antimicrobial Drug Therapy in Veterinary Medicine,http://cornell.chequerd.com/courses/6446/VTMED/6324/
+VTMED 6328,Veterinary Clinical Toxicology,http://cornell.chequerd.com/courses/6447/VTMED/6328/
+VTMED 6398,Research Opportunity in Veterinary Medicine,http://cornell.chequerd.com/courses/3928/VTMED/6398/
+VTMED 6399,Research Opportunities in Veterinary Medicine,http://cornell.chequerd.com/courses/6448/VTMED/6399/
+VTMED 6420,Foreign & Emerging Diseases of Animals,http://cornell.chequerd.com/courses/6449/VTMED/6420/
+VTMED 6421,Epidemiology of Infectious Diseases,http://cornell.chequerd.com/courses/6450/VTMED/6421/
+VTMED 6422,Clinical Biostatistics for Journal Readers,http://cornell.chequerd.com/courses/6451/VTMED/6422/
+VTMED 6423,Clinical Diagnostic Parasitology,http://cornell.chequerd.com/courses/3929/VTMED/6423/
+VTMED 6424,Approaches to Problems in Canine Infectious Diseases,http://cornell.chequerd.com/courses/6452/VTMED/6424/
+VTMED 6425,Shelter Medicine I,http://cornell.chequerd.com/courses/6453/VTMED/6425/
+VTMED 6426,Timely Topics in Veterinary Parasitology: Large-Animal,http://cornell.chequerd.com/courses/6454/VTMED/6426/
+VTMED 6427,Timely Topics in Veterinary Parasitology: Small-Animal,http://cornell.chequerd.com/courses/6455/VTMED/6427/
+VTMED 6429,Infectious Diseases and Management of Swine,http://cornell.chequerd.com/courses/6457/VTMED/6429/
+VTMED 6430,Veterinary Perspectives on Pathogen Control in Animal Manure,http://cornell.chequerd.com/courses/6458/VTMED/6430/
+VTMED 6431,Microbial Safety of Animal-Based Foods,http://cornell.chequerd.com/courses/9696/VTMED/6431/
+VTMED 6432,Fish Health Management,http://cornell.chequerd.com/courses/6459/VTMED/6432/
+VTMED 6433,Anaerobic Infections of Animals,http://cornell.chequerd.com/courses/6460/VTMED/6433/
+VTMED 6434,Shelter Medicine II,http://cornell.chequerd.com/courses/8308/VTMED/6434/
+VTMED 6498,Special Projects in Veterinary Medicine,http://cornell.chequerd.com/courses/8309/VTMED/6498/
+VTMED 6499,Research Opportunities in Veterinary Medicine,http://cornell.chequerd.com/courses/6461/VTMED/6499/
+VTMED 6522,Diseases of Birds,http://cornell.chequerd.com/courses/6463/VTMED/6522/
+VTMED 6524,Feline Infectious Diseases,http://cornell.chequerd.com/courses/6464/VTMED/6524/
+VTMED 6526,Veterinary Nutrition,http://cornell.chequerd.com/courses/6466/VTMED/6526/
+VTMED 6527,Veterinary Aspects of Captive Wildlife Management,http://cornell.chequerd.com/courses/6467/VTMED/6527/
+VTMED 6528,Equine Surgical and Anesthetic Techniques,http://cornell.chequerd.com/courses/6468/VTMED/6528/
+VTMED 6529,Food Animal Surgical and Anesthetic Techniques,http://cornell.chequerd.com/courses/6469/VTMED/6529/
+VTMED 6530,Llama Tutorial,http://cornell.chequerd.com/courses/3931/VTMED/6530/
+VTMED 6532,Avian Medicine and Surgery,http://cornell.chequerd.com/courses/6470/VTMED/6532/
+VTMED 6533,Advanced Equine Lameness,http://cornell.chequerd.com/courses/6471/VTMED/6533/
+VTMED 6534,Equine Reproduction,http://cornell.chequerd.com/courses/6472/VTMED/6534/
+VTMED 6536,Advanced Dairy Reproduction Lecture,http://cornell.chequerd.com/courses/6473/VTMED/6536/
+VTMED 6538,Special Problems in Equine Medicine,http://cornell.chequerd.com/courses/6474/VTMED/6538/
+VTMED 6539,Disorders of Large-Animal Neonates,http://cornell.chequerd.com/courses/6475/VTMED/6539/
+VTMED 6540,Equine Soft-Tissue Surgery,http://cornell.chequerd.com/courses/6476/VTMED/6540/
+VTMED 6541,Surgical Pathology,http://cornell.chequerd.com/courses/3933/VTMED/6541/
+VTMED 6542,Medical and Surgical Problems of Dairy Cattle: Emphasis on the Individual Animal,http://cornell.chequerd.com/courses/6477/VTMED/6542/
+VTMED 6543,Special Problems in Small-Animal Medicine,http://cornell.chequerd.com/courses/6478/VTMED/6543/
+VTMED 6544,Career Development & Practice Management,http://cornell.chequerd.com/courses/6479/VTMED/6544/
+VTMED 6545,Sheep & Goat Medicine: Lecture,http://cornell.chequerd.com/courses/6480/VTMED/6545/
+VTMED 6546,Sheep & Goat Medicine: Lab,http://cornell.chequerd.com/courses/6481/VTMED/6546/
+VTMED 6547,Clinical Ophthalmology,http://cornell.chequerd.com/courses/6482/VTMED/6547/
+VTMED 6550,Clinical Pharmacology,http://cornell.chequerd.com/courses/6483/VTMED/6550/
+VTMED 6551,Topics in Veterinary Emergency and Critical Care Medicine,http://cornell.chequerd.com/courses/6484/VTMED/6551/
+VTMED 6554,Reptile Medicine and Surgery,http://cornell.chequerd.com/courses/6485/VTMED/6554/
+VTMED 6555,Dairy Business Management and Health Economics,http://cornell.chequerd.com/courses/6486/VTMED/6555/
+VTMED 6556,Dairy Herd Epidemiology,http://cornell.chequerd.com/courses/6487/VTMED/6556/
+VTMED 6557,Exotic Small Mammals as Pets,http://cornell.chequerd.com/courses/6488/VTMED/6557/
+VTMED 6558,Advanced Small Animal Clinical Oncology,http://cornell.chequerd.com/courses/6489/VTMED/6558/
+VTMED 6559,Applied Dairy Nutrition for Practitioners,http://cornell.chequerd.com/courses/6490/VTMED/6559/
+VTMED 6560,Small Animal Veterinary Dentistry,http://cornell.chequerd.com/courses/6491/VTMED/6560/
+VTMED 6561,Advanced Imaging: Cross Sectional and Funtional Modalitites,http://cornell.chequerd.com/courses/6492/VTMED/6561/
+VTMED 6562,Animal Pain: Recognition, Prevention and Treatment in the 21st Century,http://cornell.chequerd.com/courses/6493/VTMED/6562/
+VTMED 6598,Special Projects in Veterinary Medicine,http://cornell.chequerd.com/courses/3935/VTMED/6598/
+VTMED 6599,Research Opportunity in Veterinary Medicine,http://cornell.chequerd.com/courses/3936/VTMED/6599/
+VTMED 6600,Theriogenology Service,http://cornell.chequerd.com/courses/3937/VTMED/6600/
+VTMED 6601,Cardiology Service,http://cornell.chequerd.com/courses/3938/VTMED/6601/
+VTMED 6602,Laboratory-Animal Medicine Service,http://cornell.chequerd.com/courses/3939/VTMED/6602/
+VTMED 6603,Clinical Wildlife, Exotic, & Zoo-Animal Medicine,http://cornell.chequerd.com/courses/3940/VTMED/6603/
+VTMED 6605,Special Opportunities in Clinical Veterinary Medicine,http://cornell.chequerd.com/courses/3942/VTMED/6605/
+VTMED 6608,Clinical Oncology Service,http://cornell.chequerd.com/courses/3944/VTMED/6608/
+VTMED 6611,Small-Animal Surgery Orthopedic Service,http://cornell.chequerd.com/courses/3947/VTMED/6611/
+VTMED 6612,Large-Animal Surgery Orthopedic Service,http://cornell.chequerd.com/courses/3948/VTMED/6612/
+VTMED 6614,Large Animal Emergency & Critical Care,http://cornell.chequerd.com/courses/3950/VTMED/6614/
+VTMED 6615,Special Topics in Ambulatory and Production-Animal Medicine,http://cornell.chequerd.com/courses/3951/VTMED/6615/
+VTMED 6616,Veterinary Dentistry Service,http://cornell.chequerd.com/courses/3952/VTMED/6616/
+VTMED 6618,Clinical Neurology,http://cornell.chequerd.com/courses/3954/VTMED/6618/
+VTMED 6619,Clinical Pathology Rotation,http://cornell.chequerd.com/courses/10537/VTMED/6619/
+VTMED 6620,Introduction to Ambulatory Primary Care Medicine,http://cornell.chequerd.com/courses/3955/VTMED/6620/
+VTMED 6621,Introduction to Small Animal Orthopedics,http://cornell.chequerd.com/courses/8310/VTMED/6621/
+VTMED 6622,Small Animal Emergency Clinical Experience,http://cornell.chequerd.com/courses/9776/VTMED/6622/
+VTMED 6623,Clinical Rotation in Shelter Medicine: Principles and Practice,http://cornell.chequerd.com/courses/11401/VTMED/6623/
+VTMED 6631,Diagnosis and Treatment of Diseases of the Dairy Cow,http://cornell.chequerd.com/courses/3957/VTMED/6631/
+VTMED 6698,Special Projects in Veterinary Medicine,http://cornell.chequerd.com/courses/8311/VTMED/6698/
+VTMED 6699,Research Opportunity in Veterinary Medicine,http://cornell.chequerd.com/courses/8312/VTMED/6699/
+VTMED 6721,Veterinary Aspects of Avian Biology,http://cornell.chequerd.com/courses/6495/VTMED/6721/
+VTMED 6723,Veterinary Medicine in Developing Nations,http://cornell.chequerd.com/courses/8313/VTMED/6723/
+VTMED 6724,Senior Seminar Distribution,http://cornell.chequerd.com/courses/3959/VTMED/6724/
+VTMED 6726,Introduction to the Professional Literature,http://cornell.chequerd.com/courses/6496/VTMED/6726/
+VTMED 6727,Introduction to Community Practice Service,http://cornell.chequerd.com/courses/3960/VTMED/6727/
+VTMED 6728,Clinical Management of Native Wildlife,http://cornell.chequerd.com/courses/3961/VTMED/6728/
+VTMED 6731,Behavior Problems of Small Animals,http://cornell.chequerd.com/courses/6499/VTMED/6731/
+VTMED 6733,Veterinarians and Food-Animal Production Systems: An Introduction,http://cornell.chequerd.com/courses/6500/VTMED/6733/
+VTMED 6734,Companion Animal Welfare Issues,http://cornell.chequerd.com/courses/6501/VTMED/6734/
+VTMED 6735,Conservation Medicine,http://cornell.chequerd.com/courses/6502/VTMED/6735/
+VTMED 6736,Pet Loss and Bereavement Counseling Course,http://cornell.chequerd.com/courses/6503/VTMED/6736/
+VTMED 6737,Field Techniques of International Wildlife Management,http://cornell.chequerd.com/courses/8314/VTMED/6737/
+VTMED 6738,Veterinary Medicine: The Versatile Profession,http://cornell.chequerd.com/courses/9651/VTMED/6738/
+VTMED 6798,Special Projects in Veterinary Medicine,http://cornell.chequerd.com/courses/3962/VTMED/6798/
+VTMED 6799,Research Opportunity in Veterinary Medicine,http://cornell.chequerd.com/courses/6504/VTMED/6799/
+

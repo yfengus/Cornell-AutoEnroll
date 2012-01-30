@@ -1,0 +1,3 @@
+14558,DIS,F,2:30p - 4:25p,HLS 366,Hover (kch7),
+14556,LEC,TR,11:40a - 12:55p,HLS 366,Hover (kch7),
+

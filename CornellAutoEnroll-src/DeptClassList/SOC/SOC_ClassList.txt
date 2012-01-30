@@ -1,0 +1,36 @@
+SOC 1100,FWS: Social Order and the Law,http://cornell.chequerd.com/courses/3649/SOC/1100/
+SOC 1101,Introduction To Sociology,http://cornell.chequerd.com/courses/3650/SOC/1101/
+SOC 1290,American Society through Film,http://cornell.chequerd.com/courses/11314/SOC/1290/
+SOC 2206,International Development,http://cornell.chequerd.com/courses/6255/SOC/2206/
+SOC 2208,Social Inequality,http://cornell.chequerd.com/courses/3654/SOC/2208/
+SOC 2230,Culture in Markets and Economies,http://cornell.chequerd.com/courses/11264/SOC/2230/
+SOC 2460,Drugs and Society,http://cornell.chequerd.com/courses/8220/SOC/2460/
+SOC 2510,Social Gerontology: Aging and the Life Course,http://cornell.chequerd.com/courses/6258/SOC/2510/
+SOC 2650,Latinos in the United States,http://cornell.chequerd.com/courses/6259/SOC/2650/
+SOC 3120,Urban Sociology,http://cornell.chequerd.com/courses/11265/SOC/3120/
+SOC 3130,Sociology of Medicine,http://cornell.chequerd.com/courses/6262/SOC/3130/
+SOC 3190,Contemporary Sociological Theory,http://cornell.chequerd.com/courses/6264/SOC/3190/
+SOC 3350,Covert Social Networks,http://cornell.chequerd.com/courses/11266/SOC/3350/
+SOC 3370,Race and Public Policy,http://cornell.chequerd.com/courses/6266/SOC/3370/
+SOC 3410,Modern European Society and Politics,http://cornell.chequerd.com/courses/3660/SOC/3410/
+SOC 3420,Contested Terrain: Hawaii,http://cornell.chequerd.com/courses/6267/SOC/3420/
+SOC 3710,Comparative Social Inequalities,http://cornell.chequerd.com/courses/3663/SOC/3710/
+SOC 4160,Ethnography of Poverty and Inequality,http://cornell.chequerd.com/courses/11392/SOC/4160/
+SOC 4350,Gender, Work and Family,http://cornell.chequerd.com/courses/11267/SOC/4350/
+SOC 4360,Capitalism: Actors, Institutions, Politics and Culture,http://cornell.chequerd.com/courses/11268/SOC/4360/
+SOC 4510,Special Topics in Social Psychology: Social Structure & Personality,http://cornell.chequerd.com/courses/8226/SOC/4510/
+SOC 4910,Independent Study,http://cornell.chequerd.com/courses/3672/SOC/4910/
+SOC 4950,Honors Research,http://cornell.chequerd.com/courses/3673/SOC/4950/
+SOC 4960,Honors Thesis: Senior Year,http://cornell.chequerd.com/courses/3674/SOC/4960/
+SOC 4970,Science, Technology and Medicine: The Sonic Dimension,http://cornell.chequerd.com/courses/11269/SOC/4970/
+SOC 5020,Basic Problems in Sociology II,http://cornell.chequerd.com/courses/7326/SOC/5020/
+SOC 6020,Linear Methods,http://cornell.chequerd.com/courses/11270/SOC/6020/
+SOC 6070,Sociology Colloquium,http://cornell.chequerd.com/courses/8229/SOC/6070/
+SOC 6140,Reading the Journals: Theory, Methods, and Interpretation,http://cornell.chequerd.com/courses/11374/SOC/6140/
+SOC 6310,Qualitative Research Methods for Studying Science,http://cornell.chequerd.com/courses/6272/SOC/6310/
+SOC 6480,Social Microsequences,http://cornell.chequerd.com/courses/11271/SOC/6480/
+SOC 6550,How to Theorize in Social Science,http://cornell.chequerd.com/courses/11272/SOC/6550/
+SOC 6910,Independent Study,http://cornell.chequerd.com/courses/3686/SOC/6910/
+SOC 8920,Graduate Research,http://cornell.chequerd.com/courses/6275/SOC/8920/
+SOC 8960,Thesis Research,http://cornell.chequerd.com/courses/6276/SOC/8960/
+

@@ -1,0 +1,8 @@
+16276,SEM,MW,2:55p - 4:10p,RCK 187,Lathrop (lsl67),
+16275,SEM,MWF,12:20p - 1:10p,GSH 283,Howard (cmh284),
+16274,SEM,TR,2:55p - 4:10p,BAL 3331,Suwendy (cs583),
+16273,SEM,TR,8:40a - 9:55a,GSH 164,Sinykin (dns52),
+16266,SEM,TR,2:55p - 4:10p,GSH 283,Lirette (cml273),
+16265,SEM,MWF,10:10a - 11:00a,MLT 230,Spivey (jls534),
+16264,SEM,MWF,9:05a - 9:55a,GSH 164,Foster (scf55),
+

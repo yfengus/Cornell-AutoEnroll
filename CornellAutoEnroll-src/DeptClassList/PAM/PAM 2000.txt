@@ -1,0 +1,6 @@
+16668,DIS,W,11:15a - 12:05p,PLS 143,Geddes (rrg24),
+16667,DIS,F,1:25p - 2:15p,MVR 280,Geddes (rrg24),
+12512,DIS,F,11:15a - 12:05p,RCK 104,Geddes (rrg24),
+12509,DIS,W,1:25p - 2:15p,MVR G71,Geddes (rrg24),
+12854,LEC,TR,10:10a - 11:25a,URH G01,Geddes (rrg24),
+

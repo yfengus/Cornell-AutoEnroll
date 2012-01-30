@@ -1,0 +1,7 @@
+8805,DIS,F,11:15a - 12:05p,KND 101,Richardson (tar37),
+8804,DIS,T,12:20p - 1:10p,PLS 143,Richardson (tar37),
+8803,DIS,W,10:10a - 11:00a,CLD 250,Richardson (tar37),
+5404,DIS,F,11:15a - 12:05p,CLD 250,Richardson (tar37),
+5403,DIS,T,12:20p - 1:10p,KND 101,Richardson (tar37),
+5402,LEC,MW,11:15a - 12:05p,CLD 100,Richardson (tar37),
+

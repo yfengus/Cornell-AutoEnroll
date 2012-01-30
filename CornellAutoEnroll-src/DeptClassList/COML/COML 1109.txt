@@ -1,0 +1,6 @@
+16218,SEM,MW,8:40a - 9:55a,URH G20,Kennedy (wjk3),
+16217,SEM,MW,2:55p - 4:10p,BAL 3331,Romero Rivera (mr342),
+16216,SEM,TR,11:40a - 12:55p,MCG 365,Row (jer269),
+16215,SEM,TR,2:55p - 4:10p,GSH 164,Mor (lm483),
+16214,SEM,TR,8:40a - 9:55a,GSH 348,Kaloustian (csk68),
+

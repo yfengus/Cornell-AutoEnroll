@@ -1,0 +1,3 @@
+1773,LAB,R,1:25p - 4:25p,BDF 102,Lehmann (cl273),
+1772,LEC,TR,8:40a - 9:55a,BDF 105,Lehmann (cl273),
+

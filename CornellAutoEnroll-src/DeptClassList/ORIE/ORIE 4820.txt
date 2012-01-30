@@ -1,0 +1,3 @@
+10740,DIS,W,11:15a - 1:10p,RHD 471,Caggiano (kec4),
+10739,LEC,M,11:15a - 12:05p,RHD 471,Caggiano (kec4),
+

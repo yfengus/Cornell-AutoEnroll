@@ -1,0 +1,5 @@
+CIS 1121,Introduction to MATLAB,http://cornell.chequerd.com/courses/982/CIS/1121/
+CIS 4999,Independent Reading and Research,http://cornell.chequerd.com/courses/986/CIS/4999/
+CIS 5050,System Architecture, Behavior, and Optimization,http://cornell.chequerd.com/courses/4606/CIS/5050/
+CIS 7900,Independent Research,http://cornell.chequerd.com/courses/989/CIS/7900/
+

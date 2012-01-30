@@ -1,0 +1,37 @@
+FDSC 1102,Leadership and Career Skills in Food Science,http://cornell.chequerd.com/courses/5080/FDSC/1102/
+FDSC 1104,Introduction to Wines and Vines,http://cornell.chequerd.com/courses/5081/FDSC/1104/
+FDSC 1105,Introduction to Wines and Vines Laboratory,http://cornell.chequerd.com/courses/5082/FDSC/1105/
+FDSC 1500,Food Choices and Issues,http://cornell.chequerd.com/courses/5083/FDSC/1500/
+FDSC 2100,Food Analysis,http://cornell.chequerd.com/courses/5084/FDSC/2100/
+FDSC 2300,Chef's Chemistry,http://cornell.chequerd.com/courses/7787/FDSC/2300/
+FDSC 2500,Kosher and Halal Food Regulations,http://cornell.chequerd.com/courses/5085/FDSC/2500/
+FDSC 3120,Sustainability and Organic Grape and Wine Production I,http://cornell.chequerd.com/courses/9369/FDSC/3120/
+FDSC 3800,Winemaking Theory and Practice II,http://cornell.chequerd.com/courses/7788/FDSC/3800/
+FDSC 3810,Winemaking Theory and Practice II Laboratory,http://cornell.chequerd.com/courses/7789/FDSC/3810/
+FDSC 4000,Current Topics in Food Science and Technology,http://cornell.chequerd.com/courses/5087/FDSC/4000/
+FDSC 4010,Concepts of Product Development,http://cornell.chequerd.com/courses/5088/FDSC/4010/
+FDSC 4170,Food Chemistry I,http://cornell.chequerd.com/courses/5090/FDSC/4170/
+FDSC 4220,Functional Foods and Nutraceuticals,http://cornell.chequerd.com/courses/9370/FDSC/4220/
+FDSC 4250,Unit Operations and Dairy Foods Processing,http://cornell.chequerd.com/courses/5091/FDSC/4250/
+FDSC 4300,Understanding Wine and Beer,http://cornell.chequerd.com/courses/5092/FDSC/4300/
+FDSC 4350,Introduction to Aquaculture for Food Scientists,http://cornell.chequerd.com/courses/9371/FDSC/4350/
+FDSC 4400,Wine and Grape Flavor Development,http://cornell.chequerd.com/courses/5093/FDSC/4400/
+FDSC 4600,Wine Microbiology,http://cornell.chequerd.com/courses/7790/FDSC/4600/
+FDSC 4960,Undergraduate Internship in Food Science,http://cornell.chequerd.com/courses/1792/FDSC/4960/
+FDSC 4970,Individual Study in Food Science,http://cornell.chequerd.com/courses/1793/FDSC/4970/
+FDSC 4980,Undergraduate Teaching Experience,http://cornell.chequerd.com/courses/1794/FDSC/4980/
+FDSC 4990,Undergraduate Research in Food Science,http://cornell.chequerd.com/courses/1795/FDSC/4990/
+FDSC 4992,Uundergraduate Honors Research in Food Science,http://cornell.chequerd.com/courses/5095/FDSC/4992/
+FDSC 5000,Master of Professional Studies (Agriculture) Project,http://cornell.chequerd.com/courses/1797/FDSC/5000/
+FDSC 5990,Research for Lausanne Exchange Students,http://cornell.chequerd.com/courses/1798/FDSC/5990/
+FDSC 6000,Seminar in Food Science,http://cornell.chequerd.com/courses/1799/FDSC/6000/
+FDSC 6020,Agriculture in the Developing Nations II,http://cornell.chequerd.com/courses/5096/FDSC/6020/
+FDSC 6220,Nutraceuticals and Functional Foods,http://cornell.chequerd.com/courses/5097/FDSC/6220/
+FDSC 6640,Food Polymer Science: Principles and Applications,http://cornell.chequerd.com/courses/7794/FDSC/6640/
+FDSC 6940,Special Topics in Food Science,http://cornell.chequerd.com/courses/1802/FDSC/6940/
+FDSC 6960,Graduate Internship in Food Science,http://cornell.chequerd.com/courses/1804/FDSC/6960/
+FDSC 6970,Graduate Individual Study in Food Science,http://cornell.chequerd.com/courses/1805/FDSC/6970/
+FDSC 6980,Graduate Teaching Experience,http://cornell.chequerd.com/courses/1806/FDSC/6980/
+FDSC 8900,Masters-Level Thesis Research,http://cornell.chequerd.com/courses/1807/FDSC/8900/
+FDSC 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/1808/FDSC/9900/
+

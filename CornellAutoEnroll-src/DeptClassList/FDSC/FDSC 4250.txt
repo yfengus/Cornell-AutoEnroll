@@ -1,0 +1,4 @@
+2147,LAB,M,1:25p - 4:25p,TBA TBA,Moraru (cim24),
+15505,LEC,MW,12:20p - 1:10p,RRB B15,Moraru (cim24),
+2146,LEC,MW,12:20p - 1:10p,RRB B15,Moraru (cim24),
+

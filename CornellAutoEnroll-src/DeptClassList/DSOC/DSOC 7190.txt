@@ -1,0 +1,3 @@
+14635,LAB,R,3:35p - 7:00p,MNL B30A,Francis (jdf2),
+14634,LEC,R,2:55p - 3:30p,MNL B30A,Francis (jdf2),
+

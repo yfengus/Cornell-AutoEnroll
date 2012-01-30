@@ -1,0 +1,3 @@
+9035,LEC,TR,11:15a - 12:00p,HNH 230,Seaney (js126),
+9034,LEC,MW,2:30p - 3:15p,HNH 230,Seaney (js126),
+

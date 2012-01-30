@@ -1,0 +1,8 @@
+14764,DIS,F,11:15a - 12:05p,RCK 187,Wethington (ew20),
+14762,DIS,F,10:10a - 11:00a,MVR 157,Wethington (ew20),
+14760,DIS,F,1:25p - 2:15p,HEB 201,Wethington (ew20),
+14758,DIS,F,12:20p - 1:10p,MVR 157,Wethington (ew20),
+14756,DIS,F,11:15a - 12:05p,HEB 201,Wethington (ew20),
+14750,DIS,F,10:10a - 11:00a,HEB 201,Wethington (ew20),
+14749,LEC,MW,11:15a - 12:05p,MVR G71,Wethington (ew20),
+

@@ -1,0 +1,4 @@
+13750,LAB,F,10:00a - 12:00p,CLS C2555,Hackett (rph2),
+13750,LAB,F,9:00a - 10:00a,CLU C2537,Hackett (rph2),
+13749,LEC,W,10:00a - 12:00p,CLU C2537,Hackett (rph2),
+

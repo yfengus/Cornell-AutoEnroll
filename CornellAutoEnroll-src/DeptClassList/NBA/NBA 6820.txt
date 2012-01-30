@@ -1,0 +1,4 @@
+13533,LEC,W,2:55p - 5:40p,SGH B05,O'Connor (kmo8),
+13516,LEC,W,10:10a - 1:10p,SGH B05,O'Connor (kmo8),
+13552,LEC,T,4:25p - 7:10p,SGH B11,O'Connor (kmo8),
+

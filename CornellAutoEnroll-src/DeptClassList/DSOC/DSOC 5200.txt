@@ -1,0 +1,3 @@
+4642,DIS,F,11:15a - 12:05p,CMS B104,Wolford (www43),
+4641,LEC,MW,10:10a - 11:00a,PLS G37,Wolford (www43),
+

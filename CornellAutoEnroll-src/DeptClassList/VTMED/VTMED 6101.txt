@@ -1,0 +1,3 @@
+13612,LAB,MWR,9:00a - 12:00p,BSC S2067,,
+13588,LEC,MW,8:00a - 9:00a,VRT T1003,Bezuidenhout (ajb21),
+

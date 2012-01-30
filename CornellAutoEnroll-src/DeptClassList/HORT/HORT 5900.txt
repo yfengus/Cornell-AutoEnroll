@@ -1,0 +1,6 @@
+4173,RSC,TBA,,,Pritts (mpp3),
+2189,RSC,TBA,,,Mudge (kwm2),
+2188,RSC,TBA,,,Bassuk (nlb2),
+2187,RSC,TBA,,,Rakow (dr14),
+2186,RSC,TBA,,,Vanden Heuvel (jev32),
+

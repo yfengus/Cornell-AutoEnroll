@@ -1,0 +1,4 @@
+8763,LEC,R,8:15a - 9:45a,BKL 335,Johnson (skj29),
+8762,LEC,T,1:25p - 2:55p,BKL 119,Johnson (skj29),
+6790,LEC,M,7:30p - 9:00p,BKL 219,Johnson (skj29),
+

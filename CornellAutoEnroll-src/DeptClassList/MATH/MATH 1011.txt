@@ -1,0 +1,3 @@
+5582,TA,M,7:30p - 9:00p,MLT 251,Taimina (dt34),
+5581,TA,M,4:30p - 6:00p,MLT 251,Taimina (dt34),
+

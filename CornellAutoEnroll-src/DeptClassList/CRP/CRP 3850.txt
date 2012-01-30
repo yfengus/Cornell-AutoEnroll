@@ -1,0 +1,4 @@
+5286,LEC,F,10:00a - 1:00p,,,
+5293,LEC,M,12:10p - 2:40p,SBL 211,Foote (jhf25),
+14200,SEM,TR,1:25p - 2:40p,GSH 181,Craib (rbc23),
+

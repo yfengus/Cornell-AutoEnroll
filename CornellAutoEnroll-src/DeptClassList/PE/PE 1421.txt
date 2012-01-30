@@ -1,0 +1,3 @@
+16453,LEC,TBA,,,Koschmann (nlk22),
+9147,LEC,TR,10:10a - 11:00a,TGL 138,Freedman (lmf10),
+

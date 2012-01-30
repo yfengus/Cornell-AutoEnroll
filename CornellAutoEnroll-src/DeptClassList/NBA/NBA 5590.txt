@@ -1,0 +1,3 @@
+13500,LEC,S,9:00a - 12:00p,SGH B09,BenDaniel (djb16),
+13500,LEC,F,1:25p - 5:40p,SGH B09,BenDaniel (djb16),
+

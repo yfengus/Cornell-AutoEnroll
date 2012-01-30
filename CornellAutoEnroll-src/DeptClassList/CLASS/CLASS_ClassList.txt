@@ -1,0 +1,29 @@
+CLASS 1332,Elementary Sanskrit II,http://cornell.chequerd.com/courses/4607/CLASS/1332/
+CLASS 1531,FWS: Greek Myth,http://cornell.chequerd.com/courses/992/CLASS/1531/
+CLASS 1699,English Words: Histories and Mysteries,http://cornell.chequerd.com/courses/4608/CLASS/1699/
+CLASS 2352,Intermediate Sanskrit II,http://cornell.chequerd.com/courses/4609/CLASS/2352/
+CLASS 2612,The Roman Experience,http://cornell.chequerd.com/courses/7628/CLASS/2612/
+CLASS 2640,Introduction to Ancient Medicine,http://cornell.chequerd.com/courses/10969/CLASS/2640/
+CLASS 2661,Ancient Philosophy,http://cornell.chequerd.com/courses/999/CLASS/2661/
+CLASS 2680,War&Peace In Greece&Rome,http://cornell.chequerd.com/courses/9293/CLASS/2680/
+CLASS 2688,Cleopatra's Egypt: Tradition and Transformation,http://cornell.chequerd.com/courses/10970/CLASS/2688/
+CLASS 2710,Roman Wall Painting,http://cornell.chequerd.com/courses/10971/CLASS/2710/
+CLASS 2743,Archaeology/Roman Private Life,http://cornell.chequerd.com/courses/4614/CLASS/2743/
+CLASS 3391,Independent Study in Sanskrit Undergraduate Level,http://cornell.chequerd.com/courses/1003/CLASS/3391/
+CLASS 3394,Advanced Sanskrit II,http://cornell.chequerd.com/courses/4615/CLASS/3394/
+CLASS 3642,Greeks, Romans, and Victorians,http://cornell.chequerd.com/courses/4616/CLASS/3642/
+CLASS 3686,Independent Study in Classical Civilization, Undergraduate Level,http://cornell.chequerd.com/courses/1006/CLASS/3686/
+CLASS 4634,Topics in Medieval Commentaries,http://cornell.chequerd.com/courses/10972/CLASS/4634/
+CLASS 4642,Slavery & Human Bondage in the Ancient Near East,http://cornell.chequerd.com/courses/10973/CLASS/4642/
+CLASS 4662,Topics in Ancient Philosophy,http://cornell.chequerd.com/courses/4621/CLASS/4662/
+CLASS 4722,Honors: Senior Essay II,http://cornell.chequerd.com/courses/4622/CLASS/4722/
+CLASS 4738,Image Love, Image Hate: Agalmatophilia and Iconoclasm in Antiquity and Beyond,http://cornell.chequerd.com/courses/10974/CLASS/4738/
+CLASS 4746,Greek and Roman Art and Archaeology,http://cornell.chequerd.com/courses/7635/CLASS/4746/
+CLASS 4750,Archaeology of Greek Religion: Theory, Methods, and Practice,http://cornell.chequerd.com/courses/10975/CLASS/4750/
+CLASS 7345,Graduate TA Training,http://cornell.chequerd.com/courses/1013/CLASS/7345/
+CLASS 7632,Topics in Medieval Commentaries,http://cornell.chequerd.com/courses/10976/CLASS/7632/
+CLASS 7746,Greek and Roman Art and Archaeology,http://cornell.chequerd.com/courses/7638/CLASS/7746/
+CLASS 7950,Independent Study in Sanskrit,http://cornell.chequerd.com/courses/1015/CLASS/7950/
+CLASS 7960,Independent Study in Classical Studies,http://cornell.chequerd.com/courses/1016/CLASS/7960/
+CLASS 9900,Doctoral Dissertation Research,http://cornell.chequerd.com/courses/1017/CLASS/9900/
+

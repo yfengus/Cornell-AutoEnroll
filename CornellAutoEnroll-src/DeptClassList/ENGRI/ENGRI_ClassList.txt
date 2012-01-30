@@ -1,0 +1,9 @@
+ENGRI 1101,Engineering Applications of Operations Research,http://cornell.chequerd.com/courses/1730/ENGRI/1101/
+ENGRI 1130,Water Treatment Design,http://cornell.chequerd.com/courses/5064/ENGRI/1130/
+ENGRI 1140,Materials: Enabling the Future of Energy,http://cornell.chequerd.com/courses/7781/ENGRI/1140/
+ENGRI 1220,Earthquake!,http://cornell.chequerd.com/courses/5065/ENGRI/1220/
+ENGRI 1270,Introduction to Entrepreneurship and Enterprise Engineering,http://cornell.chequerd.com/courses/5067/ENGRI/1270/
+ENGRI 1290,Energy: From Atoms to Zephyrs,http://cornell.chequerd.com/courses/8949/ENGRI/1290/
+ENGRI 1310,Introduction to Biomedical Engineering,http://cornell.chequerd.com/courses/5068/ENGRI/1310/
+ENGRI 1820,Electricity Lights Camera Action: Nanoengineering for the Future of Bits and Bytes,http://cornell.chequerd.com/courses/11384/ENGRI/1820/
+

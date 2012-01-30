@@ -1,0 +1,4 @@
+11781,LEC,TR,11:55a - 1:10p,SGH B11,Bloomfield (rjb9),
+11780,LEC,TR,10:10a - 11:25a,SGH B05,Bloomfield (rjb9),
+11779,LEC,TR,8:40a - 9:55a,SGH B05,Bloomfield (rjb9),
+

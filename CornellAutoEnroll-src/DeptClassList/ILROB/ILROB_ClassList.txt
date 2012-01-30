@@ -1,0 +1,14 @@
+ILROB 1220,Introduction to Organizational Behavior,http://cornell.chequerd.com/courses/2383/ILROB/1220/
+ILROB 2230,Leadership in Organizations,http://cornell.chequerd.com/courses/11174/ILROB/2230/
+ILROB 3050,Special Topics in Organizational Behavior,http://cornell.chequerd.com/courses/9499/ILROB/3050/
+ILROB 3700,The Study of Work Motivation,http://cornell.chequerd.com/courses/7982/ILROB/3700/
+ILROB 4203,The Pragmatics of Leadership,http://cornell.chequerd.com/courses/9500/ILROB/4203/
+ILROB 5790,Negotion and Conflict Resolution,http://cornell.chequerd.com/courses/5454/ILROB/5790/
+ILROB 6035,Special Topics in Organizational Behavior,http://cornell.chequerd.com/courses/11175/ILROB/6035/
+ILROB 6210,Understanding Orgainzational Behavior through Social Network Analysis,http://cornell.chequerd.com/courses/8752/ILROB/6210/
+ILROB 6710,Work, Health, and Health Care,http://cornell.chequerd.com/courses/5456/ILROB/6710/
+ILROB 7230,Social Network Analysis in Social Science Research,http://cornell.chequerd.com/courses/11176/ILROB/7230/
+ILROB 7260,Selected Topics in Organizational Behavior,http://cornell.chequerd.com/courses/2392/ILROB/7260/
+ILROB 7270,Leadership in Organizations,http://cornell.chequerd.com/courses/7986/ILROB/7270/
+ILROB 9200,Organizational Behavior Workshop,http://cornell.chequerd.com/courses/2395/ILROB/9200/
+

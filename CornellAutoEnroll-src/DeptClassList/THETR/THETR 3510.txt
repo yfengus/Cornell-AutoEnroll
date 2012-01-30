@@ -1,0 +1,11 @@
+14071,STU,TBA,,,,
+14070,STU,TBA,,,Chu (jrc24),
+14069,STU,TBA,,,Suber (pbs6),
+14064,STU,TBA,,,Dreyer-Lude (md496),
+14063,STU,TBA,,,Milles (bfm6),
+14062,STU,TBA,,,Intemann (edi1),
+14060,STU,TBA,,,Cross (wdc4),
+14058,STU,TBA,,,Bernstein (seb57),
+14057,STU,TBA,,,Goetz (klg2),
+5966,STU,TBA,,,,
+

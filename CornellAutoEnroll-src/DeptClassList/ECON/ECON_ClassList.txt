@@ -1,0 +1,59 @@
+ECON 1001,Prin of Micro Econ-Supplement,http://cornell.chequerd.com/courses/1507/ECON/1001/
+ECON 1002,Prin of Macroecon-Supplement,http://cornell.chequerd.com/courses/1508/ECON/1002/
+ECON 1110,Introductory Microeconomics,http://cornell.chequerd.com/courses/1509/ECON/1110/
+ECON 1120,Introductory Macroeconomics,http://cornell.chequerd.com/courses/1510/ECON/1120/
+ECON 2300,International Trade and Finance,http://cornell.chequerd.com/courses/4941/ECON/2300/
+ECON 3020,Macroeconomics,http://cornell.chequerd.com/courses/4942/ECON/3020/
+ECON 3130,Intermediate Microeconomic Theory,http://cornell.chequerd.com/courses/1513/ECON/3130/
+ECON 3140,Intermediate Macroeconomic Theory,http://cornell.chequerd.com/courses/1514/ECON/3140/
+ECON 3200,Introduction to Econometrics,http://cornell.chequerd.com/courses/1516/ECON/3200/
+ECON 3210,Applied Econometrics,http://cornell.chequerd.com/courses/1517/ECON/3210/
+ECON 3330,Financial Economics,http://cornell.chequerd.com/courses/1520/ECON/3330/
+ECON 3340,Banks,http://cornell.chequerd.com/courses/9341/ECON/3340/
+ECON 3360,Public Finance: Resource Allocation and Fiscal Policy,http://cornell.chequerd.com/courses/4944/ECON/3360/
+ECON 3390,Economic Analysis of Politics,http://cornell.chequerd.com/courses/9342/ECON/3390/
+ECON 3440,Development of Economic Thought and Institutions,http://cornell.chequerd.com/courses/1522/ECON/3440/
+ECON 3520,Industrial Organization II,http://cornell.chequerd.com/courses/4945/ECON/3520/
+ECON 3610,International Trade Theory and Policy,http://cornell.chequerd.com/courses/1524/ECON/3610/
+ECON 3680,Game Theory,http://cornell.chequerd.com/courses/4948/ECON/3680/
+ECON 3710,Economic Development,http://cornell.chequerd.com/courses/1525/ECON/3710/
+ECON 4040,Economics and the Law,http://cornell.chequerd.com/courses/4949/ECON/4040/
+ECON 4090,Environmental Economics,http://cornell.chequerd.com/courses/4950/ECON/4090/
+ECON 4170,History of Economic Analysis,http://cornell.chequerd.com/courses/4951/ECON/4170/
+ECON 4370,Economics of Health Policy,http://cornell.chequerd.com/courses/6906/ECON/4370/
+ECON 4380,Economics of Public Health,http://cornell.chequerd.com/courses/9343/ECON/4380/
+ECON 4410,Economics of Consumer Law and Protection,http://cornell.chequerd.com/courses/7741/ECON/4410/
+ECON 4440,The Evolution of Social Policy in Britain &America,http://cornell.chequerd.com/courses/4954/ECON/4440/
+ECON 4450,Industrial Policy,http://cornell.chequerd.com/courses/4955/ECON/4450/
+ECON 4570,Women in the Economy,http://cornell.chequerd.com/courses/7742/ECON/4570/
+ECON 4690,China's Economy under Mao and Deng,http://cornell.chequerd.com/courses/7743/ECON/4690/
+ECON 4980,Independent Study in Economics,http://cornell.chequerd.com/courses/1533/ECON/4980/
+ECON 4991,Honors Program,http://cornell.chequerd.com/courses/4958/ECON/4991/
+ECON 6100,Microeconomic Theory II,http://cornell.chequerd.com/courses/4959/ECON/6100/
+ECON 6110,Microeconomic Theory III,http://cornell.chequerd.com/courses/1536/ECON/6110/
+ECON 6140,Macroeconomic Theory II,http://cornell.chequerd.com/courses/4960/ECON/6140/
+ECON 6180,Intermediate Mathematical Economics II,http://cornell.chequerd.com/courses/11014/ECON/6180/
+ECON 6200,Econometrics II,http://cornell.chequerd.com/courses/4961/ECON/6200/
+ECON 6420,Health Economics II,http://cornell.chequerd.com/courses/11015/ECON/6420/
+ECON 6990,Readings In Economics,http://cornell.chequerd.com/courses/1543/ECON/6990/
+ECON 7190,Advanced Topics in Econometrics I,http://cornell.chequerd.com/courses/1545/ECON/7190/
+ECON 7200,Advanced Topics in Econometrics II,http://cornell.chequerd.com/courses/6912/ECON/7200/
+ECON 7350,Public Finance: Resource Allocation and Fiscal Policy,http://cornell.chequerd.com/courses/7745/ECON/7350/
+ECON 7430,Seminar in Labor Economics II,http://cornell.chequerd.com/courses/4965/ECON/7430/
+ECON 7492,Applied Econometrics II,http://cornell.chequerd.com/courses/4967/ECON/7492/
+ECON 7580,Psychology and Economic Theory,http://cornell.chequerd.com/courses/1551/ECON/7580/
+ECON 7640,Intl Trade & Foreign Invest,http://cornell.chequerd.com/courses/4969/ECON/7640/
+ECON 7700,Topics in Economic Development,http://cornell.chequerd.com/courses/7746/ECON/7700/
+ECON 7711,Empirical Methods for the Analysis of Household Survey Data,http://cornell.chequerd.com/courses/4970/ECON/7711/
+ECON 7740,Contract Theory,http://cornell.chequerd.com/courses/9344/ECON/7740/
+ECON 7760,Computational Economics,http://cornell.chequerd.com/courses/4972/ECON/7760/
+ECON 7841,Econometrics Workshop,http://cornell.chequerd.com/courses/1555/ECON/7841/
+ECON 7842,Microeconomic Theory Wkshp,http://cornell.chequerd.com/courses/1556/ECON/7842/
+ECON 7843,Applied Economics Wkshp,http://cornell.chequerd.com/courses/1557/ECON/7843/
+ECON 7844,International Economics Wksh,http://cornell.chequerd.com/courses/1558/ECON/7844/
+ECON 7845,Labor Economics Workshop,http://cornell.chequerd.com/courses/1559/ECON/7845/
+ECON 7846,Macroeconomics Workshop,http://cornell.chequerd.com/courses/1560/ECON/7846/
+ECON 7847,Development Wkshp,http://cornell.chequerd.com/courses/1561/ECON/7847/
+ECON 7848,Public Economics Wkshp,http://cornell.chequerd.com/courses/1562/ECON/7848/
+ECON 7849,Behavioral Economics Wkshp,http://cornell.chequerd.com/courses/1563/ECON/7849/
+

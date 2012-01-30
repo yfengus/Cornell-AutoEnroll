@@ -1,0 +1,4 @@
+10677,DIS,R,1:25p - 4:30p,THR 203,Robinson (rdr82),
+10676,DIS,T,1:25p - 4:30p,THR 203,Robinson (rdr82),
+10675,LEC,MWF,12:20p - 1:10p,BRD 140,Robinson (rdr82),
+

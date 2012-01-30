@@ -1,0 +1,3 @@
+13618,LEC,T,9:00a - 11:00a,VEC S1166,Cryer (mcf32),
+13618,LEC,F,8:00a - 11:00a,VEC S1166,Cryer (mcf32),
+

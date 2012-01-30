@@ -1,0 +1,43 @@
+PHYS 1012,Physics 112 Supplement,http://cornell.chequerd.com/courses/6110/PHYS/1012/
+PHYS 1090,Foundation Physics,http://cornell.chequerd.com/courses/8174/PHYS/1090/
+PHYS 1102,General Physics II,http://cornell.chequerd.com/courses/6111/PHYS/1102/
+PHYS 1112,Physics I: Mechanics,http://cornell.chequerd.com/courses/3429/PHYS/1112/
+PHYS 1116,Physics I: Mechanics and Special Relativity,http://cornell.chequerd.com/courses/3430/PHYS/1116/
+PHYS 1118,Introduction to Research in Particle Physics,http://cornell.chequerd.com/courses/11431/PHYS/1118/
+PHYS 1190,Supplementary Introductory Lab,http://cornell.chequerd.com/courses/3432/PHYS/1190/
+PHYS 1203,Physics of the Heavens and the EarthA Synthesis,http://cornell.chequerd.com/courses/6113/PHYS/1203/
+PHYS 1204,Physics of Musical Sound,http://cornell.chequerd.com/courses/6114/PHYS/1204/
+PHYS 2202,Philosophy of Physics,http://cornell.chequerd.com/courses/11398/PHYS/2202/
+PHYS 2208,Fundamentals of Physics,http://cornell.chequerd.com/courses/6116/PHYS/2208/
+PHYS 2213,Physics II: Heat/Electromagnetism,http://cornell.chequerd.com/courses/3435/PHYS/2213/
+PHYS 2214,Physics III: Optics, Waves, and Particles,http://cornell.chequerd.com/courses/3436/PHYS/2214/
+PHYS 2216,Introduction to Special Relativity,http://cornell.chequerd.com/courses/3437/PHYS/2216/
+PHYS 2217,Physics II: Electricity and Magnetism,http://cornell.chequerd.com/courses/3438/PHYS/2217/
+PHYS 2218,Physics III: Waves and Thermodynamics,http://cornell.chequerd.com/courses/3439/PHYS/2218/
+PHYS 3310,Intermediate Experimental Physics,http://cornell.chequerd.com/courses/6117/PHYS/3310/
+PHYS 3314,Intermediate Mechanics,http://cornell.chequerd.com/courses/6118/PHYS/3314/
+PHYS 3316,Basics of Quantum Mechanics,http://cornell.chequerd.com/courses/3440/PHYS/3316/
+PHYS 3318,Analytical Mechanics,http://cornell.chequerd.com/courses/6119/PHYS/3318/
+PHYS 3360,Electronic Circuits,http://cornell.chequerd.com/courses/3446/PHYS/3360/
+PHYS 4400,Informal Advanced Laboratory,http://cornell.chequerd.com/courses/3447/PHYS/4400/
+PHYS 4410,Advanced Experimental Physics,http://cornell.chequerd.com/courses/3448/PHYS/4410/
+PHYS 4443,Intermed Quantum Mechanics,http://cornell.chequerd.com/courses/6120/PHYS/4443/
+PHYS 4444,Introduction to Particle Physics,http://cornell.chequerd.com/courses/6121/PHYS/4444/
+PHYS 4480,Computational Physics,http://cornell.chequerd.com/courses/6122/PHYS/4480/
+PHYS 4484,Teaching and Learning Physics,http://cornell.chequerd.com/courses/3451/PHYS/4484/
+PHYS 4490,Independent Study in Physics,http://cornell.chequerd.com/courses/3452/PHYS/4490/
+PHYS 6500,Informal Graduate Laboratory,http://cornell.chequerd.com/courses/3453/PHYS/6500/
+PHYS 6510,Advanced Experimental Physics,http://cornell.chequerd.com/courses/3454/PHYS/6510/
+PHYS 6520,Projects in Experimental Physics,http://cornell.chequerd.com/courses/3455/PHYS/6520/
+PHYS 6562,Statistical Physics,http://cornell.chequerd.com/courses/6125/PHYS/6562/
+PHYS 6574,Applications of Quantum Mechanics II,http://cornell.chequerd.com/courses/6126/PHYS/6574/
+PHYS 6599,Cosmology,http://cornell.chequerd.com/courses/8176/PHYS/6599/
+PHYS 7636,Solid-State Physics II,http://cornell.chequerd.com/courses/6127/PHYS/7636/
+PHYS 7645,High-Energy Physics,http://cornell.chequerd.com/courses/6128/PHYS/7645/
+PHYS 7652,Relativistic Quantum Field Theory II,http://cornell.chequerd.com/courses/6130/PHYS/7652/
+PHYS 7654,Basic Training in Conditional Matter Physics,http://cornell.chequerd.com/courses/6131/PHYS/7654/
+PHYS 7680,Computational Physics,http://cornell.chequerd.com/courses/6132/PHYS/7680/
+PHYS 7683,Synchroton X-ray Science: Present and Future,http://cornell.chequerd.com/courses/6133/PHYS/7683/
+PHYS 7684,Teaching and Learning Physics,http://cornell.chequerd.com/courses/3464/PHYS/7684/
+PHYS 7690,Independent Study in Physics,http://cornell.chequerd.com/courses/3465/PHYS/7690/
+

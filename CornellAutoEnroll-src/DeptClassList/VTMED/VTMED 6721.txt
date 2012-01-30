@@ -1,0 +1,3 @@
+13592,LEC,R,3:00p - 5:00p,BSC S2067,Kollias (gvk2),
+13592,LEC,R,1:00p - 3:00p,VRT T1003,Kollias (gvk2),
+

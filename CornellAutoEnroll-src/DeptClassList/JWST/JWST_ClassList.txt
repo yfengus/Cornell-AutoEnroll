@@ -1,0 +1,17 @@
+JWST 1102,Elementary Modern Hebrew II,http://cornell.chequerd.com/courses/5502/JWST/1102/
+JWST 2100,Intermediate Modern Hebrew II,http://cornell.chequerd.com/courses/5503/JWST/2100/
+JWST 2501,Kosher and Halal Food Regulations,http://cornell.chequerd.com/courses/9512/JWST/2501/
+JWST 2530,Cultures of the Middle Ages,http://cornell.chequerd.com/courses/11390/JWST/2530/
+JWST 2556,Introduction to the Quran,http://cornell.chequerd.com/courses/11385/JWST/2556/
+JWST 2610,Archaeology of the Ancient Near East,http://cornell.chequerd.com/courses/11183/JWST/2610/
+JWST 2688,Cleopatra's Egypt: Tradition and Transformation,http://cornell.chequerd.com/courses/11389/JWST/2688/
+JWST 2728,Introduction to Modern Middle Eastern Literature,http://cornell.chequerd.com/courses/8003/JWST/2728/
+JWST 3102,Advanced Modern Hebrew II,http://cornell.chequerd.com/courses/5507/JWST/3102/
+JWST 3105,Conversational Hebrew,http://cornell.chequerd.com/courses/7145/JWST/3105/
+JWST 3588,Biblical Archaeology,http://cornell.chequerd.com/courses/8005/JWST/3588/
+JWST 4102,Readings in the Biblical Hebrew Prose,http://cornell.chequerd.com/courses/7147/JWST/4102/
+JWST 4171,The Holocaust: The Personal and the Political,http://cornell.chequerd.com/courses/11184/JWST/4171/
+JWST 4525,Palestinians in Israel,http://cornell.chequerd.com/courses/8770/JWST/4525/
+JWST 4580,Imagining the Holocaust,http://cornell.chequerd.com/courses/2474/JWST/4580/
+JWST 6780,Persecution and the Art of Writing,http://cornell.chequerd.com/courses/11185/JWST/6780/
+

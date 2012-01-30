@@ -1,0 +1,3 @@
+14975,LEC,M,2:55p - 4:10p,EMR 135,Hobbs (ph14), Lassoie (jpl4),
+4197,LEC,F,11:15a - 12:05p,KND 105,Tantillo (jat4),
+

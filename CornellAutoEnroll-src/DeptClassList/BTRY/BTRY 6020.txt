@@ -1,0 +1,5 @@
+1605,LAB,M,12:20p - 2:15p,MNL B30B,Booth (jb383),
+1603,LAB,M,7:30p - 9:25p,MNL B30A,Booth (jb383),
+1602,LAB,T,10:10a - 12:05p,MNL B30A,Booth (jb383),
+1601,LEC,MWF,11:15a - 12:05p,WRN 131,Booth (jb383),
+

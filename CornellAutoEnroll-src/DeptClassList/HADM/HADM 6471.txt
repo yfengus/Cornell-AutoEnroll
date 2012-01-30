@@ -1,0 +1,3 @@
+16505,LEC,R,7:30p - 8:45p,STL 391,Carroll (wjc28), Kwortnik (rjk34),
+16505,LEC,F,10:10a - 11:25a,STL 391,Carroll (wjc28), Kwortnik (rjk34),
+

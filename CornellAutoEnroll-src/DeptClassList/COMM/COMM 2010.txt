@@ -1,0 +1,10 @@
+4074,LEC,TR,1:25p - 2:40p,MLT 406,Berggren (kld4),
+4073,LEC,TR,11:40a - 12:55p,KND 211,Berggren (kld4),
+4072,LEC,MW,11:40a - 12:55p,KND 213,Berggren (kld4),
+4071,LEC,TR,10:10a - 11:25a,WRN 145,Berggren (kld4),
+4070,LEC,MW,10:10a - 11:25a,KND 213,Berggren (kld4),
+4069,LEC,TR,8:40a - 9:55a,PLS 143,Berggren (kld4),
+4068,LEC,TR,8:40a - 9:55a,KND 213,Berggren (kld4),
+4067,LEC,MW,8:40a - 9:55a,KND 213,Berggren (kld4),
+4066,LEC,MW,8:40a - 9:55a,KND 211,Berggren (kld4),
+

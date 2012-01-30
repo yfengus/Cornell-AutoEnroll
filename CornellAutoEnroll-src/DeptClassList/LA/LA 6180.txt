@@ -1,0 +1,3 @@
+2242,LAB,TR,10:10a - 12:00p,KND 466,Trowbridge (pjt4),
+2241,LEC,TR,9:05a - 9:55a,KND 466,Trowbridge (pjt4),
+

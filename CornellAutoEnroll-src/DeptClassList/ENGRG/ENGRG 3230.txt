@@ -1,0 +1,5 @@
+11480,DIS,F,11:15a - 12:05p,HLS 206,Loucks (dpl3),
+10388,DIS,F,10:10a - 11:00a,HLS 206,Loucks (dpl3),
+10387,DIS,F,10:10a - 11:00a,HLS B14,Loucks (dpl3),
+10386,LEC,MW,10:10a - 11:00a,HLS B14,Loucks (dpl3),
+

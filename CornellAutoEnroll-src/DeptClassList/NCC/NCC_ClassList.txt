@@ -1,0 +1,5 @@
+NCC 5500,Financial Accounting,http://cornell.chequerd.com/courses/2968/NCC/5500/
+NCC 5530,Marketing Management,http://cornell.chequerd.com/courses/5889/NCC/5530/
+NCC 5540,Managing & Leading in Organizations,http://cornell.chequerd.com/courses/5890/NCC/5540/
+NCC 5560,Managerial Finance,http://cornell.chequerd.com/courses/2969/NCC/5560/
+

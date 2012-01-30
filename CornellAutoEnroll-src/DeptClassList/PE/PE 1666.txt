@@ -1,0 +1,5 @@
+16522,LEC,U,12:01a - 5:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+16522,LEC,T,5:00p - 8:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+16522,LEC,S,12:01a - 11:59p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+16522,LEC,F,5:00p - 11:59p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+

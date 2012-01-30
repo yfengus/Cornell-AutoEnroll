@@ -1,0 +1,8 @@
+PORT 1220,Elementary Brazilian Portuguese,http://cornell.chequerd.com/courses/6154/PORT/1220/
+PORT 2190,Intermediate Composition: Portuguese for Spanish Speakers,http://cornell.chequerd.com/courses/6155/PORT/2190/
+PORT 3520,New Realisma: Recent Literature and Cinema from Brazil,http://cornell.chequerd.com/courses/11251/PORT/3520/
+PORT 4200,Special Topics in Brazilian Literature,http://cornell.chequerd.com/courses/6157/PORT/4200/
+PORT 4520,Aesthetic Theory and Participatory Act,http://cornell.chequerd.com/courses/11252/PORT/4520/
+PORT 6220,Aesthetic Theory and Participatory Act,http://cornell.chequerd.com/courses/11376/PORT/6220/
+PORT 6400,Special Topics-Grad,http://cornell.chequerd.com/courses/6158/PORT/6400/
+

@@ -1,0 +1,21 @@
+BTRY 3020,Biological Statistics II,http://cornell.chequerd.com/courses/4477/BTRY/3020/
+BTRY 3520,Statistical Computing,http://cornell.chequerd.com/courses/10964/BTRY/3520/
+BTRY 4090,Theory of Statistics,http://cornell.chequerd.com/courses/4478/BTRY/4090/
+BTRY 4100,Techniques of Multivariate Analysis,http://cornell.chequerd.com/courses/4479/BTRY/4100/
+BTRY 4820,Statistical Genomics,http://cornell.chequerd.com/courses/9282/BTRY/4820/
+BTRY 4940,Undergraduate Special Topics in Biometry and Statistics,http://cornell.chequerd.com/courses/4481/BTRY/4940/
+BTRY 4970,Undergraduate Individual Study in Biometry and Statistics,http://cornell.chequerd.com/courses/803/BTRY/4970/
+BTRY 4980,Undergraduate Supervised Teaching,http://cornell.chequerd.com/courses/804/BTRY/4980/
+BTRY 4990,Undergraduate Research,http://cornell.chequerd.com/courses/805/BTRY/4990/
+BTRY 6020,Statistical Methods II,http://cornell.chequerd.com/courses/4482/BTRY/6020/
+BTRY 6030,Statistical Methods III: Categorical Data,http://cornell.chequerd.com/courses/4483/BTRY/6030/
+BTRY 6820,Statistical Genomics,http://cornell.chequerd.com/courses/9283/BTRY/6820/
+BTRY 6890,Topics in Population Genetics and Genomics,http://cornell.chequerd.com/courses/810/BTRY/6890/
+BTRY 6970,Individual Graduate Study in Biometry and Statistics,http://cornell.chequerd.com/courses/812/BTRY/6970/
+BTRY 7270,Advanced Survival Analysis,http://cornell.chequerd.com/courses/4488/BTRY/7270/
+BTRY 7900,Graduate-Level Dissertation Research,http://cornell.chequerd.com/courses/814/BTRY/7900/
+BTRY 7950,Statistical Consulting,http://cornell.chequerd.com/courses/815/BTRY/7950/
+BTRY 7980,Graduate Supervised Teaching,http://cornell.chequerd.com/courses/816/BTRY/7980/
+BTRY 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/817/BTRY/8900/
+BTRY 9900,Doctoral-Level Dissertation Research,http://cornell.chequerd.com/courses/818/BTRY/9900/
+

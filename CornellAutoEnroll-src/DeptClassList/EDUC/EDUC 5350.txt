@@ -1,0 +1,4 @@
+14483,DIS,R,11:15a - 12:05p,KND 101,Perry (jap255),
+14482,DIS,R,10:10a - 11:00a,KND 101,Perry (jap255),
+1950,LEC,T,10:10a - 12:05p,KND 101,Perry (jap255),
+

@@ -1,0 +1,5 @@
+13611,LAB,W,1:00p - 3:00p,BSC S2067,Maza (psm26),
+13611,LAB,MT,2:00p - 5:00p,BSC S2067,Maza (psm26),
+13611,LAB,F,3:00p - 5:00p,BSC S2067,Maza (psm26),
+13587,LEC,MT,1:00p - 2:00p,VEC S1166,Maza (psm26),
+

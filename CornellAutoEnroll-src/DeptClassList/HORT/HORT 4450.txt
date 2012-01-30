@@ -1,0 +1,4 @@
+14592,LAB,R,1:25p - 4:25p,PLS 114,Merwin (im13),
+14481,LAB,T,1:25p - 4:25p,PLS 114,Merwin (im13),
+14480,LEC,TR,10:10a - 11:00a,PLS 114,Merwin (im13),
+

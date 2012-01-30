@@ -1,0 +1,3 @@
+16132,SEM,M,7:00p - 9:00p,RCK 183,Cummings (lbc29),
+6881,SEM,M,7:00p - 9:00p,RCK 185,Shapiro (ehs9),
+

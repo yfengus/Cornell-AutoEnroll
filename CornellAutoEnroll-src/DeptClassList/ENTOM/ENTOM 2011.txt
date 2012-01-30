@@ -1,0 +1,5 @@
+3370,DIS,F,10:10a - 11:00a,CMS B106,Sanderson (jps3),
+3369,DIS,F,10:10a - 11:00a,PLS 143,Sanderson (jps3),
+3368,DIS,F,10:10a - 11:00a,CMS B108,Sanderson (jps3),
+3367,LEC,MW,10:10a - 11:00a,WRN 231,Sanderson (jps3),
+

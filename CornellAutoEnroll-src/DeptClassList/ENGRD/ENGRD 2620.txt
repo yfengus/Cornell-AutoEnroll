@@ -1,0 +1,4 @@
+15822,LAB,W,7:30p - 9:25p,,Thompson (mot1),
+10403,LAB,M,7:30p - 9:25p,TBA TBA,Thompson (mot1),
+10402,LEC,TR,10:10a - 11:25a,THR 205,Thompson (mot1),
+

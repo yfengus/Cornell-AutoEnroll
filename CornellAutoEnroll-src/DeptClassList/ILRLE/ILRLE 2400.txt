@@ -1,0 +1,6 @@
+16665,LEC,MW,2:55p - 4:10p,IVS 115,Ehrenberg (rge2),
+13185,LEC,MW,1:25p - 2:40p,IVS 108,Mansfield (rm743),
+13140,LEC,MW,10:10a - 11:25a,IVS 108,Mansfield (rm743),
+13139,LEC,TR,11:40a - 12:55p,IVS 108,Smith (rss14),
+13138,LEC,TR,8:40a - 9:55a,IVS 108,Jakubson (gj10),
+

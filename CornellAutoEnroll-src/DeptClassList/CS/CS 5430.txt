@@ -1,0 +1,3 @@
+15414,DIS,F,10:10a - 11:25a,,Schneider (fbs2),
+11208,LEC,MW,10:10a - 11:25a,PHL 203,Schneider (fbs2),
+

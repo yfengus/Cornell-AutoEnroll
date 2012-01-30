@@ -1,0 +1,11 @@
+NAVS 1102,Sea Power and Maritime Affairs,http://cornell.chequerd.com/courses/5826/NAVS/1102/
+NAVS 1142,NROTC Professional Lab,http://cornell.chequerd.com/courses/8085/NAVS/1142/
+NAVS 2242,NROTC Professional Lab,http://cornell.chequerd.com/courses/8086/NAVS/2242/
+NAVS 2301,Principles of Navigation,http://cornell.chequerd.com/courses/11222/NAVS/2301/
+NAVS 3202,Naval Ships Systems II (Weapons),http://cornell.chequerd.com/courses/11223/NAVS/3202/
+NAVS 3342,NROTC Professional Lab,http://cornell.chequerd.com/courses/8088/NAVS/3342/
+NAVS 4402,Leadership and Ethics,http://cornell.chequerd.com/courses/5829/NAVS/4402/
+NAVS 4410,History of Amphibious Warfare,http://cornell.chequerd.com/courses/5830/NAVS/4410/
+NAVS 4442,NROTC Professional Lab,http://cornell.chequerd.com/courses/8089/NAVS/4442/
+NAVS 4991,Independent Study for Naval Science (Naval ROTC),http://cornell.chequerd.com/courses/11224/NAVS/4991/
+

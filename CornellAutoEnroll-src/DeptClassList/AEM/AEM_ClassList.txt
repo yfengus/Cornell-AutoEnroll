@@ -1,0 +1,67 @@
+AEM 1200,Introduction to Business Management,http://cornell.chequerd.com/courses/27/AEM/1200/
+AEM 2000,Contemporary Controversies in the Global Economy,http://cornell.chequerd.com/courses/30/AEM/2000/
+AEM 2100,Introductory Statistics,http://cornell.chequerd.com/courses/3988/AEM/2100/
+AEM 2210,Financial Accounting,http://cornell.chequerd.com/courses/31/AEM/2210/
+AEM 2300,International Trade and Finance,http://cornell.chequerd.com/courses/3989/AEM/2300/
+AEM 2410,Marketing Plan Development,http://cornell.chequerd.com/courses/33/AEM/2410/
+AEM 2420,Marketing,http://cornell.chequerd.com/courses/10863/AEM/2420/
+AEM 2601,Managerial Economics,http://cornell.chequerd.com/courses/10864/AEM/2601/
+AEM 3040,Dairy Markets and Policy Seminar,http://cornell.chequerd.com/courses/9147/AEM/3040/
+AEM 3210,Business Law II,http://cornell.chequerd.com/courses/3990/AEM/3210/
+AEM 3230,Managerial Accounting,http://cornell.chequerd.com/courses/3991/AEM/3230/
+AEM 3240,Finance,http://cornell.chequerd.com/courses/37/AEM/3240/
+AEM 3250,Personal Enterprise and Small Business Management,http://cornell.chequerd.com/courses/3992/AEM/3250/
+AEM 3290,International Agribusiness Study Trip,http://cornell.chequerd.com/courses/3993/AEM/3290/
+AEM 3310,Introduction to Business Regulation,http://cornell.chequerd.com/courses/3995/AEM/3310/
+AEM 3350,International Techonology Marketing of Biotechnology,http://cornell.chequerd.com/courses/3996/AEM/3350/
+AEM 3370,Intermediate Accounting II,http://cornell.chequerd.com/courses/3997/AEM/3370/
+AEM 4000,Practitioner's Overview of Securities Markets and Investment Banking,http://cornell.chequerd.com/courses/10752/AEM/4000/
+AEM 4021,Food and Brand Lab Workshop,http://cornell.chequerd.com/courses/3999/AEM/4021/
+AEM 4030,Farm Management Study Trip,http://cornell.chequerd.com/courses/4000/AEM/4030/
+AEM 4040,Financial Management for Agriculture and Agribusiness,http://cornell.chequerd.com/courses/4001/AEM/4040/
+AEM 4050,Agricultural Finance,http://cornell.chequerd.com/courses/4002/AEM/4050/
+AEM 4060,Risk Simulation & Optimization,http://cornell.chequerd.com/courses/9697/AEM/4060/
+AEM 4160,Strategic Pricing,http://cornell.chequerd.com/courses/7401/AEM/4160/
+AEM 4200,Investment Management in the Global Economy,http://cornell.chequerd.com/courses/9148/AEM/4200/
+AEM 4210,Derivatives and Risk Management,http://cornell.chequerd.com/courses/50/AEM/4210/
+AEM 4300,International Trade Policy,http://cornell.chequerd.com/courses/4007/AEM/4300/
+AEM 4320,Public Private Sector Economics Linkages,http://cornell.chequerd.com/courses/4008/AEM/4320/
+AEM 4350,Political Economy of the WTO,http://cornell.chequerd.com/courses/4009/AEM/4350/
+AEM 4421,Research and Strategy in Emerging Markets,http://cornell.chequerd.com/courses/7402/AEM/4421/
+AEM 4480,Food Merchandising,http://cornell.chequerd.com/courses/4011/AEM/4480/
+AEM 4510,Environmental Economics,http://cornell.chequerd.com/courses/4012/AEM/4510/
+AEM 4520,Accounting for Mergers and Acquisitions,http://cornell.chequerd.com/courses/63/AEM/4520/
+AEM 4531,Federal Income Taxation,http://cornell.chequerd.com/courses/7403/AEM/4531/
+AEM 4550,Economics of Advertising,http://cornell.chequerd.com/courses/7404/AEM/4550/
+AEM 4570,Advanced Corporate Finance,http://cornell.chequerd.com/courses/9149/AEM/4570/
+AEM 4580,The Economics and Psychology of Sustainable Business,http://cornell.chequerd.com/courses/11352/AEM/4580/
+AEM 4650,BOLD LCP Challenge,http://cornell.chequerd.com/courses/7406/AEM/4650/
+AEM 4660,Business Lab for Engineers,http://cornell.chequerd.com/courses/9721/AEM/4660/
+AEM 4940,Undergraduate Special Topics in Applied Economics and Management,http://cornell.chequerd.com/courses/68/AEM/4940/
+AEM 4970,Individual Study in Applied Economics and Management,http://cornell.chequerd.com/courses/69/AEM/4970/
+AEM 4980,Supervised Teaching Experience,http://cornell.chequerd.com/courses/70/AEM/4980/
+AEM 4981,Supervised Teaching: Accounting Course,http://cornell.chequerd.com/courses/9790/AEM/4981/
+AEM 4990,Undergraduate Research,http://cornell.chequerd.com/courses/71/AEM/4990/
+AEM 4991,Independent Honors Research in Social Science,http://cornell.chequerd.com/courses/72/AEM/4991/
+AEM 6180,System Dynamics Applications,http://cornell.chequerd.com/courses/4013/AEM/6180/
+AEM 6410,Commodity Futures Markets,http://cornell.chequerd.com/courses/4016/AEM/6410/
+AEM 6510,Environmental and Resource Economics,http://cornell.chequerd.com/courses/4017/AEM/6510/
+AEM 6580,The Economics and Psychology of Sustainable Business,http://cornell.chequerd.com/courses/11353/AEM/6580/
+AEM 6600,Agroecosystems, Economic Development, and the Environment,http://cornell.chequerd.com/courses/4018/AEM/6600/
+AEM 6670,Topics in Economic Development,http://cornell.chequerd.com/courses/7407/AEM/6670/
+AEM 6960,Perspectives in International Development,http://cornell.chequerd.com/courses/7408/AEM/6960/
+AEM 6980,Supervised Graduate Teaching Experience,http://cornell.chequerd.com/courses/77/AEM/6980/
+AEM 6990,M.P.S. Research,http://cornell.chequerd.com/courses/78/AEM/6990/
+AEM 7000,Individual Study in Applied Economics and Management,http://cornell.chequerd.com/courses/79/AEM/7000/
+AEM 7020,Applied Microeconomics II,http://cornell.chequerd.com/courses/4021/AEM/7020/
+AEM 7030,Graduate Seminar (Required),http://cornell.chequerd.com/courses/10865/AEM/7030/
+AEM 7100,Econometrics I,http://cornell.chequerd.com/courses/4022/AEM/7100/
+AEM 7130,Dynamic Optimization,http://cornell.chequerd.com/courses/4023/AEM/7130/
+AEM 7151,Applied Microeconomic Research II,http://cornell.chequerd.com/courses/9150/AEM/7151/
+AEM 7350,Public Finance: Resource Allocation and Fiscal Policy,http://cornell.chequerd.com/courses/7409/AEM/7350/
+AEM 7510,Environmental Economics,http://cornell.chequerd.com/courses/4025/AEM/7510/
+AEM 7650,Development Microeconomics Graduate Research Seminar,http://cornell.chequerd.com/courses/84/AEM/7650/
+AEM 7900,Graduate-Level Thesis Research,http://cornell.chequerd.com/courses/86/AEM/7900/
+AEM 8900,Master's Level Thesis Research,http://cornell.chequerd.com/courses/87/AEM/8900/
+AEM 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/88/AEM/9900/
+

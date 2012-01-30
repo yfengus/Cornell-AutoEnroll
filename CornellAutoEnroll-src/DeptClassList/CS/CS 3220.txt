@@ -1,0 +1,6 @@
+10431,DIS,R,12:20p - 1:10p,OLH 218,Bindel (dsb253),
+10430,LEC,MW,10:10a - 11:00a,THR 203,Bindel (dsb253),
+10434,DIS,R,4:35p - 5:25p,PHL 307,Bindel (dsb253),
+10433,DIS,F,2:30p - 3:20p,PHL 307,Bindel (dsb253),
+10432,DIS,R,3:35p - 4:25p,HLS 320,Bindel (dsb253),
+

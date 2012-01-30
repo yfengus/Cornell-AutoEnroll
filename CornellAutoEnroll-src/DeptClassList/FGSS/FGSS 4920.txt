@@ -1,0 +1,3 @@
+14014,SEM,M,2:30p - 4:25p,RCK 127,Hite (mph7),
+14013,SEM,W,12:20p - 2:15p,GSH G19,Raskolnikov (mr283),
+

@@ -1,0 +1,12 @@
+14364,SEM,MWF,2:30p - 3:20p,URH G20,Orozco (ro62),
+14363,SEM,MWF,2:30p - 3:20p,STM 206,Reyes-Cubides (wkr23),
+5871,SEM,MWF,1:25p - 2:15p,URH 302,Bevia (mjb383), Redmond (mkr4),
+5870,SEM,MWF,12:20p - 1:10p,GSH 124,Hasbun Velasco (rah298), Redmond (mkr4),
+5869,SEM,MWF,12:20p - 1:10p,URH 302,Routier-Pucci (jsr10), Bevia (mjb383),
+5868,SEM,MWF,11:15a - 12:05p,URH 204,Routier-Pucci (jsr10),
+5867,SEM,MWF,11:15a - 12:05p,URH 498,Reyes-Cubides (wkr23), Hasbun Velasco (rah298),
+5866,SEM,MWF,10:10a - 11:00a,LNC B08,Figueredo (of32),
+5865,SEM,MWF,10:10a - 11:00a,LNC B08,Redmond (mkr4), Mann (jam338),
+5864,SEM,MWF,9:05a - 9:55a,URH 260,Redmond (mkr4), Oliveros (po76),
+5863,SEM,MWF,9:05a - 9:55a,URH 312,Fuentes (rf273),
+

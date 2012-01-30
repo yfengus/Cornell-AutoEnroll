@@ -1,0 +1,4 @@
+VETCS 6198,Special Project in Veterinary Medicine,http://cornell.chequerd.com/courses/9786/VETCS/6198/
+VETCS 7030,Surgical Principles and Surgery of the Integumentary System (Graduate),http://cornell.chequerd.com/courses/6387/VETCS/7030/
+VETCS 7110,Advanced Veterinary Anesthesiology II,http://cornell.chequerd.com/courses/6388/VETCS/7110/
+

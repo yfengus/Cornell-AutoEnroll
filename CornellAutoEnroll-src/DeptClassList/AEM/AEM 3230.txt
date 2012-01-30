@@ -1,0 +1,11 @@
+1114,DIS,W,7:30p - 9:25p,WRN 231,Shackell-Dowell (mbs242),
+1113,DIS,F,12:20p - 2:15p,CMS B106,Shackell-Dowell (mbs242),
+1112,DIS,F,12:20p - 2:15p,PLS 143,Shackell-Dowell (mbs242),
+1111,DIS,F,10:10a - 12:05p,IVS 217,Shackell-Dowell (mbs242),
+1110,DIS,R,2:45p - 4:25p,CLD 250,Shackell-Dowell (mbs242),
+1109,DIS,R,2:45p - 4:25p,CMS B108,Shackell-Dowell (mbs242),
+1108,DIS,R,12:20p - 2:15p,STL 235,Shackell-Dowell (mbs242),
+1106,DIS,W,7:30p - 9:25p,CMS B106,Shackell-Dowell (mbs242),
+1105,DIS,W,7:30p - 9:25p,BDF 105,Shackell-Dowell (mbs242),
+1104,LEC,MW,11:15a - 12:05p,KND 116,Shackell-Dowell (mbs242),
+

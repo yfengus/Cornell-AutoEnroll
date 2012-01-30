@@ -1,0 +1,5 @@
+15082,LEC,MW,11:40a - 12:55p,STL 198,Enz (cae4),
+12070,LEC,MW,2:55p - 4:10p,STL 565,Kosova (rk373),
+12014,LEC,MW,11:40a - 12:55p,STL 165,Kosova (rk373),
+12013,LEC,MW,10:10a - 11:25a,STL 165,Kalnins (atk23),
+

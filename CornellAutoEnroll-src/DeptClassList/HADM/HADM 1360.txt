@@ -1,0 +1,3 @@
+13536,LEC,MW,11:40a - 12:55p,STL 396,Lawrence (bcl5),
+13483,LEC,MW,1:25p - 2:40p,STL 265,Lawrence (bcl5),
+

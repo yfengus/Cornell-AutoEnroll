@@ -1,0 +1,5 @@
+12519,LAB,W,12:20p - 2:15p,BDF 105,Travis (set6),
+12518,LAB,R,8:00a - 9:55a,HEB 201,Travis (set6),
+12517,LAB,R,12:20p - 2:15p,BDF 110,Travis (set6),
+12515,LEC,M,2:55p - 4:10p,SVG 200,Travis (set6),
+

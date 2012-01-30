@@ -1,0 +1,4 @@
+10401,LAB,T,1:25p - 4:25p,TBA TBA,Martinez (jfm37),
+10400,LAB,M,1:25p - 4:25p,TBA TBA,Martinez (jfm37),
+10399,LEC,MWF,9:05a - 9:55a,THR 203,Bojanczyk (awb8),
+

@@ -1,0 +1,25 @@
+PLPA 2010,Magical Mushrooms, Mischievous Molds,http://cornell.chequerd.com/courses/6142/PLPA/2010/
+PLPA 2013,Magical Mushrooms, Mischievouse Molds and More,http://cornell.chequerd.com/courses/6143/PLPA/2013/
+PLPA 2015,Mushrooms, Molds, and Molecules,http://cornell.chequerd.com/courses/6144/PLPA/2015/
+PLPA 3290,Medical and Veterinary Mycology,http://cornell.chequerd.com/courses/6145/PLPA/3290/
+PLPA 4010,Microbial Pathogens Versus Plants: Molecular Weapos, Defenses, and Rules of Engagement,http://cornell.chequerd.com/courses/11249/PLPA/4010/
+PLPA 4480,Symbiotic Associations:Evolution and Ecology,http://cornell.chequerd.com/courses/8182/PLPA/4480/
+PLPA 4811,Molecular Plant-Microbe Interactions,http://cornell.chequerd.com/courses/11250/PLPA/4811/
+PLPA 4940,Special Topics in Plant Pathology & Plant-Microbe Biology,http://cornell.chequerd.com/courses/3496/PLPA/4940/
+PLPA 4970,Independent Study in Plant Pathology & Plant-Microbe Biology,http://cornell.chequerd.com/courses/3497/PLPA/4970/
+PLPA 4980,Undergraduate Teaching Experience,http://cornell.chequerd.com/courses/3498/PLPA/4980/
+PLPA 4990,Undergraduate Research,http://cornell.chequerd.com/courses/3499/PLPA/4990/
+PLPA 6000,Ecology of Plant Diseases in Natural Ecosystems,http://cornell.chequerd.com/courses/9750/PLPA/6000/
+PLPA 6490,Special Topics Series - Fungal Biology,http://cornell.chequerd.com/courses/6151/PLPA/6490/
+PLPA 6600,Special Topics in Plant Disease Management,http://cornell.chequerd.com/courses/3505/PLPA/6600/
+PLPA 6610,Diagnostic Lab Experience,http://cornell.chequerd.com/courses/3506/PLPA/6610/
+PLPA 6810,Plant Pathology & Plant-Microbe Biology Seminar,http://cornell.chequerd.com/courses/3507/PLPA/6810/
+PLPA 6811,PPPMB Seminar Series II,http://cornell.chequerd.com/courses/9785/PLPA/6811/
+PLPA 6820,Graduate Student Research Updates,http://cornell.chequerd.com/courses/3508/PLPA/6820/
+PLPA 7880,Research in Molecular Plant Pathology,http://cornell.chequerd.com/courses/3509/PLPA/7880/
+PLPA 7970,Special Topics Independent Study,http://cornell.chequerd.com/courses/3510/PLPA/7970/
+PLPA 7980,Graduate Teaching Experience,http://cornell.chequerd.com/courses/3511/PLPA/7980/
+PLPA 7990,Graduate-Level Thesis Research,http://cornell.chequerd.com/courses/3512/PLPA/7990/
+PLPA 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/3513/PLPA/8900/
+PLPA 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/3514/PLPA/9900/
+

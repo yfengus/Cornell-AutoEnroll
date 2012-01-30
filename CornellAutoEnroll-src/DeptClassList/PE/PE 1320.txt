@@ -1,0 +1,6 @@
+9087,LEC,MWF,1:30p - 2:15p,BTL 112,Smith (ejs43),
+9086,LEC,MWF,11:15a - 12:00p,BTL 112,Smith (ejs43),
+9085,LEC,MWF,10:15a - 11:00a,BTL 112,Smith (ejs43),
+9084,LEC,MWF,9:05a - 9:50a,BTL 112,Smith (ejs43),
+9083,LEC,MWF,8:15a - 9:00a,BTL 112,Smith (ejs43),
+

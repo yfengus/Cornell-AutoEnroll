@@ -1,0 +1,5 @@
+3913,LAB,W,2:30p - 4:25p,RRB 305,Aneshansley (dja4),
+1486,LAB,F,2:30p - 4:25p,RRB 305,Aneshansley (dja4),
+1485,LAB,M,2:30p - 4:25p,RRB 305,Aneshansley (dja4),
+1484,LEC,TR,8:40a - 9:55a,RRB 105,Aneshansley (dja4),
+

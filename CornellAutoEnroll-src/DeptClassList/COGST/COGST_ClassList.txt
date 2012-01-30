@@ -1,0 +1,15 @@
+COGST 1500,Intro to Human Environ Relat,http://cornell.chequerd.com/courses/4628/COGST/1500/
+COGST 1501,Introduction to Human Environment Relations - Writing in the Major,http://cornell.chequerd.com/courses/10977/COGST/1501/
+COGST 2140,Cognitive Psychology,http://cornell.chequerd.com/courses/1019/COGST/2140/
+COGST 2150,Psychology of Language,http://cornell.chequerd.com/courses/4629/COGST/2150/
+COGST 4120,Laboratory in Cognition and Perception,http://cornell.chequerd.com/courses/4631/COGST/4120/
+COGST 4350,Mind,Self,and Emotion,http://cornell.chequerd.com/courses/4634/COGST/4350/
+COGST 4438,Language and Image,http://cornell.chequerd.com/courses/10979/COGST/4438/
+COGST 4650,Topics In High Level Vision,http://cornell.chequerd.com/courses/4636/COGST/4650/
+COGST 4700,Undergraduate Research in Cognitive Studies,http://cornell.chequerd.com/courses/1025/COGST/4700/
+COGST 4710,Cognitive Studies Research Workshop,http://cornell.chequerd.com/courses/1026/COGST/4710/
+COGST 4740,Introduction to Natural Language Processing,http://cornell.chequerd.com/courses/4637/COGST/4740/
+COGST 4910,Research Methods in Psychology,http://cornell.chequerd.com/courses/4638/COGST/4910/
+COGST 6140,Cognitive Psychology,http://cornell.chequerd.com/courses/1027/COGST/6140/
+COGST 6910,Research Methods in Psychology,http://cornell.chequerd.com/courses/4639/COGST/6910/
+

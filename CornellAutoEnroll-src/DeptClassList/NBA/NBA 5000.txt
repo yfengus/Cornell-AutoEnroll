@@ -1,0 +1,4 @@
+11778,LEC,MW,11:55a - 1:10p,SGH B08,Nelson (mwn2), Swieringa (rjs22),
+11777,LEC,MW,10:10a - 11:25a,SGH B08,Nelson (mwn2), Swieringa (rjs22),
+11776,LEC,MW,8:40a - 9:55a,SGH B08,Nelson (mwn2), Swieringa (rjs22),
+

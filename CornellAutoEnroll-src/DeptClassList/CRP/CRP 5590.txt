@@ -1,0 +1,4 @@
+5199,DIS,T,2:30p - 3:20p,SBL 211,Booth (rsb6),
+5198,DIS,M,3:35p - 4:25p,SBL 211,Booth (rsb6),
+4832,LEC,MW,8:40a - 9:55a,SBL 115,Booth (rsb6),
+

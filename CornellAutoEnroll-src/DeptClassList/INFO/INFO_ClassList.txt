@@ -1,0 +1,22 @@
+INFO 2140,Cognitive Psychology,http://cornell.chequerd.com/courses/2415/INFO/2140/
+INFO 2300,Intermediate Design and Programming for the Web,http://cornell.chequerd.com/courses/5471/INFO/2300/
+INFO 2921,Inventing an Information Society,http://cornell.chequerd.com/courses/5472/INFO/2921/
+INFO 2950,Mathematical Methods for Information Science,http://cornell.chequerd.com/courses/2418/INFO/2950/
+INFO 3200,New Media and Society,http://cornell.chequerd.com/courses/7988/INFO/3200/
+INFO 3300,Data-Driven Web Applications,http://cornell.chequerd.com/courses/5473/INFO/3300/
+INFO 3650,Technology in Collaboration,http://cornell.chequerd.com/courses/5476/INFO/3650/
+INFO 4200,Information Policy: Research, Analysis, and Design,http://cornell.chequerd.com/courses/11411/INFO/4200/
+INFO 4320,Introduction to Rapid Prototyping and Physical Computing,http://cornell.chequerd.com/courses/7990/INFO/4320/
+INFO 4400,Advanced Human-Computer Interaction Design,http://cornell.chequerd.com/courses/2420/INFO/4400/
+INFO 4450,Seminar in Computer-Mediated Communication,http://cornell.chequerd.com/courses/5477/INFO/4450/
+INFO 4900,Independent Reading and Research,http://cornell.chequerd.com/courses/2422/INFO/4900/
+INFO 4910,Teaching in Information Science, Systems, and Technology,http://cornell.chequerd.com/courses/2423/INFO/4910/
+INFO 5300,The Architecture of Large-Scale Information Systems,http://cornell.chequerd.com/courses/5478/INFO/5300/
+INFO 5900,Independent Research,http://cornell.chequerd.com/courses/8959/INFO/5900/
+INFO 6140,Cognitive Psychology,http://cornell.chequerd.com/courses/2425/INFO/6140/
+INFO 6400,Advanced Human-Computer Interaction Design,http://cornell.chequerd.com/courses/2427/INFO/6400/
+INFO 6450,Seminar in Computer-Mediated Communication,http://cornell.chequerd.com/courses/5479/INFO/6450/
+INFO 7090,IS Colloquium,http://cornell.chequerd.com/courses/2429/INFO/7090/
+INFO 7900,Independent Research,http://cornell.chequerd.com/courses/2430/INFO/7900/
+INFO 9900,Thesis Research,http://cornell.chequerd.com/courses/2431/INFO/9900/
+

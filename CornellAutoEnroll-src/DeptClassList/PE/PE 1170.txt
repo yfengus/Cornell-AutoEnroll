@@ -1,0 +1,3 @@
+9044,LEC,W,5:30p - 7:00p,TBA,Waldman (maw272), Overstreet (cdo5),
+9043,LEC,U,4:15p - 5:45p,HNH 230,Waldman (maw272), Overstreet (cdo5),
+

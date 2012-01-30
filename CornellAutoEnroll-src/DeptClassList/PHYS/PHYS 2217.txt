@@ -1,0 +1,8 @@
+6922,LAB,R,2:30p - 4:25p,RCK B84,Fennie (cjf76),
+6921,LAB,F,12:20p - 2:15p,RCK B84,Fennie (cjf76),
+6920,LAB,R,12:20p - 2:15p,RCK B84,Fennie (cjf76),
+6919,DIS,W,7:30p - 8:20p,RCK 112,Fennie (cjf76),
+6918,DIS,W,3:35p - 4:25p,RCK 112,Fennie (cjf76),
+6917,DIS,T,2:30p - 3:20p,RCK 112,Fennie (cjf76),
+6916,LEC,MWF,10:10a - 11:00a,RCK 230,Fennie (cjf76),
+

@@ -1,0 +1,3 @@
+2162,LAB,F,1:25p - 4:25p,GGG 170,Pritts (mpp3),
+2161,LEC,F,12:20p - 1:10p,GGG 170,Pritts (mpp3),
+

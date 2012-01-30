@@ -1,0 +1,7 @@
+THAI 1102,Elementary Thai,http://cornell.chequerd.com/courses/6345/THAI/1102/
+THAI 2202,Intermediate Thai Reading,http://cornell.chequerd.com/courses/6346/THAI/2202/
+THAI 2204,Intermediate Composition and Conversation,http://cornell.chequerd.com/courses/6347/THAI/2204/
+THAI 3302,Advanced Thai,http://cornell.chequerd.com/courses/6348/THAI/3302/
+THAI 3304,Thai Literature,http://cornell.chequerd.com/courses/6349/THAI/3304/
+THAI 4432,Directed Study,http://cornell.chequerd.com/courses/6350/THAI/4432/
+

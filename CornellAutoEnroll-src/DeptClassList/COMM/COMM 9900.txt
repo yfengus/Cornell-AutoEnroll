@@ -1,0 +1,12 @@
+1770,RSC,TBA,,,Yuan (yy239),
+1769,RSC,TBA,,,Shapiro (mas29),
+1768,RSC,TBA,,,Scherer (cws4),
+1767,RSC,TBA,,,McComas (kam19),
+1766,RSC,TBA,,,McLeod (plm29),
+1765,RSC,TBA,,,Lewenstein (bvl1),
+1764,RSC,TBA,,,Hancock (jth34),
+1763,RSC,TBA,,,Gillespie (tlg28),
+1762,RSC,TBA,,,Gay (gkg1),
+1761,RSC,TBA,,,Byrne (seb272),
+1760,RSC,TBA,,,Birnholtz (jpb277),
+

@@ -1,0 +1,10 @@
+MEDVL 1101,FWS:Aspects of Medieval Culture,http://cornell.chequerd.com/courses/2791/MEDVL/1101/
+MEDVL 1102,FWS: Literature of Chivalry,http://cornell.chequerd.com/courses/7198/MEDVL/1102/
+MEDVL 1103,FWS: Legends, Fantasy & Vision,http://cornell.chequerd.com/courses/2792/MEDVL/1103/
+MEDVL 2130,Cultures of the Middle Ages,http://cornell.chequerd.com/courses/9550/MEDVL/2130/
+MEDVL 3200,The Viking Age,http://cornell.chequerd.com/courses/11212/MEDVL/3200/
+MEDVL 4301,Topics in Medieval Commentaries,http://cornell.chequerd.com/courses/11213/MEDVL/4301/
+MEDVL 6301,Topics in Medieval Commentaries,http://cornell.chequerd.com/courses/11214/MEDVL/6301/
+MEDVL 8010,Directed Study-Individual,http://cornell.chequerd.com/courses/2796/MEDVL/8010/
+MEDVL 8020,Directed Study-Group,http://cornell.chequerd.com/courses/2797/MEDVL/8020/
+

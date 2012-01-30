@@ -1,0 +1,4 @@
+12006,LEC,S,10:00a - 6:00p,STL 185,Blanchard (kb363),
+12006,LEC,F,1:00p - 6:00p,STL 185,Blanchard (kb363),
+12006,LEC,U,10:00a - 4:30p,STL 185,Blanchard (kb363),
+

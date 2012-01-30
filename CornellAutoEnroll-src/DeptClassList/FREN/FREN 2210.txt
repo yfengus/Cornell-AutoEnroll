@@ -1,0 +1,3 @@
+5773,SEM,MWF,11:15a - 12:05p,MCG 365,Tertrain (lt98),
+5772,SEM,TR,10:10a - 11:25a,MCG 145,Vallois (mv46),
+

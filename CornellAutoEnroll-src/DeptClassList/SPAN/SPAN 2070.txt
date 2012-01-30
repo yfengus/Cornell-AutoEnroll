@@ -1,0 +1,3 @@
+5838,SEM,MWF,11:15a - 12:05p,URH 302,Bevia (mjb383),
+5837,SEM,MWF,10:10a - 11:00a,URH 302,Bevia (mjb383),
+

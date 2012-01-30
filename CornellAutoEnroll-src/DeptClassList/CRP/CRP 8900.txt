@@ -1,0 +1,3 @@
+5345,SEM,T,6:00p - 8:00p,,Brooks (nb275),
+5363,SEM,TBA,,,Forester (jff1),
+

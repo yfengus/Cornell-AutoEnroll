@@ -1,0 +1,5 @@
+10738,DIS,R,10:10a - 12:05p,RHD 471,Callister (jc62),
+10737,DIS,T,12:20p - 2:15p,RHD 471,Callister (jc62),
+10736,DIS,M,2:30p - 4:25p,RHD 471,Callister (jc62),
+10735,LEC,MWF,12:20p - 1:10p,HLS B14,Callister (jc62),
+

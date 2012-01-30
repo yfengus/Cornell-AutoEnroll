@@ -1,0 +1,8 @@
+16520,LEC,W,5:00p - 7:00p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+16520,LEC,W,4:30p - 7:30p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+16520,LEC,U,12:01a - 10:00p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+16520,LEC,U,6:00p - 10:00p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+16520,LEC,S,12:01a - 11:59p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+16520,LEC,S,8:00a - 8:00p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+16520,LEC,F,5:00p - 11:59p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+

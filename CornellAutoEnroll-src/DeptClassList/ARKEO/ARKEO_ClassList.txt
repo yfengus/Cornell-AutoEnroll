@@ -1,0 +1,18 @@
+ARKEO 1200,Ancient Peoples and Places,http://cornell.chequerd.com/courses/4173/ARKEO/1200/
+ARKEO 2010,Archaeology of the Ancient Near East,http://cornell.chequerd.com/courses/10902/ARKEO/2010/
+ARKEO 2620,Laboratory in Landscape Archaeology,http://cornell.chequerd.com/courses/4176/ARKEO/2620/
+ARKEO 2743,Archaeology/Roman Private Life,http://cornell.chequerd.com/courses/4178/ARKEO/2743/
+ARKEO 3000,Individual Study in Archaeology and Related Fields,http://cornell.chequerd.com/courses/381/ARKEO/3000/
+ARKEO 3588,Biblical Archaeology,http://cornell.chequerd.com/courses/7468/ARKEO/3588/
+ARKEO 3600,Pre-Industrial Cities and Towns in North America,http://cornell.chequerd.com/courses/4180/ARKEO/3600/
+ARKEO 4011,Ceramic Analysis for Archaeology,http://cornell.chequerd.com/courses/7469/ARKEO/4011/
+ARKEO 4150,Archaeology of Greek Religion: Theory, Methods, and Practice,http://cornell.chequerd.com/courses/10903/ARKEO/4150/
+ARKEO 4220,Inkas and Their Empire,http://cornell.chequerd.com/courses/10904/ARKEO/4220/
+ARKEO 4260,Field and Analytical Methods in Archaeology,http://cornell.chequerd.com/courses/4182/ARKEO/4260/
+ARKEO 4264,Zooarchaeological Interpretation,http://cornell.chequerd.com/courses/7471/ARKEO/4264/
+ARKEO 4981,Honors Thesis Research,http://cornell.chequerd.com/courses/390/ARKEO/4981/
+ARKEO 4982,Honors Thesis Write-Up,http://cornell.chequerd.com/courses/391/ARKEO/4982/
+ARKEO 6000,Special Topics in Archaeology,http://cornell.chequerd.com/courses/392/ARKEO/6000/
+ARKEO 7220,Inkas and Their Empire,http://cornell.chequerd.com/courses/10905/ARKEO/7220/
+ARKEO 8902,Master's Thesis,http://cornell.chequerd.com/courses/4187/ARKEO/8902/
+

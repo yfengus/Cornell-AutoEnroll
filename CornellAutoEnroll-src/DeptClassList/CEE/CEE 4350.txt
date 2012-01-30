@@ -1,0 +1,3 @@
+16495,LAB,TBA,,,Liu (pll3),
+14555,LEC,TR,10:10a - 11:25a,HLS 320,Liu (pll3),
+

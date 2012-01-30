@@ -1,0 +1,5 @@
+9145,LEC,U,8:00a - 8:00p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+9145,LEC,S,8:00a - 5:00p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+9145,LEC,R,7:00p - 10:00p,BTL B01,Holton (mh45), Myers (sfm52), Woodin (akw2),
+9145,LEC,R,6:00p - 10:00p,BTL B01,Holton (mh45), Maguire (sfm32), Woodin (akw2), Myers (sfm52),
+

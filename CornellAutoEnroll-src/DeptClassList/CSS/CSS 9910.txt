@@ -1,0 +1,10 @@
+4003,RSC,TBA,,,Vatamaniuk (okv2),
+4002,RSC,TBA,,,Obendorf (rlo1),
+4001,RSC,TBA,,,Kochian (lvk1),
+4000,RSC,TBA,,,Fick (gwf2),
+3999,RSC,TBA,,,Duxbury (jmd17),
+3998,RSC,TBA,,,DiTommaso (ad97),
+3997,RSC,TBA,,,Cox (wjc3),
+3996,RSC,TBA,,,Cherney (jhc5),
+1806,RSC,TBA,,,Setter (tls1),
+

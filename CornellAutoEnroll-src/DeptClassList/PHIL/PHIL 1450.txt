@@ -1,0 +1,6 @@
+14745,DIS,T,12:20p - 1:10p,URH G26,Taylor (et255),
+14744,DIS,T,12:20p - 1:10p,GSH 236,Taylor (et255),
+14743,DIS,R,1:25p - 2:15p,RCK 128,Taylor (et255),
+14742,DIS,R,1:25p - 2:15p,GSH G24,Taylor (et255),
+14149,LEC,TR,10:10a - 11:25a,GSH G64,Taylor (et255),
+

@@ -1,0 +1,23 @@
+BIOPL 2420,Plant Function and Growth Lectures,http://cornell.chequerd.com/courses/4429/BIOPL/2420/
+BIOPL 2421,Plant Function and Growth, Laboratory,http://cornell.chequerd.com/courses/4430/BIOPL/2421/
+BIOPL 2480,Vascular Plant Systematics,http://cornell.chequerd.com/courses/7588/BIOPL/2480/
+BIOPL 2490,Hollywood Biology: Science in Cinema,http://cornell.chequerd.com/courses/4431/BIOPL/2490/
+BIOPL 3420,Plant Physiology, Lectures,http://cornell.chequerd.com/courses/4432/BIOPL/3420/
+BIOPL 3421,Plant Physiology, Laboratory,http://cornell.chequerd.com/courses/4433/BIOPL/3421/
+BIOPL 3430,Molecular Biology and Genetic Engineering of Plants,http://cornell.chequerd.com/courses/4434/BIOPL/3430/
+BIOPL 3431,Laboratory in Molecular Biology and Genetic Engineering of Plants,http://cornell.chequerd.com/courses/7589/BIOPL/3431/
+BIOPL 3470,Anatomy of Plant Model Organisms,http://cornell.chequerd.com/courses/6724/BIOPL/3470/
+BIOPL 3800,Strategies and Methods in Drug Discovery,http://cornell.chequerd.com/courses/4436/BIOPL/3800/
+BIOPL 4480,Plant Evolution and the Fossil Record,http://cornell.chequerd.com/courses/4440/BIOPL/4480/
+BIOPL 4620,Plant Biochemistry,http://cornell.chequerd.com/courses/4441/BIOPL/4620/
+BIOPL 4811,Molecular Plant-Microbe Interactions,http://cornell.chequerd.com/courses/10958/BIOPL/4811/
+BIOPL 4813,Signal Transduction in Plants: Reproduction,http://cornell.chequerd.com/courses/10959/BIOPL/4813/
+BIOPL 4826,Plant Molecular Biology II: Plant Biotechnology,http://cornell.chequerd.com/courses/4444/BIOPL/4826/
+BIOPL 4980,Teaching Experience,http://cornell.chequerd.com/courses/756/BIOPL/4980/
+BIOPL 6470,Systematic Biology Journal Club,http://cornell.chequerd.com/courses/758/BIOPL/6470/
+BIOPL 7400,Plant Biology Seminar,http://cornell.chequerd.com/courses/760/BIOPL/7400/
+BIOPL 7410,Problems in Plant Cell and Molecular Biology,http://cornell.chequerd.com/courses/4446/BIOPL/7410/
+BIOPL 7420,Current Papers in Plant Biology,http://cornell.chequerd.com/courses/761/BIOPL/7420/
+BIOPL 7440,Graduate Research in Plant Biology,http://cornell.chequerd.com/courses/763/BIOPL/7440/
+BIOPL 7490,Graduate Research in Botany,http://cornell.chequerd.com/courses/765/BIOPL/7490/
+

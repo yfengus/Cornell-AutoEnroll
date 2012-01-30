@@ -1,0 +1,5 @@
+10350,LAB,F,1:25p - 4:25p,TBA TBA,Archer (sda4), Putnam (dap43),
+10349,LAB,R,1:25p - 4:25p,TBA TBA,Archer (sda4), Putnam (dap43),
+10348,LAB,W,1:25p - 4:25p,TBA TBA,Archer (sda4), Putnam (dap43),
+10347,LEC,TR,10:10a - 11:25a,PHL 219,Archer (sda4), Putnam (dap43),
+

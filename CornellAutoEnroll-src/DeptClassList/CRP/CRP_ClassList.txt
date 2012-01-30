@@ -1,0 +1,72 @@
+CRP 1101,The Global City: People, Production, and Planning in the Third World,http://cornell.chequerd.com/courses/4702/CRP/1101/
+CRP 1109,FWS: Cities and Regions,http://cornell.chequerd.com/courses/1108/CRP/1109/
+CRP 2010,People, Planning and Politics in the City,http://cornell.chequerd.com/courses/4703/CRP/2010/
+CRP 3072,Land Use, Environmental Planning, and Urban Design Workshop,http://cornell.chequerd.com/courses/1112/CRP/3072/
+CRP 3090,Community Development Seminar: Community Organizations in Practice,http://cornell.chequerd.com/courses/10236/CRP/3090/
+CRP 3106,Structural Barriers to Equity in Planning,http://cornell.chequerd.com/courses/8962/CRP/3106/
+CRP 3502,Suburbia,http://cornell.chequerd.com/courses/4710/CRP/3502/
+CRP 3600,Pre-Industrial Cities and Towns in North America,http://cornell.chequerd.com/courses/1120/CRP/3600/
+CRP 3720,Twentieth Century Italy: Politics and Society,http://cornell.chequerd.com/courses/4713/CRP/3720/
+CRP 3840,Green Cities,http://cornell.chequerd.com/courses/1126/CRP/3840/
+CRP 3850,Special Topics: Creative Economy,http://cornell.chequerd.com/courses/1127/CRP/3850/
+CRP 3852,SPTP: Urban History Society and Politics,http://cornell.chequerd.com/courses/6817/CRP/3852/
+CRP 3901,Seminar on International Planning,http://cornell.chequerd.com/courses/7672/CRP/3901/
+CRP 4080,Introduction to Geographic Information Systems (GIS),http://cornell.chequerd.com/courses/4716/CRP/4080/
+CRP 4160,European City: The Public Sphere & Public Space,http://cornell.chequerd.com/courses/4717/CRP/4160/
+CRP 4440,Resource Management and Environment Law,http://cornell.chequerd.com/courses/4719/CRP/4440/
+CRP 4590,Legal Aspects of Land Use Planning,http://cornell.chequerd.com/courses/4721/CRP/4590/
+CRP 4740,Urban Transformations in the Global South,http://cornell.chequerd.com/courses/7673/CRP/4740/
+CRP 4770,Seminar on Issues in African Development,http://cornell.chequerd.com/courses/1129/CRP/4770/
+CRP 4900,Student-Faculty Research,http://cornell.chequerd.com/courses/1130/CRP/4900/
+CRP 4920,Undergraduate Honors Thesis Research,http://cornell.chequerd.com/courses/1132/CRP/4920/
+CRP 4930,Undergraduate Honors Thesis Writing,http://cornell.chequerd.com/courses/1133/CRP/4930/
+CRP 4970,Independent Study,http://cornell.chequerd.com/courses/1134/CRP/4970/
+CRP 5072,Land Use, Environmental Planning, and Urban Design Workshop,http://cornell.chequerd.com/courses/1135/CRP/5072/
+CRP 5075,RE Project Workshop,http://cornell.chequerd.com/courses/4723/CRP/5075/
+CRP 5090,Community Development Seminar,http://cornell.chequerd.com/courses/1138/CRP/5090/
+CRP 5106,Structural Barriers to Equity in Planning,http://cornell.chequerd.com/courses/8963/CRP/5106/
+CRP 5190,Urban Theory & Spatial Development,http://cornell.chequerd.com/courses/4726/CRP/5190/
+CRP 5230,Analytical Mapping and Spatial Modeling,http://cornell.chequerd.com/courses/6819/CRP/5230/
+CRP 5250,Introduction Methods of Planning Analysis,http://cornell.chequerd.com/courses/1142/CRP/5250/
+CRP 5370,Real Estate Seminar Series,http://cornell.chequerd.com/courses/1146/CRP/5370/
+CRP 5440,Resource Management & Environmental Law,http://cornell.chequerd.com/courses/4727/CRP/5440/
+CRP 5450,Introduction to Quantitative Methods for the Analysis of Public Policy,http://cornell.chequerd.com/courses/1147/CRP/5450/
+CRP 5460,Introduction to Community & Environment Dispute Resolution,http://cornell.chequerd.com/courses/7675/CRP/5460/
+CRP 5530,Land Use Regulations,http://cornell.chequerd.com/courses/4728/CRP/5530/
+CRP 5560,Design in Real Estate Development,http://cornell.chequerd.com/courses/4729/CRP/5560/
+CRP 5590,Legal Aspects of Land Use Planning,http://cornell.chequerd.com/courses/4730/CRP/5590/
+CRP 5630,Problems in Contemporary Preservations Practice,http://cornell.chequerd.com/courses/4731/CRP/5630/
+CRP 5640,Building Materials Conservation,http://cornell.chequerd.com/courses/4732/CRP/5640/
+CRP 5650,Fieldwork or Workshop in History and Preservation,http://cornell.chequerd.com/courses/1152/CRP/5650/
+CRP 5660,Planning & Preservation Practice,http://cornell.chequerd.com/courses/1153/CRP/5660/
+CRP 5670,Measured Drawing,http://cornell.chequerd.com/courses/4733/CRP/5670/
+CRP 5840,Green Cities,http://cornell.chequerd.com/courses/1155/CRP/5840/
+CRP 5850,Special Topics,http://cornell.chequerd.com/courses/1156/CRP/5850/
+CRP 5852,Asian Americans and the Third World Movements,http://cornell.chequerd.com/courses/9323/CRP/5852/
+CRP 6010,Public Administration,http://cornell.chequerd.com/courses/1157/CRP/6010/
+CRP 6050,Urban Public Finance,http://cornell.chequerd.com/courses/4734/CRP/6050/
+CRP 6290,SP TP: Quantitative Methods & Analysis,http://cornell.chequerd.com/courses/4742/CRP/6290/
+CRP 6311,Consulting for Nonprofit & Government Organizations,http://cornell.chequerd.com/courses/6825/CRP/6311/
+CRP 6330,Methods of Regional Science and Planning II,http://cornell.chequerd.com/courses/9683/CRP/6330/
+CRP 6502,Suburbia,http://cornell.chequerd.com/courses/4744/CRP/6502/
+CRP 6560,RE Transactions & Deal Structuring,http://cornell.chequerd.com/courses/4746/CRP/6560/
+CRP 6570,Real Estate Law,http://cornell.chequerd.com/courses/4747/CRP/6570/
+CRP 6580,Residential Development,http://cornell.chequerd.com/courses/4748/CRP/6580/
+CRP 6590,Speical Topics: Urban Development Planning,http://cornell.chequerd.com/courses/1163/CRP/6590/
+CRP 6594,Special Topics: Real Estate Competitions,http://cornell.chequerd.com/courses/8539/CRP/6594/
+CRP 6650,Preservation Planning & Urban Change,http://cornell.chequerd.com/courses/4751/CRP/6650/
+CRP 6660,Pre-Industrial Cities and Towns in North America,http://cornell.chequerd.com/courses/1166/CRP/6660/
+CRP 6700,Regional Planning and Development in Developing Nations,http://cornell.chequerd.com/courses/4752/CRP/6700/
+CRP 6710,Seminar on International Planning,http://cornell.chequerd.com/courses/4753/CRP/6710/
+CRP 6740,Urban Transformations in the Global South,http://cornell.chequerd.com/courses/7681/CRP/6740/
+CRP 6770,Seminar on Issues in African Development,http://cornell.chequerd.com/courses/1169/CRP/6770/
+CRP 6791,Special Topic,http://cornell.chequerd.com/courses/8540/CRP/6791/
+CRP 6901,Real Estate Review,http://cornell.chequerd.com/courses/6832/CRP/6901/
+CRP 7940,Planning Internships,http://cornell.chequerd.com/courses/1174/CRP/7940/
+CRP 7970,Independent Study for Graduate Students,http://cornell.chequerd.com/courses/1176/CRP/7970/
+CRP 8900,Planning Research Seminar I,http://cornell.chequerd.com/courses/4758/CRP/8900/
+CRP 8910,Masters Thesis in Regional Science,http://cornell.chequerd.com/courses/1178/CRP/8910/
+CRP 8920,Masters Thesis, Project, or Research Paper,http://cornell.chequerd.com/courses/1179/CRP/8920/
+CRP 8950,Masters Thesis in Historic Preservation Planning,http://cornell.chequerd.com/courses/1180/CRP/8950/
+CRP 9920,Doctoral Dissertation,http://cornell.chequerd.com/courses/1181/CRP/9920/
+

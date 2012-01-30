@@ -1,0 +1,38 @@
+PAM 2000,Intermediate Microeconomics,http://cornell.chequerd.com/courses/3160/PAM/2000/
+PAM 2030,Population & Public Policy,http://cornell.chequerd.com/courses/3161/PAM/2030/
+PAM 2100,Introduction to Statistics,http://cornell.chequerd.com/courses/3163/PAM/2100/
+PAM 2550,Waiting for Superman? Perspectives on the "Crisis" in American K-12 Education,http://cornell.chequerd.com/courses/11311/PAM/2550/
+PAM 3100,Multiple Regression Analysis,http://cornell.chequerd.com/courses/3166/PAM/3100/
+PAM 3110,Pharmaceutical Management and Policy,http://cornell.chequerd.com/courses/11243/PAM/3110/
+PAM 3300,Intermediate Policy Analysis,http://cornell.chequerd.com/courses/6035/PAM/3300/
+PAM 3370,Race and Public Policy,http://cornell.chequerd.com/courses/6037/PAM/3370/
+PAM 3410,Economics of Consumer Law and Protection,http://cornell.chequerd.com/courses/6038/PAM/3410/
+PAM 3440,Regulating Financial Institutions,http://cornell.chequerd.com/courses/6039/PAM/3440/
+PAM 4000,Directed Readings,http://cornell.chequerd.com/courses/3172/PAM/4000/
+PAM 4010,Empirical Research,http://cornell.chequerd.com/courses/3173/PAM/4010/
+PAM 4020,Supervised Fieldwork,http://cornell.chequerd.com/courses/3174/PAM/4020/
+PAM 4030,Teaching Apprenticeship,http://cornell.chequerd.com/courses/3175/PAM/4030/
+PAM 4160,Ethnography of Poverty and Inequality,http://cornell.chequerd.com/courses/9584/PAM/4160/
+PAM 4370,Economics of Health Policy,http://cornell.chequerd.com/courses/6045/PAM/4370/
+PAM 4380,Economics of Public Health,http://cornell.chequerd.com/courses/3176/PAM/4380/
+PAM 4580,Education and the Labor Market,http://cornell.chequerd.com/courses/10685/PAM/4580/
+PAM 4650,Technology Policy & the Law,http://cornell.chequerd.com/courses/9585/PAM/4650/
+PAM 4990,Honors Program,http://cornell.chequerd.com/courses/3179/PAM/4990/
+PAM 5010,Education Policy,http://cornell.chequerd.com/courses/11331/PAM/5010/
+PAM 5280,Fundamentals of Population Health,http://cornell.chequerd.com/courses/8152/PAM/5280/
+PAM 5540,Legal Aspects of Health Care,http://cornell.chequerd.com/courses/8154/PAM/5540/
+PAM 5620,Finance,http://cornell.chequerd.com/courses/6050/PAM/5620/
+PAM 5678,Modeling Solutions,http://cornell.chequerd.com/courses/11312/PAM/5678/
+PAM 5740,Short Course in Fundamentals of Health Facility Planning for Managers,http://cornell.chequerd.com/courses/6052/PAM/5740/
+PAM 5760,Long-Term Care and Lifestyle Alternatives for the Older Adult,http://cornell.chequerd.com/courses/6053/PAM/5760/
+PAM 5770,Marketing for Health Care Managers,http://cornell.chequerd.com/courses/3188/PAM/5770/
+PAM 5900,Special Topics in Health Administration & Finance,http://cornell.chequerd.com/courses/6054/PAM/5900/
+PAM 5952,Field Study in Health Administration and Planning - Spring,http://cornell.chequerd.com/courses/8155/PAM/5952/
+PAM 5990,Challenges and Trends in the Health Services Industry,http://cornell.chequerd.com/courses/3189/PAM/5990/
+PAM 6000,Special Problems for Grads,http://cornell.chequerd.com/courses/3190/PAM/6000/
+PAM 6091,Empirical Stategies for Policy Research II,http://cornell.chequerd.com/courses/11313/PAM/6091/
+PAM 6420,Health Economics II,http://cornell.chequerd.com/courses/9587/PAM/6420/
+PAM 6900,Professional Seminar in Public Policy,http://cornell.chequerd.com/courses/7265/PAM/6900/
+PAM 8990,Masters Thesis,http://cornell.chequerd.com/courses/3195/PAM/8990/
+PAM 9990,Doctoral Thesis,http://cornell.chequerd.com/courses/3196/PAM/9990/
+

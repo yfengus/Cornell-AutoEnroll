@@ -1,0 +1,7 @@
+16004,SEM,TBA,,,,
+15991,SEM,T,12:20p - 2:15p,RND 202,Suh (ys464),
+15990,SEM,R,10:10a - 12:05p,SBL 144,,
+5352,SEM,M,7:30p - 9:25p,RND 205,Hookway (bh98),
+4984,SEM,T,10:10a - 12:40p,RND 202,Richardson (hwr1),
+4983,SEM,T,2:30p - 4:25p,RND 205,Warke (vkw1),
+

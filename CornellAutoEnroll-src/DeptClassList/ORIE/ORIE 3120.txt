@@ -1,0 +1,5 @@
+10703,DIS,F,2:30p - 4:25p,RHD 471,Frazier (pf98), Jackson (pj16),
+10702,DIS,F,12:20p - 2:15p,RHD 471,Frazier (pf98), Jackson (pj16),
+10701,DIS,W,2:30p - 4:25p,RHD 471,Frazier (pf98), Jackson (pj16),
+10700,LEC,TR,11:40a - 12:55p,OLH 255,Frazier (pf98), Jackson (pj16),
+

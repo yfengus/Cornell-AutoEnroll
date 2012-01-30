@@ -1,0 +1,3 @@
+9182,LEC,TR,10:15a - 11:00a,BTL 112,Johnson (mej62),
+9181,LEC,TR,9:00a - 9:45a,BTL 112,Johnson (mej62),
+

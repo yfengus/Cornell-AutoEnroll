@@ -1,0 +1,8 @@
+12040,LEC,TR,2:55p - 4:10p,STL 291,Snow (crs12),
+11961,LEC,TR,1:25p - 2:40p,STL 291,Odom-Reed (pro2),
+11960,LEC,TR,11:40a - 12:55p,STL 291,Snow (crs12),
+11959,LEC,TR,10:10a - 11:25a,STL 291,Snow (crs12),
+11958,LEC,MW,2:55p - 4:10p,STL 341,Jameson (daj2),
+11957,LEC,MW,11:40a - 12:55p,STL 351,Newman (an97),
+11956,LEC,MW,10:10a - 11:25a,STL 351,Newman (an97),
+

@@ -1,0 +1,32 @@
+ART 1504,Introduction to Drawing in Rome,http://cornell.chequerd.com/courses/10781/ART/1504/
+ART 1602,Introduction to Photography in Rome,http://cornell.chequerd.com/courses/10765/ART/1602/
+ART 2201,Painting II,http://cornell.chequerd.com/courses/407/ART/2201/
+ART 2301,Intaglio II,http://cornell.chequerd.com/courses/408/ART/2301/
+ART 2401,Sculpture II,http://cornell.chequerd.com/courses/411/ART/2401/
+ART 2601,Photography II,http://cornell.chequerd.com/courses/4195/ART/2601/
+ART 2701,Introduction to Digital Media,http://cornell.chequerd.com/courses/10754/ART/2701/
+ART 3001,Rome Studio,http://cornell.chequerd.com/courses/10755/ART/3001/
+ART 3003,New York City Studio,http://cornell.chequerd.com/courses/10906/ART/3003/
+ART 3092,Independent Studio in Art,http://cornell.chequerd.com/courses/10776/ART/3092/
+ART 3102,Modern Art in Italy,http://cornell.chequerd.com/courses/417/ART/3102/
+ART 3103,New York City Seminar,http://cornell.chequerd.com/courses/10907/ART/3103/
+ART 3202,Painting IV,http://cornell.chequerd.com/courses/421/ART/3202/
+ART 3203,Painting Film,http://cornell.chequerd.com/courses/10908/ART/3203/
+ART 3304,Large Format Print Media,http://cornell.chequerd.com/courses/10909/ART/3304/
+ART 3305,Print Media,http://cornell.chequerd.com/courses/10910/ART/3305/
+ART 3401,Sculpture III,http://cornell.chequerd.com/courses/424/ART/3401/
+ART 3606,The Constructed Image,http://cornell.chequerd.com/courses/9706/ART/3606/
+ART 3702,Special Topics,http://cornell.chequerd.com/courses/428/ART/3702/
+ART 3704,Interactive Digital Media,http://cornell.chequerd.com/courses/430/ART/3704/
+ART 3707,Digital Video and Sound,http://cornell.chequerd.com/courses/10911/ART/3707/
+ART 3801,Art History: Late Antique & Medieval Rome,http://cornell.chequerd.com/courses/10912/ART/3801/
+ART 3803,Art History: Italian Cinema,http://cornell.chequerd.com/courses/10658/ART/3803/
+ART 3805,Interdisciplinary Perspectives on Metropolitan Studies,http://cornell.chequerd.com/courses/11342/ART/3805/
+ART 3902,International Professional Practice/Internship,http://cornell.chequerd.com/courses/10757/ART/3902/
+ART 3903,NYC Professional Practice,http://cornell.chequerd.com/courses/10913/ART/3903/
+ART 4001,Thesis I,http://cornell.chequerd.com/courses/6624/ART/4001/
+ART 4002,Thesis II,http://cornell.chequerd.com/courses/6625/ART/4002/
+ART 6000,Graduate Seminar: Contemporary Theory and Art,http://cornell.chequerd.com/courses/10785/ART/6000/
+ART 7002,Graduate Studio,http://cornell.chequerd.com/courses/4199/ART/7002/
+ART 8002,Graduate Studio,http://cornell.chequerd.com/courses/4200/ART/8002/
+

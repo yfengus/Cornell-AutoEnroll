@@ -1,0 +1,3 @@
+2796,LAB,R,12:20p - 2:15p,PLS 107,Crepet (wlc1), Niklas (kjn2),
+2795,LEC,TR,9:05a - 9:55a,PLS 107,Crepet (wlc1), Niklas (kjn2),
+

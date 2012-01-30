@@ -1,0 +1,6 @@
+9022,LEC,TR,1:30p - 2:15p,TGL 151B,Newman (wjn3),
+9021,LEC,TR,11:30a - 12:15p,TGL 151B,Reilly (cpr24),
+9020,LEC,MW,7:45p - 8:30p,HNH 201,Gaulke (jg338),
+9019,LEC,MW,6:45p - 7:30p,HNH 201,Gaulke (jg338),
+9018,LEC,TR,3:35p - 4:20p,HNH 201,Ball (seb27),
+

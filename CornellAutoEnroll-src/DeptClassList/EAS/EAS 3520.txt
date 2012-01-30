@@ -1,0 +1,3 @@
+10623,LAB,M,2:30p - 4:25p,BDF 1101,Wysocki (mww3),
+10622,LEC,TR,9:05a - 9:55a,BDF 1102,Wysocki (mww3),
+

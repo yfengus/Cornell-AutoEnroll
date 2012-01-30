@@ -1,0 +1,4 @@
+13005,LAB,R,2:30p - 4:25p,HEB T23,Ashdown (spa4),
+13004,LAB,T,2:30p - 4:25p,HEB T23,Ashdown (spa4),
+13003,LEC,TR,10:10a - 11:25a,HEB T23,Ashdown (spa4),
+

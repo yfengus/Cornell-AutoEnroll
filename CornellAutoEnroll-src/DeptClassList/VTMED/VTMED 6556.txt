@@ -1,0 +1,4 @@
+13806,LAB,M,1:00p - 3:00p,CLA C2609,,
+13805,LEC,T,1:00p - 3:00p,CLA C2609,Warnick (ldw3),
+13805,LEC,M,11:00a - 12:00p,CLA C2609,Warnick (ldw3),
+

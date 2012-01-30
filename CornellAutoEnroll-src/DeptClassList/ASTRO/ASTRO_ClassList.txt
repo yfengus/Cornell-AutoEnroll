@@ -1,0 +1,14 @@
+ASTRO 1102,Our Solar System,http://cornell.chequerd.com/courses/4308/ASTRO/1102/
+ASTRO 1104,Our Solar System,http://cornell.chequerd.com/courses/4309/ASTRO/1104/
+ASTRO 2202,Our Home in the Solar System,http://cornell.chequerd.com/courses/4311/ASTRO/2202/
+ASTRO 2212,The Solar System: Planets, Satellites and Rings,http://cornell.chequerd.com/courses/4312/ASTRO/2212/
+ASTRO 2299,Search for LIfe in the Universe,http://cornell.chequerd.com/courses/7536/ASTRO/2299/
+ASTRO 3303,Galaxies Across Cosmic Time,http://cornell.chequerd.com/courses/10944/ASTRO/3303/
+ASTRO 4432,Introduction to Astrophysics and Space Sciences ll,http://cornell.chequerd.com/courses/4314/ASTRO/4432/
+ASTRO 4940,Independent Study,http://cornell.chequerd.com/courses/576/ASTRO/4940/
+ASTRO 6530,Astrophysical Processes,http://cornell.chequerd.com/courses/7538/ASTRO/6530/
+ASTRO 6578,Planet Formation & Evolution,http://cornell.chequerd.com/courses/581/ASTRO/6578/
+ASTRO 6599,Cosmology,http://cornell.chequerd.com/courses/7539/ASTRO/6599/
+ASTRO 6940,Advanced Study and Research,http://cornell.chequerd.com/courses/583/ASTRO/6940/
+ASTRO 7690,Computational Physics,http://cornell.chequerd.com/courses/4320/ASTRO/7690/
+

@@ -1,0 +1,4 @@
+16513,LEC,W,2:55p - 4:25p,CRP 236,Curtis (shc11),
+16512,LEC,M,7:30p - 9:00p,CRP 236,Curtis (shc11),
+16511,LEC,M,2:55p - 4:25p,CRP 236,Curtis (shc11),
+

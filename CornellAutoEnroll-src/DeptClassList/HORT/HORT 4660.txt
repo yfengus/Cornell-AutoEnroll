@@ -1,0 +1,3 @@
+4024,LAB,W,1:25p - 4:25p,BDF 102,Thies (jet25),
+4023,LEC,TR,10:10a - 11:25a,BDF 105,Thies (jet25),
+

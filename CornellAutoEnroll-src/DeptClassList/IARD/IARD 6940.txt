@@ -1,0 +1,3 @@
+4170,LEC,M,4:30p - 6:00p,,Barker (rb19),
+2235,LEC,TBA,,,Medvecky (bam44),
+

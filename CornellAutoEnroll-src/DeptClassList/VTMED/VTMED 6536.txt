@@ -1,0 +1,4 @@
+13857,LAB,T,3:00p - 6:00p,,Bicalho (rcb28),
+13857,LAB,R,3:00p - 5:00p,,Bicalho (rcb28),
+13856,LEC,MW,8:00a - 10:00a,SRM S1017,Bicalho (rcb28),
+

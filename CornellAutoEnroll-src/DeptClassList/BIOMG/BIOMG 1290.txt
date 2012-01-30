@@ -1,0 +1,7 @@
+16370,DIS,F,11:15a - 12:05p,STM 206,Aquadro (cfa1), Wells (rsw96),
+16369,DIS,F,11:15a - 12:05p,STM 119,Aquadro (cfa1), Wells (rsw96),
+16368,DIS,F,11:15a - 12:05p,CMS B108,Aquadro (cfa1), Wells (rsw96),
+16367,DIS,F,11:15a - 12:05p,CMS B106,Aquadro (cfa1), Wells (rsw96),
+16366,DIS,F,11:15a - 12:05p,STM 105,Aquadro (cfa1), Wells (rsw96),
+16365,LEC,MW,11:15a - 12:05p,PLS 233,Aquadro (cfa1), Wells (rsw96),
+

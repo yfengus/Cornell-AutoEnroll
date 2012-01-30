@@ -1,0 +1,11 @@
+11485,DIS,M,7:30p - 8:45p,PHL 213,Doerschuk (pd83),
+11450,DIS,M,1:25p - 2:40p,PHL 407,Doerschuk (pd83),
+11372,DIS,R,1:25p - 2:40p,OLH 216,Doerschuk (pd83),
+11371,DIS,W,1:25p - 2:40p,PHL 407,Doerschuk (pd83),
+11370,DIS,T,1:25p - 2:40p,HLS 372,Doerschuk (pd83),
+10880,DIS,R,2:55p - 4:10p,HLS 362,Doerschuk (pd83),
+10879,DIS,W,2:55p - 4:10p,UPS 215,Doerschuk (pd83),
+10878,DIS,T,2:55p - 4:10p,PHL 407,Doerschuk (pd83),
+10877,DIS,M,2:55p - 4:10p,HLS 368,Doerschuk (pd83),
+10876,LEC,TR,8:40a - 9:55a,PHL 203,Doerschuk (pd83),
+
