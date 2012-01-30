@@ -1,0 +1,3 @@
+15044,LEC,TWR,2:30p - 3:25p,,Holden-Smith (bjh12),
+15043,LEC,WRF,1:25p - 2:20p,,Clermont (kmc12),
+

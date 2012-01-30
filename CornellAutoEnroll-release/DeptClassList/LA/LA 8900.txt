@@ -1,0 +1,10 @@
+4191,RSC,TBA,,,,
+4183,RSC,TBA,,,Horrigan (phh3),
+4182,RSC,TBA,,,Gleason (klg16),
+4181,RSC,TBA,,,Cerra (jfc299),
+4180,RSC,TBA,,,Foster (jf252),
+4179,RSC,TBA,,,Krall (dwk5),
+4178,RSC,TBA,,,,
+3957,RSC,TBA,,,Trowbridge (pjt4),
+2279,RSC,TBA,,TBA TBA,Baugher (sbb8),
+

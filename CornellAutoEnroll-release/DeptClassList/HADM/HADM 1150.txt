@@ -1,0 +1,4 @@
+11951,LEC,MW,11:40a - 12:55p,STL 565,Katz (jhk14),
+11950,LEC,TR,11:40a - 12:55p,STL 565,Walsh (kmw33),
+11949,LEC,TR,10:10a - 11:25a,STL 565,Walsh (kmw33),
+

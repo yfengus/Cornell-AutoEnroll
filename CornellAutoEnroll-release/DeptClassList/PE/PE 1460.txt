@@ -1,0 +1,5 @@
+9167,LEC,TR,3:35p - 4:20p,GRS B08,McCracken (mnm37), Nighman (gmn5),
+9166,LEC,TR,11:15a - 12:00p,GRS B08,Beckwith (pab12),
+9165,LEC,MW,6:00p - 6:45p,GRS B08,Richardson (bkr7),
+9164,LEC,MW,11:15a - 12:00p,GRS B08,Beckwith (pab12),
+

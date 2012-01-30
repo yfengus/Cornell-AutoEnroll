@@ -1,0 +1,42 @@
+THETR 1100,Dance Technique I,http://cornell.chequerd.com/courses/10649/THETR/1100/
+THETR 1243,FWS: Freakshow,http://cornell.chequerd.com/courses/11337/THETR/1243/
+THETR 1244,FWS: Acting Out: Drama, Theatre, and Psychoanalysis,http://cornell.chequerd.com/courses/11338/THETR/1244/
+THETR 1510,Production Laboratory I,http://cornell.chequerd.com/courses/3783/THETR/1510/
+THETR 1550,Rehearsal and Performance,http://cornell.chequerd.com/courses/3785/THETR/1550/
+THETR 1770,Student Laboratory Theatre Company,http://cornell.chequerd.com/courses/3786/THETR/1770/
+THETR 2290,Introduction to Lesbian, Gay, Bisexual, & Transgender Studies,http://cornell.chequerd.com/courses/11284/THETR/2290/
+THETR 2410,Introduction to World Theatre II:Early Modernity,http://cornell.chequerd.com/courses/6355/THETR/2410/
+THETR 2430,Introduction to Dramatic Writing,http://cornell.chequerd.com/courses/11285/THETR/2430/
+THETR 2500,Fundamentals of Theatre Design and Technology,http://cornell.chequerd.com/courses/3791/THETR/2500/
+THETR 2510,Production Laboratory II,http://cornell.chequerd.com/courses/3792/THETR/2510/
+THETR 2530,Stage Management Laboratory II,http://cornell.chequerd.com/courses/3793/THETR/2530/
+THETR 2800,Introduction To Acting,http://cornell.chequerd.com/courses/3795/THETR/2800/
+THETR 2810,Acting I,http://cornell.chequerd.com/courses/3796/THETR/2810/
+THETR 2840,Speech and Dialects for Performance,http://cornell.chequerd.com/courses/6359/THETR/2840/
+THETR 3000,Independent Study,http://cornell.chequerd.com/courses/3798/THETR/3000/
+THETR 3130,Special Topics in Drama and Performance,http://cornell.chequerd.com/courses/8269/THETR/3130/
+THETR 3190,Music, Dance, and Light,http://cornell.chequerd.com/courses/8270/THETR/3190/
+THETR 3260,Queer Performance,http://cornell.chequerd.com/courses/7368/THETR/3260/
+THETR 3270,Shakespeare,http://cornell.chequerd.com/courses/8271/THETR/3270/
+THETR 3365,Traditional Japanese Theatre,http://cornell.chequerd.com/courses/8272/THETR/3365/
+THETR 3510,Production Laboratory III,http://cornell.chequerd.com/courses/3801/THETR/3510/
+THETR 3530,Stage Management Laboratory III,http://cornell.chequerd.com/courses/3803/THETR/3530/
+THETR 3640,Scenic Design Studio,http://cornell.chequerd.com/courses/3807/THETR/3640/
+THETR 3660,Costume Design Studio,http://cornell.chequerd.com/courses/6364/THETR/3660/
+THETR 3680,Sound Design and Digital Audio,http://cornell.chequerd.com/courses/6365/THETR/3680/
+THETR 3750,Studies in Drama and Theatre: Modernism and Metatheatre,http://cornell.chequerd.com/courses/9635/THETR/3750/
+THETR 3810,Acting III: Advanced Scene Study,http://cornell.chequerd.com/courses/8275/THETR/3810/
+THETR 3850,Advanced Studies in Acting Techniques,http://cornell.chequerd.com/courses/6367/THETR/3850/
+THETR 4510,Production Laboratory IV,http://cornell.chequerd.com/courses/3818/THETR/4510/
+THETR 4620,Lighting Design Studio II,http://cornell.chequerd.com/courses/6372/THETR/4620/
+THETR 4701,50s Movie Musicals and Modernism,http://cornell.chequerd.com/courses/11360/THETR/4701/
+THETR 4750,Performing Modernism in the Chinese Body,http://cornell.chequerd.com/courses/11286/THETR/4750/
+THETR 4850,Undergraduate Internship,http://cornell.chequerd.com/courses/3821/THETR/4850/
+THETR 4960,Honors Thesis Project,http://cornell.chequerd.com/courses/3823/THETR/4960/
+THETR 4961,Musicology in the Flesh: Sound and Senses,http://cornell.chequerd.com/courses/11287/THETR/4961/
+THETR 4980,Fundamentals Of Directing II,http://cornell.chequerd.com/courses/6374/THETR/4980/
+THETR 6060,Passionate Politics,http://cornell.chequerd.com/courses/11288/THETR/6060/
+THETR 7100,The Pedagogy Of Theatre,http://cornell.chequerd.com/courses/3828/THETR/7100/
+THETR 7210,Ind Study For Grads In Thetr,http://cornell.chequerd.com/courses/3829/THETR/7210/
+THETR 9900,Thsis&Special Problems,http://cornell.chequerd.com/courses/3830/THETR/9900/
+

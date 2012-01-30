@@ -1,0 +1,6 @@
+NRE 5020,PhD Seminar - Market Microstructuring,http://cornell.chequerd.com/courses/7237/NRE/5020/
+NRE 5030,Bayesian Statistical Methods,http://cornell.chequerd.com/courses/9765/NRE/5030/
+NRE 5040,PHD Seminar in Accounting,http://cornell.chequerd.com/courses/3022/NRE/5040/
+NRE 5070,Affect and Cognition,http://cornell.chequerd.com/courses/3024/NRE/5070/
+NRE 5220,PhD Sem Quantitative Models,http://cornell.chequerd.com/courses/11237/NRE/5220/
+

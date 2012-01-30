@@ -1,0 +1,3 @@
+6201,STU,W,7:30p - 9:30p,SGC 101,Tucker (sat14),
+6201,STU,U,4:00p - 6:00p,LNC B20,Tucker (sat14),
+

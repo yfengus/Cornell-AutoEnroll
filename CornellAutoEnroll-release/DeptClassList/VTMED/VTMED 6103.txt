@@ -1,0 +1,5 @@
+13614,LAB,R,10:00a - 12:30p,BSC S2067,Hermanson (jwh6),
+13614,LAB,MT,2:00p - 4:30p,BSC S2067,Hermanson (jwh6),
+13590,LEC,R,9:00a - 10:00a,,Hermanson (jwh6),
+13590,LEC,M,1:00p - 2:00p,,Hermanson (jwh6),
+

@@ -1,0 +1,4 @@
+14218,LAB,R,1:25p - 4:25p,STM 309,Hairston (ngh1),
+14303,LAB,W,1:25p - 4:25p,STM 309,Hairston (ngh1),
+14302,LAB,T,1:25p - 4:25p,STM 309,Hairston (ngh1),
+

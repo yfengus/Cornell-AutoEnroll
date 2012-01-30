@@ -1,0 +1,26 @@
+ILRLR 1100,Introduction to U.S. Labor History,http://cornell.chequerd.com/courses/8723/ILRLR/1100/
+ILRLR 2010,Labor and Employment Law,http://cornell.chequerd.com/courses/8724/ILRLR/2010/
+ILRLR 2050,Collective Bargining,http://cornell.chequerd.com/courses/8725/ILRLR/2050/
+ILRLR 2060,Writing Seminar in Law,http://cornell.chequerd.com/courses/9479/ILRLR/2060/
+ILRLR 2070,Writing Seminar in History,http://cornell.chequerd.com/courses/8726/ILRLR/2070/
+ILRLR 3030,Working America and Pop Culture,http://cornell.chequerd.com/courses/9482/ILRLR/3030/
+ILRLR 3035,Special Topics in Labor Relations,http://cornell.chequerd.com/courses/9483/ILRLR/3035/
+ILRLR 3062,Migrant Workers in the Americas,http://cornell.chequerd.com/courses/11169/ILRLR/3062/
+ILRLR 3070,U.S. Business History Since Civil War,http://cornell.chequerd.com/courses/8729/ILRLR/3070/
+ILRLR 3820,Gendered Workplace,http://cornell.chequerd.com/courses/11170/ILRLR/3820/
+ILRLR 3830,Workers' Rights as Human Rights,http://cornell.chequerd.com/courses/8730/ILRLR/3830/
+ILRLR 3870,The History of Consumption: From Wedgewood to Wal-Mart,http://cornell.chequerd.com/courses/11171/ILRLR/3870/
+ILRLR 4023,Disability and Employment Policy,http://cornell.chequerd.com/courses/9772/ILRLR/4023/
+ILRLR 4025,Forensics Practicum,http://cornell.chequerd.com/courses/8732/ILRLR/4025/
+ILRLR 4040,Contract Administration,http://cornell.chequerd.com/courses/9486/ILRLR/4040/
+ILRLR 4060,Labor Relations in the Hospitality Industry,http://cornell.chequerd.com/courses/9719/ILRLR/4060/
+ILRLR 4820,Ethics at Work,http://cornell.chequerd.com/courses/8736/ILRLR/4820/
+ILRLR 4860,Collective Bargaining in Public Sector,http://cornell.chequerd.com/courses/9487/ILRLR/4860/
+ILRLR 5000,Collective Bargaining,http://cornell.chequerd.com/courses/9489/ILRLR/5000/
+ILRLR 5010,Labor & Employment Law,http://cornell.chequerd.com/courses/9490/ILRLR/5010/
+ILRLR 6019,Dispute resolution Practicum,http://cornell.chequerd.com/courses/9493/ILRLR/6019/
+ILRLR 6080,Special Topics,http://cornell.chequerd.com/courses/8744/ILRLR/6080/
+ILRLR 6860,Public Sector Labor Law,http://cornell.chequerd.com/courses/11409/ILRLR/6860/
+ILRLR 6892,Theo&Prac Nego&Collab Deci Making,http://cornell.chequerd.com/courses/11172/ILRLR/6892/
+ILRLR 7090,Labor and Employment Law Policy Seminar,http://cornell.chequerd.com/courses/11173/ILRLR/7090/
+

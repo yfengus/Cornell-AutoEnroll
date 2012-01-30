@@ -1,0 +1,7 @@
+5989,STU,TR,2:30p - 4:25p,SWZ SB23,Guyton (jrg268),
+5988,STU,MW,12:20p - 2:15p,SWZ 322,Chalmers (skc25), Goelzer (cjg54),
+5987,STU,MW,2:30p - 4:25p,SWZ SB23,Goelzer (cjg54), Chalmers (skc25),
+5986,STU,TR,12:20p - 2:15p,SWZ SB23,Guyton (jrg268),
+5985,STU,TR,12:20p - 2:15p,SWZ 322,Chalmers (skc25),
+5984,STU,MW,10:10a - 12:05p,SWZ 322,Chalmers (skc25),
+

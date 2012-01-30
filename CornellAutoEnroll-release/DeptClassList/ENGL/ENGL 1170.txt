@@ -1,0 +1,6 @@
+16289,SEM,TR,8:40a - 9:55a,GSH 156,Schlauraff (kas465),
+16288,SEM,MW,7:30p - 8:45p,GSH 162,Nam (srn48),
+16287,SEM,MWF,10:10a - 11:00a,GSH 283,Kim (jk2236),
+16286,SEM,MWF,11:15a - 12:05p,GSH 160,Chertok (ajc355),
+16285,SEM,MW,8:40a - 9:55a,GSH 283,Radus (dmr55),
+

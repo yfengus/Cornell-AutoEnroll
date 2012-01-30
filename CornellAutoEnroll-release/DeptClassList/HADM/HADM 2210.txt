@@ -1,0 +1,3 @@
+11968,LEC,TR,10:10a - 11:25a,STL 198,Potter (gsp6),
+11967,LEC,TR,8:40a - 9:55a,STL 396,Potter (gsp6),
+

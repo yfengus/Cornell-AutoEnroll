@@ -1,0 +1,3 @@
+9133,LEC,R,5:00p - 6:30p,TGL 210,Timberlake (pt29),
+9132,LEC,M,5:00p - 6:30p,HNH B16,Timberlake (pt29),
+

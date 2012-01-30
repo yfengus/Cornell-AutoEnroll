@@ -1,0 +1,34 @@
+VISST 2000,Introduction to Visual Studies,http://cornell.chequerd.com/courses/6407/VISST/2000/
+VISST 2511,Beginning Dance Composition,http://cornell.chequerd.com/courses/3872/VISST/2511/
+VISST 2605,Contemporary Photography,http://cornell.chequerd.com/courses/11292/VISST/2605/
+VISST 2744,Gamelan in Indonesian History and Cultures,http://cornell.chequerd.com/courses/3875/VISST/2744/
+VISST 2805,Material Worlds: Trade and the Arts of Asia,http://cornell.chequerd.com/courses/11293/VISST/2805/
+VISST 3115,Video and New Media: Art, Theory, Politics,http://cornell.chequerd.com/courses/9643/VISST/3115/
+VISST 3179,Modern Documentary Film,http://cornell.chequerd.com/courses/8294/VISST/3179/
+VISST 3260,Queer Performance,http://cornell.chequerd.com/courses/7387/VISST/3260/
+VISST 3318,Literature & Media in Japan,http://cornell.chequerd.com/courses/7388/VISST/3318/
+VISST 3350,Radio and Sound Art Since 1945,http://cornell.chequerd.com/courses/11294/VISST/3350/
+VISST 3360,Translating Southeast Asia Through Film,http://cornell.chequerd.com/courses/8295/VISST/3360/
+VISST 3415,Perplexing Pictures: Puzzles & Problems in Early Modern Art,http://cornell.chequerd.com/courses/11295/VISST/3415/
+VISST 3519,Music, Dance, and Light,http://cornell.chequerd.com/courses/8297/VISST/3519/
+VISST 3740,Painting Nineteenth-Century America,http://cornell.chequerd.com/courses/3880/VISST/3740/
+VISST 3758,Techno Soma Kinesics: Repositioning the Performing Body in Space through the Lenses of Digital Media,http://cornell.chequerd.com/courses/6416/VISST/3758/
+VISST 4100,Introduction to Media Theory,http://cornell.chequerd.com/courses/11296/VISST/4100/
+VISST 4151,Topics in Media Arts,http://cornell.chequerd.com/courses/11297/VISST/4151/
+VISST 4200,Proseminar,http://cornell.chequerd.com/courses/6421/VISST/4200/
+VISST 4210,Dance Technique IV/Classical,http://cornell.chequerd.com/courses/3882/VISST/4210/
+VISST 4220,Dance Technique IV/Modern,http://cornell.chequerd.com/courses/3883/VISST/4220/
+VISST 4436,Topics In Indian Film,http://cornell.chequerd.com/courses/7391/VISST/4436/
+VISST 4438,Language and Image,http://cornell.chequerd.com/courses/11298/VISST/4438/
+VISST 4454,Modernity, Spatiality, Urban Culture: Seoul,http://cornell.chequerd.com/courses/11299/VISST/4454/
+VISST 4473,Film and Spiritual Questions,http://cornell.chequerd.com/courses/8299/VISST/4473/
+VISST 4520,Aesthetic Theory and Participatory Act,http://cornell.chequerd.com/courses/11300/VISST/4520/
+VISST 4563,Lighting Design Studio II,http://cornell.chequerd.com/courses/6423/VISST/4563/
+VISST 4738,Image Love, Image Hate: Agalmatophilia and Iconoclasm in Antiquity and Beyond,http://cornell.chequerd.com/courses/11301/VISST/4738/
+VISST 4758,Techno Soma Kinesics II: Repositioning the Performing Body in Space through the Lenses of Digital,http://cornell.chequerd.com/courses/6425/VISST/4758/
+VISST 4761,Art and Social Histories,http://cornell.chequerd.com/courses/3889/VISST/4761/
+VISST 4793,Advanced Film and Video Projects,http://cornell.chequerd.com/courses/6426/VISST/4793/
+VISST 4963,Sounding the Animal,http://cornell.chequerd.com/courses/11302/VISST/4963/
+VISST 6780,Persecution and the Art of Writing,http://cornell.chequerd.com/courses/11303/VISST/6780/
+VISST 6992,Art Writing: Tracing the Visible,http://cornell.chequerd.com/courses/11304/VISST/6992/
+

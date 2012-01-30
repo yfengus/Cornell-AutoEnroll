@@ -1,0 +1,38 @@
+BEE 1200,The BEE Experience,http://cornell.chequerd.com/courses/4321/BEE/1200/
+BEE 2220,Bioengineering Thermodynamics and Kinetics,http://cornell.chequerd.com/courses/4322/BEE/2220/
+BEE 3299,Sustainable Development: Web-Based Course,http://cornell.chequerd.com/courses/4324/BEE/3299/
+BEE 3600,Molecular and Cellular Bioengineering,http://cornell.chequerd.com/courses/4325/BEE/3600/
+BEE 3650,Properties of Biological Materials,http://cornell.chequerd.com/courses/4326/BEE/3650/
+BEE 4010,Renewable Energy Systems,http://cornell.chequerd.com/courses/4328/BEE/4010/
+BEE 4350,Principles of Aquaculture,http://cornell.chequerd.com/courses/4329/BEE/4350/
+BEE 4500,Bioinstrumentation,http://cornell.chequerd.com/courses/4330/BEE/4500/
+BEE 4530,Computer-Aided Engineering: Applications to Biomedical Processes,http://cornell.chequerd.com/courses/4331/BEE/4530/
+BEE 4550,Biologically Inspired Microsystems Engineering,http://cornell.chequerd.com/courses/8441/BEE/4550/
+BEE 4740,Water and Landscape Engineering Applications,http://cornell.chequerd.com/courses/4333/BEE/4740/
+BEE 4760,Solid Waste Engineering,http://cornell.chequerd.com/courses/4334/BEE/4760/
+BEE 4810,LRFD-Based Engineering of Wood Structures,http://cornell.chequerd.com/courses/4335/BEE/4810/
+BEE 4840,Metabolic Engineering,http://cornell.chequerd.com/courses/7543/BEE/4840/
+BEE 4860,Industrial Ecology of Agriculturally Based Bioindustries,http://cornell.chequerd.com/courses/7544/BEE/4860/
+BEE 4880,Applied Modeling and Simulation for Renewable Energy Systems,http://cornell.chequerd.com/courses/10946/BEE/4880/
+BEE 4940,Special Topics in Biological and Environmental Engineering,http://cornell.chequerd.com/courses/4338/BEE/4940/
+BEE 4960,Capstone Design in Biological and Environmental Engineering,http://cornell.chequerd.com/courses/598/BEE/4960/
+BEE 4970,Individual Study in Biological and Environmental Engineering,http://cornell.chequerd.com/courses/599/BEE/4970/
+BEE 4980,Undergraduate Teaching,http://cornell.chequerd.com/courses/600/BEE/4980/
+BEE 4990,Undergraduate Research,http://cornell.chequerd.com/courses/601/BEE/4990/
+BEE 4992,BEE Honors Research,http://cornell.chequerd.com/courses/4339/BEE/4992/
+BEE 5010,Bioengineering Seminar,http://cornell.chequerd.com/courses/603/BEE/5010/
+BEE 5330,Engineering Professionalism,http://cornell.chequerd.com/courses/4340/BEE/5330/
+BEE 5902,MPS Project,http://cornell.chequerd.com/courses/4341/BEE/5902/
+BEE 5952,Master of Engr Design Project,http://cornell.chequerd.com/courses/4342/BEE/5952/
+BEE 6200,Approaches to Analytical Characterization of Biological Macromolecules,http://cornell.chequerd.com/courses/7545/BEE/6200/
+BEE 6430,Veterinary Perspectives on Pathogen Control in Animal Manure,http://cornell.chequerd.com/courses/4343/BEE/6430/
+BEE 6570,Mixed-Culture Engineered Systems: Bioenergy and Microbial Ecology,http://cornell.chequerd.com/courses/9257/BEE/6570/
+BEE 6740,Ecohydrology,http://cornell.chequerd.com/courses/7546/BEE/6740/
+BEE 6880,Applied Modeling and Simulation for Renewable Energy Systems,http://cornell.chequerd.com/courses/10947/BEE/6880/
+BEE 6970,Graduate Individual Study in Biological and Environmental Engineering,http://cornell.chequerd.com/courses/611/BEE/6970/
+BEE 7540,Water & Culture in Mediterranean: A Crisis,http://cornell.chequerd.com/courses/4345/BEE/7540/
+BEE 7600,Nucleic Acid Engineering,http://cornell.chequerd.com/courses/7547/BEE/7600/
+BEE 7710,Soil and Water Engineering Seminar,http://cornell.chequerd.com/courses/613/BEE/7710/
+BEE 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/614/BEE/8900/
+BEE 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/615/BEE/9900/
+

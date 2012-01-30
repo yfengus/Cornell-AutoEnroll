@@ -1,0 +1,10 @@
+3979,RSC,TBA,,,Fick (gwf2),
+3978,RSC,TBA,,,Duxbury (jmd17),
+3977,RSC,TBA,,,Cherney (jhc5),
+3676,RSC,TBA,,,Cox (wjc3),
+1798,RSC,TBA,,,DiTommaso (ad97),
+1797,RSC,TBA,,,Setter (tls1),
+3982,RSC,TBA,,,Vatamaniuk (okv2),
+3981,RSC,TBA,,,Obendorf (rlo1),
+3980,RSC,TBA,,,Kochian (lvk1),
+

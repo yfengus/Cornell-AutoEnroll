@@ -1,0 +1,55 @@
+MUSIC 1100,Elements of Musical Notation,http://cornell.chequerd.com/courses/2843/MUSIC/1100/
+MUSIC 1101,Fundamentals Of Music,http://cornell.chequerd.com/courses/5797/MUSIC/1101/
+MUSIC 1202,Monteverdi To Minimalism,http://cornell.chequerd.com/courses/5798/MUSIC/1202/
+MUSIC 1312,History of Rock Music,http://cornell.chequerd.com/courses/5800/MUSIC/1312/
+MUSIC 1341,Gamelan in Indonesian History and Cultures,http://cornell.chequerd.com/courses/2847/MUSIC/1341/
+MUSIC 1466,Physics of Musical Sound,http://cornell.chequerd.com/courses/5801/MUSIC/1466/
+MUSIC 1701,FWS: Sound, Sense and Ideas,http://cornell.chequerd.com/courses/2850/MUSIC/1701/
+MUSIC 2102,Tonal Theory II,http://cornell.chequerd.com/courses/5802/MUSIC/2102/
+MUSIC 2104,Musicianship II,http://cornell.chequerd.com/courses/5803/MUSIC/2104/
+MUSIC 2208,Survey of Western Music II,http://cornell.chequerd.com/courses/9551/MUSIC/2208/
+MUSIC 3102,Tonal Theory IV,http://cornell.chequerd.com/courses/5807/MUSIC/3102/
+MUSIC 3104,Musicianship IV,http://cornell.chequerd.com/courses/5808/MUSIC/3104/
+MUSIC 3111,Jazz Improvisation I,http://cornell.chequerd.com/courses/7206/MUSIC/3111/
+MUSIC 3211,Proseminar in Musicology,http://cornell.chequerd.com/courses/5810/MUSIC/3211/
+MUSIC 3431,Sound Design and Digital Audio,http://cornell.chequerd.com/courses/5813/MUSIC/3431/
+MUSIC 3501,Individual Instruction,http://cornell.chequerd.com/courses/2862/MUSIC/3501/
+MUSIC 3502,Individual Instruction,http://cornell.chequerd.com/courses/2863/MUSIC/3502/
+MUSIC 3602,Chorus,http://cornell.chequerd.com/courses/2864/MUSIC/3602/
+MUSIC 3603,Glee Club,http://cornell.chequerd.com/courses/2865/MUSIC/3603/
+MUSIC 3604,Chorale,http://cornell.chequerd.com/courses/2866/MUSIC/3604/
+MUSIC 3609,Brazilian Ensemble - Deixa Sambar,http://cornell.chequerd.com/courses/9000/MUSIC/3609/
+MUSIC 3610,Cornell Gamelan Ensemble,http://cornell.chequerd.com/courses/2867/MUSIC/3610/
+MUSIC 3612,World Drum & Dance Ensemble,http://cornell.chequerd.com/courses/2868/MUSIC/3612/
+MUSIC 3613,Steel Band,http://cornell.chequerd.com/courses/2869/MUSIC/3613/
+MUSIC 3614,Middle Eastern Music Ensemble,http://cornell.chequerd.com/courses/2870/MUSIC/3614/
+MUSIC 3621,Cornell Symphony Orchestra,http://cornell.chequerd.com/courses/2872/MUSIC/3621/
+MUSIC 3631,Cornell Wind Symphony,http://cornell.chequerd.com/courses/2873/MUSIC/3631/
+MUSIC 3633,Wind Ensemble,http://cornell.chequerd.com/courses/2874/MUSIC/3633/
+MUSIC 3636,Music Leadership and Service Learning,http://cornell.chequerd.com/courses/7208/MUSIC/3636/
+MUSIC 3901,Supplemental Study in Music History,http://cornell.chequerd.com/courses/2876/MUSIC/3901/
+MUSIC 4101,Counterpoint,http://cornell.chequerd.com/courses/11216/MUSIC/4101/
+MUSIC 4102,Topics In Music Analysis,http://cornell.chequerd.com/courses/11217/MUSIC/4102/
+MUSIC 4161,Musicology in the Flesh: Sound and Senses,http://cornell.chequerd.com/courses/11218/MUSIC/4161/
+MUSIC 4301,Introduction to Ethnomusicology,http://cornell.chequerd.com/courses/5818/MUSIC/4301/
+MUSIC 4466,Science, Technology and Medicine: The Sonic Dimension,http://cornell.chequerd.com/courses/11219/MUSIC/4466/
+MUSIC 4501,Individual Instruction,http://cornell.chequerd.com/courses/2879/MUSIC/4501/
+MUSIC 4601,Chamber Singers,http://cornell.chequerd.com/courses/2881/MUSIC/4601/
+MUSIC 4615,Jazz Ensemble I,http://cornell.chequerd.com/courses/2882/MUSIC/4615/
+MUSIC 4616,Jazz Combos,http://cornell.chequerd.com/courses/2883/MUSIC/4616/
+MUSIC 4621,Cornell Chamber Orchestra,http://cornell.chequerd.com/courses/2884/MUSIC/4621/
+MUSIC 4631,Chamber Winds,http://cornell.chequerd.com/courses/2885/MUSIC/4631/
+MUSIC 4641,Advanced Instruction-Gamelan,http://cornell.chequerd.com/courses/2886/MUSIC/4641/
+MUSIC 4651,Chamber Music Ensembles,http://cornell.chequerd.com/courses/2887/MUSIC/4651/
+MUSIC 4901,Independent Study In Music,http://cornell.chequerd.com/courses/2888/MUSIC/4901/
+MUSIC 4912,Honors In Music,http://cornell.chequerd.com/courses/5821/MUSIC/4912/
+MUSIC 6101,Analytical Technique,http://cornell.chequerd.com/courses/11220/MUSIC/6101/
+MUSIC 6301,Introduction to Ethnomusicology,http://cornell.chequerd.com/courses/5822/MUSIC/6301/
+MUSIC 7111,Composition,http://cornell.chequerd.com/courses/2892/MUSIC/7111/
+MUSIC 7201,Seminar in Medieval Music,http://cornell.chequerd.com/courses/2894/MUSIC/7201/
+MUSIC 7204,Seminar In Classical Music,http://cornell.chequerd.com/courses/2895/MUSIC/7204/
+MUSIC 7223,Operatic States,http://cornell.chequerd.com/courses/7210/MUSIC/7223/
+MUSIC 7313,The Beatles,http://cornell.chequerd.com/courses/11221/MUSIC/7313/
+MUSIC 7901,Independent Study and Research,http://cornell.chequerd.com/courses/2897/MUSIC/7901/
+MUSIC 9901,Thesis Research,http://cornell.chequerd.com/courses/2898/MUSIC/9901/
+

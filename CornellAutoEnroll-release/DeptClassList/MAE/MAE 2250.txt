@@ -1,0 +1,9 @@
+16775,LAB,W,7:30p - 9:25p,UPS 265,Louge (myl3), Warhaft (zw16),
+11315,LAB,M,7:30p - 9:25p,UPS 265,Louge (myl3), Warhaft (zw16),
+10809,LAB,F,2:00p - 4:25p,UPS 265,Louge (myl3), Warhaft (zw16),
+10808,LAB,R,2:00p - 4:25p,UPS 265,Louge (myl3), Warhaft (zw16),
+10807,LAB,W,2:00p - 4:25p,UPS 265,Louge (myl3), Warhaft (zw16),
+10806,LAB,T,2:00p - 4:25p,UPS 265,Louge (myl3), Warhaft (zw16),
+10805,LAB,M,2:00p - 4:25p,UPS 265,Louge (myl3), Warhaft (zw16),
+10804,LEC,MWF,11:15a - 12:05p,UPS B17,Louge (myl3), Warhaft (zw16),
+

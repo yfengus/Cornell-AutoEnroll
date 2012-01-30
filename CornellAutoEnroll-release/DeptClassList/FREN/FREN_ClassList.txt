@@ -1,0 +1,29 @@
+FREN 1108,FWS:Monstrous Forms: Wild Men and Wicked Women,http://cornell.chequerd.com/courses/7825/FREN/1108/
+FREN 1170,FWS: Captives of Contingency: The Politics of Literature,http://cornell.chequerd.com/courses/11327/FREN/1170/
+FREN 1220,Elementary French,http://cornell.chequerd.com/courses/5136/FREN/1220/
+FREN 1230,Continuing French,http://cornell.chequerd.com/courses/1852/FREN/1230/
+FREN 2060,French Intermediate Reading and Writing,http://cornell.chequerd.com/courses/1853/FREN/2060/
+FREN 2090,French Intermediate Composition and Conversation I,http://cornell.chequerd.com/courses/1854/FREN/2090/
+FREN 2100,Pronunciation of Standard French,http://cornell.chequerd.com/courses/5137/FREN/2100/
+FREN 2190,French Intermediate Composition and Conversation II,http://cornell.chequerd.com/courses/1855/FREN/2190/
+FREN 2210,Intro to Textual Analysis,http://cornell.chequerd.com/courses/1856/FREN/2210/
+FREN 3000,Directed Studies,http://cornell.chequerd.com/courses/1857/FREN/3000/
+FREN 3010,Advanced French I,http://cornell.chequerd.com/courses/1858/FREN/3010/
+FREN 3050,French through Film,http://cornell.chequerd.com/courses/1859/FREN/3050/
+FREN 3130,French In The News,http://cornell.chequerd.com/courses/5138/FREN/3130/
+FREN 3210,Readings in Modern French Literature and Culture,http://cornell.chequerd.com/courses/5140/FREN/3210/
+FREN 3290,Introduction to 17th Century France,http://cornell.chequerd.com/courses/11057/FREN/3290/
+FREN 3710,Women's Stories,http://cornell.chequerd.com/courses/6985/FREN/3710/
+FREN 4200,Special Topics - French,http://cornell.chequerd.com/courses/5145/FREN/4200/
+FREN 4300,Honors Work in French,http://cornell.chequerd.com/courses/5146/FREN/4300/
+FREN 4445,Renaissance Poetry,http://cornell.chequerd.com/courses/11058/FREN/4445/
+FREN 4680,Theater in Seventeenth-Century France: "Theaters of the Self",http://cornell.chequerd.com/courses/11059/FREN/4680/
+FREN 4760,Libertine Literature,http://cornell.chequerd.com/courses/5148/FREN/4760/
+FREN 6260,Literary Theory and Cognitive Science,http://cornell.chequerd.com/courses/11060/FREN/6260/
+FREN 6300,French for ReadingGraduate Students,http://cornell.chequerd.com/courses/5150/FREN/6300/
+FREN 6400,Special Topics in French Literature,http://cornell.chequerd.com/courses/5151/FREN/6400/
+FREN 6445,Renaissance Poetry,http://cornell.chequerd.com/courses/11061/FREN/6445/
+FREN 6480,The Refusal of Politics,http://cornell.chequerd.com/courses/9394/FREN/6480/
+FREN 6680,Theater in Seventeenth-Century France: "Theaters of the Self",http://cornell.chequerd.com/courses/11062/FREN/6680/
+FREN 6780,Libertine Literature,http://cornell.chequerd.com/courses/5152/FREN/6780/
+

@@ -1,0 +1,6 @@
+11194,LAB,F,1:25p - 4:25p,TBA TBA,Land (brl4),
+11193,LAB,R,1:25p - 4:25p,TBA TBA,Land (brl4),
+11192,LAB,W,1:25p - 4:25p,TBA TBA,Land (brl4),
+11191,LAB,W,7:30p - 10:30p,TBA TBA,Land (brl4),
+11190,LEC,MWF,12:20p - 1:10p,PHL 203,Land (brl4),
+

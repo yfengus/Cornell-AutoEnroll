@@ -1,0 +1,4 @@
+10342,LEC,TR,10:10a - 11:00a,PHL 213,Shmoys (dbs10),
+14715,DIS,R,12:20p - 2:15p,RHD 453,Shmoys (dbs10),
+10343,DIS,R,2:30p - 4:25p,RHD 453,Shmoys (dbs10),
+

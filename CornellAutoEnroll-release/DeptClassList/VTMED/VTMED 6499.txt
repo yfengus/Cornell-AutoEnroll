@@ -1,0 +1,10 @@
+13674,RSC,TBA,,,Grohn (ytg1),
+16716,RSC,TBA,,,Schat (kas24),
+13737,RSC,TBA,,,Flaminio (mbf6),
+13736,RSC,TBA,,,Goldstein (rg225),
+13711,RSC,TBA,,,Scarlett (jms15),
+13710,RSC,TBA,,,Gilbert (rog1),
+13709,RSC,TBA,,,Bowser (prb4),
+13703,RSC,TBA,,,Cheetham (jc485),
+13681,RSC,TBA,,,Perkins (gap7),
+

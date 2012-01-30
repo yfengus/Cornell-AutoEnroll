@@ -1,0 +1,3 @@
+14622,DIS,R,2:30p - 4:25p,PLS 143,Collmer (arc2),
+14621,LEC,TR,9:05a - 9:55a,PLS G37,Collmer (arc2),
+

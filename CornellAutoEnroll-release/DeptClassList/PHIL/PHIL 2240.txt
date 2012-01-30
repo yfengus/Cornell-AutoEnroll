@@ -1,0 +1,5 @@
+14727,DIS,F,2:30p - 3:20p,GSH 142,Kosch (mak229),
+8816,DIS,F,2:30p - 3:20p,RCK 103,Kosch (mak229),
+8815,DIS,F,2:30p - 3:20p,RCK 110,Kosch (mak229),
+8814,LEC,TR,2:55p - 4:10p,GSH 132,Kosch (mak229),
+

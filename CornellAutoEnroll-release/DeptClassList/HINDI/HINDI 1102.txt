@@ -1,0 +1,4 @@
+6951,DIS,MWRF,10:10a - 11:00a,URH 498,Singh (ss596),
+6950,DIS,MWRF,9:05a - 9:55a,URH 302,Singh (ss596),
+6949,LEC,T,9:05a - 9:55a,RCK B16,Singh (ss596),
+

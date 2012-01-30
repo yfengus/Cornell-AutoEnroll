@@ -1,0 +1,101 @@
+LAW 3281,Constitutional Politics: the US Supreme Court,http://cornell.chequerd.com/courses/11192/LAW/3281/
+LAW 4051,The Death Penalty in America,http://cornell.chequerd.com/courses/5559/LAW/4051/
+LAW 4122,Judging the Jury,http://cornell.chequerd.com/courses/11193/LAW/4122/
+LAW 5001,Civil Procedure,http://cornell.chequerd.com/courses/2550/LAW/5001/
+LAW 5041,Contracts,http://cornell.chequerd.com/courses/2552/LAW/5041/
+LAW 5061,Criminal Law,http://cornell.chequerd.com/courses/5562/LAW/5061/
+LAW 5081,Lawyering,http://cornell.chequerd.com/courses/2553/LAW/5081/
+LAW 5121,Property,http://cornell.chequerd.com/courses/2554/LAW/5121/
+LAW 6001,Accounting for Lawyers,http://cornell.chequerd.com/courses/5564/LAW/6001/
+LAW 6011,Administrative Law: The Law of the Regulatory State,http://cornell.chequerd.com/courses/2555/LAW/6011/
+LAW 6019,Dispute resolution Practicum,http://cornell.chequerd.com/courses/11391/LAW/6019/
+LAW 6051,Advanced Legal Research in Business Law,http://cornell.chequerd.com/courses/5565/LAW/6051/
+LAW 6131,Business Organizations,http://cornell.chequerd.com/courses/5566/LAW/6131/
+LAW 6162,Comparative Constitutional Law,http://cornell.chequerd.com/courses/5568/LAW/6162/
+LAW 6201,Constitutional Law II: The First Amendment,http://cornell.chequerd.com/courses/5571/LAW/6201/
+LAW 6301,Directed Reading,http://cornell.chequerd.com/courses/2569/LAW/6301/
+LAW 6311,Education Law,http://cornell.chequerd.com/courses/8020/LAW/6311/
+LAW 6392,Ethics and Corporate Culture,http://cornell.chequerd.com/courses/5574/LAW/6392/
+LAW 6401,Evidence,http://cornell.chequerd.com/courses/2570/LAW/6401/
+LAW 6421,Family Law,http://cornell.chequerd.com/courses/5575/LAW/6421/
+LAW 6422,Family Law Clinic,http://cornell.chequerd.com/courses/11194/LAW/6422/
+LAW 6431,Federal Courts,http://cornell.chequerd.com/courses/5576/LAW/6431/
+LAW 6441,Federal Income Taxation,http://cornell.chequerd.com/courses/2571/LAW/6441/
+LAW 6461,Financial Institutions,http://cornell.chequerd.com/courses/2572/LAW/6461/
+LAW 6501,Insurance Law,http://cornell.chequerd.com/courses/5577/LAW/6501/
+LAW 6511,Intellectual Property,http://cornell.chequerd.com/courses/2574/LAW/6511/
+LAW 6514,International and Foreign Legal Research,http://cornell.chequerd.com/courses/9527/LAW/6514/
+LAW 6534,International Law/International Relations Colloquium(1/2),http://cornell.chequerd.com/courses/10831/LAW/6534/
+LAW 6545,International Economic Law,http://cornell.chequerd.com/courses/9528/LAW/6545/
+LAW 6548,International Legal Research and Writing for Judges,http://cornell.chequerd.com/courses/8970/LAW/6548/
+LAW 6563,International Mergers & Acquistions,http://cornell.chequerd.com/courses/11195/LAW/6563/
+LAW 6569,Introduction to Depositions,http://cornell.chequerd.com/courses/10832/LAW/6569/
+LAW 6612,Law and Literature,http://cornell.chequerd.com/courses/10453/LAW/6612/
+LAW 6661,Law of European Union,http://cornell.chequerd.com/courses/2583/LAW/6661/
+LAW 6681,Legal Aspects of Foreign Investment in Developing Countries,http://cornell.chequerd.com/courses/5581/LAW/6681/
+LAW 6692,Legal Ethics-Oxymoron or Principles for a Successful Practice,http://cornell.chequerd.com/courses/11196/LAW/6692/
+LAW 6701,Legislation,http://cornell.chequerd.com/courses/8023/LAW/6701/
+LAW 6737,National Security Law,http://cornell.chequerd.com/courses/8024/LAW/6737/
+LAW 6738,Negotiation Skills,http://cornell.chequerd.com/courses/9530/LAW/6738/
+LAW 6743,Selected Topics in Patent Law and Practice,http://cornell.chequerd.com/courses/11357/LAW/6743/
+LAW 6761,Principles of American Legal Writing,http://cornell.chequerd.com/courses/2586/LAW/6761/
+LAW 6821,Securities Regulation,http://cornell.chequerd.com/courses/2591/LAW/6821/
+LAW 6841,Sports Law,http://cornell.chequerd.com/courses/5587/LAW/6841/
+LAW 6871,Supervised Writing,http://cornell.chequerd.com/courses/2593/LAW/6871/
+LAW 6881,Supervised Teaching and Supervised Writing - Lawyering Program Honors Fellows,http://cornell.chequerd.com/courses/2594/LAW/6881/
+LAW 6891,Taxation of Corporations and Shareholders,http://cornell.chequerd.com/courses/2595/LAW/6891/
+LAW 6892,Theo&Prac Nego&Collab Deci Making,http://cornell.chequerd.com/courses/5588/LAW/6892/
+LAW 6921,Trial Advocacy,http://cornell.chequerd.com/courses/5589/LAW/6921/
+LAW 6981,WTO and International Trade Law,http://cornell.chequerd.com/courses/5591/LAW/6981/
+LAW 7012,Advanced Criminal Procedure: Post-Conviction Remedies,http://cornell.chequerd.com/courses/5592/LAW/7012/
+LAW 7072,Animal Rights,http://cornell.chequerd.com/courses/8027/LAW/7072/
+LAW 7081,Advanced Topic in the Anthropology of Law,http://cornell.chequerd.com/courses/11198/LAW/7081/
+LAW 7091,Biblical Law,http://cornell.chequerd.com/courses/5595/LAW/7091/
+LAW 7112,Twentieth Century Jurisprudence: The Great Works,http://cornell.chequerd.com/courses/11199/LAW/7112/
+LAW 7123,Chinese Law: Tradition and Modernization,http://cornell.chequerd.com/courses/11394/LAW/7123/
+LAW 7151,Constitutional Law and Political Theory,http://cornell.chequerd.com/courses/8029/LAW/7151/
+LAW 7162,Contemporary American Jury,http://cornell.chequerd.com/courses/5597/LAW/7162/
+LAW 7165,Criminal Law Theory,http://cornell.chequerd.com/courses/11200/LAW/7165/
+LAW 7166,Deals Seminar: Capital Markets Transactions,http://cornell.chequerd.com/courses/11201/LAW/7166/
+LAW 7193,Deals Seminar: Drafting and Analyzing Corporate Agreements,http://cornell.chequerd.com/courses/11400/LAW/7193/
+LAW 7195,Estate Planning,http://cornell.chequerd.com/courses/11202/LAW/7195/
+LAW 7201,Empirical Studies of the Legal System,http://cornell.chequerd.com/courses/2605/LAW/7201/
+LAW 7231,Ethnoracial Identity in Anthropology, Language, and Law,http://cornell.chequerd.com/courses/5599/LAW/7231/
+LAW 7261,Feminist Jurisprudence,http://cornell.chequerd.com/courses/5600/LAW/7261/
+LAW 7283,Citizenship in American Constitutional Thought,http://cornell.chequerd.com/courses/9533/LAW/7283/
+LAW 7291,Global and Regional Economic Integration: The WTO, EU, and NAFTA,http://cornell.chequerd.com/courses/5602/LAW/7291/
+LAW 7292,Health Care Law,http://cornell.chequerd.com/courses/11203/LAW/7292/
+LAW 7321,International Criminal Law,http://cornell.chequerd.com/courses/5603/LAW/7321/
+LAW 7322,International Tax Seminar,http://cornell.chequerd.com/courses/2610/LAW/7322/
+LAW 7371,Introduction to Islamic Law,http://cornell.chequerd.com/courses/5605/LAW/7371/
+LAW 7392,Jurisprudence of War,http://cornell.chequerd.com/courses/8032/LAW/7392/
+LAW 7412,Law and Humanities Colloquium,http://cornell.chequerd.com/courses/5608/LAW/7412/
+LAW 7578,Markets, Democracy, and the Rule of Law,http://cornell.chequerd.com/courses/8979/LAW/7578/
+LAW 7580,Markets, Morals and Methods,http://cornell.chequerd.com/courses/8034/LAW/7580/
+LAW 7593,Income Tax. Corp. M & A,http://cornell.chequerd.com/courses/2615/LAW/7593/
+LAW 7631,Pretrial Pract., Lit. Strategies,http://cornell.chequerd.com/courses/5612/LAW/7631/
+LAW 7741,Separation of Powers,http://cornell.chequerd.com/courses/2621/LAW/7741/
+LAW 7783,Theories of Intellectual Property,http://cornell.chequerd.com/courses/5614/LAW/7783/
+LAW 7784,The War on Drugs,http://cornell.chequerd.com/courses/7167/LAW/7784/
+LAW 7801,Immigration Appellate Law and Advocacy,http://cornell.chequerd.com/courses/5616/LAW/7801/
+LAW 7803,Advanced International Human Rights Clinic,http://cornell.chequerd.com/courses/8981/LAW/7803/
+LAW 7805,Advanced Labor Law,http://cornell.chequerd.com/courses/11204/LAW/7805/
+LAW 7811,Capital Punishment Clinic: Post-Conviction Litigation,http://cornell.chequerd.com/courses/5617/LAW/7811/
+LAW 7812,Child Advocacy Clinic,http://cornell.chequerd.com/courses/5618/LAW/7812/
+LAW 7815,Capital Punishment Clinic 2,http://cornell.chequerd.com/courses/11205/LAW/7815/
+LAW 7832,Full-Term Externship,http://cornell.chequerd.com/courses/5621/LAW/7832/
+LAW 7834,Externship,http://cornell.chequerd.com/courses/8036/LAW/7834/
+LAW 7835,e-Government Clinic 1 & 2,http://cornell.chequerd.com/courses/8982/LAW/7835/
+LAW 7836,Cross-national Human Rights Clinic,http://cornell.chequerd.com/courses/11206/LAW/7836/
+LAW 7861,Judicial Externship,http://cornell.chequerd.com/courses/2626/LAW/7861/
+LAW 7871,Labor Law Clinic,http://cornell.chequerd.com/courses/5625/LAW/7871/
+LAW 7872,Land Use, Devt. & Nat'l Resource,http://cornell.chequerd.com/courses/5626/LAW/7872/
+LAW 7881,Law Guardian Externship,http://cornell.chequerd.com/courses/2627/LAW/7881/
+LAW 7905,Lesbian, Gay, Bisexual and Transgender (LGBT) Clinic 1,http://cornell.chequerd.com/courses/11358/LAW/7905/
+LAW 7911,Neighborhood Legal Services Externship 1,http://cornell.chequerd.com/courses/2628/LAW/7911/
+LAW 7952,US Attorney's Clinic 2,http://cornell.chequerd.com/courses/5631/LAW/7952/
+LAW 7953,Securities Law Clinic 1,http://cornell.chequerd.com/courses/2633/LAW/7953/
+LAW 7954,Securities Law Clinic 2,http://cornell.chequerd.com/courses/2634/LAW/7954/
+LAW 7955,Securities Law Clinic 3,http://cornell.chequerd.com/courses/7168/LAW/7955/
+LAW 9901,Graduate Research,http://cornell.chequerd.com/courses/2637/LAW/9901/
+

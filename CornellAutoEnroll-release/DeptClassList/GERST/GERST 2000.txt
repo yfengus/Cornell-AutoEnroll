@@ -1,0 +1,3 @@
+5470,SEM,MWF,12:20p - 1:10p,URH 254,Nousek (kln37),
+5469,SEM,MWF,10:10a - 11:00a,URH 254,McBride (dbm93),
+

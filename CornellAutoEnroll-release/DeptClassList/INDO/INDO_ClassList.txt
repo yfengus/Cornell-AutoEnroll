@@ -1,0 +1,4 @@
+INDO 1122,Elementary Indonesian,http://cornell.chequerd.com/courses/5467/INDO/1122/
+INDO 2202,Intermediate Indonesian II,http://cornell.chequerd.com/courses/9502/INDO/2202/
+INDO 3302,Advanced Indonesian,http://cornell.chequerd.com/courses/5469/INDO/3302/
+

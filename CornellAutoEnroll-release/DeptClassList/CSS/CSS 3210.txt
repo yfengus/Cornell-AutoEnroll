@@ -1,0 +1,3 @@
+4035,LAB,M,1:25p - 4:25p,BDF 102,Van Es (hmv1),
+4034,LEC,MF,12:20p - 1:10p,BDF 105,Van Es (hmv1),
+

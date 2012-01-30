@@ -1,0 +1,4 @@
+13797,LEC,M,12:00p - 1:00p,SRM S1017,Berliner (eab35), Scarlett (jms15),
+13797,LEC,T,12:00p - 1:00p,SRM S1017,Berliner (eab35), Scarlett (jms15),
+13797,LEC,R,3:00p - 5:00p,VEC S1165,Berliner (eab35), Scarlett (jms15),
+

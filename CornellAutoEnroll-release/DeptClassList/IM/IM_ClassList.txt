@@ -1,0 +1,4 @@
+IM 3510,Independent Study,http://cornell.chequerd.com/courses/2408/IM/3510/
+IM 4990,Honors Research,http://cornell.chequerd.com/courses/2409/IM/4990/
+IM 4991,Honors Research,http://cornell.chequerd.com/courses/5466/IM/4991/
+

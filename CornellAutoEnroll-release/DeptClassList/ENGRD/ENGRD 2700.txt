@@ -1,0 +1,7 @@
+10419,DIS,T,11:40a - 12:55p,RHD 453,Turnbull (bwt2),
+10418,DIS,T,10:10a - 11:25a,RHD 453,Turnbull (bwt2),
+10417,DIS,T,8:40a - 9:55a,RHD 471,Turnbull (bwt2),
+10416,DIS,M,2:55p - 4:10p,HLS 314,Turnbull (bwt2),
+10415,DIS,M,11:40a - 12:55p,RHD 453,Turnbull (bwt2),
+10414,LEC,TR,1:25p - 2:40p,OLH 155,Turnbull (bwt2),
+

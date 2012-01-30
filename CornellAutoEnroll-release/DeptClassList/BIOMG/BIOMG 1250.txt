@@ -1,0 +1,3 @@
+16684,SEM,T,2:30p - 4:25p,BTB 471,Connallon (tmc233), Meisel (rpm16),
+16660,SEM,M,10:10a - 12:05p,BTB 180,Burwell (lsb27),
+

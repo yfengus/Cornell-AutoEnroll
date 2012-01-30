@@ -1,0 +1,3 @@
+14443,DIS,W,2:30p - 4:25p,PLS 233,Perosio (djp7),
+14442,LEC,MW,10:10a - 11:00a,MLT 253,Perosio (djp7),
+

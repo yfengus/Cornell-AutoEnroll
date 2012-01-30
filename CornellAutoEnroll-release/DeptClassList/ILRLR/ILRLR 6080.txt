@@ -1,0 +1,3 @@
+13394,LEC,TR,1:25p - 2:40p,IVS 116,Lieberwitz (rll5),
+13378,LEC,MTWU,7:30p - 10:00p,IVS 111,Lipsky (dbl4), Scheinman (mfs55),
+

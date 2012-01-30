@@ -1,0 +1,33 @@
+NS 1200,Nutrition and Health: Issues, Outlooks, and Opportunities,http://cornell.chequerd.com/courses/5955/NS/1200/
+NS 1220,Nutrition & the Life Cycle,http://cornell.chequerd.com/courses/5956/NS/1220/
+NS 2470,Food For Contemporary Living,http://cornell.chequerd.com/courses/3030/NS/2470/
+NS 2600,Introduction to Global Health,http://cornell.chequerd.com/courses/5957/NS/2600/
+NS 3150,Obesity and the Regulation of Body Weight,http://cornell.chequerd.com/courses/8134/NS/3150/
+NS 3310,Physiological and Biochemical Bases of Human Nutrition,http://cornell.chequerd.com/courses/5959/NS/3310/
+NS 3410,Human Anatomy and Physiology,http://cornell.chequerd.com/courses/5960/NS/3410/
+NS 3420,Human Anatomy and Physiology Laboratory,http://cornell.chequerd.com/courses/5961/NS/3420/
+NS 4130,Nutritional Genomics-Evolution and Environment,http://cornell.chequerd.com/courses/8135/NS/4130/
+NS 4250,Nutrition Communications and Counseling,http://cornell.chequerd.com/courses/5964/NS/4250/
+NS 4315,Nutrient Requirements and Recommendations: Biological Aspects,http://cornell.chequerd.com/courses/11238/NS/4315/
+NS 4370,Nutrition, immunology and infectious diseases,http://cornell.chequerd.com/courses/9578/NS/4370/
+NS 4444,Sports Nutrition and Supplements, Concepts and Evidence,http://cornell.chequerd.com/courses/11239/NS/4444/
+NS 4500,Public Health Nutrition,http://cornell.chequerd.com/courses/5965/NS/4500/
+NS 4620,Seminar in Global Health and Development Issues: Tanzania,http://cornell.chequerd.com/courses/5967/NS/4620/
+NS 4880,Applied Dietetics in Food Service Systems,http://cornell.chequerd.com/courses/5968/NS/4880/
+NS 4990,Honors Problem,http://cornell.chequerd.com/courses/3044/NS/4990/
+NS 5411,Integrative Health Scineces II,http://cornell.chequerd.com/courses/8137/NS/5411/
+NS 6110,Molecular Toxicology (also TOX 6110),http://cornell.chequerd.com/courses/5969/NS/6110/
+NS 6170,Teaching Seminar,http://cornell.chequerd.com/courses/3051/NS/6170/
+NS 6180,Teaching Experience,http://cornell.chequerd.com/courses/3052/NS/6180/
+NS 6190,Field of Nutrition Seminar,http://cornell.chequerd.com/courses/3053/NS/6190/
+NS 6200,Translational Research and Evidence-based Policy and Practice in Nutrition,http://cornell.chequerd.com/courses/11423/NS/6200/
+NS 6320,Regulation of Macronutrient Metabolism,http://cornell.chequerd.com/courses/5971/NS/6320/
+NS 6370,Topics in Nutritional Epidemiology,http://cornell.chequerd.com/courses/8138/NS/6370/
+NS 6440,Community Nutrition Seminar,http://cornell.chequerd.com/courses/3059/NS/6440/
+NS 6520,The Foundations of Epidemiology,http://cornell.chequerd.com/courses/5972/NS/6520/
+NS 6850,Empirical Methods for the Analysis of Household Survey Data,http://cornell.chequerd.com/courses/5973/NS/6850/
+NS 6980,International Nutrition Seminar,http://cornell.chequerd.com/courses/3062/NS/6980/
+NS 7030,Seminar Nutritional Science,http://cornell.chequerd.com/courses/3063/NS/7030/
+NS 7040,Grant Writing,http://cornell.chequerd.com/courses/5975/NS/7040/
+NS 8990,Master Thesis,http://cornell.chequerd.com/courses/3064/NS/8990/
+

@@ -1,0 +1,36 @@
+NTRES 2010,Environmental Conservation,http://cornell.chequerd.com/courses/5978/NTRES/2010/
+NTRES 2201,Society and Natural Resources,http://cornell.chequerd.com/courses/5979/NTRES/2201/
+NTRES 2320,Nature and Culture,http://cornell.chequerd.com/courses/5980/NTRES/2320/
+NTRES 3240,Ecological Management of Water Resources,http://cornell.chequerd.com/courses/5986/NTRES/3240/
+NTRES 3250,Forest Management and Maple Syrup Production,http://cornell.chequerd.com/courses/11240/NTRES/3250/
+NTRES 3260,Applied Conservation Ecology,http://cornell.chequerd.com/courses/5987/NTRES/3260/
+NTRES 4130,Biological Statistics II,http://cornell.chequerd.com/courses/5991/NTRES/4130/
+NTRES 4300,Environmental and Natural Resources Policy Processes,http://cornell.chequerd.com/courses/5993/NTRES/4300/
+NTRES 4320,Human Dimensions of Coupled Social -Ecological Systems,http://cornell.chequerd.com/courses/11241/NTRES/4320/
+NTRES 4330,Applied Environmental Philosophy,http://cornell.chequerd.com/courses/5994/NTRES/4330/
+NTRES 4440,Resource Management and Environment Law,http://cornell.chequerd.com/courses/5995/NTRES/4440/
+NTRES 4870,Undergraduate Research Methods,http://cornell.chequerd.com/courses/11427/NTRES/4870/
+NTRES 4940,Special Topics in Natural Resources,http://cornell.chequerd.com/courses/3085/NTRES/4940/
+NTRES 4960,Internship in Natural Resource,http://cornell.chequerd.com/courses/11432/NTRES/4960/
+NTRES 4970,Individual Study in Environmental Science and Resource Policy,http://cornell.chequerd.com/courses/3086/NTRES/4970/
+NTRES 4971,Individual Study in Applied Ecology and Conservation Ecology,http://cornell.chequerd.com/courses/3087/NTRES/4971/
+NTRES 4972,Individual Study in Ecosystem Science and Biogeochemistry,http://cornell.chequerd.com/courses/3088/NTRES/4972/
+NTRES 4980,Undergraduate Teaching in Natural Resources,http://cornell.chequerd.com/courses/3089/NTRES/4980/
+NTRES 4990,Undergraduate Research,http://cornell.chequerd.com/courses/5997/NTRES/4990/
+NTRES 4991,Honors Research in Natural Resources,http://cornell.chequerd.com/courses/3090/NTRES/4991/
+NTRES 5900,Professional Projects-M.P.S.,http://cornell.chequerd.com/courses/3091/NTRES/5900/
+NTRES 6040,Seminar on Selected Topics in Resource Policy and Management,http://cornell.chequerd.com/courses/3094/NTRES/6040/
+NTRES 6140,Seminar on Selected Topics in Applied Ecology and Conservation Biology,http://cornell.chequerd.com/courses/3095/NTRES/6140/
+NTRES 6200,Spatial Modeling and Analysis,http://cornell.chequerd.com/courses/9579/NTRES/6200/
+NTRES 6700,Spatial Statistics,http://cornell.chequerd.com/courses/8141/NTRES/6700/
+NTRES 6940,Graduate Special Topics in Natural Resources,http://cornell.chequerd.com/courses/3098/NTRES/6940/
+NTRES 6960,Agroecological Perspectives for Sustainable Development,http://cornell.chequerd.com/courses/3099/NTRES/6960/
+NTRES 6970,Graduate Individual Study in Natural Resources,http://cornell.chequerd.com/courses/3100/NTRES/6970/
+NTRES 7283,Molecular Genetic Approaches to the Study of Ecology & Evolution,http://cornell.chequerd.com/courses/8142/NTRES/7283/
+NTRES 7330,Socio-Cultural and Ecological Role of Diversity,http://cornell.chequerd.com/courses/6002/NTRES/7330/
+NTRES 7600,Environment and Social Transitions: Graduate Seminar in Environmental Sociology,http://cornell.chequerd.com/courses/7248/NTRES/7600/
+NTRES 7800,Graduate Seminar in Ornithology,http://cornell.chequerd.com/courses/3101/NTRES/7800/
+NTRES 7900,Graduate-Level Thesis Research,http://cornell.chequerd.com/courses/3102/NTRES/7900/
+NTRES 8900,Master's Thesis Research,http://cornell.chequerd.com/courses/3103/NTRES/8900/
+NTRES 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/3104/NTRES/9900/
+

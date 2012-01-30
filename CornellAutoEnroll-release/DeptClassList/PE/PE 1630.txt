@@ -1,0 +1,11 @@
+9267,LEC,W,6:00p - 9:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9267,LEC,U,12:01a - 9:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9267,LEC,U,10:00a - 2:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9267,LEC,S,12:01a - 11:59p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9267,LEC,FS,5:00p - 11:59p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9115,LEC,W,6:00p - 9:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9115,LEC,U,12:01a - 9:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9115,LEC,SU,12:01a - 11:59p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9115,LEC,S,10:00a - 2:00p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+9115,LEC,FSU,5:00p - 11:59p,BTL B01,Cook (rjc288), Holton (mh45), Woodin (akw2),
+

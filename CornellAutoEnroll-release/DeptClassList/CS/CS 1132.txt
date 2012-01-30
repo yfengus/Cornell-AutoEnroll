@@ -1,0 +1,4 @@
+16558,LEC,TBA,,TBA,Fan (kdf4),
+16556,LEC,MWF,3:35p - 4:25p,HLS B14,Fan (kdf4),
+11043,LEC,MWF,2:30p - 3:20p,UPS B17,Fan (kdf4),
+

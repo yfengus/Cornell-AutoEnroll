@@ -1,0 +1,3 @@
+14392,LAB,T,1:25p - 4:25p,CMS 2109,Liebherr (jkl5),
+14391,LEC,TR,9:05a - 9:55a,CMS B106,Liebherr (jkl5),
+

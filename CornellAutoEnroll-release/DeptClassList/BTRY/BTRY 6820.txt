@@ -1,0 +1,3 @@
+14785,DIS,R,12:20p - 1:10p,CMS B106,Keinan (ak735),
+14784,LEC,TR,10:10a - 11:25a,CMS B106,Keinan (ak735),
+

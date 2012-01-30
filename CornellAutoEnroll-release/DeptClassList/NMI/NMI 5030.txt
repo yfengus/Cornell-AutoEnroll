@@ -1,0 +1,4 @@
+14260,LEC,TWR,8:00a - 5:00p,SGH B08,Weber (taw43),
+14260,LEC,M,8:30a - 5:00p,SGH B08,Weber (taw43),
+14260,LEC,F,8:00a - 2:00p,SGH B08,Weber (taw43),
+

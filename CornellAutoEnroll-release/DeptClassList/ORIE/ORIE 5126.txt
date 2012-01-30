@@ -1,0 +1,3 @@
+10764,DIS,R,2:45p - 4:25p,RHD 471,Muckstadt (jam61),
+10763,LEC,TR,11:40a - 12:55p,RHD 253,Muckstadt (jam61),
+

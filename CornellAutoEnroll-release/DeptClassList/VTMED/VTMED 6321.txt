@@ -1,0 +1,5 @@
+13598,LEC,W,10:00a - 12:00p,BSC S2067,Rawson (rer1),
+13598,LEC,TBA,11:00a - 12:00p,,Rawson (rer1),
+13598,LEC,M,8:00a - 9:00a,VEC S1165,Rawson (rer1),
+13598,LEC,F,12:00p - 1:00p,VEC S1166,Rawson (rer1),
+

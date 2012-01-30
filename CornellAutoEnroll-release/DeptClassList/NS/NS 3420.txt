@@ -1,0 +1,5 @@
+12743,LEC,T,12:20p - 1:10p,MVR G73,Lujan (mel245),
+12746,LAB,R,2:30p - 4:25p,HEB 121,Lujan (mel245),
+12745,LAB,R,9:05a - 11:00a,HEB 121,Lujan (mel245),
+12744,LAB,W,2:30p - 4:25p,HEB 121,Lujan (mel245),
+

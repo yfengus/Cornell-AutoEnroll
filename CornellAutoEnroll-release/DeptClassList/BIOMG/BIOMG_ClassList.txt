@@ -1,0 +1,37 @@
+BIOMG 1250,Biology Seminar,http://cornell.chequerd.com/courses/9674/BIOMG/1250/
+BIOMG 1290,Personal Gemomics and Medicine: Why Should You Care About What's in Your Genes,http://cornell.chequerd.com/courses/11333/BIOMG/1290/
+BIOMG 1320,Orientation Lectures in Molecular Biology and Genetics,http://cornell.chequerd.com/courses/9260/BIOMG/1320/
+BIOMG 1350,Principles of Cell and Developmental Biology,http://cornell.chequerd.com/courses/8455/BIOMG/1350/
+BIOMG 2800,Lectures in Genetics and Genomics,http://cornell.chequerd.com/courses/8456/BIOMG/2800/
+BIOMG 2810,Genetics and Genomics,http://cornell.chequerd.com/courses/8457/BIOMG/2810/
+BIOMG 3300,Principles of Biochemistry, Individualized Instruction,http://cornell.chequerd.com/courses/8458/BIOMG/3300/
+BIOMG 3320,Principles of Biochemistry: Molecular Biology,http://cornell.chequerd.com/courses/9261/BIOMG/3320/
+BIOMG 3340,Computer Graphics and Molecular Biology,http://cornell.chequerd.com/courses/8460/BIOMG/3340/
+BIOMG 3350,Principles of Biochemistry: Proteins, Metabolism and Molecular Biology,http://cornell.chequerd.com/courses/9262/BIOMG/3350/
+BIOMG 4300,Mathematical Modeling and Computational Statistics of the Molecular Cell,http://cornell.chequerd.com/courses/9724/BIOMG/4300/
+BIOMG 4320,Survey of Cell Biology,http://cornell.chequerd.com/courses/9263/BIOMG/4320/
+BIOMG 4350,Undergraduate Biochemistry Seminar,http://cornell.chequerd.com/courses/8465/BIOMG/4350/
+BIOMG 4380,The RNA World,http://cornell.chequerd.com/courses/9264/BIOMG/4380/
+BIOMG 4400,Laboratory in Biochemistry and Molecular Biology,http://cornell.chequerd.com/courses/8467/BIOMG/4400/
+BIOMG 4840,Molecular Evolution,http://cornell.chequerd.com/courses/9267/BIOMG/4840/
+BIOMG 4860,Advanced Eukaryotic Genetics,http://cornell.chequerd.com/courses/9268/BIOMG/4860/
+BIOMG 4890,Mammalian Embryology,http://cornell.chequerd.com/courses/10949/BIOMG/4890/
+BIOMG 4980,Teaching Experience,http://cornell.chequerd.com/courses/8475/BIOMG/4980/
+BIOMG 6120,Overview of Model Genetic Organisms,http://cornell.chequerd.com/courses/10950/BIOMG/6120/
+BIOMG 6250,Evolutionary Genomics of Bacteria,http://cornell.chequerd.com/courses/9753/BIOMG/6250/
+BIOMG 6300,Mathematical Modeling and Computational Statistics of the Molecular Cell,http://cornell.chequerd.com/courses/9725/BIOMG/6300/
+BIOMG 6360,Functional Organization of Eukaryotic Cells,http://cornell.chequerd.com/courses/9269/BIOMG/6360/
+BIOMG 6390,The Nucleus,http://cornell.chequerd.com/courses/9271/BIOMG/6390/
+BIOMG 6870,Developmental Genetics,http://cornell.chequerd.com/courses/10951/BIOMG/6870/
+BIOMG 7380,Macromolecular Crystallography,http://cornell.chequerd.com/courses/10952/BIOMG/7380/
+BIOMG 7510,Ethical Issues and Professional Responsibilities,http://cornell.chequerd.com/courses/9272/BIOMG/7510/
+BIOMG 7800,Current Topics in Genetics,http://cornell.chequerd.com/courses/8480/BIOMG/7800/
+BIOMG 7860,Research Seminar in Genetics and Development,http://cornell.chequerd.com/courses/8482/BIOMG/7860/
+BIOMG 7870,Seminar in Genetics and Development,http://cornell.chequerd.com/courses/8483/BIOMG/7870/
+BIOMG 7940,Current Topics in Biochemistry,http://cornell.chequerd.com/courses/8484/BIOMG/7940/
+BIOMG 8300,Biochemistry Seminar,http://cornell.chequerd.com/courses/8485/BIOMG/8300/
+BIOMG 8320,Advanced Biochemical Methods II,http://cornell.chequerd.com/courses/9273/BIOMG/8320/
+BIOMG 8330,Research Seminar in Biochemistry,http://cornell.chequerd.com/courses/8487/BIOMG/8330/
+BIOMG 8340,Quantitative Biology for Molecular Biology and Genetics,http://cornell.chequerd.com/courses/9274/BIOMG/8340/
+BIOMG 8380,Scientific Communication in BMCB,http://cornell.chequerd.com/courses/9275/BIOMG/8380/
+

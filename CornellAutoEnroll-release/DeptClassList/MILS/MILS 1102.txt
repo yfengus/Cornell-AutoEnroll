@@ -1,0 +1,3 @@
+13417,LEC,W,1:25p - 2:15p,BTN G01,Alexander (sea74), Dwyer (lmd89),
+13410,LEC,T,1:25p - 2:15p,BTN G01,Alexander (sea74), Dwyer (lmd89),
+

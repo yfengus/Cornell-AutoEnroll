@@ -1,0 +1,3 @@
+13593,LEC,R,9:00a - 11:00a,VRT T1003,Kollias (gvk2),
+13593,LEC,M,9:00a - 10:00a,VRT T1003,Kollias (gvk2),
+

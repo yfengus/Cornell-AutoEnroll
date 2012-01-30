@@ -1,0 +1,8 @@
+5295,DIS,M,10:10a - 11:00a,SBL 318,Kudva (nk78),
+5197,DIS,M,9:05a - 9:55a,SBL 318,Kudva (nk78),
+4820,DIS,M,9:05a - 9:55a,SBL 211,Kudva (nk78),
+4819,DIS,M,10:10a - 11:00a,SBL 208,Kudva (nk78),
+4818,DIS,M,10:10a - 11:00a,SBL 115,Kudva (nk78),
+4817,DIS,M,9:05a - 9:55a,SBL 208,Kudva (nk78),
+4816,LEC,WF,10:10a - 11:00a,STL 265,Kudva (nk78),
+

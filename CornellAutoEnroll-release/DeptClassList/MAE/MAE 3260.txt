@@ -1,0 +1,7 @@
+10817,LAB,F,2:00p - 4:25p,UPS 247,Psiaki (mlp4),
+10816,LAB,R,2:00p - 4:25p,UPS 247,Psiaki (mlp4),
+10815,LAB,W,2:00p - 4:25p,UPS 247,Psiaki (mlp4),
+10814,LAB,T,2:00p - 4:25p,UPS 247,Psiaki (mlp4),
+10813,LAB,M,2:00p - 4:25p,UPS 247,Psiaki (mlp4),
+10812,LEC,MWF,9:05a - 9:55a,UPS B17,Psiaki (mlp4),
+

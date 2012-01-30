@@ -1,0 +1,4 @@
+9139,LEC,F,4:40p - 6:10p,TGL 138,Tseng (ht95),
+9138,LEC,F,3:00p - 4:30p,TGL 138,Marks (ksm34), Tseng (ht95),
+9137,LEC,F,1:20p - 2:50p,TGL 138,Marks (ksm34),
+

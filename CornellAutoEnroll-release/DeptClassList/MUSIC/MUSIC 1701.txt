@@ -1,0 +1,4 @@
+16326,SEM,TR,10:10a - 11:25a,LNC 140,Cortens (epc44),
+16325,SEM,TR,10:10a - 11:25a,LNC 117,Dwinell (sd287),
+16322,SEM,MW,2:55p - 4:10p,LNC 140,Bates (eb455),
+

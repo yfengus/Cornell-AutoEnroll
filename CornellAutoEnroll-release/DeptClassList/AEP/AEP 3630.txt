@@ -1,0 +1,4 @@
+10663,LAB,TR,1:25p - 4:25p,CLK 409,Bazarov (ib38),
+10662,LAB,MW,7:30p - 10:30p,CLK 409,Bazarov (ib38),
+10661,LEC,MWF,1:25p - 2:15p,RCK 132,Bazarov (ib38),
+

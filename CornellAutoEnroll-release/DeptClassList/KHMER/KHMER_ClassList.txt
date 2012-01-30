@@ -1,0 +1,7 @@
+KHMER 1122,Elementary Khmer,http://cornell.chequerd.com/courses/2479/KHMER/1122/
+KHMER 2201,Intermediate Khmer Reading,http://cornell.chequerd.com/courses/2480/KHMER/2201/
+KHMER 2202,Intermediate Khmer Reading,http://cornell.chequerd.com/courses/2481/KHMER/2202/
+KHMER 2204,Intermediate Composition and Conversation,http://cornell.chequerd.com/courses/5517/KHMER/2204/
+KHMER 3301,Advanced Khmer,http://cornell.chequerd.com/courses/2483/KHMER/3301/
+KHMER 3302,Advanced Khmer,http://cornell.chequerd.com/courses/2484/KHMER/3302/
+

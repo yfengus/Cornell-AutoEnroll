@@ -1,0 +1,3 @@
+10465,DIS,M,12:20p - 1:10p,RCK 102,Turner (lt79),
+10464,LEC,MWF,11:15a - 12:05p,PHS 120,Turner (lt79),
+

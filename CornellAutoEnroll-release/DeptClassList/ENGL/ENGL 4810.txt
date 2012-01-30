@@ -1,0 +1,3 @@
+6236,SEM,W,2:30p - 4:25p,MLT 230,Van Clief-Stefanon (lv48),
+6235,SEM,W,12:20p - 2:15p,GSH G20,McCoy (mem35),
+

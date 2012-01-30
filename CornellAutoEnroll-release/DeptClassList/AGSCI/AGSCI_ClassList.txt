@@ -1,0 +1,3 @@
+AGSCI 4010,Seminar in Agricultural Scienc,http://cornell.chequerd.com/courses/128/AGSCI/4010/
+AGSCI 4960,Internship in Agricultural Sciences,http://cornell.chequerd.com/courses/130/AGSCI/4960/
+

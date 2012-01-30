@@ -1,0 +1,6 @@
+16446,SEM,MWF,11:15a - 12:05p,BAL 3343,Thompson (sdt39),
+16263,SEM,MWF,10:10a - 11:00a,ACH 106,Rosenberg (adr64), Thompson (sdt39),
+16262,SEM,MWF,9:05a - 9:55a,GSH 162,Blake (eab272),
+16261,SEM,MW,8:40a - 9:55a,GSH 236,Guthrie (bsg57),
+16260,SEM,MWF,8:00a - 8:50a,BAL 3331,Searcy (jcs436),
+

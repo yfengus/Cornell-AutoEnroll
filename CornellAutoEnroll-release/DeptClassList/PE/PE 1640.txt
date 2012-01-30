@@ -1,0 +1,10 @@
+9304,LEC,S,9:30a - 1:00p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9259,LEC,S,9:30a - 1:00p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9127,LEC,F,1:30p - 5:00p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9126,LEC,R,3:35p - 5:35p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9125,LEC,R,1:25p - 3:25p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9124,LEC,T,3:35p - 5:35p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9121,LEC,T,1:25p - 3:25p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9120,LEC,M,3:35p - 5:35p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9117,LEC,M,1:25p - 3:25p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+

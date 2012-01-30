@@ -1,0 +1,3 @@
+5319,SEM,M,2:30p - 4:25p,KND 103,Miller (ljm44),
+5318,SEM,W,2:30p - 4:25p,KND 105,Miller (ljm44),
+

@@ -1,0 +1,6 @@
+5548,SEM,MTWRF,2:30p - 3:20p,GSH 158,Muhamed (asm298),
+5547,SEM,MTWRF,1:25p - 2:15p,GSH 158,Muhamed (asm298),
+5546,SEM,MTWRF,11:15a - 12:05p,WHT B06,Muhamed (asm298),
+5545,SEM,MTWRF,10:10a - 11:00a,WHT B04,Weatherspoon (mgw49),
+5544,SEM,MTWRF,9:05a - 9:55a,WHT B04,Weatherspoon (mgw49),
+

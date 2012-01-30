@@ -1,0 +1,3 @@
+13318,LEC,MW,10:10a - 11:25a,IVS 217,Colvin (ajc22),
+13317,LEC,MW,11:40a - 12:55p,IVS 105,Katz (hck2),
+

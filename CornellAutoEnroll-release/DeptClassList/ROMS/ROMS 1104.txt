@@ -1,0 +1,3 @@
+16635,SEM,TR,10:10a - 11:25a,BAL 3343,Fallman (tp58),
+16634,SEM,TR,8:40a - 9:55a,BAL 3343,Fallman (tp58),
+

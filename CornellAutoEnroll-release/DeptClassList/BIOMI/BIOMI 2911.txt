@@ -1,0 +1,6 @@
+2765,LAB,TR,2:30p - 4:35p,WNG 108,Merkel (smm3),
+2764,LAB,TR,12:20p - 2:15p,WNG 108,Merkel (smm3),
+2763,LAB,TR,10:10a - 12:05p,WNG 108,Merkel (smm3),
+2762,LAB,MW,12:20p - 2:15p,WNG 108,Merkel (smm3),
+2761,LEC,F,12:20p - 1:20p,BDF 101,Merkel (smm3),
+

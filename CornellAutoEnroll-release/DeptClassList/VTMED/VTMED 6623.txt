@@ -1,0 +1,8 @@
+16698,CLN,TBA,,,Berliner (eab35),
+16696,CLN,TBA,,,Berliner (eab35),
+16702,CLN,TBA,,,Berliner (eab35),
+16701,CLN,TBA,,,Berliner (eab35),
+16700,CLN,TBA,,,Berliner (eab35),
+16699,CLN,TBA,,,Berliner (eab35),
+16697,CLN,TBA,,,Berliner (eab35),
+

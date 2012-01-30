@@ -1,0 +1,3 @@
+14478,LAB,T,2:30p - 4:25p,MNL 405,Gandolfo Nixon (mag4),
+14477,LEC,TR,10:10a - 11:00a,MNL 405,Gandolfo Nixon (mag4),
+

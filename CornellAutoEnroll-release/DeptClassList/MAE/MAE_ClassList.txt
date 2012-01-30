@@ -1,0 +1,50 @@
+MAE 1270,Introduction to Entrepreneurship and Enterprise Engineering,http://cornell.chequerd.com/courses/11359/MAE/1270/
+MAE 1900,Freshman and Non-Technical Projects in Mechanical Engineering,http://cornell.chequerd.com/courses/8051/MAE/1900/
+MAE 2120,Mechanical Properties and Selection of Engineering Materials,http://cornell.chequerd.com/courses/5682/MAE/2120/
+MAE 2210,Thermodynamics,http://cornell.chequerd.com/courses/5683/MAE/2210/
+MAE 2250,Mechanical Synthesis,http://cornell.chequerd.com/courses/5684/MAE/2250/
+MAE 3060,Spacecraft Engineering,http://cornell.chequerd.com/courses/5685/MAE/3060/
+MAE 3130,Atomic and Molecular Structure of Matter,http://cornell.chequerd.com/courses/5686/MAE/3130/
+MAE 3240,Heat Transfer,http://cornell.chequerd.com/courses/5687/MAE/3240/
+MAE 3260,System Dynamics,http://cornell.chequerd.com/courses/5688/MAE/3260/
+MAE 3272,Mechanical Property and Performance Laboratory,http://cornell.chequerd.com/courses/5689/MAE/3272/
+MAE 4180,Autonomous Mobile Robots,http://cornell.chequerd.com/courses/8052/MAE/4180/
+MAE 4230,Intermediate Fluid Dynamics,http://cornell.chequerd.com/courses/5692/MAE/4230/
+MAE 4250,FSAE Automotive Design Project,http://cornell.chequerd.com/courses/2691/MAE/4250/
+MAE 4291,Supervised Senior Design Experience,http://cornell.chequerd.com/courses/2694/MAE/4291/
+MAE 4530,Computer-Aided Engineering: Applications to Biomedical Processes,http://cornell.chequerd.com/courses/5694/MAE/4530/
+MAE 4590,Introduction to Controlled Fusion: Principles and Technology,http://cornell.chequerd.com/courses/5695/MAE/4590/
+MAE 4640,Orthopaedic Tissue Mechanics,http://cornell.chequerd.com/courses/5696/MAE/4640/
+MAE 4758,Robot Learning,http://cornell.chequerd.com/courses/8053/MAE/4758/
+MAE 4770,Engineering Vibrations,http://cornell.chequerd.com/courses/5697/MAE/4770/
+MAE 4860,Automotive Engineering,http://cornell.chequerd.com/courses/5698/MAE/4860/
+MAE 4900,Special Investigations in Mechanical and Aerospace Engineering,http://cornell.chequerd.com/courses/2703/MAE/4900/
+MAE 4980,Teaching Experience in Mechanical Engineering,http://cornell.chequerd.com/courses/2704/MAE/4980/
+MAE 4998,International Research Internship,http://cornell.chequerd.com/courses/8054/MAE/4998/
+MAE 5010,Future Energy Systems,http://cornell.chequerd.com/courses/5699/MAE/5010/
+MAE 5070,Dynamics of Flight Vehicles,http://cornell.chequerd.com/courses/5700/MAE/5070/
+MAE 5130,Mechanical Properties of Thin Films,http://cornell.chequerd.com/courses/5701/MAE/5130/
+MAE 5180,Autonomous Mobile Robots,http://cornell.chequerd.com/courses/8056/MAE/5180/
+MAE 5230,Intermediate Fluid Dynamics with CFD,http://cornell.chequerd.com/courses/5703/MAE/5230/
+MAE 5240,Physics of Micro & Nanoscale Fluid Mechanics,http://cornell.chequerd.com/courses/2706/MAE/5240/
+MAE 5469,Energy Seminar II,http://cornell.chequerd.com/courses/5704/MAE/5469/
+MAE 5640,Orthopaedic Tissue Mechanics,http://cornell.chequerd.com/courses/5705/MAE/5640/
+MAE 5690,Clinical Biomechanics of Musculoskeletal Tissues,http://cornell.chequerd.com/courses/2710/MAE/5690/
+MAE 5770,Engineering Vibrations,http://cornell.chequerd.com/courses/5706/MAE/5770/
+MAE 5860,Automotive Engineering,http://cornell.chequerd.com/courses/9780/MAE/5860/
+MAE 5920,System Architecture, Behavior, and Optimization,http://cornell.chequerd.com/courses/5707/MAE/5920/
+MAE 5949,Enterprise Engineering Colloquium,http://cornell.chequerd.com/courses/7186/MAE/5949/
+MAE 6020,Fluid Dynamics at High Reynolds Numbers,http://cornell.chequerd.com/courses/9546/MAE/6020/
+MAE 6240,Physics of Micro- and Nanoscale Fluid Mechanics and Heat Transfer,http://cornell.chequerd.com/courses/2718/MAE/6240/
+MAE 6550,Composite Materials,http://cornell.chequerd.com/courses/5710/MAE/6550/
+MAE 6770,Robust Control,http://cornell.chequerd.com/courses/7190/MAE/6770/
+MAE 6900,Special Investigations in Mechanical and Aerospace Engineering,http://cornell.chequerd.com/courses/2721/MAE/6900/
+MAE 6950,Special Topics in Mechanical and Aerospace Engineering,http://cornell.chequerd.com/courses/2722/MAE/6950/
+MAE 6969,Seminar in GPS & GNSS,http://cornell.chequerd.com/courses/7191/MAE/6969/
+MAE 7110,X-Ray Diffraction Methods for Engineering Materials,http://cornell.chequerd.com/courses/2723/MAE/7110/
+MAE 7150,Atomistic Modeling of Materials,http://cornell.chequerd.com/courses/5714/MAE/7150/
+MAE 7910,Mechanical and Aerospace Research Conference,http://cornell.chequerd.com/courses/2725/MAE/7910/
+MAE 7999,Mechanical and Aerospace Engineering Colloquium,http://cornell.chequerd.com/courses/2726/MAE/7999/
+MAE 8900,Research in Mechanical and Aerospace Engineering,http://cornell.chequerd.com/courses/2727/MAE/8900/
+MAE 9900,Research in Mechanical and Aerospace Engineering,http://cornell.chequerd.com/courses/2728/MAE/9900/
+

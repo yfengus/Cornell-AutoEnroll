@@ -1,0 +1,4 @@
+16794,DIS,T,2:30p - 4:25p,OLH 218,Duncan (tmd10),
+10571,DIS,T,2:30p - 4:25p,OLH 245,Duncan (tmd10),
+10570,LEC,MWF,10:10a - 11:00a,OLH 255,Duncan (tmd10),
+

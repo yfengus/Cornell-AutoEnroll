@@ -1,0 +1,3 @@
+1394,LAB,M,1:25p - 4:25p,MRS 164,Galton (dmg20),
+1393,LEC,MWF,9:05a - 9:55a,MRS 164,Galton (dmg20),
+

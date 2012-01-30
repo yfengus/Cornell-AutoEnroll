@@ -1,0 +1,10 @@
+3995,RSC,TBA,,,Riha (sjr4),
+3994,RSC,TBA,,,Kochian (lvk1),
+3993,RSC,TBA,,,McBride (mbm7),
+3992,RSC,TBA,,,Ketterings (qmk2),
+3849,RSC,TBA,,,Van Es (hmv1),
+1805,RSC,TBA,,,Duxbury (jmd17),
+1804,RSC,TBA,,,Lehmann (cl273),
+1803,RSC,TBA,,,Thies (jet25),
+1802,RSC,TBA,,,Buckley (dhb28),
+

@@ -1,0 +1,7 @@
+GREEK 1102,Elementary Ancient Greek II,http://cornell.chequerd.com/courses/5229/GREEK/1102/
+GREEK 2104,Euripides: ALcestis,http://cornell.chequerd.com/courses/5230/GREEK/2104/
+GREEK 3185,Independent Study in Greek, Undergaduate Level,http://cornell.chequerd.com/courses/1985/GREEK/3185/
+GREEK 4102,Advanced Readings in Greek Literature,http://cornell.chequerd.com/courses/5232/GREEK/4102/
+GREEK 7161,Greek Philosophical Texts,http://cornell.chequerd.com/courses/1988/GREEK/7161/
+GREEK 7910,Independent Study for Graduate Students in Greek,http://cornell.chequerd.com/courses/1991/GREEK/7910/
+

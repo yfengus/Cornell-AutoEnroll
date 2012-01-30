@@ -1,0 +1,3 @@
+13321,LEC,TR,11:40a - 12:55p,IVS 107,Hyman (lrh62),
+13320,LEC,TR,2:55p - 4:10p,IVS 107,Devault (iad1),
+

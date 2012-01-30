@@ -1,0 +1,40 @@
+CSS 3210,Soil Management for Sustainability,http://cornell.chequerd.com/courses/4783/CSS/3210/
+CSS 3650,Environmental Chemistry: Soil, Air, and Water,http://cornell.chequerd.com/courses/4784/CSS/3650/
+CSS 3970,Environmental Microbiology,http://cornell.chequerd.com/courses/4785/CSS/3970/
+CSS 4100,The GMO Debate: Environmental Impacts,http://cornell.chequerd.com/courses/4786/CSS/4100/
+CSS 4130,Physiology and Ecology of Yield,http://cornell.chequerd.com/courses/7696/CSS/4130/
+CSS 4200,Geographic Information Systems,http://cornell.chequerd.com/courses/1250/CSS/4200/
+CSS 4440,Integrated Pest Management,http://cornell.chequerd.com/courses/1252/CSS/4440/
+CSS 4551,Mineral Nutrition of Crops and Landscape Plants: Crop Nutrition Principles,http://cornell.chequerd.com/courses/7697/CSS/4551/
+CSS 4650,Global Positioning System,http://cornell.chequerd.com/courses/4790/CSS/4650/
+CSS 4660,Soil Ecology,http://cornell.chequerd.com/courses/7703/CSS/4660/
+CSS 4720,Nutrient Management in Agro-Ecosystems,http://cornell.chequerd.com/courses/4791/CSS/4720/
+CSS 4910,Food, Farming, and Personal Beliefs,http://cornell.chequerd.com/courses/4792/CSS/4910/
+CSS 4940,Special Topics in Crop and Soil Sciences (undergraduate level),http://cornell.chequerd.com/courses/1253/CSS/4940/
+CSS 4970,Individual Study in Crop and Soil Sciences,http://cornell.chequerd.com/courses/1254/CSS/4970/
+CSS 4980,Teaching Experience in Crop and Soil Sciences,http://cornell.chequerd.com/courses/1255/CSS/4980/
+CSS 4990,Undergraduate Research,http://cornell.chequerd.com/courses/1256/CSS/4990/
+CSS 6200,Spatial Modeling and Analysis,http://cornell.chequerd.com/courses/4795/CSS/6200/
+CSS 6630,Pedology,http://cornell.chequerd.com/courses/4798/CSS/6630/
+CSS 6690,Organic Matter-Soils, Sediments, and Waters,http://cornell.chequerd.com/courses/4799/CSS/6690/
+CSS 6750,Modeling the Soil-Plant-Atmosphere System,http://cornell.chequerd.com/courses/11002/CSS/6750/
+CSS 6941,Special Topics in Crop Science,http://cornell.chequerd.com/courses/1262/CSS/6941/
+CSS 6942,Special Topics in Soil Science,http://cornell.chequerd.com/courses/1263/CSS/6942/
+CSS 6943,Special Topics in Environmental Information Science,http://cornell.chequerd.com/courses/1264/CSS/6943/
+CSS 6960,Agroecological Perspectives for Sustainable Development,http://cornell.chequerd.com/courses/1265/CSS/6960/
+CSS 6970,Seminar in Crop and Soil Sciences,http://cornell.chequerd.com/courses/1266/CSS/6970/
+CSS 6980,Graduate Teaching or Extension Experience,http://cornell.chequerd.com/courses/6851/CSS/6980/
+CSS 7900,Graduate-Level Dissertation Research in Soil Science,http://cornell.chequerd.com/courses/1267/CSS/7900/
+CSS 7910,Graduate-Level Thesis Research in Crop Science,http://cornell.chequerd.com/courses/1268/CSS/7910/
+CSS 7920,Graduate-Level Dissertation Research in Environmental Information Science,http://cornell.chequerd.com/courses/1269/CSS/7920/
+CSS 7930,Graduate Research in Agronomy,http://cornell.chequerd.com/courses/6852/CSS/7930/
+CSS 7970,Graduate Individual Study in Crop and Soil Science,http://cornell.chequerd.com/courses/1270/CSS/7970/
+CSS 8900,Master's-Level Thesis Research in Crop Science,http://cornell.chequerd.com/courses/1271/CSS/8900/
+CSS 8910,Master's-Level Thesis Research in Environmental Information Science,http://cornell.chequerd.com/courses/1272/CSS/8910/
+CSS 8920,Master's-Level Thesis Research in Soil Science,http://cornell.chequerd.com/courses/1273/CSS/8920/
+CSS 8930,Masters Research in Agronomy,http://cornell.chequerd.com/courses/6853/CSS/8930/
+CSS 9900,Doctoral-Level Dissertation Research in Soil Science,http://cornell.chequerd.com/courses/1274/CSS/9900/
+CSS 9910,Doctoral-Level Dissertation Research in Crop Science,http://cornell.chequerd.com/courses/1275/CSS/9910/
+CSS 9920,Doctoral-Level Dissertation Research in Environmental Information Science,http://cornell.chequerd.com/courses/1276/CSS/9920/
+CSS 9930,Doctoral Research in Agronomy,http://cornell.chequerd.com/courses/6854/CSS/9930/
+

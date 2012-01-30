@@ -1,0 +1,3 @@
+16234,SEM,TR,10:10a - 11:25a,MCG 365,Sverjensky (tss67),
+16233,SEM,MWF,11:15a - 12:05p,MLT 206,Hamilton (dsh96),
+

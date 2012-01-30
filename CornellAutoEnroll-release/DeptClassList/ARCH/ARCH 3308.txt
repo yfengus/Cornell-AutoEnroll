@@ -1,0 +1,8 @@
+4891,SEM,T,10:10a - 12:40p,RND 202,Richardson (hwr1),
+4890,SEM,T,2:30p - 4:25p,RND 205,Warke (vkw1),
+15900,SEM,TBA,,,,
+4892,SEM,F,9:00a - 1:00p,,Mastrigli (gm285),
+15899,SEM,T,12:20p - 2:15p,RND 202,Suh (ys464),
+15898,SEM,R,10:10a - 12:05p,SBL 144,,
+5347,SEM,M,7:30p - 9:25p,RND 205,Hookway (bh98),
+

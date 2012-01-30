@@ -1,0 +1,11 @@
+1993,RSC,TBA,,,Wilson (aw87),
+1992,RSC,TBA,,,Villenas (sav33),
+1990,RSC,TBA,,,Schrader (des14),
+1989,RSC,TBA,,,Sipple (jws28),
+1988,RSC,TBA,,,Richardson (tar37),
+1987,RSC,TBA,,,Peters (sp236),
+1986,RSC,TBA,,,Park (tdp9),
+1985,RSC,TBA,,,Crawford (bac45),
+1984,RSC,TBA,,,Constas (mac223),
+1983,RSC,TBA,,,Caffarella (rsc29),
+

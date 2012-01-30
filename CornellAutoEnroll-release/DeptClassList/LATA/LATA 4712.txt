@@ -1,0 +1,4 @@
+13584,FLD,TBA,,,Isbell (bji1),
+13583,SEM,W,7:30p - 9:30p,MCG 215,Isbell (bji1),
+13582,SEM,W,7:30p - 9:30p,MCG 215,Isbell (bji1),
+

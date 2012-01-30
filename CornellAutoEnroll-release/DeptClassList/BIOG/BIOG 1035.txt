@@ -1,0 +1,3 @@
+4596,DIS,T,1:25p - 2:40p,STM 105,MacNeill (adm6),
+4595,DIS,M,3:35p - 4:25p,STM 105,MacNeill (adm6),
+

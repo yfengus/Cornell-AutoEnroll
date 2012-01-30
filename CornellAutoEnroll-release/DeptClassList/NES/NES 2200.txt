@@ -1,0 +1,3 @@
+5595,SEM,MTWRF,11:15a - 12:05p,WHT B04,Chami (yhc22),
+5594,SEM,MTWRF,9:05a - 9:55a,WHT B06,Chami (yhc22),
+

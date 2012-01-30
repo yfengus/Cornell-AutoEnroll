@@ -1,0 +1,4 @@
+14300,DIS,TBA,,TBA TBA,Harris-Warrick (rmh4),
+14298,LEC,MWF,12:20p - 1:10p,URH G01,Harris-Warrick (rmh4),
+14297,LEC,MWF,12:20p - 1:10p,URH G01,Harris-Warrick (rmh4),
+

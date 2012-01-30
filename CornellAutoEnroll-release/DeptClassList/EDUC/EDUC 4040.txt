@@ -1,0 +1,8 @@
+4458,LAB,WF,12:20p - 2:15p,TBA TBA,Duff (bpd38),
+4457,LAB,WF,8:00a - 9:55a,TBA TBA,Duff (bpd38),
+4456,LAB,MF,12:20p - 2:15p,TBA TBA,Duff (bpd38),
+4455,LAB,MF,8:00a - 9:55a,TBA TBA,Duff (bpd38),
+4454,LAB,MW,12:20p - 2:15p,TBA TBA,Duff (bpd38),
+4453,LAB,MW,8:00a - 9:55a,TBA TBA,Duff (bpd38),
+4452,LEC,TR,8:40a - 9:55a,STM G01,Duff (bpd38),
+

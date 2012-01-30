@@ -1,0 +1,6 @@
+15432,DIS,W,2:30p - 3:20p,RCK 132,Sturgeon (nls6),
+15431,DIS,R,9:05a - 9:55a,GSH 122,Sturgeon (nls6),
+15430,DIS,R,3:35p - 4:25p,RCK 128,Sturgeon (nls6),
+15429,DIS,R,3:35p - 4:25p,URH G26,Sturgeon (nls6),
+14752,LEC,MWF,9:05a - 9:55a,GSH G22,Sturgeon (nls6),
+

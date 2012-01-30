@@ -1,0 +1,4 @@
+9098,LEC,TR,2:30p - 3:15p,BTL 101,Seaman (ks273),
+9099,LEC,TR,10:15a - 11:00a,BTL 101,Seaman (ks273),
+9097,LEC,TR,9:00a - 9:45a,BTL 101,Seaman (ks273),
+

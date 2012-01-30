@@ -1,0 +1,3 @@
+GRAD 9001,Graduate Dissertation Research,http://cornell.chequerd.com/courses/1978/GRAD/9001/
+GRAD 9002,Graduate Thesis Research,http://cornell.chequerd.com/courses/1979/GRAD/9002/
+

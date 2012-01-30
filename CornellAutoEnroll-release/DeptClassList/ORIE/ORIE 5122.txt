@@ -1,0 +1,3 @@
+14341,DIS,W,2:55p - 4:10p,PHL 213,Muckstadt (jam61),
+14340,LEC,TR,8:40a - 9:55a,RHD 453,Muckstadt (jam61),
+

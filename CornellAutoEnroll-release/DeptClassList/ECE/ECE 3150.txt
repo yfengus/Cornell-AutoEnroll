@@ -1,0 +1,9 @@
+11733,LAB,R,2:30p - 4:25p,TBA TBA,Afshari (ea85),
+11314,LAB,M,7:30p - 9:25p,TBA TBA,Afshari (ea85),
+11198,LAB,W,2:30p - 4:25p,TBA TBA,Afshari (ea85),
+11197,LAB,T,7:30p - 9:25p,TBA TBA,Afshari (ea85),
+11344,DIS,W,7:30p - 8:55p,PHL 219,Afshari (ea85),
+11660,DIS,R,8:40a - 9:55a,PHL 219,Afshari (ea85),
+11196,DIS,R,2:55p - 4:10p,PHL 403,Afshari (ea85),
+11195,LEC,MWF,10:10a - 11:00a,PHL 101,Afshari (ea85),
+

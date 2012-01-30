@@ -1,0 +1,7 @@
+16648,LEC,TR,2:55p - 4:10p,PLS 141,Constas (mac223),
+16647,LEC,TR,1:25p - 2:40p,CMS B106,Constas (mac223),
+16544,LAB,T,2:30p - 4:25p,RRB 225,Earle (boe1),
+16543,LAB,M,2:30p - 4:25p,PLS 141,Earle (boe1),
+16541,LEC,MW,12:20p - 1:10p,WRN 345,Earle (boe1),
+15535,LEC,T,2:55p - 4:25p,MRS 334,poczter (slp19),
+

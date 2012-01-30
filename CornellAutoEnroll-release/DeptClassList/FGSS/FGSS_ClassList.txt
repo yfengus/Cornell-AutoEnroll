@@ -1,0 +1,27 @@
+FGSS 2010,Introduction to Feminist, Gender, and Sexuality Studies,http://cornell.chequerd.com/courses/1809/FGSS/2010/
+FGSS 2020,Introduction to Feminist, Gender, and Sexuality Theories,http://cornell.chequerd.com/courses/5099/FGSS/2020/
+FGSS 2190,Women & Gender in South Asia,http://cornell.chequerd.com/courses/11044/FGSS/2190/
+FGSS 2290,Introduction to Lesbian, Gay, Bisexual, & Transgender Studies,http://cornell.chequerd.com/courses/8603/FGSS/2290/
+FGSS 2490,Feminism and Philosophy,http://cornell.chequerd.com/courses/1810/FGSS/2490/
+FGSS 2730,Women in American Society, Past and Present,http://cornell.chequerd.com/courses/11045/FGSS/2730/
+FGSS 3250,Queer Performance,http://cornell.chequerd.com/courses/6963/FGSS/3250/
+FGSS 3781,Studies in Queer Fiction,http://cornell.chequerd.com/courses/11046/FGSS/3781/
+FGSS 3820,Gendered Workplace,http://cornell.chequerd.com/courses/11047/FGSS/3820/
+FGSS 3991,Undergraduate Independent Study,http://cornell.chequerd.com/courses/5106/FGSS/3991/
+FGSS 4231,Gender and Technology,http://cornell.chequerd.com/courses/5109/FGSS/4231/
+FGSS 4301,The Rabinor Seminar,http://cornell.chequerd.com/courses/7806/FGSS/4301/
+FGSS 4339,Bodies at the Border,http://cornell.chequerd.com/courses/11404/FGSS/4339/
+FGSS 4445,Gender, Liberalism, and Postcolonial Theory,http://cornell.chequerd.com/courses/11048/FGSS/4445/
+FGSS 4460,Women in the Economy,http://cornell.chequerd.com/courses/7807/FGSS/4460/
+FGSS 4507,Black Women Writers: International Dimensions,http://cornell.chequerd.com/courses/5113/FGSS/4507/
+FGSS 4651,American Elegy,http://cornell.chequerd.com/courses/11049/FGSS/4651/
+FGSS 4920,Honors Seminar II,http://cornell.chequerd.com/courses/11050/FGSS/4920/
+FGSS 4950,Gender&Pwr England:1600-1800,http://cornell.chequerd.com/courses/7811/FGSS/4950/
+FGSS 4991,Senior Honors Thesis II,http://cornell.chequerd.com/courses/5117/FGSS/4991/
+FGSS 6040,Passionate Politics,http://cornell.chequerd.com/courses/11051/FGSS/6040/
+FGSS 6339,Bodies at the Border,http://cornell.chequerd.com/courses/11405/FGSS/6339/
+FGSS 6507,Black Women Writers: International Dimensions,http://cornell.chequerd.com/courses/5120/FGSS/6507/
+FGSS 6777,Judith Butler: Gender and Philosophy in the 90s,http://cornell.chequerd.com/courses/11052/FGSS/6777/
+FGSS 6990,Topics In FGSS,http://cornell.chequerd.com/courses/1830/FGSS/6990/
+FGSS 7445,Gender, Liberalism, and Postcolonial Theory,http://cornell.chequerd.com/courses/11053/FGSS/7445/
+

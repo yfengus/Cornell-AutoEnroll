@@ -1,0 +1,3 @@
+7711,SEM,MTWRF,10:10a - 11:00a,RCK 185,Ichikawa (si24),
+7710,SEM,MTWRF,9:05a - 9:55a,RCK 185,Ichikawa (si24),
+

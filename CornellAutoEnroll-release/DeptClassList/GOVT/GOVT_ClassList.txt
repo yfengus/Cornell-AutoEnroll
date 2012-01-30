@@ -1,0 +1,51 @@
+GOVT 1101,FWS: Power and Politics,http://cornell.chequerd.com/courses/1931/GOVT/1101/
+GOVT 1313,Introduction to Comparative Government and Politics,http://cornell.chequerd.com/courses/5187/GOVT/1313/
+GOVT 1615,Introduction to Political Philosophy,http://cornell.chequerd.com/courses/5188/GOVT/1615/
+GOVT 3181,U.S. Congress,http://cornell.chequerd.com/courses/5197/GOVT/3181/
+GOVT 3293,Comparative Politics of Latin America,http://cornell.chequerd.com/courses/5201/GOVT/3293/
+GOVT 3403,China Under Revolution & Reform,http://cornell.chequerd.com/courses/8645/GOVT/3403/
+GOVT 3413,Modern European Society and Politics,http://cornell.chequerd.com/courses/1946/GOVT/3413/
+GOVT 3443,Government and Politics of Southeast Asia,http://cornell.chequerd.com/courses/5204/GOVT/3443/
+GOVT 3553,Issues Behind the News,http://cornell.chequerd.com/courses/1948/GOVT/3553/
+GOVT 3635,Human Rights and Global Justice,http://cornell.chequerd.com/courses/9406/GOVT/3635/
+GOVT 3705,Political Theory and Cinema,http://cornell.chequerd.com/courses/7860/GOVT/3705/
+GOVT 3745,19th and 20th Century European Thought,http://cornell.chequerd.com/courses/9684/GOVT/3745/
+GOVT 3827,China and the World,http://cornell.chequerd.com/courses/11071/GOVT/3827/
+GOVT 3837,The Cold War,http://cornell.chequerd.com/courses/11072/GOVT/3837/
+GOVT 3867,The Causes of War,http://cornell.chequerd.com/courses/7009/GOVT/3867/
+GOVT 4000,Major Seminar,http://cornell.chequerd.com/courses/1956/GOVT/4000/
+GOVT 4032,Immigration & Politics Research Seminar,http://cornell.chequerd.com/courses/5210/GOVT/4032/
+GOVT 4092,Persuasive Politics,http://cornell.chequerd.com/courses/11073/GOVT/4092/
+GOVT 4142,Causes and Consequences of US Foreign Policy,http://cornell.chequerd.com/courses/7011/GOVT/4142/
+GOVT 4194,Asian Political Economy,http://cornell.chequerd.com/courses/11074/GOVT/4194/
+GOVT 4241,Contemporary American Politics,http://cornell.chequerd.com/courses/5211/GOVT/4241/
+GOVT 4252,Signal to Noise: The Politics of Sound,http://cornell.chequerd.com/courses/11075/GOVT/4252/
+GOVT 4274,Politics of Energy & Natural Resources,http://cornell.chequerd.com/courses/11076/GOVT/4274/
+GOVT 4279,The Animal,http://cornell.chequerd.com/courses/11077/GOVT/4279/
+GOVT 4303,The GMO Debate: Environmental Impacts,http://cornell.chequerd.com/courses/9685/GOVT/4303/
+GOVT 4565,Islamic Aural Cultures,http://cornell.chequerd.com/courses/11078/GOVT/4565/
+GOVT 4606,Politics and Social Change in the Caribbean,http://cornell.chequerd.com/courses/11079/GOVT/4606/
+GOVT 4765,Gender, Liberalism, and Postcolonial Theory,http://cornell.chequerd.com/courses/11080/GOVT/4765/
+GOVT 4827,Unifying While Integrating: China and the World,http://cornell.chequerd.com/courses/7865/GOVT/4827/
+GOVT 4959,Honors Thesis: Research and Writing,http://cornell.chequerd.com/courses/5213/GOVT/4959/
+GOVT 4999,Undergraduate Independent Study,http://cornell.chequerd.com/courses/1966/GOVT/4999/
+GOVT 6029,Methods of Political Analysis II,http://cornell.chequerd.com/courses/5214/GOVT/6029/
+GOVT 6031,Field Seminar in American Politics,http://cornell.chequerd.com/courses/1967/GOVT/6031/
+GOVT 6053,Compa Meth in Int'l Comp Pol,http://cornell.chequerd.com/courses/1968/GOVT/6053/
+GOVT 6142,Causes and Consequences of US Foreign Policy,http://cornell.chequerd.com/courses/7018/GOVT/6142/
+GOVT 6182,Campaigns & Elections,http://cornell.chequerd.com/courses/11081/GOVT/6182/
+GOVT 6202,Political Culture,http://cornell.chequerd.com/courses/7868/GOVT/6202/
+GOVT 6291,Contemporary American Politics,http://cornell.chequerd.com/courses/5218/GOVT/6291/
+GOVT 6324,ProSeminar in Chinese Politics,http://cornell.chequerd.com/courses/7870/GOVT/6324/
+GOVT 6334,Political Economy of Development,http://cornell.chequerd.com/courses/7020/GOVT/6334/
+GOVT 6578,Critical Race Theory,http://cornell.chequerd.com/courses/11082/GOVT/6578/
+GOVT 6785,Persecution and the Art of Writing,http://cornell.chequerd.com/courses/11083/GOVT/6785/
+GOVT 6827,Unifying While Integrating: China and the World.,http://cornell.chequerd.com/courses/7876/GOVT/6827/
+GOVT 6857,International Political Economy,http://cornell.chequerd.com/courses/7027/GOVT/6857/
+GOVT 6867,War, States & Human Rights,http://cornell.chequerd.com/courses/5226/GOVT/6867/
+GOVT 6917,Normative Issues in International Relations,http://cornell.chequerd.com/courses/7877/GOVT/6917/
+GOVT 6927,Planning and Management of Agriculture and Rural Development,http://cornell.chequerd.com/courses/5227/GOVT/6927/
+GOVT 6999,CPAS Weekly Colloquium,http://cornell.chequerd.com/courses/1975/GOVT/6999/
+GOVT 7765,Gender, Liberalism, and Postcolonial Theory,http://cornell.chequerd.com/courses/11084/GOVT/7765/
+GOVT 7999,Independent Study,http://cornell.chequerd.com/courses/1977/GOVT/7999/
+

@@ -1,0 +1,5 @@
+9144,LEC,SU,9:00a - 5:00p,TGL 138,Blodgett (mb93), Tseng (ht95),
+9144,LEC,F,7:00p - 9:30p,TGL 138,Blodgett (mb93), Tseng (ht95),
+9143,LEC,SU,9:00a - 5:00p,TGL 138,Blodgett (mb93), Konrad (gk21),
+9143,LEC,F,7:00p - 9:30p,TGL 138,Blodgett (mb93), Konrad (gk21),
+

@@ -1,0 +1,12 @@
+16525,STU,TBA,,,Taft (wst4),
+5400,STU,TBA,,,Rickard (jkr33),
+5399,STU,TBA,,,Perlus (bap8),
+5398,STU,TBA,,,Park (myp4),
+5397,STU,TBA,,,Page (gp23),
+5396,STU,TBA,,,Ostendarp (cao24),
+5395,STU,TBA,,,Meyer (ehm2),
+5394,STU,TBA,,,McGrain (tvm4),
+5393,STU,TBA,,,Locey (jnl2),
+5392,STU,TBA,,,Bertoia (rgb4),
+5391,STU,TBA,,,Ashkin (ma352),
+

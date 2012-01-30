@@ -1,0 +1,5 @@
+NEPAL 1102,Elementary Nepali,http://cornell.chequerd.com/courses/5892/NEPAL/1102/
+NEPAL 2202,Intermediate Nepali Conversation,http://cornell.chequerd.com/courses/5893/NEPAL/2202/
+NEPAL 2204,Intermediate Nepali Composition,http://cornell.chequerd.com/courses/5894/NEPAL/2204/
+NEPAL 3302,Advanced Nepali,http://cornell.chequerd.com/courses/5895/NEPAL/3302/
+

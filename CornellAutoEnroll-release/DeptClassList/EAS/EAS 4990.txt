@@ -1,0 +1,8 @@
+15396,RSC,TBA,,TBA TBA,Wysocki (mww3),
+15395,RSC,TBA,,TBA TBA,Wilks (dsw5),
+15394,RSC,TBA,,TBA TBA,Riha (sjr4),
+11224,RSC,TBA,,TBA TBA,Mahowald (nmm63),
+11223,RSC,TBA,,TBA TBA,Degaetano (atd2),
+10633,RSC,TBA,,TBA TBA,Colucci (sjc25),
+10632,RSC,TBA,,TBA TBA,Chen (gc352),
+

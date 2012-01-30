@@ -1,0 +1,3 @@
+14954,LAB,R,12:20p - 4:25p,TBA TBA,Smallidge (pjs23),
+14953,LEC,TR,10:10a - 11:00a,MRS 163,Hovencamp (mth6), Smallidge (pjs23),
+

@@ -1,0 +1,4 @@
+1392,LAB,R,1:25p - 4:25p,MRS 101,Brown (dlb20),
+1391,LAB,T,1:25p - 4:25p,MRS 101,Brown (dlb20),
+1390,LEC,MWF,11:15a - 12:05p,MRS 163,Brown (dlb20),
+

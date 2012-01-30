@@ -1,0 +1,4 @@
+ENINT 1001,Writing & Reading,http://cornell.chequerd.com/courses/7782/ENINT/1001/
+ENINT 1002,Listening, Speaking, & Culture,http://cornell.chequerd.com/courses/7783/ENINT/1002/
+ENINT 1003,Advanced Writing,http://cornell.chequerd.com/courses/9739/ENINT/1003/
+

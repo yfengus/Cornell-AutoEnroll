@@ -1,0 +1,34 @@
+GERST 1109,FWS:From Fairy Tale To Uncanny,http://cornell.chequerd.com/courses/1903/GERST/1109/
+GERST 1130,FWS:Metropolis Modernity,http://cornell.chequerd.com/courses/1904/GERST/1130/
+GERST 1140,FWS: Strangers, Exiles, and Migrant,http://cornell.chequerd.com/courses/5168/GERST/1140/
+GERST 1170,FWS: Marx,Nietzsche, Freud,http://cornell.chequerd.com/courses/1905/GERST/1170/
+GERST 1210,Exploring German Contexts I,http://cornell.chequerd.com/courses/1906/GERST/1210/
+GERST 1220,Exploring German Contexts II,http://cornell.chequerd.com/courses/1907/GERST/1220/
+GERST 1230,Expanding the German Dossier,http://cornell.chequerd.com/courses/1908/GERST/1230/
+GERST 2000,Germany: Intercultural Context,http://cornell.chequerd.com/courses/1909/GERST/2000/
+GERST 2040,Working with Texts,http://cornell.chequerd.com/courses/1910/GERST/2040/
+GERST 2060,German in Business Culture,http://cornell.chequerd.com/courses/1911/GERST/2060/
+GERST 3080,German Life Style 2.0,http://cornell.chequerd.com/courses/5170/GERST/3080/
+GERST 3260,Eccentric Subjects in German Literature,http://cornell.chequerd.com/courses/11063/GERST/3260/
+GERST 3530,19th and 20th Century European Thought,http://cornell.chequerd.com/courses/7846/GERST/3530/
+GERST 3550,Political Theory and Cinema,http://cornell.chequerd.com/courses/7847/GERST/3550/
+GERST 3620,Introduction to Critical Theory,http://cornell.chequerd.com/courses/11064/GERST/3620/
+GERST 4050,Introduction to Medieval German Literature I,http://cornell.chequerd.com/courses/1915/GERST/4050/
+GERST 4115,Introduction to Media Theory,http://cornell.chequerd.com/courses/11065/GERST/4115/
+GERST 4260,The Animal,http://cornell.chequerd.com/courses/11066/GERST/4260/
+GERST 4410,Introduction to Germanic Linguistics,http://cornell.chequerd.com/courses/5175/GERST/4410/
+GERST 4520,Independent Study,http://cornell.chequerd.com/courses/5176/GERST/4520/
+GERST 4530,Honors Research,http://cornell.chequerd.com/courses/1922/GERST/4530/
+GERST 4540,Honors Thesis,http://cornell.chequerd.com/courses/5177/GERST/4540/
+GERST 4570,Imagining the Holocaust,http://cornell.chequerd.com/courses/1923/GERST/4570/
+GERST 6131,German Philosophical Texts,http://cornell.chequerd.com/courses/1925/GERST/6131/
+GERST 6210,The Diary: Writing Time and Self,http://cornell.chequerd.com/courses/11067/GERST/6210/
+GERST 6320,Reading Academic German II,http://cornell.chequerd.com/courses/5180/GERST/6320/
+GERST 6420,Operatic States,http://cornell.chequerd.com/courses/7002/GERST/6420/
+GERST 6460,Hans Blumenberg: Metaphore, Myth, Paradigm,http://cornell.chequerd.com/courses/11068/GERST/6460/
+GERST 6500,The Culture of Weimar Germany,http://cornell.chequerd.com/courses/7003/GERST/6500/
+GERST 6760,Alexander Kluge, The Writer,http://cornell.chequerd.com/courses/11069/GERST/6760/
+GERST 6780,Persecution and the Art of Writing,http://cornell.chequerd.com/courses/11070/GERST/6780/
+GERST 7540,Independent Study,http://cornell.chequerd.com/courses/5184/GERST/7540/
+GERST 7541,Colloquium,http://cornell.chequerd.com/courses/5185/GERST/7541/
+

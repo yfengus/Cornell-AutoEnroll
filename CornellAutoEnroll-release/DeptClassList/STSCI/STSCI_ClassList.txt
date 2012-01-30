@@ -1,0 +1,21 @@
+STSCI 2100,Introductory Statistics,http://cornell.chequerd.com/courses/3744/STSCI/2100/
+STSCI 2110,Statistical Methods for Social Sciences II,http://cornell.chequerd.com/courses/11351/STSCI/2110/
+STSCI 3200,Biological Statistics II,http://cornell.chequerd.com/courses/8256/STSCI/3200/
+STSCI 3510,Introduction to Engineering Stochastic Processes I,http://cornell.chequerd.com/courses/8257/STSCI/3510/
+STSCI 3520,Statistical Computing,http://cornell.chequerd.com/courses/11280/STSCI/3520/
+STSCI 4060,Introduction to High Performance Computing Tools and Concepts,http://cornell.chequerd.com/courses/8258/STSCI/4060/
+STSCI 4090,Theory of Statistics,http://cornell.chequerd.com/courses/8259/STSCI/4090/
+STSCI 4100,Techniques of Multivariate Analysis,http://cornell.chequerd.com/courses/8260/STSCI/4100/
+STSCI 4110,Statistical Analysis of Qualitative Data,http://cornell.chequerd.com/courses/8261/STSCI/4110/
+STSCI 4550,Applied Time Series Analysis,http://cornell.chequerd.com/courses/11362/STSCI/4550/
+STSCI 4740,Statistical Data Mining I,http://cornell.chequerd.com/courses/7354/STSCI/4740/
+STSCI 4940,Undergraduate Special Topics in Statistics,http://cornell.chequerd.com/courses/11281/STSCI/4940/
+STSCI 4999,Undergraduate Dissertation Research,http://cornell.chequerd.com/courses/9017/STSCI/4999/
+STSCI 5060,Database Management and SAS High Performance Computing with DBMS,http://cornell.chequerd.com/courses/11282/STSCI/5060/
+STSCI 5952,Statistical Consulting for MPS 2,http://cornell.chequerd.com/courses/8263/STSCI/5952/
+STSCI 5990,Directed Studies in Applied Statistics,http://cornell.chequerd.com/courses/6321/STSCI/5990/
+STSCI 6000,Statistics Seminar,http://cornell.chequerd.com/courses/3747/STSCI/6000/
+STSCI 6940,Graduate Special Topics in Statistics,http://cornell.chequerd.com/courses/11283/STSCI/6940/
+STSCI 7999,Graduate Level Dissertation Research,http://cornell.chequerd.com/courses/9018/STSCI/7999/
+STSCI 9999,Doctoral Level Dissertation Research,http://cornell.chequerd.com/courses/9019/STSCI/9999/
+

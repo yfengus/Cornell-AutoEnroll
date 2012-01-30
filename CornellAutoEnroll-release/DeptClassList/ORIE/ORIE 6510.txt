@@ -1,0 +1,3 @@
+10773,DIS,M,2:55p - 4:25p,UPS 211,Samorodnitsky (gs18),
+10772,LEC,TR,10:10a - 11:25a,PHL 307,Samorodnitsky (gs18),
+

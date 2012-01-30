@@ -1,0 +1,4 @@
+14388,SEM,MWF,1:25p - 2:15p,STM 206,Fernandez (ef336),
+5842,SEM,MWF,12:20p - 1:10p,MCG 366,Lawless (cbl6),
+5841,SEM,MWF,11:15a - 12:05p,MCG 366,Lawless (cbl6),
+

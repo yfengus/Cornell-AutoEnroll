@@ -1,0 +1,4 @@
+6209,DIS,MTWF,1:25p - 2:15p,URH 303,Katagiri (yk43),
+6208,DIS,MTWF,11:15a - 12:05p,URH 303,Katagiri (yk43),
+6207,LEC,TR,12:20p - 1:10p,WHT 104,Katagiri (yk43),
+

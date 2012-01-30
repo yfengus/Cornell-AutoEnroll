@@ -1,0 +1,4 @@
+15061,LAB,F,11:15a - 1:15p,HEB 156,Kozen (fhk2),
+15060,LAB,T,11:15a - 1:15p,HEB 156,Kozen (fhk2),
+15059,LEC,MW,11:15a - 12:05p,HEB 113,Kozen (fhk2),
+

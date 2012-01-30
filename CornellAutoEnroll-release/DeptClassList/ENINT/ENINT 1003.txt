@@ -1,0 +1,3 @@
+14949,LEC,W,12:20p - 2:15p,URH G44,Bell (rab383),
+14948,LEC,F,10:10a - 12:05p,URH G24,Bell (rab383),
+

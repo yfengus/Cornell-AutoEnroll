@@ -1,0 +1,3 @@
+10811,DIS,M,7:30p - 8:20p,UPS B17,Avedisian (cta2),
+10810,LEC,TR,10:10a - 11:25a,UPS B17,Avedisian (cta2),
+

@@ -1,0 +1,3 @@
+10888,DIS,W,7:30p - 9:30p,RHD 471,Frazier (pf98),
+10887,LEC,TR,8:40a - 9:55a,HLS 110,Frazier (pf98),
+

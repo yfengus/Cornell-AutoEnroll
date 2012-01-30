@@ -1,0 +1,9 @@
+1618,IND,TBA,,,Wells (mtw1),
+1617,IND,TBA,,,Strawderman (rls54),
+1616,IND,TBA,,,Siepel (acs4),
+1615,IND,TBA,,,Schwager (sjs5), Yu (hy299),
+1614,IND,TBA,,,Mezey (jgm45),
+1613,IND,TBA,,,Hooker (gjh27),
+1612,IND,TBA,,,Keinan (ak735),
+1611,IND,TBA,,,Booth (jb383),
+

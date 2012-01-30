@@ -1,0 +1,7 @@
+15093,LEC,RF,9:05a - 10:00a,,Fongyee (maf282),
+15092,LEC,RF,10:10a - 11:05a,,Mooney (ajm31),
+15091,LEC,RF,9:05a - 10:00a,,Mollenkamp (jrm367),
+15090,LEC,MR,10:10a - 11:05a,,,
+15089,LEC,MT,1:25p - 2:20p,,Buble (wgb7),
+15088,LEC,RF,9:05a - 10:00a,,Atlas (jba23),
+

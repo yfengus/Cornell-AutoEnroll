@@ -1,0 +1,31 @@
+BME 1310,Introduction to Biomedical Engineering,http://cornell.chequerd.com/courses/9279/BME/1310/
+BME 3020,Cellular Principles of Biomedical Engineering,http://cornell.chequerd.com/courses/4448/BME/3020/
+BME 3080,Lectures in Cellular Principles of Biomedical Engineering,http://cornell.chequerd.com/courses/4449/BME/3080/
+BME 3600,Molecular and Cellular Bioengineering,http://cornell.chequerd.com/courses/4450/BME/3600/
+BME 4020,Electrical and Chemical Physiology,http://cornell.chequerd.com/courses/4451/BME/4020/
+BME 4640,Orthopaedic Tissue Mechanics,http://cornell.chequerd.com/courses/4453/BME/4640/
+BME 4810,Biomedical Engineering,http://cornell.chequerd.com/courses/4454/BME/4810/
+BME 4900,Independent Undergraduate Project in Biomedical Engineering,http://cornell.chequerd.com/courses/772/BME/4900/
+BME 4910,Principles of Neurophysiology,http://cornell.chequerd.com/courses/4455/BME/4910/
+BME 4980,Special Topic: Introduction to Systems and Synthetic Biology,http://cornell.chequerd.com/courses/7594/BME/4980/
+BME 5010,Bioengineering Seminar,http://cornell.chequerd.com/courses/773/BME/5010/
+BME 5390,Biomedical Materials and Devices for Human Body Repair,http://cornell.chequerd.com/courses/4457/BME/5390/
+BME 5600,Biotransport and Drug Delivery,http://cornell.chequerd.com/courses/4458/BME/5600/
+BME 5620,Biomineralization: The Formation and Properties of Inorganic Biomaterials,http://cornell.chequerd.com/courses/4459/BME/5620/
+BME 5690,Clinical Biomechanics of Musculoskeletal Tissues,http://cornell.chequerd.com/courses/775/BME/5690/
+BME 5710,Analytical Techniques for Material Science,http://cornell.chequerd.com/courses/7595/BME/5710/
+BME 5740,Protocols and Fundamentals of Surgery,http://cornell.chequerd.com/courses/11433/BME/5740/
+BME 5780,Computer Analysis of Biomed Images,http://cornell.chequerd.com/courses/4460/BME/5780/
+BME 5910,Design Project,http://cornell.chequerd.com/courses/778/BME/5910/
+BME 5920,Performance of Design Project,http://cornell.chequerd.com/courses/10778/BME/5920/
+BME 5930,Independent Design Project,http://cornell.chequerd.com/courses/779/BME/5930/
+BME 6260,Biomedical Optics, Imaging, and Spectroscopy,http://cornell.chequerd.com/courses/4462/BME/6260/
+BME 6410,Biomedical Engineering Analysis of Proteins for Medicine,http://cornell.chequerd.com/courses/4463/BME/6410/
+BME 6501,Natural Engineering: Developmental Biology Paradigms for Regenerative Medicine,http://cornell.chequerd.com/courses/4464/BME/6501/
+BME 7030,Graduate Student Teaching Experience,http://cornell.chequerd.com/courses/782/BME/7030/
+BME 7130,Core Concepts in Disease,http://cornell.chequerd.com/courses/7596/BME/7130/
+BME 7600,Nucleic Acid Engineering,http://cornell.chequerd.com/courses/7597/BME/7600/
+BME 7900,Biomedical Engineering Seminar,http://cornell.chequerd.com/courses/786/BME/7900/
+BME 8999,M.S. Thesis Research,http://cornell.chequerd.com/courses/787/BME/8999/
+BME 9999,Ph.D. Thesis Research,http://cornell.chequerd.com/courses/788/BME/9999/
+

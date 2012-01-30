@@ -1,0 +1,4 @@
+13054,STU,U,10:00a - 5:00p,MVR 4301,Gilmore (rg35),
+13054,STU,S,9:00p - 10:00p,MVR 4301,Gilmore (rg35),
+13054,STU,F,6:00p - 10:00p,MVR 4301,Gilmore (rg35),
+

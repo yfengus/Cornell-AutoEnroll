@@ -1,0 +1,4 @@
+10614,LAB,T,2:00p - 4:25p,SNE 1146,White (wmw4),
+10613,LAB,W,2:00p - 4:25p,SNE 1146,White (wmw4),
+10612,LEC,TR,11:40a - 12:55p,SNE 2146,White (wmw4),
+

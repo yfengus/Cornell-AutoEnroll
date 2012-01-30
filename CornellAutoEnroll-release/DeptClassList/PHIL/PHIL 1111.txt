@@ -1,0 +1,4 @@
+16333,SEM,MW,8:40a - 9:55a,GSH 122,Oconnor (jso26),
+16331,SEM,TR,1:25p - 2:40p,URH 369,Vance (jrv45),
+16330,SEM,TR,11:40a - 12:55p,URH 254,Mahaffey (sjm278),
+

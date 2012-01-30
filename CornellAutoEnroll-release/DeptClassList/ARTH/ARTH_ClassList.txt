@@ -1,0 +1,41 @@
+ARTH 1136,FWS: Mapping the Monstrous and Marvelous of the Middle Ages and Beyond,http://cornell.chequerd.com/courses/9208/ARTH/1136/
+ARTH 1140,FWS: Picturing the Pagan Pantheon in Italian Renaissance Art,http://cornell.chequerd.com/courses/11318/ARTH/1140/
+ARTH 2000,Introduction to Visual Studies,http://cornell.chequerd.com/courses/4203/ARTH/2000/
+ARTH 2221,Archaeology/Roman Private Life,http://cornell.chequerd.com/courses/4204/ARTH/2221/
+ARTH 2355,Introduction to Art History: Medieval Art and Culture,http://cornell.chequerd.com/courses/10914/ARTH/2355/
+ARTH 2605,Contemporary Photography,http://cornell.chequerd.com/courses/10915/ARTH/2605/
+ARTH 2710,Roman Wall Painting,http://cornell.chequerd.com/courses/10916/ARTH/2710/
+ARTH 2805,Material Worlds: Trade and the Arts of Asia,http://cornell.chequerd.com/courses/10917/ARTH/2805/
+ARTH 3171,Architectural History of Washington, D.C.,http://cornell.chequerd.com/courses/465/ARTH/3171/
+ARTH 3415,Perplexing Pictures: Puzzles & Problems in Early Modern Art,http://cornell.chequerd.com/courses/10918/ARTH/3415/
+ARTH 3740,Painting Nineteenth-Century America,http://cornell.chequerd.com/courses/470/ARTH/3740/
+ARTH 4100,Proseminar,http://cornell.chequerd.com/courses/4211/ARTH/4100/
+ARTH 4151,Topics in Media Arts,http://cornell.chequerd.com/courses/10919/ARTH/4151/
+ARTH 4171,19th Century Art and Culture,http://cornell.chequerd.com/courses/475/ARTH/4171/
+ARTH 4233,Greek and Roman Art and Archaeology,http://cornell.chequerd.com/courses/7480/ARTH/4233/
+ARTH 4310,Methods in Medieval,http://cornell.chequerd.com/courses/10180/ARTH/4310/
+ARTH 4438,Language and Image,http://cornell.chequerd.com/courses/10920/ARTH/4438/
+ARTH 4695,Studies in Global Modern Art,http://cornell.chequerd.com/courses/6639/ARTH/4695/
+ARTH 4696,The Art Market,http://cornell.chequerd.com/courses/6640/ARTH/4696/
+ARTH 4738,Image Love, Image Hate: Agalmatophilia and Iconoclasm in Antiquity and Beyond,http://cornell.chequerd.com/courses/10921/ARTH/4738/
+ARTH 4761,Art and Social Histories,http://cornell.chequerd.com/courses/480/ARTH/4761/
+ARTH 4816,Modern Chinese Art,http://cornell.chequerd.com/courses/4220/ARTH/4816/
+ARTH 4852,Shadowplay: Asian Art and Performance,http://cornell.chequerd.com/courses/10922/ARTH/4852/
+ARTH 4991,Independent Study,http://cornell.chequerd.com/courses/483/ARTH/4991/
+ARTH 4992,Independent Study,http://cornell.chequerd.com/courses/484/ARTH/4992/
+ARTH 4997,Honors Research,http://cornell.chequerd.com/courses/485/ARTH/4997/
+ARTH 4998,Honors Work I,http://cornell.chequerd.com/courses/486/ARTH/4998/
+ARTH 4999,Honors Work II,http://cornell.chequerd.com/courses/487/ARTH/4999/
+ARTH 5992,Supervised Reading,http://cornell.chequerd.com/courses/7487/ARTH/5992/
+ARTH 5994,Supervised Study,http://cornell.chequerd.com/courses/7488/ARTH/5994/
+ARTH 6100,Proseminar,http://cornell.chequerd.com/courses/4224/ARTH/6100/
+ARTH 6233,Greek and Roman Art and Archaeology,http://cornell.chequerd.com/courses/7489/ARTH/6233/
+ARTH 6310,Methods in Medieval,http://cornell.chequerd.com/courses/10182/ARTH/6310/
+ARTH 6695,Studies in Global Modern Art,http://cornell.chequerd.com/courses/6647/ARTH/6695/
+ARTH 6696,The Art Market,http://cornell.chequerd.com/courses/6648/ARTH/6696/
+ARTH 6761,Art and Social Histories,http://cornell.chequerd.com/courses/10184/ARTH/6761/
+ARTH 6780,Persecution and the Art of Writing,http://cornell.chequerd.com/courses/10923/ARTH/6780/
+ARTH 6816,Modern Chinese Art,http://cornell.chequerd.com/courses/9224/ARTH/6816/
+ARTH 6852,Shadowplay: Asian Art and Performance,http://cornell.chequerd.com/courses/10924/ARTH/6852/
+ARTH 6992,Art Writing: Tracing the Visible,http://cornell.chequerd.com/courses/10925/ARTH/6992/
+

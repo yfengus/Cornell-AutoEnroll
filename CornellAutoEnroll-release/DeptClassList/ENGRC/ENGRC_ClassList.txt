@@ -1,0 +1,7 @@
+ENGRC 3020,Project Team Communications: Practicum in Technical Writing,http://cornell.chequerd.com/courses/1696/ENGRC/3020/
+ENGRC 3021,Antennas & Radar: Practicum in Technical Writing,http://cornell.chequerd.com/courses/1697/ENGRC/3021/
+ENGRC 3023,Writing Intensive Opportunity: Practicum in Technical Writing,http://cornell.chequerd.com/courses/1699/ENGRC/3023/
+ENGRC 3340,Independent Study in Engineering Communications,http://cornell.chequerd.com/courses/1700/ENGRC/3340/
+ENGRC 3350,Communications for Engineering Managers,http://cornell.chequerd.com/courses/1701/ENGRC/3350/
+ENGRC 3500,Engineering Communications,http://cornell.chequerd.com/courses/1702/ENGRC/3500/
+

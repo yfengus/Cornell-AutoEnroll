@@ -1,0 +1,3 @@
+14649,LAB,F,4:50p - 6:20p,SWZ 320,Chu (jrc24), Suber (pbs6),
+14647,STU,MW,4:50p - 6:20p,SWZ 320,Chu (jrc24),
+

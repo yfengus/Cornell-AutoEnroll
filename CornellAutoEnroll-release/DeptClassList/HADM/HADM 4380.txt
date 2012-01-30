@@ -1,0 +1,3 @@
+12012,LEC,M,1:25p - 2:40p,STL 341,Spies (rs20),
+15081,LAB,W,11:40a - 2:40p,STL 280,Spies (rs20),
+

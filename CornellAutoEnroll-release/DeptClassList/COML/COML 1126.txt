@@ -1,0 +1,4 @@
+16226,SEM,TR,10:10a - 11:25a,URH G24,Oh (yo45),
+16225,SEM,MWF,10:10a - 11:00a,GSH 156,Yannakakis (py37),
+16224,SEM,TR,1:25p - 2:40p,RCK 189,Flaig (pff5),
+

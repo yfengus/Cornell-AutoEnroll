@@ -1,0 +1,9 @@
+BIOMS 3160,Cellular Physiology,http://cornell.chequerd.com/courses/7573/BIOMS/3160/
+BIOMS 3310,General Parasitology,http://cornell.chequerd.com/courses/7574/BIOMS/3310/
+BIOMS 4040,Pathogenic Bacteriology,http://cornell.chequerd.com/courses/7575/BIOMS/4040/
+BIOMS 4130,Histology: The Biology of the Tissues,http://cornell.chequerd.com/courses/7576/BIOMS/4130/
+BIOMS 4580,Mammalian Physiology,http://cornell.chequerd.com/courses/7578/BIOMS/4580/
+BIOMS 4890,Mammalian Embryology,http://cornell.chequerd.com/courses/7580/BIOMS/4890/
+BIOMS 4980,Teaching Experience,http://cornell.chequerd.com/courses/4414/BIOMS/4980/
+BIOMS 7050,Advanced Immunology Lectures,http://cornell.chequerd.com/courses/7581/BIOMS/7050/
+

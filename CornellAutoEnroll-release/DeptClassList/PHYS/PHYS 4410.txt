@@ -1,0 +1,3 @@
+6778,LAB,TW,1:00p - 4:00p,CLK 308B,Shen (kms272),
+6777,LEC,M,2:30p - 3:20p,RCK 132,Shen (kms272),
+

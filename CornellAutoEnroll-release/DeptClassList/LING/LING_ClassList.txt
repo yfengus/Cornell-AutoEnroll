@@ -1,0 +1,32 @@
+LING 1100,FWS: Language, Thought, and Reality,http://cornell.chequerd.com/courses/2638/LING/1100/
+LING 1101,Introduction to Linguistics,http://cornell.chequerd.com/courses/2639/LING/1101/
+LING 1109,English Words: Histories and Mysteries,http://cornell.chequerd.com/courses/5632/LING/1109/
+LING 1132,Elementary Sanskrit II,http://cornell.chequerd.com/courses/5633/LING/1132/
+LING 2215,Psychology of Language,http://cornell.chequerd.com/courses/5634/LING/2215/
+LING 2218,History of the English Language since 1300,http://cornell.chequerd.com/courses/8038/LING/2218/
+LING 2252,Intermediate Sanskrit II,http://cornell.chequerd.com/courses/5637/LING/2252/
+LING 2261,Introduction to Indo-European Linguistics,http://cornell.chequerd.com/courses/2643/LING/2261/
+LING 2285,Linguistic Theory and Poetic Structure,http://cornell.chequerd.com/courses/8040/LING/2285/
+LING 3302,Introduction to Phonology,http://cornell.chequerd.com/courses/5638/LING/3302/
+LING 3308,Readings In Celtic Languages,http://cornell.chequerd.com/courses/2646/LING/3308/
+LING 3316,Old Norse II,http://cornell.chequerd.com/courses/5641/LING/3316/
+LING 3390,Independent Study Linguistics,http://cornell.chequerd.com/courses/2649/LING/3390/
+LING 4402,Phonology II,http://cornell.chequerd.com/courses/5645/LING/4402/
+LING 4404,Syntax II,http://cornell.chequerd.com/courses/5646/LING/4404/
+LING 4422,Semantics II,http://cornell.chequerd.com/courses/5647/LING/4422/
+LING 4423,Morphology,http://cornell.chequerd.com/courses/2654/LING/4423/
+LING 4425,Pragmatics,http://cornell.chequerd.com/courses/2656/LING/4425/
+LING 4438,Language and Image,http://cornell.chequerd.com/courses/11208/LING/4438/
+LING 4441,Introduction to Germanic Linguistics,http://cornell.chequerd.com/courses/5649/LING/4441/
+LING 4461,Introduction to Indo-European Linguistics,http://cornell.chequerd.com/courses/11209/LING/4461/
+LING 4474,Introduction to Natural Language Processing,http://cornell.chequerd.com/courses/5652/LING/4474/
+LING 4494,Honors Thesis Research,http://cornell.chequerd.com/courses/5653/LING/4494/
+LING 5585,Linguistic Theory and Poetic Structure,http://cornell.chequerd.com/courses/11386/LING/5585/
+LING 6600,Field Methods,http://cornell.chequerd.com/courses/5655/LING/6600/
+LING 6601,Topics In Phonological Theory,http://cornell.chequerd.com/courses/8792/LING/6601/
+LING 6625,Middle Welsh,http://cornell.chequerd.com/courses/5656/LING/6625/
+LING 6634,Philosophy of Language,http://cornell.chequerd.com/courses/5657/LING/6634/
+LING 7702,Directed Research,http://cornell.chequerd.com/courses/5659/LING/7702/
+LING 7710,Computational Seminar,http://cornell.chequerd.com/courses/2669/LING/7710/
+LING 7712,Syntax Seminar,http://cornell.chequerd.com/courses/5660/LING/7712/
+

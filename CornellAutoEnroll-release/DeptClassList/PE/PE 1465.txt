@@ -1,0 +1,6 @@
+9173,LEC,TR,2:45p - 3:30p,GRS B08,Evett (dhe2),
+9172,LEC,TR,1:30p - 2:15p,GRS B08,Evett (dhe2),
+9171,LEC,MW,3:45p - 4:30p,GRS B08,Wohlhueter (dpw5),
+9170,LEC,MW,2:45p - 3:30p,GRS B08,Falkson (abf11),
+9169,LEC,MW,1:30p - 2:15p,GRS B08,Falkson (abf11),
+

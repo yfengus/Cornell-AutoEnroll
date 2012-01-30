@@ -1,0 +1,6 @@
+6771,LAB,F,12:20p - 2:15p,RCK B30,Davis (jcd36),
+6770,LAB,R,2:30p - 4:25p,RCK B30,Davis (jcd36),
+6769,DIS,W,3:35p - 4:25p,RCK 128,Davis (jcd36),
+6768,DIS,T,3:35p - 4:25p,RCK 128,Davis (jcd36),
+6767,LEC,MWF,11:15a - 12:05p,RCK 230,Davis (jcd36),
+

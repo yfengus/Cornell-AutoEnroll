@@ -1,0 +1,5 @@
+14678,LEC,R,11:55a - 2:40p,TBA,D'Souza (jd48),
+13494,LEC,W,2:55p - 5:40p,TBA,D'Souza (jd48),
+13493,LEC,W,8:40a - 11:25a,TBA,D'Souza (jd48),
+13492,LEC,M,1:25p - 4:10p,TBA,D'Souza (jd48),
+

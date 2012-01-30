@@ -1,0 +1,13 @@
+ENGRD 2020,Mechanics of Solids,http://cornell.chequerd.com/courses/1703/ENGRD/2020/
+ENGRD 2100,Introduction to Circuits for Electrical and Computer Engineers,http://cornell.chequerd.com/courses/1705/ENGRD/2100/
+ENGRD 2110,Object-Oriented Programming and Data Structures,http://cornell.chequerd.com/courses/1706/ENGRD/2110/
+ENGRD 2112,Object-Oriented Design and Data Structures - Honors,http://cornell.chequerd.com/courses/11042/ENGRD/2112/
+ENGRD 2200,The Earth System,http://cornell.chequerd.com/courses/9754/ENGRD/2200/
+ENGRD 2210,Thermodynamics,http://cornell.chequerd.com/courses/1708/ENGRD/2210/
+ENGRD 2300,Introduction to Digital Logic Design,http://cornell.chequerd.com/courses/1709/ENGRD/2300/
+ENGRD 2520,The Physics of Life,http://cornell.chequerd.com/courses/1711/ENGRD/2520/
+ENGRD 2620,Electronic Materials for the Information Age,http://cornell.chequerd.com/courses/5056/ENGRD/2620/
+ENGRD 2700,Basic Engineering Probability and Statistics,http://cornell.chequerd.com/courses/1715/ENGRD/2700/
+ENGRD 3200,Engineering Computation,http://cornell.chequerd.com/courses/5057/ENGRD/3200/
+ENGRD 3220,Introduction to Scientific Computation,http://cornell.chequerd.com/courses/5058/ENGRD/3220/
+

@@ -1,0 +1,5 @@
+16715,DIS,F,12:20p - 1:10p,GSH 164,Fulton (cea66),
+14473,DIS,F,10:10a - 11:00a,GSH 122,Fulton (cea66),
+14472,DIS,F,12:20p - 1:10p,GSH 122,Roby (car295),
+14471,LEC,MW,12:20p - 1:10p,URH 262,Roby (car295),
+

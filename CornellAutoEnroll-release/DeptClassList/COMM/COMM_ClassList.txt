@@ -1,0 +1,39 @@
+COMM 1300,Visual Communication,http://cornell.chequerd.com/courses/4679/COMM/1300/
+COMM 2010,Oral Communication,http://cornell.chequerd.com/courses/1071/COMM/2010/
+COMM 2310,Writing about Communication,http://cornell.chequerd.com/courses/7660/COMM/2310/
+COMM 2760,Cases in Communication and Social Influence,http://cornell.chequerd.com/courses/4681/COMM/2760/
+COMM 2850,Communication in Life Sciences,http://cornell.chequerd.com/courses/4683/COMM/2850/
+COMM 3030,Speech and Debate Practicum,http://cornell.chequerd.com/courses/1078/COMM/3030/
+COMM 3040,Writing and Editing for Magazines and Online Media,http://cornell.chequerd.com/courses/9727/COMM/3040/
+COMM 3100,Communication and Decision Making in Groups,http://cornell.chequerd.com/courses/4684/COMM/3100/
+COMM 3200,New Media and Society,http://cornell.chequerd.com/courses/7661/COMM/3200/
+COMM 3300,Media and Human Development,http://cornell.chequerd.com/courses/1079/COMM/3300/
+COMM 3650,Technology in Collaboration,http://cornell.chequerd.com/courses/4688/COMM/3650/
+COMM 3760,Planning Communication Campaigns,http://cornell.chequerd.com/courses/1081/COMM/3760/
+COMM 3980,Issues in Teaching Communication,http://cornell.chequerd.com/courses/1082/COMM/3980/
+COMM 4201,Information Policy: Research, Analysis, and Design,http://cornell.chequerd.com/courses/11410/COMM/4201/
+COMM 4280,Communication Law,http://cornell.chequerd.com/courses/4691/COMM/4280/
+COMM 4400,Advanced Human-Computer Interaction Design,http://cornell.chequerd.com/courses/1085/COMM/4400/
+COMM 4450,Seminar in Computer-Mediated Communication,http://cornell.chequerd.com/courses/4692/COMM/4450/
+COMM 4660,Public Communication of Science and Technology,http://cornell.chequerd.com/courses/7663/COMM/4660/
+COMM 4940,Special Topics in Communication,http://cornell.chequerd.com/courses/1087/COMM/4940/
+COMM 4960,Communication Internship,http://cornell.chequerd.com/courses/1088/COMM/4960/
+COMM 4970,Individual Study in Communication,http://cornell.chequerd.com/courses/1089/COMM/4970/
+COMM 4980,Communication Teaching Experience,http://cornell.chequerd.com/courses/1090/COMM/4980/
+COMM 4990,Independent Research,http://cornell.chequerd.com/courses/1091/COMM/4990/
+COMM 4991,Independent Honors Research in Social Science,http://cornell.chequerd.com/courses/1092/COMM/4991/
+COMM 5660,Science Communication Workshp,http://cornell.chequerd.com/courses/4693/COMM/5660/
+COMM 6180,Media Influence and Persuasion,http://cornell.chequerd.com/courses/4694/COMM/6180/
+COMM 6400,Advanced Human-Computer Interaction Design,http://cornell.chequerd.com/courses/1095/COMM/6400/
+COMM 6450,Seminar in Computer-Mediated Communication,http://cornell.chequerd.com/courses/4696/COMM/6450/
+COMM 6810,Advanced Communication Theory,http://cornell.chequerd.com/courses/4697/COMM/6810/
+COMM 6910,Seminar: Topics in Communication,http://cornell.chequerd.com/courses/1098/COMM/6910/
+COMM 6940,Special Topics in Communication,http://cornell.chequerd.com/courses/4700/COMM/6940/
+COMM 7800,Seminar in Sociology of Communication,http://cornell.chequerd.com/courses/7667/COMM/7800/
+COMM 7940,Seminar in Communication Issues,http://cornell.chequerd.com/courses/1100/COMM/7940/
+COMM 7970,Graduate Independent Study,http://cornell.chequerd.com/courses/1101/COMM/7970/
+COMM 7980,Communication Teaching Laboratory,http://cornell.chequerd.com/courses/1102/COMM/7980/
+COMM 7990,Graduate Research,http://cornell.chequerd.com/courses/1103/COMM/7990/
+COMM 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/1104/COMM/8900/
+COMM 9900,Doctoral-Level Dissertation Research,http://cornell.chequerd.com/courses/1105/COMM/9900/
+

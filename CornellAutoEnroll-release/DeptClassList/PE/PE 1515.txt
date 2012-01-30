@@ -1,0 +1,5 @@
+9188,LEC,F,1:30p - 4:00p,TBA TBA,Kirkby (ggk23),
+9187,LEC,R,1:00p - 3:30p,TBA TBA,Sanford (mjs10),
+9186,LEC,W,1:00p - 3:30p,TBA TBA,Blakeley (brb4),
+9185,LEC,T,12:00p - 2:30p,TBA TBA,Honan (dmh12), MacDonald (bgm39),
+

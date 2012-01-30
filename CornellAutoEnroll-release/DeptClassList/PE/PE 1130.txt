@@ -1,0 +1,5 @@
+9030,LEC,SU,9:00a - 1:00p,TGL 151A,Couillard (raa4),
+9030,LEC,SU,9:00a - 1:00p,TGL 210,Couillard (raa4),
+9029,LEC,SU,9:00a - 1:00p,TGL 151A,Couillard (raa4),
+9029,LEC,SU,9:00a - 1:00p,TGL 210,Couillard (raa4),
+

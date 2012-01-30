@@ -1,0 +1,15 @@
+FILM 3000,Independent Study In Film,http://cornell.chequerd.com/courses/1836/FILM/3000/
+FILM 3115,Video and New Media: Art, Theory, Politics,http://cornell.chequerd.com/courses/9384/FILM/3115/
+FILM 3290,Political Theory and Cinema,http://cornell.chequerd.com/courses/7818/FILM/3290/
+FILM 3350,Radio and Sound Art Since 1945,http://cornell.chequerd.com/courses/11054/FILM/3350/
+FILM 3550,Technology and the Moving Body I,http://cornell.chequerd.com/courses/11055/FILM/3550/
+FILM 3771,Documentary Workshop,http://cornell.chequerd.com/courses/9385/FILM/3771/
+FILM 3790,Modern Documentary Film,http://cornell.chequerd.com/courses/7822/FILM/3790/
+FILM 4100,Introduction to Media Theory,http://cornell.chequerd.com/courses/11056/FILM/4100/
+FILM 4700,50s Movie Musicals and Modernism,http://cornell.chequerd.com/courses/11356/FILM/4700/
+FILM 4730,Film and Spiritual Questions,http://cornell.chequerd.com/courses/7823/FILM/4730/
+FILM 4850,Undergraduate Internship,http://cornell.chequerd.com/courses/1843/FILM/4850/
+FILM 4930,Advanced Film and Video Projects,http://cornell.chequerd.com/courses/5132/FILM/4930/
+FILM 4960,Honors Research Tutorial Film,http://cornell.chequerd.com/courses/1845/FILM/4960/
+FILM 7220,Independent Study in Film for Graduate Students,http://cornell.chequerd.com/courses/1848/FILM/7220/
+

@@ -1,0 +1,11 @@
+11074,DIS,T,3:35p - 4:25p,CRP 236,White (wmw2),
+15158,DIS,W,2:30p - 3:20p,CRP 236,White (wmw2),
+11073,DIS,W,1:25p - 2:15p,CRP 236,White (wmw2),
+11072,DIS,W,12:20p - 1:10p,CRP 236,White (wmw2),
+11071,DIS,T,3:35p - 4:25p,CRP 236,White (wmw2),
+15156,DIS,T,2:30p - 3:20p,CRP 236,White (wmw2),
+11070,DIS,T,1:25p - 2:15p,CRP 236,White (wmw2),
+11069,DIS,T,12:20p - 1:10p,CRP 236,White (wmw2),
+11068,LEC,TR,11:15a - 12:05p,PHL 101,White (wmw2),
+11067,LEC,TR,9:05a - 9:55a,PHL 101,White (wmw2),
+

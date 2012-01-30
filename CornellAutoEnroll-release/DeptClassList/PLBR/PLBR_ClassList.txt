@@ -1,0 +1,21 @@
+PLBR 2250,Plant Genetics,http://cornell.chequerd.com/courses/6135/PLBR/2250/
+PLBR 2990,Introduction to Research Methods in Plant Breeding and Genetics,http://cornell.chequerd.com/courses/3467/PLBR/2990/
+PLBR 4075,Evolution of Plant Breeding and Genetics,http://cornell.chequerd.com/courses/6138/PLBR/4075/
+PLBR 4091,Plant Breeding: Genomic Tools & Approaches Molecular Basis of Phenotype in Plant Breeding & Genetics,http://cornell.chequerd.com/courses/9729/PLBR/4091/
+PLBR 4092,Introduction to Scripting and Statistics for Genetics Data Management,http://cornell.chequerd.com/courses/9730/PLBR/4092/
+PLBR 4093,QTL Analysis: Mapping Genotype to Phenotype in Practice,http://cornell.chequerd.com/courses/9731/PLBR/4093/
+PLBR 4826,Plant Molecular Biology II: Plant Biotechnology,http://cornell.chequerd.com/courses/6140/PLBR/4826/
+PLBR 4960,Internship in Plant Breeding,http://cornell.chequerd.com/courses/3476/PLBR/4960/
+PLBR 4970,Individual Study in Plant Breeding,http://cornell.chequerd.com/courses/3477/PLBR/4970/
+PLBR 4980,Undergraduate Teaching,http://cornell.chequerd.com/courses/3478/PLBR/4980/
+PLBR 4990,Undergraduate Research,http://cornell.chequerd.com/courses/3479/PLBR/4990/
+PLBR 5990,Plant Breeding MPS Project Paper,http://cornell.chequerd.com/courses/7285/PLBR/5990/
+PLBR 6060,Advanced Plant Genetics,http://cornell.chequerd.com/courses/8179/PLBR/6060/
+PLBR 6105,Crop Biotechnology: Opportunities and Strategic Issues,http://cornell.chequerd.com/courses/8180/PLBR/6105/
+PLBR 6220,Seminar,http://cornell.chequerd.com/courses/3481/PLBR/6220/
+PLBR 6500,Special Problems in Research and Teaching,http://cornell.chequerd.com/courses/3482/PLBR/6500/
+PLBR 7170,Quantitative Genetics in Plant Breeding,http://cornell.chequerd.com/courses/8181/PLBR/7170/
+PLBR 7900,Graduate-Level Dissertation,http://cornell.chequerd.com/courses/3484/PLBR/7900/
+PLBR 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/3485/PLBR/8900/
+PLBR 9900,Doctoral-Level Dissertation Research,http://cornell.chequerd.com/courses/3486/PLBR/9900/
+

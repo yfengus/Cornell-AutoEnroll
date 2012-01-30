@@ -1,0 +1,13 @@
+RUSSA 1104,Conversation Practice,http://cornell.chequerd.com/courses/6220/RUSSA/1104/
+RUSSA 1122,Elementary Russian through Film,http://cornell.chequerd.com/courses/6221/RUSSA/1122/
+RUSSA 1126,Reading Russian Press,http://cornell.chequerd.com/courses/6222/RUSSA/1126/
+RUSSA 2204,Intermediate Composition and Conversation.,http://cornell.chequerd.com/courses/6223/RUSSA/2204/
+RUSSA 3300,Directed Studies,http://cornell.chequerd.com/courses/3603/RUSSA/3300/
+RUSSA 3304,Advanced Composition and Conversation,http://cornell.chequerd.com/courses/6224/RUSSA/3304/
+RUSSA 3306,Reading and Writing for Heritage Speakers of Russian,http://cornell.chequerd.com/courses/6225/RUSSA/3306/
+RUSSA 3308,Russian Thru Popular Culture,http://cornell.chequerd.com/courses/6226/RUSSA/3308/
+RUSSA 3310,Advanced Reading,http://cornell.chequerd.com/courses/6227/RUSSA/3310/
+RUSSA 4414,Advanced Conversation and Stylistics,http://cornell.chequerd.com/courses/6228/RUSSA/4414/
+RUSSA 4491,Reading Course: Russian Literature in the Original Language,http://cornell.chequerd.com/courses/3608/RUSSA/4491/
+RUSSA 6634,Russian for Russian Specialists,http://cornell.chequerd.com/courses/6229/RUSSA/6634/
+

@@ -1,0 +1,8 @@
+WRIT 1038,FWS: Tutorial in basic English and Composition,http://cornell.chequerd.com/courses/6511/WRIT/1038/
+WRIT 1380,FWS: An Introduction to Writing in the University,http://cornell.chequerd.com/courses/6512/WRIT/1380/
+WRIT 1390,Workshops in English Composition II,http://cornell.chequerd.com/courses/3973/WRIT/1390/
+WRIT 1400,FWS:Cornell & Ithaca Collabor,http://cornell.chequerd.com/courses/3974/WRIT/1400/
+WRIT 4100,Learning Behind Bars,http://cornell.chequerd.com/courses/6513/WRIT/4100/
+WRIT 4130,Service Learning For Democratic Citizenship: Literature of Social Action,http://cornell.chequerd.com/courses/8315/WRIT/4130/
+WRIT 7101,Writing In The Majors Seminar,http://cornell.chequerd.com/courses/3977/WRIT/7101/
+

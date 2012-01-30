@@ -1,0 +1,8 @@
+15377,IND,TBA,,TBA TBA,Wysocki (mww3),
+11726,IND,TBA,,TBA TBA,Wilks (dsw5),
+11488,IND,TBA,,TBA TBA,Riha (sjr4),
+11220,IND,TBA,,TBA TBA,Mahowald (nmm63),
+11219,IND,TBA,,TBA TBA,Degaetano (atd2),
+11218,IND,TBA,,TBA TBA,Colucci (sjc25),
+10629,IND,TBA,,TBA TBA,Chen (gc352),
+

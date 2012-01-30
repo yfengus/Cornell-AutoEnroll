@@ -1,0 +1,4 @@
+12058,LEC,TR,1:25p - 2:40p,STL 445,Way (saw234),
+11966,LEC,TR,11:40a - 12:55p,STL 445,Way (saw234),
+11965,LEC,MW,1:25p - 2:40p,STL 196,Tracey (jbt6),
+

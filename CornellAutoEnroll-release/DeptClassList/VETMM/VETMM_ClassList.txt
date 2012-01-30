@@ -1,0 +1,8 @@
+VETMM 6110,Systems Pharmacology,http://cornell.chequerd.com/courses/8285/VETMM/6110/
+VETMM 6120,Topics in Pharmacology,http://cornell.chequerd.com/courses/6394/VETMM/6120/
+VETMM 6130,Medical Pharmacology,http://cornell.chequerd.com/courses/6395/VETMM/6130/
+VETMM 6150,Drug Discovery and Genomics,http://cornell.chequerd.com/courses/11290/VETMM/6150/
+VETMM 7300,Graduate Research in Pharmacology or Molecular Medicine,http://cornell.chequerd.com/courses/3858/VETMM/7300/
+VETMM 7400,Special Projects and Research in Pharmacology,http://cornell.chequerd.com/courses/3859/VETMM/7400/
+VETMM 7600,Directed Readings in Pharmacology,http://cornell.chequerd.com/courses/3860/VETMM/7600/
+

@@ -1,0 +1,4 @@
+13491,LEC,TR,2:55p - 4:10p,SGH B05,Merkley (kjm267),
+13490,LEC,TR,1:25p - 2:40p,SGH B05,Merkley (kjm267),
+13489,LEC,TR,11:55a - 1:10p,SGH B05,Merkley (kjm267),
+

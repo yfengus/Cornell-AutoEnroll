@@ -1,0 +1,3 @@
+5840,SEM,TR,8:40a - 9:55a,MCG 145,Balsa Marin (mb823),
+5839,SEM,TR,1:25p - 2:40p,MCG 365,Keller (pmk73),
+

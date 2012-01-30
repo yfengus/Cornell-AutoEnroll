@@ -1,0 +1,18 @@
+BIONB 1220,FWS: Special Topics in Neurobiology and Behavior,http://cornell.chequerd.com/courses/727/BIONB/1220/
+BIONB 1250,Biology Seminar,http://cornell.chequerd.com/courses/728/BIONB/1250/
+BIONB 2220,Neurobiology and Behavior II: Introduction to Neurobiology,http://cornell.chequerd.com/courses/4415/BIONB/2220/
+BIONB 3250,Insect Behavior,http://cornell.chequerd.com/courses/10955/BIONB/3250/
+BIONB 3690,Chemical Ecology,http://cornell.chequerd.com/courses/4418/BIONB/3690/
+BIONB 4130,Molecules of Social Behavior & Emotion,http://cornell.chequerd.com/courses/7583/BIONB/4130/
+BIONB 4200,Topics in Neurobiology & Behavior,http://cornell.chequerd.com/courses/734/BIONB/4200/
+BIONB 4260,Animal Communication,http://cornell.chequerd.com/courses/7584/BIONB/4260/
+BIONB 4310,Genes and Behavior,http://cornell.chequerd.com/courses/10956/BIONB/4310/
+BIONB 4910,Principles of Neurophysiology,http://cornell.chequerd.com/courses/4424/BIONB/4910/
+BIONB 4940,Speical Topics in Neuobiology and Behavior,http://cornell.chequerd.com/courses/10957/BIONB/4940/
+BIONB 4980,Teaching Experience,http://cornell.chequerd.com/courses/4426/BIONB/4980/
+BIONB 7201,Research Design in the Study of Animal Social Behavior,http://cornell.chequerd.com/courses/742/BIONB/7201/
+BIONB 7202,Current Topics in Neuroethology,http://cornell.chequerd.com/courses/743/BIONB/7202/
+BIONB 7203,Research Design in Cellular & Molecular Neurobiology,http://cornell.chequerd.com/courses/744/BIONB/7203/
+BIONB 7210,Introductory Graduate Survey in Neurobiology and Behavior,http://cornell.chequerd.com/courses/745/BIONB/7210/
+BIONB 7640,Plant-Insect Interactions Seminar,http://cornell.chequerd.com/courses/9766/BIONB/7640/
+

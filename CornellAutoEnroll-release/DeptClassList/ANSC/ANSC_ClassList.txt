@@ -1,0 +1,36 @@
+ANSC 1105,Contemporary Perspectives of Animal Science,http://cornell.chequerd.com/courses/4095/ANSC/1105/
+ANSC 2210,Principles of Animal Genetics,http://cornell.chequerd.com/courses/7438/ANSC/2210/
+ANSC 2400,Animal Reproduction and Development,http://cornell.chequerd.com/courses/4097/ANSC/2400/
+ANSC 2410,Animal Reproduction and Development Lab,http://cornell.chequerd.com/courses/4098/ANSC/2410/
+ANSC 2510,Applied Dairy Cattle Genetics,http://cornell.chequerd.com/courses/4099/ANSC/2510/
+ANSC 2720,Feline Reproduction,http://cornell.chequerd.com/courses/10881/ANSC/2720/
+ANSC 3200,Comparative Animal Nutrition and Toxicology: Horses, Dogs, Cats and More,http://cornell.chequerd.com/courses/4100/ANSC/3200/
+ANSC 3410,Biology of Lactation,http://cornell.chequerd.com/courses/4101/ANSC/3410/
+ANSC 3510,Dairy Herd Management,http://cornell.chequerd.com/courses/4102/ANSC/3510/
+ANSC 3511,Junior Dairy Fellows,http://cornell.chequerd.com/courses/7439/ANSC/3511/
+ANSC 3550,Dairy Cattle Nutrition,http://cornell.chequerd.com/courses/4103/ANSC/3550/
+ANSC 3600,Beef Cattle,http://cornell.chequerd.com/courses/7440/ANSC/3600/
+ANSC 3700,Immunology in Animal Health and Disease,http://cornell.chequerd.com/courses/4104/ANSC/3700/
+ANSC 3920,Mechanisms of Animal Growth and Development,http://cornell.chequerd.com/courses/4106/ANSC/3920/
+ANSC 3921,Mechanisms of Animal Growth and Development Lab,http://cornell.chequerd.com/courses/9180/ANSC/3921/
+ANSC 4010,Dairy Production Seminar,http://cornell.chequerd.com/courses/4107/ANSC/4010/
+ANSC 4020,Seminar in Animal Sciences,http://cornell.chequerd.com/courses/4108/ANSC/4020/
+ANSC 4120,Whole-Farm Nutrient Management - Module 1,http://cornell.chequerd.com/courses/4109/ANSC/4120/
+ANSC 4140,Ethics and Animal Science,http://cornell.chequerd.com/courses/4111/ANSC/4140/
+ANSC 4300,Comparative Genomics of Health and Disease in Domesticated Animals,http://cornell.chequerd.com/courses/11332/ANSC/4300/
+ANSC 4560,Dairy Management Fellowship,http://cornell.chequerd.com/courses/4112/ANSC/4560/
+ANSC 4570,Introductory Spanish for Dairy Producers,http://cornell.chequerd.com/courses/4113/ANSC/4570/
+ANSC 4940,Special Topics in Animal Science,http://cornell.chequerd.com/courses/231/ANSC/4940/
+ANSC 4960,Internship in Animal Science,http://cornell.chequerd.com/courses/232/ANSC/4960/
+ANSC 4970,Individual Study in Animal Science,http://cornell.chequerd.com/courses/233/ANSC/4970/
+ANSC 4980,Undergraduate Teaching,http://cornell.chequerd.com/courses/234/ANSC/4980/
+ANSC 4990,Undergraduate Research,http://cornell.chequerd.com/courses/235/ANSC/4990/
+ANSC 4991,Undergraduate Honors Research in Animal Science,http://cornell.chequerd.com/courses/236/ANSC/4991/
+ANSC 6100,Animal Science Seminar,http://cornell.chequerd.com/courses/238/ANSC/6100/
+ANSC 6190,Field of Nutrition Seminar,http://cornell.chequerd.com/courses/239/ANSC/6190/
+ANSC 6210,Reproductive Physiology/Endocrinology Seminar,http://cornell.chequerd.com/courses/240/ANSC/6210/
+ANSC 6940,Special Topics in Animal Science,http://cornell.chequerd.com/courses/4114/ANSC/6940/
+ANSC 7900,Graduate-Level Thesis Research,http://cornell.chequerd.com/courses/242/ANSC/7900/
+ANSC 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/243/ANSC/8900/
+ANSC 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/244/ANSC/9900/
+

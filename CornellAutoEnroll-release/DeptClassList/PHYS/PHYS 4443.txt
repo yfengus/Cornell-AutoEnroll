@@ -1,0 +1,3 @@
+6911,DIS,F,3:35p - 4:25p,RCK 112,Teukolsky (sat4),
+6910,LEC,MWF,9:05a - 9:55a,RCK 112,Teukolsky (sat4),
+

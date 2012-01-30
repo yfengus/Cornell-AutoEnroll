@@ -1,0 +1,12 @@
+LATIN 1202,Elementary Latin II,http://cornell.chequerd.com/courses/5552/LATIN/1202/
+LATIN 1205,Elementary Latin III,http://cornell.chequerd.com/courses/2539/LATIN/1205/
+LATIN 2206,Roman Letters,http://cornell.chequerd.com/courses/11188/LATIN/2206/
+LATIN 3204,Seminar: Roman Prose,http://cornell.chequerd.com/courses/8016/LATIN/3204/
+LATIN 3206,Lucretius,http://cornell.chequerd.com/courses/11189/LATIN/3206/
+LATIN 3286,Independent Study in Latin, Undergraduate Level,http://cornell.chequerd.com/courses/2543/LATIN/3286/
+LATIN 4204,Survey of Latin Literature,http://cornell.chequerd.com/courses/11190/LATIN/4204/
+LATIN 4216,Advanced Latin Prose Composition,http://cornell.chequerd.com/courses/11191/LATIN/4216/
+LATIN 7262,Latin Philosophical Texts,http://cornell.chequerd.com/courses/2547/LATIN/7262/
+LATIN 7272,Graduate Seminar in Latin,http://cornell.chequerd.com/courses/5558/LATIN/7272/
+LATIN 7920,Independent Study for Graduate Students in Latin,http://cornell.chequerd.com/courses/2548/LATIN/7920/
+

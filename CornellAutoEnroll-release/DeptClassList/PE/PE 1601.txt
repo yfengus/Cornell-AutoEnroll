@@ -1,0 +1,5 @@
+16195,LEC,W,6:00p - 9:00p,BTL B01,Holton (mh45), Leeming (csl45),
+16195,LEC,U,1:00a - 12:00p,BTL B01,Holton (mh45), Leeming (csl45),
+16195,LEC,U,9:00a - 5:00p,BTL B01,Holton (mh45), Leeming (csl45),
+16195,LEC,FS,5:00p - 11:59p,BTL B01,Holton (mh45), Leeming (csl45),
+

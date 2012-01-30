@@ -1,0 +1,4 @@
+16649,LAB,R,1:25p - 4:25p,CMS B146,DiTommaso (ad97), Losey (jel27),
+14424,LAB,T,1:25p - 4:25p,CMS B144,DiTommaso (ad97), Losey (jel27),
+14423,LEC,MWF,9:05a - 9:55a,BDF 101,DiTommaso (ad97), Losey (jel27),
+

@@ -1,0 +1,23 @@
+ITAL 1110,Elementary Italian In Rome,http://cornell.chequerd.com/courses/2432/ITAL/1110/
+ITAL 1120,Elementary Italian In Rome,http://cornell.chequerd.com/courses/2433/ITAL/1120/
+ITAL 1130,Continuing Italian In Rome,http://cornell.chequerd.com/courses/2434/ITAL/1130/
+ITAL 1220,Elementary Italian,http://cornell.chequerd.com/courses/5482/ITAL/1220/
+ITAL 1230,Continuing Italian,http://cornell.chequerd.com/courses/2436/ITAL/1230/
+ITAL 2090,Italian Intermediate Composition and Conversation I,http://cornell.chequerd.com/courses/2437/ITAL/2090/
+ITAL 2110,Italian Intermediate Composition and Conversation I in Rome,http://cornell.chequerd.com/courses/2438/ITAL/2110/
+ITAL 2130,Italian Intermediate Composition and Conversation II in Rome,http://cornell.chequerd.com/courses/2439/ITAL/2130/
+ITAL 2190,Italian Intermediate Composition and Conversation II,http://cornell.chequerd.com/courses/5483/ITAL/2190/
+ITAL 2270,Family Life in Renaissance Italy,http://cornell.chequerd.com/courses/9504/ITAL/2270/
+ITAL 2900,Perspectives in Italian Culture,http://cornell.chequerd.com/courses/2440/ITAL/2900/
+ITAL 3020,Italian Practicum,http://cornell.chequerd.com/courses/2442/ITAL/3020/
+ITAL 3890,Modern Italian Novel,http://cornell.chequerd.com/courses/2445/ITAL/3890/
+ITAL 4200,Special Topics in Italian Literature,http://cornell.chequerd.com/courses/5488/ITAL/4200/
+ITAL 4270,Dantes Commedia,http://cornell.chequerd.com/courses/7997/ITAL/4270/
+ITAL 4300,Honors in Italian Literature,http://cornell.chequerd.com/courses/5489/ITAL/4300/
+ITAL 4490,Renaissance Poetry,http://cornell.chequerd.com/courses/11178/ITAL/4490/
+ITAL 4710,Autonimia:Cinema, Literature, Art and Politics in and around Italy. 1962-1979,http://cornell.chequerd.com/courses/11179/ITAL/4710/
+ITAL 6270,Dantes Commedia,http://cornell.chequerd.com/courses/7998/ITAL/6270/
+ITAL 6400,Special Topics in Italian Literature,http://cornell.chequerd.com/courses/5491/ITAL/6400/
+ITAL 6490,Renaissance Poetry,http://cornell.chequerd.com/courses/11180/ITAL/6490/
+ITAL 6710,Autonimia:Cinema, Literature, Art and Politics in and around Italy. 1962-1979,http://cornell.chequerd.com/courses/11181/ITAL/6710/
+

@@ -1,0 +1,4 @@
+5361,SEM,TBA,,,,
+5285,SEM,TR,2:55p - 4:10p,SBL 318,Ochshorn (jo24),
+15945,SEM,T,2:30p - 4:25p,RND 202,Sabin (jes557),
+

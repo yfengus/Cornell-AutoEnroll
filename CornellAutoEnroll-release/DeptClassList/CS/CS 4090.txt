@@ -1,0 +1,13 @@
+16678,IND,TBA,,,(lak32),
+15293,IND,TBA,,,Foster (jnf27),
+11701,IND,TBA,,,White (wmw2),
+11672,IND,TBA,,,Weatherspoon (hw228),
+15292,IND,TBA,,,Snavely (kns32),
+11670,IND,TBA,,,Kleinberg (rdk2),
+11669,IND,TBA,,,Pass (rnp3),
+15291,IND,TBA,,,Myers (acm22),
+11667,IND,TBA,,,Joachims (tj36),
+16795,IND,TBA,,,Hopcroft (jeh17),
+11666,IND,TBA,,,Saxena (as2422),
+11665,IND,TBA,,,Fan (kdf4),
+

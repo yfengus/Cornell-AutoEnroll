@@ -1,0 +1,9 @@
+11694,DIS,F,1:25p - 2:15p,CRP 236,Lagoze (cjl2),
+11349,DIS,F,12:20p - 1:10p,CRP 236,Lagoze (cjl2),
+10655,DIS,F,2:30p - 3:20p,CRP 237,Lagoze (cjl2),
+16745,DIS,F,12:20p - 1:10p,CRP 237,Lagoze (cjl2),
+10654,DIS,F,2:30p - 3:20p,CRP 236,Lagoze (cjl2),
+10653,DIS,F,1:25p - 2:15p,CRP 235,Lagoze (cjl2),
+10652,DIS,F,12:20p - 1:10p,CRP 235,Lagoze (cjl2),
+10651,LEC,MW,2:30p - 3:20p,PHL 101,Lagoze (cjl2),
+

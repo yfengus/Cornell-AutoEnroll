@@ -1,0 +1,7 @@
+16819,DIS,W,7:30p - 9:30p,UPS 109,Fisher (emf4),
+16818,DIS,W,7:30p - 9:30p,UPS 207,Fisher (emf4),
+16202,DIS,W,7:30p - 9:30p,UPS 215,Fisher (emf4),
+16201,DIS,W,7:30p - 9:30p,UPS 211,Fisher (emf4),
+10393,DIS,W,7:30p - 9:30p,UPS 205,Fisher (emf4),
+10392,LEC,TR,2:55p - 4:10p,PHL 101,Fisher (emf4),
+

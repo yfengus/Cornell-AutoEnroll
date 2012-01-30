@@ -1,0 +1,4 @@
+14538,DIS,W,11:15a - 12:05p,URH G26,Despic (md682),
+14537,DIS,W,9:05a - 9:55a,URH 303,Despic (md682),
+8240,LEC,TR,1:25p - 2:40p,MRL 110,Despic (md682),
+

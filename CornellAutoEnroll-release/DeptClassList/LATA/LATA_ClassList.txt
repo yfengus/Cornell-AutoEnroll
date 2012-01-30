@@ -1,0 +1,16 @@
+LATA 2062,Migrant Workers in the Americas,http://cornell.chequerd.com/courses/11186/LATA/2062/
+LATA 2150,The Tradition of Rupture: Latin American Writing From Modernism to the Present,http://cornell.chequerd.com/courses/2524/LATA/2150/
+LATA 2170,Early HIspanic Modernities: Readings in Medieval and Early Modern Iberian and Spanish American Lit,http://cornell.chequerd.com/courses/2525/LATA/2170/
+LATA 2240,Perspectives on the Caribbean,http://cornell.chequerd.com/courses/8777/LATA/2240/
+LATA 3010,Hispanic Theater Production,http://cornell.chequerd.com/courses/2526/LATA/3010/
+LATA 3290,Comparative Politics of Latin America,http://cornell.chequerd.com/courses/5547/LATA/3290/
+LATA 3609,Brazilian Ensemble - Deixa Sambar,http://cornell.chequerd.com/courses/10445/LATA/3609/
+LATA 3613,Steel Band,http://cornell.chequerd.com/courses/10446/LATA/3613/
+LATA 4000,Contemporary Issues in Latin - Latino America,http://cornell.chequerd.com/courses/11419/LATA/4000/
+LATA 4010,Experience Latin America: Rural and Urban Realities I,http://cornell.chequerd.com/courses/2532/LATA/4010/
+LATA 4712,Cuisine. Production, & Biodiversity in Peru 2,http://cornell.chequerd.com/courses/9522/LATA/4712/
+LATA 4970,Independent Study,http://cornell.chequerd.com/courses/5550/LATA/4970/
+LATA 6000,Contem Issues in Latin America,http://cornell.chequerd.com/courses/2535/LATA/6000/
+LATA 6350,Indigenous Peoples and Globalization,http://cornell.chequerd.com/courses/11187/LATA/6350/
+LATA 6700,Regional Planning and Development in Developing Nations,http://cornell.chequerd.com/courses/8014/LATA/6700/
+

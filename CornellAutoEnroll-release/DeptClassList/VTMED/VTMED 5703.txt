@@ -1,0 +1,4 @@
+13641,LAB,TBA,,,McDaniel (cm326),
+13640,DIS,TBA,,,McDaniel (cm326),
+13636,LEC,TBA,,,McDaniel (cm326),
+

@@ -1,0 +1,41 @@
+[Windows User]
+
+
+1. Double click jre-6u30-window-i586.exe to install Java Runtime Environment
+
+2. If you don't have Firefox installed on your computer, go to http://www.mozilla.org/en-US/firefox/new/ and download the newest version of Firefox
+
+3. Double click jarfix.exe to fix file association of *.jar
+
+4. Double click CornellAutoEnroll.jar
+
+5. Select and add your desired classes to the list one by one, based on relative importance. (i.e. the most important class should be added first)
+
+6. Click "Start!", and wait for a few seconds. In the Firefox window that the program brings up, type in your netID and password to log into Student Center 
+
+7. Auto-enrolling will be started instantly
+
+
+
+
+
+
+
+[Mac User]
+
+
+1. If you don't have Firefox installed on your computer, go to http://www.mozilla.org/en-US/firefox/new/ and download the newest version of Firefox.
+
+
+2. Double click CornellAutoEnroll.jar
+
+
+
+3. Select and add your desired classes to the list one by one, based on relative importance. (i.e. the most important class should be added first)
+
+4. Click "Start!", and wait for a few seconds. In the Firefox window that the program brings up, type in your netID and password to log into Student Center 
+
+5. Auto-enrolling will be started instantly
+
+
+Enjoy!

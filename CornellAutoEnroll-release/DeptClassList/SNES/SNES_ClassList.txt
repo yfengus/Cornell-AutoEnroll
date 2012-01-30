@@ -1,0 +1,4 @@
+SNES 4940,Special Topics in Science of Natural and Environmental Systems,http://cornell.chequerd.com/courses/11263/SNES/4940/
+SNES 4960,Internships in Environmental Sciences,http://cornell.chequerd.com/courses/3647/SNES/4960/
+SNES 4970,Individual Study in Environmental Systems,http://cornell.chequerd.com/courses/6248/SNES/4970/
+

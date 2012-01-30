@@ -1,0 +1,5 @@
+VIET 1122,Elementary Vietnamese II,http://cornell.chequerd.com/courses/11291/VIET/1122/
+VIET 2202,Intermediate Vietnamese,http://cornell.chequerd.com/courses/6404/VIET/2202/
+VIET 2204,Intermediate Vietnamese Composition and Reading,http://cornell.chequerd.com/courses/6405/VIET/2204/
+VIET 3302,Advanced Vietnamese,http://cornell.chequerd.com/courses/6406/VIET/3302/
+

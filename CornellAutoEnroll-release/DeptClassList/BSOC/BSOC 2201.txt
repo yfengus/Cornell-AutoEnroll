@@ -1,0 +1,8 @@
+16792,DIS,R,10:10a - 11:00a,BDF 110,Stedman (rcs6),
+16791,DIS,R,1:25p - 2:15p,PLS 143,Stedman (rcs6),
+15564,DIS,F,2:30p - 3:20p,BDF 105,Stedman (rcs6),
+15563,DIS,F,9:05a - 9:55a,PLS 143,Stedman (rcs6),
+15562,DIS,R,3:35p - 4:25p,MRS 334,Stedman (rcs6),
+15561,DIS,R,2:30p - 3:20p,LNC 107,Stedman (rcs6),
+9004,LEC,TR,9:05a - 9:55a,RRB 125,Stedman (rcs6),
+

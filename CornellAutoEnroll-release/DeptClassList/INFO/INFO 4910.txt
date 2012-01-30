@@ -1,0 +1,12 @@
+11711,IND,TBA,,,Guimbretiere (fvg3),
+11710,IND,TBA,,,Gomes (cpg5),
+11709,IND,TBA,,,Ginsparg (phg5),
+11708,IND,TBA,,,Gillespie (tlg28),
+11707,IND,TBA,,,Gehrke (jeg27),
+11706,IND,TBA,,,Frost (srf7),
+11705,IND,TBA,,,Gay (gkg1),
+11704,IND,TBA,,,Fussell (srf72),
+11703,IND,TBA,,,Cosley (drc44),
+11702,IND,TBA,,,Cardie (ctc9),
+10668,IND,TBA,,,Birnholtz (jpb277),
+

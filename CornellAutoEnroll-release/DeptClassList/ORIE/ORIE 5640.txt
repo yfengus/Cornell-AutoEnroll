@@ -1,0 +1,3 @@
+10770,DIS,F,9:05a - 11:00a,RHD 471,Ruppert (dr24),
+10769,LEC,MW,8:40a - 9:55a,PHL 203,Ruppert (dr24),
+

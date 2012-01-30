@@ -1,0 +1,4 @@
+16320,SEM,TR,1:25p - 2:40p,GSH 348,Courtney (sgc47),
+16319,SEM,TR,10:10a - 11:25a,URH G88,Grove (kwg33),
+16316,SEM,TR,11:40a - 12:55p,MRL 110,Bjorndahl (cjm295), Abusch (da45),
+

@@ -1,0 +1,3 @@
+13608,LAB,F,2:00p - 4:30p,BSC S2069B,Bowser (prb4),
+13607,LEC,F,1:00p - 2:00p,,Bowser (prb4),
+

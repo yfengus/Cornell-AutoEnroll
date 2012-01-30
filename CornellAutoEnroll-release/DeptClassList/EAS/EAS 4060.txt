@@ -1,0 +1,3 @@
+15339,LAB,W,2:00p - 4:25p,SNE 2154,Phipps-Morgan (jp369),
+15338,LEC,TR,10:10a - 11:25a,SNE 2154,Phipps-Morgan (jp369),
+

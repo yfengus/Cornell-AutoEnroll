@@ -1,0 +1,42 @@
+COML 1109,FWS:Writing Across Cultures,http://cornell.chequerd.com/courses/1034/COML/1109/
+COML 1126,FWS:ARTS:,http://cornell.chequerd.com/courses/4641/COML/1126/
+COML 1133,FWS: Studies in Literary Theory,http://cornell.chequerd.com/courses/8520/COML/1133/
+COML 2000,Introduction to Visual Studies,http://cornell.chequerd.com/courses/4642/COML/2000/
+COML 2020,Great Books,http://cornell.chequerd.com/courses/4643/COML/2020/
+COML 2030,Introduction to Comparative Literature,http://cornell.chequerd.com/courses/1039/COML/2030/
+COML 2040,Global Fictions,http://cornell.chequerd.com/courses/7640/COML/2040/
+COML 2531,Cultures of the Middle Ages,http://cornell.chequerd.com/courses/10980/COML/2531/
+COML 2728,Introduction to Modern Middle Eastern Literature,http://cornell.chequerd.com/courses/7642/COML/2728/
+COML 3010,Hispanic Theater Production,http://cornell.chequerd.com/courses/10981/COML/3010/
+COML 3115,Video and New Media: Art, Theory, Politics,http://cornell.chequerd.com/courses/9307/COML/3115/
+COML 3150,Literature & Media in Japan,http://cornell.chequerd.com/courses/6781/COML/3150/
+COML 3260,Christianity and Judaism,http://cornell.chequerd.com/courses/4648/COML/3260/
+COML 3300,Political Theory and Cinema,http://cornell.chequerd.com/courses/7643/COML/3300/
+COML 3730,Literature of the Outlaw,http://cornell.chequerd.com/courses/10982/COML/3730/
+COML 3820,Greeks, Romans, and Victorians,http://cornell.chequerd.com/courses/4653/COML/3820/
+COML 4061,The Task of the Cleric,http://cornell.chequerd.com/courses/10983/COML/4061/
+COML 4117,Sounding the Animal,http://cornell.chequerd.com/courses/10984/COML/4117/
+COML 4200,Independent Study,http://cornell.chequerd.com/courses/4659/COML/4200/
+COML 4205,Aesthetic Theory and Participatory Act,http://cornell.chequerd.com/courses/10985/COML/4205/
+COML 4220,Literature and Oblivion,http://cornell.chequerd.com/courses/6790/COML/4220/
+COML 4240,The Animal,http://cornell.chequerd.com/courses/10986/COML/4240/
+COML 4260,New Testament Seminar,http://cornell.chequerd.com/courses/4660/COML/4260/
+COML 4339,Bodies at the Border,http://cornell.chequerd.com/courses/10987/COML/4339/
+COML 4500,Renaissance Poetry,http://cornell.chequerd.com/courses/1051/COML/4500/
+COML 4700,Translation and Cultural Difference,http://cornell.chequerd.com/courses/4661/COML/4700/
+COML 4790,Introduction to Media Theory,http://cornell.chequerd.com/courses/10988/COML/4790/
+COML 4798,Autonimia:Cinema, Literature, Art and Politics in and around Italy. 1962-1979,http://cornell.chequerd.com/courses/11348/COML/4798/
+COML 4830,Imagining the Holocaust,http://cornell.chequerd.com/courses/1055/COML/4830/
+COML 4940,Senior Essay,http://cornell.chequerd.com/courses/4666/COML/4940/
+COML 6032,The Diary: Writing Time and Self,http://cornell.chequerd.com/courses/10989/COML/6032/
+COML 6155,Explosive Histories,http://cornell.chequerd.com/courses/10990/COML/6155/
+COML 6170,Hans Blumenberg: Metaphore, Myth, Paradigm,http://cornell.chequerd.com/courses/10991/COML/6170/
+COML 6200,Independent Study,http://cornell.chequerd.com/courses/4669/COML/6200/
+COML 6225,Literary Theory and Cognitive Science,http://cornell.chequerd.com/courses/10992/COML/6225/
+COML 6339,Bodies at the Border,http://cornell.chequerd.com/courses/11325/COML/6339/
+COML 6435,Joyce's Ulysses,http://cornell.chequerd.com/courses/11364/COML/6435/
+COML 6500,Renaissance Poetry,http://cornell.chequerd.com/courses/1065/COML/6500/
+COML 6661,Persecution and the Art of Writing,http://cornell.chequerd.com/courses/10993/COML/6661/
+COML 6765,Libertinage and Perversion,http://cornell.chequerd.com/courses/10994/COML/6765/
+COML 6820,Cultural Materialism and Geopolitics,http://cornell.chequerd.com/courses/6807/COML/6820/
+

@@ -1,0 +1,20 @@
+RELST 2204,Introduction to Quranic Arabic,http://cornell.chequerd.com/courses/6199/RELST/2204/
+RELST 2250,Introduction to Asian Religions,http://cornell.chequerd.com/courses/3577/RELST/2250/
+RELST 2277,Meditation In Indian Culture,http://cornell.chequerd.com/courses/6201/RELST/2277/
+RELST 2556,Introduction to the Quran,http://cornell.chequerd.com/courses/11253/RELST/2556/
+RELST 2630,Religion and Reason,http://cornell.chequerd.com/courses/8194/RELST/2630/
+RELST 3260,Christianity and Judaism,http://cornell.chequerd.com/courses/6203/RELST/3260/
+RELST 3344,Introduction to Indian Philosophy,http://cornell.chequerd.com/courses/3582/RELST/3344/
+RELST 3420,Myth, Ritual, and Symbol,http://cornell.chequerd.com/courses/6205/RELST/3420/
+RELST 3588,Biblical Archaeology,http://cornell.chequerd.com/courses/8197/RELST/3588/
+RELST 3677,Search For The Historical Muhammad,http://cornell.chequerd.com/courses/8198/RELST/3677/
+RELST 4100,Latin Philosophical Texts,http://cornell.chequerd.com/courses/7303/RELST/4100/
+RELST 4102,Readings in the Biblical Hebrew Prose,http://cornell.chequerd.com/courses/7304/RELST/4102/
+RELST 4260,New Testament Seminar,http://cornell.chequerd.com/courses/6209/RELST/4260/
+RELST 4449,History and Methods of the Academic Study of Religion,http://cornell.chequerd.com/courses/8200/RELST/4449/
+RELST 4730,Film and Spiritual Questions,http://cornell.chequerd.com/courses/8201/RELST/4730/
+RELST 4750,Archaeology of Greek Religion: Theory, Methods, and Practice,http://cornell.chequerd.com/courses/11255/RELST/4750/
+RELST 4991,Directed Study,http://cornell.chequerd.com/courses/6212/RELST/4991/
+RELST 4996,Senior Honors Essay II,http://cornell.chequerd.com/courses/6213/RELST/4996/
+RELST 6020,Latin Philosophical Texts,http://cornell.chequerd.com/courses/3593/RELST/6020/
+

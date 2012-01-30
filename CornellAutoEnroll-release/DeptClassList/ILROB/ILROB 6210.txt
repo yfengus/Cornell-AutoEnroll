@@ -1,0 +1,3 @@
+15270,LEC,W,2:55p - 4:10p,IVS 112,Rubineau (br263),
+15270,LEC,M,2:55p - 4:10p,IVS 118,Rubineau (br263),
+

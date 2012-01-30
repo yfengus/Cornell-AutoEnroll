@@ -1,0 +1,6 @@
+14584,RSC,TBA,,,Weber-Shirk (mw24),
+14583,RSC,TBA,,,Richardson (rer26),
+14582,RSC,TBA,,,Lion (lwl3),
+14581,RSC,TBA,,,Gossett (jmg18),
+14580,RSC,TBA,,,Bisogni (jjb2),
+

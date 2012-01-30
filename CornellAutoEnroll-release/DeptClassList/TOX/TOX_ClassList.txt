@@ -1,0 +1,7 @@
+TOX 5970,Risk Analysis and Management,http://cornell.chequerd.com/courses/6382/TOX/5970/
+TOX 6110,Molecular Toxicology (also TOX 6110),http://cornell.chequerd.com/courses/6383/TOX/6110/
+TOX 6990,Toxicology Journal Club,http://cornell.chequerd.com/courses/6384/TOX/6990/
+TOX 7130,Cell Cycle Analysis,http://cornell.chequerd.com/courses/11289/TOX/7130/
+TOX 8900,Master's Thesis and Research,http://cornell.chequerd.com/courses/3834/TOX/8900/
+TOX 9900,Doctoral Thesis and Research,http://cornell.chequerd.com/courses/3835/TOX/9900/
+

@@ -1,0 +1,5 @@
+6955,SEM,MWF,2:30p - 3:20p,MRL 102,Mehta (yl43),
+5939,SEM,MWF,11:15a - 12:05p,URH G88,Mehta (yl43),
+5938,SEM,MWF,10:10a - 11:00a,RCK 183,Mehta (yl43),
+5937,SEM,MWF,9:05a - 9:55a,RCK B16,Mehta (yl43),
+

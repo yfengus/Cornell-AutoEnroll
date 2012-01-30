@@ -1,0 +1,3 @@
+BURM 1122,Elementary Burmese,http://cornell.chequerd.com/courses/4489/BURM/1122/
+BURM 2204,Intermediate Burmese II,http://cornell.chequerd.com/courses/4491/BURM/2204/
+

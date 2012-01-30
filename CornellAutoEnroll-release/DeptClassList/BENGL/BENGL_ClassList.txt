@@ -1,0 +1,5 @@
+BENGL 1122,Elementary Bengali,http://cornell.chequerd.com/courses/4346/BENGL/1122/
+BENGL 2202,Intermediate Reading and Conversation,http://cornell.chequerd.com/courses/4347/BENGL/2202/
+BENGL 2206,High Intermediate Bengali II,http://cornell.chequerd.com/courses/10948/BENGL/2206/
+BENGL 3302,Advanced Bengali II,http://cornell.chequerd.com/courses/7548/BENGL/3302/
+

@@ -1,0 +1,3 @@
+15042,LEC,TR,1:25p - 2:40p,IVS 116,Lieberwitz (rll5),
+13322,LEC,W,1:25p - 4:25p,IVS 111,Nelson (smn33),
+

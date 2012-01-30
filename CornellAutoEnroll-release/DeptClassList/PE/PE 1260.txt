@@ -1,0 +1,3 @@
+9053,LEC,TR,12:20p - 1:10p,HNH 235,Cho (hdc9),
+9052,LEC,U,3:30p - 5:20p,BTL 101,Cho (hdc9),
+

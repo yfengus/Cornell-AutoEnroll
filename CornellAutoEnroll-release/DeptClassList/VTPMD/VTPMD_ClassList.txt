@@ -1,0 +1,13 @@
+VTPMD 2990,Undergraduate Research in Epidemiology,http://cornell.chequerd.com/courses/6506/VTPMD/2990/
+VTPMD 6250,Evolutionary Genomics of Bacteria,http://cornell.chequerd.com/courses/6507/VTPMD/6250/
+VTPMD 6650,Study Designs (Graduate),http://cornell.chequerd.com/courses/6508/VTPMD/6650/
+VTPMD 7000,Special Projects in Diagnostic Endocrinology,http://cornell.chequerd.com/courses/3965/VTPMD/7000/
+VTPMD 7010,Special Projects in Infectious Diseases,http://cornell.chequerd.com/courses/6509/VTPMD/7010/
+VTPMD 7020,Special Topics in Infectious Diseases,http://cornell.chequerd.com/courses/7397/VTPMD/7020/
+VTPMD 7040,Master Level Thesis Research (Graduate),http://cornell.chequerd.com/courses/3966/VTPMD/7040/
+VTPMD 7070,Clinical Biostatistics (Graduate),http://cornell.chequerd.com/courses/6510/VTPMD/7070/
+VTPMD 7080,Epidemiology Seminar Series,http://cornell.chequerd.com/courses/3967/VTPMD/7080/
+VTPMD 7660,Graduate Research (Graduate),http://cornell.chequerd.com/courses/3968/VTPMD/7660/
+VTPMD 7690,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/3969/VTPMD/7690/
+VTPMD 7990,Independent Studies in Epidemiology,http://cornell.chequerd.com/courses/3970/VTPMD/7990/
+

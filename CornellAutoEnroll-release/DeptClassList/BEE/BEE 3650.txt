@@ -1,0 +1,6 @@
+16656,LAB,R,2:30p - 4:25p,RRB B60,Bartsch (jab35),
+1482,LAB,F,2:30p - 4:25p,RRB B60,Bartsch (jab35),
+1481,LAB,W,7:30p - 9:25p,RRB B60,Bartsch (jab35),
+1480,LAB,W,2:30p - 4:25p,RRB B60,Bartsch (jab35),
+1479,LEC,TR,12:20p - 1:10p,RRB 105,Bartsch (jab35),
+

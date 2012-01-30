@@ -1,0 +1,13 @@
+9077,LEC,F,1:30p - 3:00p,HNH B22,Volbrecht (ddv4),
+9076,LEC,F,11:30a - 1:00p,HNH B22,Volbrecht (ddv4),
+9075,LEC,W,4:30p - 6:00p,HNH B22,Volbrecht (ddv4),
+9074,LEC,TR,2:45p - 3:30p,HNH B22,Volbrecht (ddv4),
+9073,LEC,TR,12:25p - 1:10p,HNH B22,Volbrecht (ddv4),
+9072,LEC,TR,11:30a - 12:15p,HNH B22,Volbrecht (ddv4),
+9071,LEC,TR,10:15a - 11:00a,HNH B22,Volbrecht (ddv4),
+9070,LEC,MW,2:45p - 3:30p,HNH B22,Volbrecht (ddv4),
+9069,LEC,MW,1:30p - 2:15p,HNH B22,Volbrecht (ddv4),
+9068,LEC,MW,12:25p - 1:40p,HNH B22,Volbrecht (ddv4),
+9067,LEC,MW,11:30a - 12:15p,HNH B22,Volbrecht (ddv4),
+9066,LEC,MW,10:15a - 11:00a,HNH B22,Volbrecht (ddv4),
+

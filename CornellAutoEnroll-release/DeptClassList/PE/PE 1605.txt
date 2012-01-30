@@ -1,0 +1,3 @@
+9091,LEC,S,10:00a - 5:00p,BTL B01,Holton (mh45), Leeming (csl45), Woodin (akw2),
+9065,LEC,F,1:30p - 6:00p,BTL B01,Holton (mh45), Leeming (csl45), Woodin (akw2),
+

@@ -1,0 +1,79 @@
+NBA 3000,Entrepreneur & Private Equities,http://cornell.chequerd.com/courses/2907/NBA/3000/
+NBA 4120,Equity Investment Analysis,http://cornell.chequerd.com/courses/11395/NBA/4120/
+NBA 5000,Intermediate Accounting,http://cornell.chequerd.com/courses/5831/NBA/5000/
+NBA 5010,TAXES AND BUSINESS STRATEGY,http://cornell.chequerd.com/courses/5832/NBA/5010/
+NBA 5020,Managerial Cost Accounting,http://cornell.chequerd.com/courses/2908/NBA/5020/
+NBA 5060,Financial Statement Analysis,http://cornell.chequerd.com/courses/2910/NBA/5060/
+NBA 5070,Entrepreneurship for Scientists & Engineers,http://cornell.chequerd.com/courses/2911/NBA/5070/
+NBA 5100,Social Entrepreneurship,http://cornell.chequerd.com/courses/9762/NBA/5100/
+NBA 5110,Financial Modeling,http://cornell.chequerd.com/courses/2913/NBA/5110/
+NBA 5130,International Finance Cases,http://cornell.chequerd.com/courses/5833/NBA/5130/
+NBA 5140,Ethics and Corporate Culture,http://cornell.chequerd.com/courses/5834/NBA/5140/
+NBA 5150,Leadership Theory And Practice,http://cornell.chequerd.com/courses/2914/NBA/5150/
+NBA 5190,Sustainability as a Driver for Innovation in the Entrepreneurial Organization,http://cornell.chequerd.com/courses/5835/NBA/5190/
+NBA 5200,Retail Operations,http://cornell.chequerd.com/courses/8090/NBA/5200/
+NBA 5220,International Negotiations,http://cornell.chequerd.com/courses/5836/NBA/5220/
+NBA 5240,Macroeconomics & International Trade,http://cornell.chequerd.com/courses/2916/NBA/5240/
+NBA 5290,Executing Successful Corporate Strategy,http://cornell.chequerd.com/courses/5840/NBA/5290/
+NBA 5320,DUE DILLIGENCE IN PRVATE EQUITY INVESTEMENTS,http://cornell.chequerd.com/courses/5841/NBA/5320/
+NBA 5330,MANAGEMENT CASES AND CONSULTING PROCESS,http://cornell.chequerd.com/courses/5842/NBA/5330/
+NBA 5390,Cornell Lectures in Finance,http://cornell.chequerd.com/courses/8092/NBA/5390/
+NBA 5420,Investment and Portfolio Mgmt.,http://cornell.chequerd.com/courses/5844/NBA/5420/
+NBA 5430,Financial Markets & Institutions,http://cornell.chequerd.com/courses/2919/NBA/5430/
+NBA 5460,LIABILITY DRIVEN ALPHA,http://cornell.chequerd.com/courses/5845/NBA/5460/
+NBA 5470,Operational Alpha,http://cornell.chequerd.com/courses/5846/NBA/5470/
+NBA 5480,Global Business Risk Management,http://cornell.chequerd.com/courses/5847/NBA/5480/
+NBA 5530,Accounting & Financial Decision Making,http://cornell.chequerd.com/courses/5848/NBA/5530/
+NBA 5540,International Finance,http://cornell.chequerd.com/courses/5849/NBA/5540/
+NBA 5580,Corporate Financial Policy,http://cornell.chequerd.com/courses/2925/NBA/5580/
+NBA 5590,Venture Capital Industry & Private Equity Markets,http://cornell.chequerd.com/courses/5850/NBA/5590/
+NBA 5610,Business Law II,http://cornell.chequerd.com/courses/5851/NBA/5610/
+NBA 5630,The IPO and M & A Process,http://cornell.chequerd.com/courses/2928/NBA/5630/
+NBA 5640,Entrepreneueurship & Private Equity,http://cornell.chequerd.com/courses/2929/NBA/5640/
+NBA 5650,Corporate Governance,http://cornell.chequerd.com/courses/5852/NBA/5650/
+NBA 5660,Oral and Written Communications,http://cornell.chequerd.com/courses/2930/NBA/5660/
+NBA 5670,Management Writing,http://cornell.chequerd.com/courses/2931/NBA/5670/
+NBA 5680,Oral Communication,http://cornell.chequerd.com/courses/2932/NBA/5680/
+NBA 5710,Cornell Management Simulation,http://cornell.chequerd.com/courses/2935/NBA/5710/
+NBA 5720,Investment in Real Estate Securities and Funds,http://cornell.chequerd.com/courses/5853/NBA/5720/
+NBA 5760,International Consulting Practicum,http://cornell.chequerd.com/courses/9562/NBA/5760/
+NBA 5780,Consulting Process,http://cornell.chequerd.com/courses/2936/NBA/5780/
+NBA 5840,International Competitive Strategy,http://cornell.chequerd.com/courses/5857/NBA/5840/
+NBA 5850,ADVANCED TOPICS IN VALUATION,http://cornell.chequerd.com/courses/2940/NBA/5850/
+NBA 5860,Cross-Cultural Management,http://cornell.chequerd.com/courses/8094/NBA/5860/
+NBA 5870,INTERNATIONAL MERGERS & ACQ.,http://cornell.chequerd.com/courses/5858/NBA/5870/
+NBA 5920,Experience in International Management,http://cornell.chequerd.com/courses/5860/NBA/5920/
+NBA 5930,International Entrepreneurship,http://cornell.chequerd.com/courses/5861/NBA/5930/
+NBA 5970,Competing with Social Networks,http://cornell.chequerd.com/courses/11375/NBA/5970/
+NBA 6010,Electronic Commerce,http://cornell.chequerd.com/courses/5865/NBA/6010/
+NBA 6030,Sustainable Global Enterprise,http://cornell.chequerd.com/courses/5866/NBA/6030/
+NBA 6120,Disruptive Technologies,http://cornell.chequerd.com/courses/2946/NBA/6120/
+NBA 6130,Women in Leadership,http://cornell.chequerd.com/courses/8095/NBA/6130/
+NBA 6140,Green Leap Strategies,http://cornell.chequerd.com/courses/8096/NBA/6140/
+NBA 6170,Emerging Technology Markets,http://cornell.chequerd.com/courses/5870/NBA/6170/
+NBA 6180,GLOBAL INNNOVATION & TECHNOLOGY COMMERCIALIZATION,http://cornell.chequerd.com/courses/5871/NBA/6180/
+NBA 6200,Marketing Research,http://cornell.chequerd.com/courses/5872/NBA/6200/
+NBA 6210,Marketing Communications,http://cornell.chequerd.com/courses/2947/NBA/6210/
+NBA 6340,CUSTOMER RELATIONSHIP MANAGEMENT,http://cornell.chequerd.com/courses/5874/NBA/6340/
+NBA 6350,International Economic Law,http://cornell.chequerd.com/courses/11225/NBA/6350/
+NBA 6380,Finance & Sustainable Global Enterprise Colloquium,http://cornell.chequerd.com/courses/11421/NBA/6380/
+NBA 6390,Data Driven Marketing,http://cornell.chequerd.com/courses/5875/NBA/6390/
+NBA 6410,Logistics & Manfucturing Strategy,http://cornell.chequerd.com/courses/5876/NBA/6410/
+NBA 6430,Managerial Spreadsheet Modeling,http://cornell.chequerd.com/courses/2952/NBA/6430/
+NBA 6460,Financial Institutions,http://cornell.chequerd.com/courses/11226/NBA/6460/
+NBA 6560,Valuation Principles,http://cornell.chequerd.com/courses/2955/NBA/6560/
+NBA 6570,Entrepreneurial Marketing,http://cornell.chequerd.com/courses/8097/NBA/6570/
+NBA 6590,CASES IN FINANCIAL INSTITUTION,http://cornell.chequerd.com/courses/5879/NBA/6590/
+NBA 6620,PRODUCT MANAGEMENT,http://cornell.chequerd.com/courses/5880/NBA/6620/
+NBA 6650,The Strategic Management of Technology & Innovation,http://cornell.chequerd.com/courses/5881/NBA/6650/
+NBA 6700,Becoming a Leader,http://cornell.chequerd.com/courses/5883/NBA/6700/
+NBA 6710,Business Ethics,http://cornell.chequerd.com/courses/2959/NBA/6710/
+NBA 6730,Introduction to Derivatives,http://cornell.chequerd.com/courses/2960/NBA/6730/
+NBA 6760,ORGANIZING FOR STRATEGIC ADVANTAGE,http://cornell.chequerd.com/courses/5884/NBA/6760/
+NBA 6780,Advanced Private Equity: Negotiations and Structuring,http://cornell.chequerd.com/courses/2962/NBA/6780/
+NBA 6800,Entrepreneurial Executives,http://cornell.chequerd.com/courses/8099/NBA/6800/
+NBA 6820,Negotiations Essentials,http://cornell.chequerd.com/courses/2963/NBA/6820/
+NBA 6860,Startup Learning Series,http://cornell.chequerd.com/courses/8100/NBA/6860/
+NBA 6950,GAME THEORY & BUSINESS STRATEGY,http://cornell.chequerd.com/courses/5888/NBA/6950/
+NBA 6980,WTO and International Trade Law,http://cornell.chequerd.com/courses/11227/NBA/6980/
+

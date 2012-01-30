@@ -1,0 +1,4 @@
+14036,DIS,W,10:10a - 11:00a,RCK 103,Hite (mph7),
+14035,DIS,W,10:10a - 11:00a,GSH 236,Hite (mph7),
+13960,LEC,MF,10:10a - 11:00a,RCK 132,Hite (mph7),
+

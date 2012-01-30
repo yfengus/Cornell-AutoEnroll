@@ -1,0 +1,5 @@
+11964,DIS,F,1:25p - 2:15p,STL 196,Chong (hc757),
+11963,DIS,F,8:40a - 9:30a,STL 196,Chong (hc757),
+11955,LEC,TR,11:40a - 12:55p,STL 396,Chong (hc757),
+11954,LEC,TR,10:10a - 11:25a,STL 396,Chong (hc757),
+

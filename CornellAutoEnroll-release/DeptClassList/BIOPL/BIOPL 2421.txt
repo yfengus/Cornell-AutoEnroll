@@ -1,0 +1,7 @@
+2790,LAB,W,1:25p - 4:25p,PLS 248,Silva (ts21),
+2789,DIS,W,12:20p - 1:10p,PLS 141,Silva (ts21),
+2788,LAB,T,1:25p - 4:25p,PLS 248,Silva (ts21),
+2787,DIS,T,12:20p - 1:10p,PLS 141,Silva (ts21),
+2786,LAB,M,1:25p - 4:25p,PLS 248,Silva (ts21),
+2785,DIS,M,12:20p - 1:10p,PLS 141,Silva (ts21),
+

@@ -1,0 +1,16 @@
+VIEN 1104,Introduction to Wines and Vines,http://cornell.chequerd.com/courses/6396/VIEN/1104/
+VIEN 1105,Introduction to Wines and Vines Laboratory,http://cornell.chequerd.com/courses/6397/VIEN/1105/
+VIEN 3120,Sustainability and Organic Grape and Wine Production I,http://cornell.chequerd.com/courses/9641/VIEN/3120/
+VIEN 3440,Viticulture and Vineyard Management,http://cornell.chequerd.com/courses/9642/VIEN/3440/
+VIEN 3800,Winemaking Theory and Practice II,http://cornell.chequerd.com/courses/8289/VIEN/3800/
+VIEN 3810,Winemaking Theory and Practice II Laboratory,http://cornell.chequerd.com/courses/8290/VIEN/3810/
+VIEN 4300,Understanding Wine and Beer,http://cornell.chequerd.com/courses/6398/VIEN/4300/
+VIEN 4400,Wine and Grape Flavor Development,http://cornell.chequerd.com/courses/6399/VIEN/4400/
+VIEN 4460,Advanced Viticulture Topics,http://cornell.chequerd.com/courses/8291/VIEN/4460/
+VIEN 4600,Wine Microbiology,http://cornell.chequerd.com/courses/8292/VIEN/4600/
+VIEN 4960,Viticulture and Enology Internship,http://cornell.chequerd.com/courses/6402/VIEN/4960/
+VIEN 4970,Individual Study in Viticulture and Enology,http://cornell.chequerd.com/courses/8935/VIEN/4970/
+VIEN 4980,Undergraduate Teaching Experience,http://cornell.chequerd.com/courses/8936/VIEN/4980/
+VIEN 4990,Undergraduate Research in VIEN,http://cornell.chequerd.com/courses/8937/VIEN/4990/
+VIEN 6460,Advanced Viticulture Topics,http://cornell.chequerd.com/courses/8293/VIEN/6460/
+

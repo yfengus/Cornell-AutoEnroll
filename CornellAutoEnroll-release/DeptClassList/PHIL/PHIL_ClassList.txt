@@ -1,0 +1,31 @@
+PHIL 1100,Introduction to Philosophy,http://cornell.chequerd.com/courses/3395/PHIL/1100/
+PHIL 1110,FWS: Philosopy in Practice,http://cornell.chequerd.com/courses/3396/PHIL/1110/
+PHIL 1111,FWS: Philosphical Problems,http://cornell.chequerd.com/courses/3397/PHIL/1111/
+PHIL 1112,FWS: Philosophical Conversations,http://cornell.chequerd.com/courses/3398/PHIL/1112/
+PHIL 1450,Contemporary Moral Issues,http://cornell.chequerd.com/courses/7269/PHIL/1450/
+PHIL 2200,Ancient Philosophy,http://cornell.chequerd.com/courses/3401/PHIL/2200/
+PHIL 2240,19th and 20th Century European Thought,http://cornell.chequerd.com/courses/8165/PHIL/2240/
+PHIL 2410,Ethics,http://cornell.chequerd.com/courses/3402/PHIL/2410/
+PHIL 2490,Feminism and Philosophy,http://cornell.chequerd.com/courses/3403/PHIL/2490/
+PHIL 2530,Religion and Reason,http://cornell.chequerd.com/courses/8166/PHIL/2530/
+PHIL 3441,History Of Ethics: Modern,http://cornell.chequerd.com/courses/11244/PHIL/3441/
+PHIL 3480,Philosophy of Law,http://cornell.chequerd.com/courses/11245/PHIL/3480/
+PHIL 3510,Aesthetics,http://cornell.chequerd.com/courses/6101/PHIL/3510/
+PHIL 3850,Philosophy of Physics,http://cornell.chequerd.com/courses/11246/PHIL/3850/
+PHIL 3900,Independent Study,http://cornell.chequerd.com/courses/3413/PHIL/3900/
+PHIL 3970,Language and Image,http://cornell.chequerd.com/courses/11247/PHIL/3970/
+PHIL 4002,Latin Philosophical Texts,http://cornell.chequerd.com/courses/7275/PHIL/4002/
+PHIL 4003,German Philosophical Texts,http://cornell.chequerd.com/courses/3414/PHIL/4003/
+PHIL 4110,Greek Philosophical Texts,http://cornell.chequerd.com/courses/10497/PHIL/4110/
+PHIL 4200,Topics in Ancient Philosophy,http://cornell.chequerd.com/courses/6103/PHIL/4200/
+PHIL 4720,Pragmatics,http://cornell.chequerd.com/courses/3418/PHIL/4720/
+PHIL 4901,Informal Study for Honors,http://cornell.chequerd.com/courses/6105/PHIL/4901/
+PHIL 6010,Greek Philosophical Texts,http://cornell.chequerd.com/courses/3420/PHIL/6010/
+PHIL 6020,Latin Philosophical Texts,http://cornell.chequerd.com/courses/3421/PHIL/6020/
+PHIL 6030,German Philosophical Texts,http://cornell.chequerd.com/courses/3422/PHIL/6030/
+PHIL 6210,Medieval Philosophy,http://cornell.chequerd.com/courses/7278/PHIL/6210/
+PHIL 6470,Normative Issues in International Relations,http://cornell.chequerd.com/courses/8173/PHIL/6470/
+PHIL 6610,Epistemology,http://cornell.chequerd.com/courses/11248/PHIL/6610/
+PHIL 6710,Philosophy of Language,http://cornell.chequerd.com/courses/6108/PHIL/6710/
+PHIL 7000,Informal Study,http://cornell.chequerd.com/courses/7279/PHIL/7000/
+

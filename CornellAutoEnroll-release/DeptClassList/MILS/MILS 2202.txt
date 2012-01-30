@@ -1,0 +1,3 @@
+13422,LEC,W,1:25p - 2:15p,TBA,Miller (bmm67), (bp79),
+13421,LEC,T,1:25p - 2:15p,TBA,Davis (mad267),
+

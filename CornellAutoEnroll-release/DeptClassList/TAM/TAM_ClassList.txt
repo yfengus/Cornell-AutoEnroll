@@ -1,0 +1,5 @@
+TAM 2020,Statics and Mechanics of Solids,http://cornell.chequerd.com/courses/10745/TAM/2020/
+TAM 2030,Dynamics,http://cornell.chequerd.com/courses/10692/TAM/2030/
+TAM 6130,Asymptotics and Perturbation Methods,http://cornell.chequerd.com/courses/7360/TAM/6130/
+TAM 6550,Composite Materials,http://cornell.chequerd.com/courses/6338/TAM/6550/
+

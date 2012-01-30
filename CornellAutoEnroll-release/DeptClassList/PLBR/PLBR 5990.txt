@@ -1,0 +1,13 @@
+1071,RSC,TBA,,,Viands (drv3),
+1070,RSC,TBA,,,Sorrells (mes12),
+1069,RSC,TBA,,,Smith (mes25),
+1068,RSC,TBA,,,Pawlowski (wp45),
+1067,RSC,TBA,,,Nelson (rjn7),
+1066,RSC,TBA,,,Mutschler-Chu (mam13),
+1065,RSC,TBA,,,McCouch (srm4),
+1064,RSC,TBA,,,Li (ll37),
+1063,RSC,TBA,,,Kresovich (sk20),
+1062,RSC,TBA,,,De Jong (wsd2),
+1061,RSC,TBA,,,Buckler (esb33),
+1060,RSC,TBA,,,Brutnell (tpb8),
+

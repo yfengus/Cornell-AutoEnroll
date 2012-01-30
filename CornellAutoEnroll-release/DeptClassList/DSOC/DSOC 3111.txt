@@ -1,0 +1,7 @@
+13933,DIS,F,12:20p - 1:10p,RCK 231,Leuenberger-Pinch (cal22),
+13932,DIS,F,12:20p - 1:10p,RCK 103,Leuenberger-Pinch (cal22),
+13930,DIS,F,1:25p - 2:15p,RCK 105,Leuenberger-Pinch (cal22),
+13929,DIS,F,1:25p - 2:15p,RCK 104,Leuenberger-Pinch (cal22),
+13927,DIS,F,1:25p - 2:15p,GSH G64,Leuenberger-Pinch (cal22),
+13910,LEC,MW,1:25p - 2:15p,GSH G64,Leuenberger-Pinch (cal22),
+

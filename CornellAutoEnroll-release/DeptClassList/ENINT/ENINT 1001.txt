@@ -1,0 +1,7 @@
+14945,LEC,F,10:10a - 12:05p,ADW 110,van de Veur (smv43),
+14942,LEC,W,12:20p - 2:15p,URH 202,Bland (skb45),
+14941,LEC,T,10:10a - 11:25a,URH 498,Haffenden (tjh26),
+14941,LEC,R,10:10a - 11:25a,URH 494,Haffenden (tjh26),
+14940,LEC,TR,9:05a - 11:00a,IVS 103,Haffenden (tjh26),
+14939,LEC,M,10:10a - 12:05p,URH G24,Bland (skb45),
+

@@ -1,0 +1,3 @@
+15906,DIS,F,2:30p - 3:20p,UPS 211,Batten (cb535),
+15511,LEC,TR,2:55p - 4:10p,UPS 109,Batten (cb535),
+

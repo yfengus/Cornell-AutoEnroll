@@ -1,0 +1,3 @@
+16131,DIS,R,2:30p - 4:25p,RRB 225,,
+16130,LEC,TR,9:05a - 9:55a,RRB 225,Walter (mtw5),
+

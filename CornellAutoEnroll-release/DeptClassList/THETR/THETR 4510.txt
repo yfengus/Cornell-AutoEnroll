@@ -1,0 +1,12 @@
+14123,STU,TBA,,,,
+14122,STU,TBA,,,,
+14121,STU,TBA,,,Chu (jrc24),
+14120,STU,TBA,,,Suber (pbs6),
+14119,STU,TBA,,,Dreyer-Lude (md496),
+14118,STU,TBA,,,Milles (bfm6),
+14117,STU,TBA,,,Intemann (edi1),
+14116,STU,TBA,,,Cross (wdc4),
+14115,STU,TBA,,,Bernstein (seb57),
+14114,STU,TBA,,,Goetz (klg2),
+14095,STU,TBA,,,,
+

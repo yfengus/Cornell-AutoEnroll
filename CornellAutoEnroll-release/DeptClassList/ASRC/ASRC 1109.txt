@@ -1,0 +1,4 @@
+16658,SEM,MTWRF,12:20p - 1:10p,URH 331,Ademoyo (aaa54),
+7846,SEM,MTWRF,11:15a - 12:05p,URH 331,Ademoyo (aaa54),
+6931,SEM,MTWRF,10:10a - 11:00a,URH 331,Ademoyo (aaa54),
+

@@ -1,0 +1,10 @@
+9261,LEC,U,1:00p - 11:59p,BTL B01,Holton (mh45), Woodin (akw2),
+9261,LEC,U,1:00p - 6:00p,BTL B01,Holton (mh45), Woodin (akw2),
+9261,LEC,M,12:01a - 8:00a,BTL B01,Holton (mh45), Woodin (akw2),
+9141,LEC,U,12:01a - 10:00a,BTL B01,Holton (mh45), Woodin (akw2),
+9141,LEC,S,1:00p - 11:59p,BTL B01,Holton (mh45), Woodin (akw2),
+9141,LEC,S,1:00p - 6:00p,BTL B01,Holton (mh45), Woodin (akw2),
+16517,LEC,S,12:01a - 10:00a,BTL B01,Holton (mh45), Woodin (akw2),
+16517,LEC,F,1:30p - 6:30p,BTL B01,Holton (mh45), Woodin (akw2),
+16517,LEC,F,1:30p - 11:59p,BTL B01,Holton (mh45), Woodin (akw2),
+

@@ -1,0 +1,4 @@
+4439,LAB,W,1:25p - 4:25p,BDF 108,Rossiter (dgr2),
+4438,LAB,T,1:25p - 4:25p,BDF 108,Rossiter (dgr2),
+4437,LEC,TR,9:05a - 9:55a,WRN 245,Rossiter (dgr2),
+

@@ -1,0 +1,14 @@
+VETMI 3290,Medical and Veterinary Mycology,http://cornell.chequerd.com/courses/6389/VETMI/3290/
+VETMI 5000,Independent Study in Immunology,http://cornell.chequerd.com/courses/7377/VETMI/5000/
+VETMI 6050,Special Projects in Microbiology (Undergraduate),http://cornell.chequerd.com/courses/3844/VETMI/6050/
+VETMI 6200,Research Fellowship in Microbiology and Immunology,http://cornell.chequerd.com/courses/3845/VETMI/6200/
+VETMI 7050,Advanced Immunology Lectures,http://cornell.chequerd.com/courses/8283/VETMI/7050/
+VETMI 7070,Advanced Work in Bacteriology, Virology, and Immunology (Graduate),http://cornell.chequerd.com/courses/3846/VETMI/7070/
+VETMI 7120,Seminars in Infection and Immunity,http://cornell.chequerd.com/courses/3847/VETMI/7120/
+VETMI 7130,Biological and Biomedical Sciences Program - Teaching Experience,http://cornell.chequerd.com/courses/6391/VETMI/7130/
+VETMI 7230,Current Topics in Immunology,http://cornell.chequerd.com/courses/3848/VETMI/7230/
+VETMI 7251,Current Topics in Microbial Pathogenesis,http://cornell.chequerd.com/courses/8284/VETMI/7251/
+VETMI 7370,Advanced Work in Animal Parasitology (Graduate),http://cornell.chequerd.com/courses/3849/VETMI/7370/
+VETMI 7720,Advanced Work in Aquatic Animal Diseases (Graduate),http://cornell.chequerd.com/courses/3851/VETMI/7720/
+VETMI 7830,Seminars in Parasitology (Graduate),http://cornell.chequerd.com/courses/3853/VETMI/7830/
+

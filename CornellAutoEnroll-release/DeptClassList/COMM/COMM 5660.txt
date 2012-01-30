@@ -1,0 +1,4 @@
+3772,LEC,U,8:00a - 5:00p,KND 211,Chambliss (elc55),
+3772,LEC,S,8:00a - 5:00p,KND 213,Chambliss (elc55),
+3772,LEC,F,3:00p - 6:00p,KND 213,Chambliss (elc55),
+

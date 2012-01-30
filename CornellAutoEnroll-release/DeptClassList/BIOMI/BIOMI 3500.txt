@@ -1,0 +1,3 @@
+4675,DIS,W,7:30p - 8:20p,RRB 105,Hewson (ih88),
+4108,LEC,MW,10:10a - 11:00a,MRS 334,Hewson (ih88),
+

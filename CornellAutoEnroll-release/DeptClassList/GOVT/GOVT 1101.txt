@@ -1,0 +1,5 @@
+16305,SEM,TR,8:40a - 9:55a,WHT 110,Bennett (ndb47), Brigden (nkb24),
+16304,SEM,TR,10:10a - 11:25a,STM 119,Bennett (ndb47),
+16303,SEM,TR,2:55p - 4:10p,GSH 350,Walker (anw47),
+16302,SEM,TR,10:10a - 11:25a,MCG 215,Graf (sug3),
+

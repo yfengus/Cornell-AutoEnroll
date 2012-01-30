@@ -1,0 +1,6 @@
+12002,LEC,TRF,2:55p - 4:10p,STL 341,Lennox (dpl29),
+12001,LEC,TRF,1:25p - 2:40p,STL 341,Lennox (dpl29),
+12000,LEC,MWF,2:55p - 4:10p,STL 391,Wolfe (mw555),
+11999,LEC,MWF,1:25p - 2:40p,STL 391,Wolfe (mw555),
+11998,LEC,MWF,10:10a - 11:25a,STL 341,Wolfe (mw555),
+

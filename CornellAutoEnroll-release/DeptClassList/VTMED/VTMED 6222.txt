@@ -1,0 +1,4 @@
+13631,LEC,RF,8:00a - 10:00a,CLS C2539,Meyers-Wallen (vnm1),
+13631,LEC,R,10:00a - 12:00p,CLS C2539,Meyers-Wallen (vnm1),
+13631,LEC,F,8:00a - 10:00a,CLS C2539,Meyers-Wallen (vnm1),
+

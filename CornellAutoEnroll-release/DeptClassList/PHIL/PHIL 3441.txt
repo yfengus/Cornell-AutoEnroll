@@ -1,0 +1,4 @@
+14812,DIS,R,11:15a - 12:05p,GSH G19,Taylor (et255),
+14811,DIS,R,11:15a - 12:05p,URH 369,Taylor (et255),
+14810,LEC,TR,2:55p - 4:10p,RCK 231,Taylor (et255),
+

@@ -1,0 +1,12 @@
+11513,LEC,MWF,11:15a - 12:05p,KMB B11,Seyler (ces7),
+11512,LAB,M,12:20p - 2:15p,PHL 403,Seyler (ces7),
+11507,DIS,F,2:55p - 4:10p,PHL 403,Seyler (ces7),
+11511,LAB,F,12:20p - 2:15p,PHL 307,Seyler (ces7),
+11506,DIS,R,2:55p - 4:10p,PHL 407,Seyler (ces7),
+11510,LAB,R,12:20p - 2:15p,HLS 320,Seyler (ces7),
+11505,DIS,W,2:55p - 4:10p,UPS 211,Seyler (ces7),
+11509,LAB,W,12:20p - 2:15p,PHL 213,Seyler (ces7),
+11504,DIS,T,2:55p - 4:10p,SNE 1150,Seyler (ces7),
+11508,LAB,T,12:20p - 2:15p,PHL 403,Seyler (ces7),
+11503,DIS,M,2:55p - 4:10p,SNE 1150,Seyler (ces7),
+

@@ -1,0 +1,4 @@
+9168,LEC,T,6:00p - 8:00p,BTL B01,Holton (mh45), Leeming (csl45),
+9168,LEC,S,11:00a - 5:00p,BTL B01,Holton (mh45), Leeming (csl45),
+9094,LEC,F,1:30p - 5:30p,BTL B01,Holton (mh45), Leeming (csl45),
+

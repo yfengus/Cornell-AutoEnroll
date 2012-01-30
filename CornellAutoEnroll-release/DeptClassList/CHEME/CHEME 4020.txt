@@ -1,0 +1,6 @@
+16405,LAB,F,1:25p - 4:25p,,Fischbach (cf99),
+16404,LAB,R,1:25p - 4:25p,,Fischbach (cf99),
+16403,LAB,W,1:25p - 4:25p,,Fischbach (cf99),
+16402,LAB,T,1:25p - 4:25p,,Fischbach (cf99),
+16401,LEC,MWF,11:15a - 12:05p,PHL 219,Fischbach (cf99),
+

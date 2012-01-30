@@ -1,0 +1,4 @@
+13100,DIS,W,10:10a - 11:00a,MVR 280,Evans (tae23),
+13099,DIS,T,9:05a - 9:55a,MVR G71,Evans (tae23),
+13037,LEC,TR,2:55p - 4:10p,MVR G71,Evans (tae23),
+

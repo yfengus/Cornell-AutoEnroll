@@ -1,0 +1,4 @@
+4499,DIS,F,10:10a - 11:00a,CLD 250,Wolford (www43),
+4498,DIS,F,9:05a - 9:55a,KND 101,Wolford (www43),
+4497,LEC,MW,10:10a - 11:00a,PLS G37,Wolford (www43),
+

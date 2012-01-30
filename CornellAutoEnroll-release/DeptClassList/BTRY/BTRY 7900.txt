@@ -1,0 +1,8 @@
+1626,RSC,TBA,,,Wells (mtw1),
+1625,RSC,TBA,,,Strawderman (rls54),
+1623,RSC,TBA,,,Schwager (sjs5), Yu (hy299),
+1622,RSC,TBA,,,Mezey (jgm45),
+1621,RSC,TBA,,,Hooker (gjh27),
+1620,RSC,TBA,,,Bustamante (cdb28), Keinan (ak735),
+1619,RSC,TBA,,,Booth (jb383),
+

@@ -1,0 +1,6 @@
+15901,LEC,U,1:00p - 6:00p,,Crowley (pc93),
+9300,LEC,S,1:00p - 6:00p,,Crowley (pc93),
+9299,LEC,F,3:30p - 8:30p,,Crowley (pc93),
+9298,LEC,T,4:00p - 9:00p,,Crowley (pc93),
+9089,LEC,M,4:00p - 9:00p,TBA TBA,Crowley (pc93),
+

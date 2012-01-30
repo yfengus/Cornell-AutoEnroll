@@ -1,0 +1,10 @@
+6118,STU,TBA,,,,
+6117,STU,TBA,,,,
+6116,STU,TBA,,,,
+6115,STU,TBA,,,Feeney (tpf26),
+6114,STU,TBA,,,Harlow (rwh276),
+6113,STU,TBA,,,Pepinsky (jm857),
+6112,STU,TBA,,,Ernste (kme32),
+6111,STU,TBA,,,Stucky (ses6),
+6110,STU,TBA,,,Haines-Eitzen (jah242),
+

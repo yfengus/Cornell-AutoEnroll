@@ -1,0 +1,5 @@
+11846,LEC,S,9:00a - 11:30a,SGH B09,Hanks (jjh22),
+11846,LEC,F,4:00p - 6:10p,SGH B09,Hanks (jjh22),
+11846,LEC,S,1:00p - 3:30p,SGH B09,Hanks (jjh22),
+11846,LEC,F,2:00p - 3:00p,,Hanks (jjh22),
+

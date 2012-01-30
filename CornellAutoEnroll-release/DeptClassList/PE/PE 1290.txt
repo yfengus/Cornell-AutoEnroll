@@ -1,0 +1,3 @@
+9064,LEC,TR,2:30p - 3:15p,TGL 201,,
+9063,LEC,TR,1:30p - 2:15p,TGL 201,Beckwith (ddb27),
+

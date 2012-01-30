@@ -1,0 +1,7 @@
+13312,DIS,F,2:55p - 3:45p,IVS 217,Applegate (ra40),
+13308,LEC,TR,2:55p - 4:10p,IVS 217,Applegate (ra40),
+13311,DIS,F,12:20p - 1:10p,IVS 103,Devault (iad1),
+13310,DIS,F,11:15a - 12:05p,IVS 103,Devault (iad1),
+13309,DIS,F,10:10a - 11:00a,IVS 103,Devault (iad1),
+13307,LEC,TR,11:15a - 12:05p,IVS 217,Devault (iad1),
+

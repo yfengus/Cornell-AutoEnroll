@@ -1,0 +1,4 @@
+6629,DIS,F,2:30p - 3:20p,RCK 127,Selby (ks295),
+6628,DIS,R,3:35p - 4:25p,RCK 127,Selby (ks295),
+6625,LEC,MWF,1:25p - 2:15p,RCK 230,Selby (ks295),
+

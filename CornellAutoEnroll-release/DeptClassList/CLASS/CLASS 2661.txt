@@ -1,0 +1,6 @@
+14775,DIS,W,11:15a - 12:05p,GSH G24,Brennan (trb64),
+14774,DIS,W,11:15a - 12:05p,GSH 236,Brennan (trb64),
+14773,DIS,F,12:20p - 1:10p,RCK 132,Brennan (trb64),
+14772,DIS,F,12:20p - 1:10p,GSH G24,Brennan (trb64),
+14771,LEC,MWF,10:10a - 11:00a,GSH G76,Brennan (trb64),
+

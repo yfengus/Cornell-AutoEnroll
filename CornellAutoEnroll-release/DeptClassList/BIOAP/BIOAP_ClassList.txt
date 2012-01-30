@@ -1,0 +1,8 @@
+BIOAP 3160,Cellular Physiology,http://cornell.chequerd.com/courses/4350/BIOAP/3160/
+BIOAP 3410,Biology of the Mammary Gland,http://cornell.chequerd.com/courses/11324/BIOAP/3410/
+BIOAP 4130,Histology: The Biology of the Tissues,http://cornell.chequerd.com/courses/7549/BIOAP/4130/
+BIOAP 4580,Mammalian Physiology,http://cornell.chequerd.com/courses/4352/BIOAP/4580/
+BIOAP 4890,Mammalian Embryology,http://cornell.chequerd.com/courses/7551/BIOAP/4890/
+BIOAP 4980,Teaching Experience,http://cornell.chequerd.com/courses/623/BIOAP/4980/
+BIOAP 7200,Animal Physiology and Anatomy Seminar,http://cornell.chequerd.com/courses/626/BIOAP/7200/
+

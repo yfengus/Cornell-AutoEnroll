@@ -1,0 +1,7 @@
+RUSSL 2209,Readings in Russian Prose and Poetry,http://cornell.chequerd.com/courses/3609/RUSSL/2209/
+RUSSL 3333,Twentieth-Century Russian Poetry,http://cornell.chequerd.com/courses/11350/RUSSL/3333/
+RUSSL 3335,Gogol,http://cornell.chequerd.com/courses/8206/RUSSL/3335/
+RUSSL 3368,20th-Century Russian Literature,http://cornell.chequerd.com/courses/9612/RUSSL/3368/
+RUSSL 4492,Supervised Reading in Russian Literature,http://cornell.chequerd.com/courses/3615/RUSSL/4492/
+RUSSL 6611,Supervised Reading and Research,http://cornell.chequerd.com/courses/3616/RUSSL/6611/
+

@@ -1,0 +1,5 @@
+4883,STU,MF,9:00a - 2:00p,,,
+4882,STU,R,2:00p - 4:00p,,Zissovici (jez2),
+4882,STU,M,9:00a - 1:00p,,Zissovici (jez2),
+4877,STU,MWF,12:20p - 4:25p,,,
+

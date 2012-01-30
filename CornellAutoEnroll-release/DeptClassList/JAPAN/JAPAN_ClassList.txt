@@ -1,0 +1,8 @@
+JAPAN 1102,Elementary Japanese,http://cornell.chequerd.com/courses/5494/JAPAN/1102/
+JAPAN 2202,Intermediate Japanese,http://cornell.chequerd.com/courses/5495/JAPAN/2202/
+JAPAN 3302,Continuing Intermediate Japanese II,http://cornell.chequerd.com/courses/8000/JAPAN/3302/
+JAPAN 3360,Advanced Intensive Japanese (Falcon),http://cornell.chequerd.com/courses/5497/JAPAN/3360/
+JAPAN 4402,Advanced Japanese,http://cornell.chequerd.com/courses/5498/JAPAN/4402/
+JAPAN 4422,Current Issues in Japanese Society II,http://cornell.chequerd.com/courses/5499/JAPAN/4422/
+JAPAN 4432,Directed Study,http://cornell.chequerd.com/courses/11182/JAPAN/4432/
+

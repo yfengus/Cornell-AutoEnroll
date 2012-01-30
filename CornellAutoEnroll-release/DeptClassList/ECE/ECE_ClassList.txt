@@ -1,0 +1,48 @@
+ECE 1290,Energy: From Atoms to Zephyrs,http://cornell.chequerd.com/courses/8948/ECE/1290/
+ECE 1820,Electricity Lights Camera Action: Nanoengineering for the Future of Bits and Bytes,http://cornell.chequerd.com/courses/11380/ECE/1820/
+ECE 2100,Introduction to Circuits for Electrical and Computer Engineers,http://cornell.chequerd.com/courses/1432/ECE/2100/
+ECE 2200,Signals & Information,http://cornell.chequerd.com/courses/4889/ECE/2200/
+ECE 2300,Introduction to Digital Logic Design,http://cornell.chequerd.com/courses/1433/ECE/2300/
+ECE 2980,Inventing an Information Society,http://cornell.chequerd.com/courses/4897/ECE/2980/
+ECE 3140,Computer Organization,http://cornell.chequerd.com/courses/4898/ECE/3140/
+ECE 3150,Introduction to Microelectronics,http://cornell.chequerd.com/courses/4899/ECE/3150/
+ECE 3400,Electrical and Computer Engineering Practice and Design,http://cornell.chequerd.com/courses/11012/ECE/3400/
+ECE 3530,Introduction to Systems and Synthetic Biology,http://cornell.chequerd.com/courses/9698/ECE/3530/
+ECE 3600,Ethics in Engineering Practice,http://cornell.chequerd.com/courses/4900/ECE/3600/
+ECE 4070,Physics of Semiconductors and Nanostructures,http://cornell.chequerd.com/courses/4907/ECE/4070/
+ECE 4250,Digital Signal Processing,http://cornell.chequerd.com/courses/1465/ECE/4250/
+ECE 4271,Evolutionary Processes. Evolutionary Algorithms, Evolutionary Games,http://cornell.chequerd.com/courses/6891/ECE/4271/
+ECE 4370,Fiber and Integrated Optics,http://cornell.chequerd.com/courses/4909/ECE/4370/
+ECE 4450,Computer Networks and Telecommunications,http://cornell.chequerd.com/courses/1469/ECE/4450/
+ECE 4520,Electric Power Systems II,http://cornell.chequerd.com/courses/4910/ECE/4520/
+ECE 4570,Silicon Device Fundamentals,http://cornell.chequerd.com/courses/1472/ECE/4570/
+ECE 4670,Digital Communication Receiver Design,http://cornell.chequerd.com/courses/9339/ECE/4670/
+ECE 4730,Digital Feedback Control,http://cornell.chequerd.com/courses/11013/ECE/4730/
+ECE 4740,Digital VLSI Design,http://cornell.chequerd.com/courses/4911/ECE/4740/
+ECE 4758,Robot Learning,http://cornell.chequerd.com/courses/7729/ECE/4758/
+ECE 4760,Digital Systems Design Using Microcontrollers,http://cornell.chequerd.com/courses/4912/ECE/4760/
+ECE 4840,Introduction to Controlled Fusion: Principles and Technology,http://cornell.chequerd.com/courses/4914/ECE/4840/
+ECE 4870,Intro to Radar Remote Sensing,http://cornell.chequerd.com/courses/4915/ECE/4870/
+ECE 4910,Senior Electrical and Computer Independent Engineering Project,http://cornell.chequerd.com/courses/1475/ECE/4910/
+ECE 4990,International Research Internship,http://cornell.chequerd.com/courses/9777/ECE/4990/
+ECE 4998,Electrical and Computer Engineering Group Projects,http://cornell.chequerd.com/courses/9656/ECE/4998/
+ECE 4999,Electrical and Computer Engineering Independent Project,http://cornell.chequerd.com/courses/9340/ECE/4999/
+ECE 5130,System Architecture, Behavior, and Optimization,http://cornell.chequerd.com/courses/4925/ECE/5130/
+ECE 5360,Nanofabrication of Semiconductor Devices,http://cornell.chequerd.com/courses/1492/ECE/5360/
+ECE 5540,Advanced Analog VLSI Circuit Design,http://cornell.chequerd.com/courses/7734/ECE/5540/
+ECE 5620,Fundamental Information Theory,http://cornell.chequerd.com/courses/4927/ECE/5620/
+ECE 5660,Fundamentals of Networks,http://cornell.chequerd.com/courses/1494/ECE/5660/
+ECE 5670,Digital Communications,http://cornell.chequerd.com/courses/6897/ECE/5670/
+ECE 5750,Advanced Microprocessor Architecture,http://cornell.chequerd.com/courses/4930/ECE/5750/
+ECE 5770,Resilient Computer Systems,http://cornell.chequerd.com/courses/1498/ECE/5770/
+ECE 5780,Computer Analysis of Biomed Images,http://cornell.chequerd.com/courses/4931/ECE/5780/
+ECE 5790,Advanced High-Speed and RF Integrated Circuits,http://cornell.chequerd.com/courses/4932/ECE/5790/
+ECE 5800,Control and Optimization of Information Networks,http://cornell.chequerd.com/courses/4933/ECE/5800/
+ECE 5880,Energy Seminar II,http://cornell.chequerd.com/courses/4935/ECE/5880/
+ECE 5950,Advanced Topics in Electrical and Computer Engineering,http://cornell.chequerd.com/courses/6902/ECE/5950/
+ECE 5960,Advanced Topics in Electrical and Computer Engineering,http://cornell.chequerd.com/courses/7736/ECE/5960/
+ECE 6931,Master of Engineering Design II,http://cornell.chequerd.com/courses/4936/ECE/6931/
+ECE 6970,Master of Engineering Research,http://cornell.chequerd.com/courses/1505/ECE/6970/
+ECE 6980,Master of Engineering Research,http://cornell.chequerd.com/courses/4937/ECE/6980/
+ECE 7920,Thesis Research,http://cornell.chequerd.com/courses/4938/ECE/7920/
+

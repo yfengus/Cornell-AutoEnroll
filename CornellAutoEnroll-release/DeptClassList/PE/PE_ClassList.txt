@@ -1,0 +1,198 @@
+PE 1100,Beginning Swimming,http://cornell.chequerd.com/courses/3197/PE/1100/
+PE 1101,Advanced Beginning Swimming,http://cornell.chequerd.com/courses/6057/PE/1101/
+PE 1103,Advanced Swimming,http://cornell.chequerd.com/courses/6058/PE/1103/
+PE 1104,Swimming Conditioning,http://cornell.chequerd.com/courses/3199/PE/1104/
+PE 1105,Introduction to Springboard Diving,http://cornell.chequerd.com/courses/3200/PE/1105/
+PE 1120,Water Safety Instructor,http://cornell.chequerd.com/courses/6059/PE/1120/
+PE 1130,Open Water Scuba,http://cornell.chequerd.com/courses/3202/PE/1130/
+PE 1132,Rescue Diver,http://cornell.chequerd.com/courses/6060/PE/1132/
+PE 1134,Bahamas Dive Trip,http://cornell.chequerd.com/courses/9589/PE/1134/
+PE 1150,Ballroom Dancing,http://cornell.chequerd.com/courses/3206/PE/1150/
+PE 1151,Intensive Ballroom Dance,http://cornell.chequerd.com/courses/3207/PE/1151/
+PE 1155,Introduction to Belly Dancing,http://cornell.chequerd.com/courses/3208/PE/1155/
+PE 1156,Intermediate Belly Dancing,http://cornell.chequerd.com/courses/3209/PE/1156/
+PE 1160,Latin Dance,http://cornell.chequerd.com/courses/3210/PE/1160/
+PE 1161,Latin-Israeli Dance,http://cornell.chequerd.com/courses/3211/PE/1161/
+PE 1162,Intermediate Salsa and Rueda de Casino,http://cornell.chequerd.com/courses/3212/PE/1162/
+PE 1165,International Ethnic Dance,http://cornell.chequerd.com/courses/3213/PE/1165/
+PE 1166,Introduction to Spanish Folk Dancing,http://cornell.chequerd.com/courses/3214/PE/1166/
+PE 1167,Introduction to Tango,http://cornell.chequerd.com/courses/3215/PE/1167/
+PE 1170,Introduction to Swing Dance,http://cornell.chequerd.com/courses/3216/PE/1170/
+PE 1171,Intermediate Swing Dance,http://cornell.chequerd.com/courses/3217/PE/1171/
+PE 1180,Dance Technique I,http://cornell.chequerd.com/courses/3219/PE/1180/
+PE 1183,Dance Technique II/Modern,http://cornell.chequerd.com/courses/6061/PE/1183/
+PE 1184,Dance Technique III/Classical,http://cornell.chequerd.com/courses/3221/PE/1184/
+PE 1185,Dance Technique III/Modern,http://cornell.chequerd.com/courses/3222/PE/1185/
+PE 1186,Dance Technique IV/Classical,http://cornell.chequerd.com/courses/3223/PE/1186/
+PE 1187,Dance Technique IV/Modern,http://cornell.chequerd.com/courses/3224/PE/1187/
+PE 1230,Cardio Combo,http://cornell.chequerd.com/courses/3229/PE/1230/
+PE 1232,Aerobic Instructor Apprentice,http://cornell.chequerd.com/courses/6064/PE/1232/
+PE 1233,Bootcamp,http://cornell.chequerd.com/courses/3231/PE/1233/
+PE 1234,Essentials of Personal Training,http://cornell.chequerd.com/courses/9591/PE/1234/
+PE 1235,8 O'clock Rock,http://cornell.chequerd.com/courses/3232/PE/1235/
+PE 1240,Pilates Mat Work,http://cornell.chequerd.com/courses/3233/PE/1240/
+PE 1245,Introduction to Spinning,http://cornell.chequerd.com/courses/3234/PE/1245/
+PE 1260,Cardio Kickboxing,http://cornell.chequerd.com/courses/3235/PE/1260/
+PE 1261,Fitness & Conditioning,http://cornell.chequerd.com/courses/3236/PE/1261/
+PE 1262,Fitness for Women,http://cornell.chequerd.com/courses/3237/PE/1262/
+PE 1265,Wellness & Fitness,http://cornell.chequerd.com/courses/3238/PE/1265/
+PE 1270,Introduction to Jogging,http://cornell.chequerd.com/courses/3239/PE/1270/
+PE 1271,Jogging Tours,http://cornell.chequerd.com/courses/3240/PE/1271/
+PE 1272,Walking Tours,http://cornell.chequerd.com/courses/3241/PE/1272/
+PE 1273,Walking Meditation,http://cornell.chequerd.com/courses/3242/PE/1273/
+PE 1275,Introduction to Triathlon,http://cornell.chequerd.com/courses/3243/PE/1275/
+PE 1290,Introduction to Gymnastics,http://cornell.chequerd.com/courses/3244/PE/1290/
+PE 1300,Introduction to Bowling,http://cornell.chequerd.com/courses/3245/PE/1300/
+PE 1301,Intermediate Bowling,http://cornell.chequerd.com/courses/3246/PE/1301/
+PE 1305,Equitation,http://cornell.chequerd.com/courses/3247/PE/1305/
+PE 1311,Fly Tying and Fishing I,http://cornell.chequerd.com/courses/6065/PE/1311/
+PE 1320,Professional Instructional Golf,http://cornell.chequerd.com/courses/3249/PE/1320/
+PE 1321,Recreational Golf,http://cornell.chequerd.com/courses/3250/PE/1321/
+PE 1330,Downhill Skiiing,http://cornell.chequerd.com/courses/6066/PE/1330/
+PE 1331,Snowboarding,http://cornell.chequerd.com/courses/6067/PE/1331/
+PE 1332,Beginning Snowboarding,http://cornell.chequerd.com/courses/9660/PE/1332/
+PE 1333,Intermediate/Advanced Snowboarding,http://cornell.chequerd.com/courses/9661/PE/1333/
+PE 1340,Juggling,http://cornell.chequerd.com/courses/3252/PE/1340/
+PE 1345,Introduction to Boxing,http://cornell.chequerd.com/courses/3253/PE/1345/
+PE 1346,Intermediate Boxing,http://cornell.chequerd.com/courses/3254/PE/1346/
+PE 1347,Brazilian Ju Jitsu Fundamentals,http://cornell.chequerd.com/courses/9592/PE/1347/
+PE 1350,Chi Gong,http://cornell.chequerd.com/courses/3255/PE/1350/
+PE 1355,Introduction to Judo,http://cornell.chequerd.com/courses/3256/PE/1355/
+PE 1360,Jeet Kun Do/MMA,http://cornell.chequerd.com/courses/3258/PE/1360/
+PE 1365,Introduction to Karate,http://cornell.chequerd.com/courses/3259/PE/1365/
+PE 1366,Advanced Karate,http://cornell.chequerd.com/courses/3260/PE/1366/
+PE 1375,Tae Kwon Do,http://cornell.chequerd.com/courses/3262/PE/1375/
+PE 1376,Intermediate Tae Kwon Do,http://cornell.chequerd.com/courses/3263/PE/1376/
+PE 1380,Tai Chi Chuan,http://cornell.chequerd.com/courses/3264/PE/1380/
+PE 1385,Thai Boxing,http://cornell.chequerd.com/courses/3265/PE/1385/
+PE 1390,Women's Self Defense and Empowerment,http://cornell.chequerd.com/courses/3266/PE/1390/
+PE 1395,Self Defense and Personal Safety in the Modern World,http://cornell.chequerd.com/courses/3267/PE/1395/
+PE 1396,Filipino Kali,http://cornell.chequerd.com/courses/3268/PE/1396/
+PE 1400,Body-Mind,http://cornell.chequerd.com/courses/3269/PE/1400/
+PE 1402,Moving into the Moment,http://cornell.chequerd.com/courses/3271/PE/1402/
+PE 1405,Living Routines,http://cornell.chequerd.com/courses/3273/PE/1405/
+PE 1406,Wellness Weekend,http://cornell.chequerd.com/courses/8862/PE/1406/
+PE 1410,Introduction to Massage,http://cornell.chequerd.com/courses/3274/PE/1410/
+PE 1411,Shiatsu Massage,http://cornell.chequerd.com/courses/3275/PE/1411/
+PE 1412,Introduction to Swedish Massage,http://cornell.chequerd.com/courses/3276/PE/1412/
+PE 1414,Thai Massage,http://cornell.chequerd.com/courses/3278/PE/1414/
+PE 1415,Weekend Massage Workshop,http://cornell.chequerd.com/courses/3279/PE/1415/
+PE 1416,Swedish Massage and More,http://cornell.chequerd.com/courses/8864/PE/1416/
+PE 1420,Introduction to Meditation,http://cornell.chequerd.com/courses/3280/PE/1420/
+PE 1421,Relaxation & Stress Management,http://cornell.chequerd.com/courses/3281/PE/1421/
+PE 1422,Meditation and Relaxation,http://cornell.chequerd.com/courses/3282/PE/1422/
+PE 1430,Yoga,http://cornell.chequerd.com/courses/3283/PE/1430/
+PE 1431,Intermediate Yoga,http://cornell.chequerd.com/courses/3284/PE/1431/
+PE 1440,Badminton,http://cornell.chequerd.com/courses/3286/PE/1440/
+PE 1441,Intermediate Badminton,http://cornell.chequerd.com/courses/3287/PE/1441/
+PE 1450,Indoor Beginning Tennis,http://cornell.chequerd.com/courses/6069/PE/1450/
+PE 1451,Indoor Intermediate Tennis,http://cornell.chequerd.com/courses/6070/PE/1451/
+PE 1452,Indoor Advanced Tennis,http://cornell.chequerd.com/courses/6071/PE/1452/
+PE 1453,Indoor Recreational Tennis,http://cornell.chequerd.com/courses/6072/PE/1453/
+PE 1460,Racquetball,http://cornell.chequerd.com/courses/3291/PE/1460/
+PE 1461,Intermediate Racquetball,http://cornell.chequerd.com/courses/8865/PE/1461/
+PE 1465,Squash,http://cornell.chequerd.com/courses/3292/PE/1465/
+PE 1466,Intermediate Squash,http://cornell.chequerd.com/courses/3293/PE/1466/
+PE 1485,Introduction to Sailing,http://cornell.chequerd.com/courses/6073/PE/1485/
+PE 1505,Introduction to Trap and Skeet,http://cornell.chequerd.com/courses/3299/PE/1505/
+PE 1506,Introduction to Trap,http://cornell.chequerd.com/courses/6074/PE/1506/
+PE 1507,Introduction to Skeet,http://cornell.chequerd.com/courses/6075/PE/1507/
+PE 1510,Riflery,http://cornell.chequerd.com/courses/3300/PE/1510/
+PE 1515,Introduction to Handgun Safety,http://cornell.chequerd.com/courses/3301/PE/1515/
+PE 1520,Introduction to Archery,http://cornell.chequerd.com/courses/3302/PE/1520/
+PE 1525,Classical Fencing,http://cornell.chequerd.com/courses/3303/PE/1525/
+PE 1526,Renaissance Fencing,http://cornell.chequerd.com/courses/3304/PE/1526/
+PE 1527,Olympic Fencing,http://cornell.chequerd.com/courses/3305/PE/1527/
+PE 1529,Epee de Guerre,http://cornell.chequerd.com/courses/3306/PE/1529/
+PE 1540,Introduction to Skating,http://cornell.chequerd.com/courses/3307/PE/1540/
+PE 1545,Beginning Figure Skating,http://cornell.chequerd.com/courses/3308/PE/1545/
+PE 1546,Intermediate Figure Skating,http://cornell.chequerd.com/courses/3309/PE/1546/
+PE 1547,Advanced Figure Skating,http://cornell.chequerd.com/courses/3310/PE/1547/
+PE 1550,Introduction to Ice Hockey,http://cornell.chequerd.com/courses/3311/PE/1550/
+PE 1551,Intermediate Ice Hockey,http://cornell.chequerd.com/courses/3312/PE/1551/
+PE 1560,Basketball,http://cornell.chequerd.com/courses/3313/PE/1560/
+PE 1570,Beg/Int. Volleyball,http://cornell.chequerd.com/courses/3315/PE/1570/
+PE 1571,Advanced Volleyball,http://cornell.chequerd.com/courses/3316/PE/1571/
+PE 1580,Principles of Weight Training,http://cornell.chequerd.com/courses/3318/PE/1580/
+PE 1581,Weight Training For Women,http://cornell.chequerd.com/courses/3319/PE/1581/
+PE 1600,Outdoor Tai Chi,http://cornell.chequerd.com/courses/10657/PE/1600/
+PE 1601,Backcountry Cooking,http://cornell.chequerd.com/courses/10615/PE/1601/
+PE 1602,Outdoor Yoga,http://cornell.chequerd.com/courses/8157/PE/1602/
+PE 1603,Snowshoeing & Winter Travel,http://cornell.chequerd.com/courses/6077/PE/1603/
+PE 1604,Outdoor Adventure,http://cornell.chequerd.com/courses/8158/PE/1604/
+PE 1605,Day Hiking,http://cornell.chequerd.com/courses/3320/PE/1605/
+PE 1606,Outdoor Birding Basics,http://cornell.chequerd.com/courses/6078/PE/1606/
+PE 1607,Backcountry Photography,http://cornell.chequerd.com/courses/3321/PE/1607/
+PE 1608,Trail Running,http://cornell.chequerd.com/courses/3322/PE/1608/
+PE 1610,Backpacking The Finger Lakes,http://cornell.chequerd.com/courses/3324/PE/1610/
+PE 1613,Wilderness Survival Skills,http://cornell.chequerd.com/courses/3326/PE/1613/
+PE 1616,Intro to Winter Camping,http://cornell.chequerd.com/courses/6080/PE/1616/
+PE 1617,Surfing in San Diego,http://cornell.chequerd.com/courses/6081/PE/1617/
+PE 1625,Wilderness First Aid,http://cornell.chequerd.com/courses/3327/PE/1625/
+PE 1626,Wilderness 1st Responder,http://cornell.chequerd.com/courses/3328/PE/1626/
+PE 1627,WFR Recertification,http://cornell.chequerd.com/courses/6083/PE/1627/
+PE 1630,Caving,http://cornell.chequerd.com/courses/3329/PE/1630/
+PE 1640,Basic Rock Climbing,http://cornell.chequerd.com/courses/3330/PE/1640/
+PE 1642,Women's Basic Rock Climbing,http://cornell.chequerd.com/courses/3331/PE/1642/
+PE 1643,High Adventure,http://cornell.chequerd.com/courses/3332/PE/1643/
+PE 1645,ORC 401: Southwest Climbing Expedition,http://cornell.chequerd.com/courses/8159/PE/1645/
+PE 1650,Performance Rock Climbing,http://cornell.chequerd.com/courses/3334/PE/1650/
+PE 1651,Intro to Outdoor Rock Climbing,http://cornell.chequerd.com/courses/3335/PE/1651/
+PE 1653,Anchor Building,http://cornell.chequerd.com/courses/3337/PE/1653/
+PE 1654,Ice Climbing,http://cornell.chequerd.com/courses/6084/PE/1654/
+PE 1657,Tree Climbing,http://cornell.chequerd.com/courses/3338/PE/1657/
+PE 1659,Redwoods Tree Climbing Expedition,http://cornell.chequerd.com/courses/9677/PE/1659/
+PE 1664,Mountain Biking,http://cornell.chequerd.com/courses/3340/PE/1664/
+PE 1666,Bike Touring,http://cornell.chequerd.com/courses/10813/PE/1666/
+PE 1671,Recreational Canoeing,http://cornell.chequerd.com/courses/3342/PE/1671/
+PE 1672,River Canoeing,http://cornell.chequerd.com/courses/8160/PE/1672/
+PE 1674,Sea Kayaking Touring,http://cornell.chequerd.com/courses/3343/PE/1674/
+PE 1680,Pool Paddling,http://cornell.chequerd.com/courses/3344/PE/1680/
+PE 1681,Whitewater Kayaking,http://cornell.chequerd.com/courses/3345/PE/1681/
+PE 1690,Cross Country Skiing,http://cornell.chequerd.com/courses/6086/PE/1690/
+PE 1693,Telemark Skiing,http://cornell.chequerd.com/courses/6087/PE/1693/
+PE 1851,Military Science Leadership Lab 1,http://cornell.chequerd.com/courses/3347/PE/1851/
+PE 1861,Initial Military Experiences II,http://cornell.chequerd.com/courses/8161/PE/1861/
+PE 1863,Intermediate Military Experiences II,http://cornell.chequerd.com/courses/8162/PE/1863/
+PE 1865,Junior Officer Leadership Experiences II,http://cornell.chequerd.com/courses/8163/PE/1865/
+PE 1867,Precommissioning Lab,http://cornell.chequerd.com/courses/6089/PE/1867/
+PE 1871,NROTC Professional Lab,http://cornell.chequerd.com/courses/9713/PE/1871/
+PE 1873,NROTC Professional Lab,http://cornell.chequerd.com/courses/9714/PE/1873/
+PE 1875,NROTC Professional Lab,http://cornell.chequerd.com/courses/9715/PE/1875/
+PE 1877,NROTC Professional Lab,http://cornell.chequerd.com/courses/9716/PE/1877/
+PE 1900,Varsity Baseball,http://cornell.chequerd.com/courses/3359/PE/1900/
+PE 1901,Men's Varsity Basketball,http://cornell.chequerd.com/courses/3360/PE/1901/
+PE 1902,Men's Heavyweight crew,http://cornell.chequerd.com/courses/3361/PE/1902/
+PE 1903,Men's Freshman Heavyweight Crew,http://cornell.chequerd.com/courses/3362/PE/1903/
+PE 1904,Men's Lightweight Crew,http://cornell.chequerd.com/courses/3363/PE/1904/
+PE 1905,Varsity Football,http://cornell.chequerd.com/courses/3364/PE/1905/
+PE 1906,Lightweight Football,http://cornell.chequerd.com/courses/3365/PE/1906/
+PE 1907,Varsity Golf,http://cornell.chequerd.com/courses/3366/PE/1907/
+PE 1908,Men's Ice Hockey,http://cornell.chequerd.com/courses/3367/PE/1908/
+PE 1909,Men's Lacrosse,http://cornell.chequerd.com/courses/3368/PE/1909/
+PE 1910,Men's Polo,http://cornell.chequerd.com/courses/3369/PE/1910/
+PE 1911,Men's Soccer,http://cornell.chequerd.com/courses/3370/PE/1911/
+PE 1912,Men's Squash,http://cornell.chequerd.com/courses/3371/PE/1912/
+PE 1913,Men's Swimming and Diving,http://cornell.chequerd.com/courses/3372/PE/1913/
+PE 1914,Men's Tennis,http://cornell.chequerd.com/courses/3373/PE/1914/
+PE 1915,Men's Track/Cross Country,http://cornell.chequerd.com/courses/3374/PE/1915/
+PE 1916,Wrestling,http://cornell.chequerd.com/courses/3375/PE/1916/
+PE 1920,Women's Basketball,http://cornell.chequerd.com/courses/3376/PE/1920/
+PE 1921,Women's Varsity Crew,http://cornell.chequerd.com/courses/3377/PE/1921/
+PE 1922,Women's Novice Crew,http://cornell.chequerd.com/courses/3378/PE/1922/
+PE 1923,Equestrian Team,http://cornell.chequerd.com/courses/3379/PE/1923/
+PE 1924,Women's Fencing,http://cornell.chequerd.com/courses/3380/PE/1924/
+PE 1925,Field Hockey,http://cornell.chequerd.com/courses/3381/PE/1925/
+PE 1926,Gymnastics,http://cornell.chequerd.com/courses/3382/PE/1926/
+PE 1927,Women's Ice Hockey,http://cornell.chequerd.com/courses/3383/PE/1927/
+PE 1928,Women's Lacrosse,http://cornell.chequerd.com/courses/3384/PE/1928/
+PE 1929,Women's Polo,http://cornell.chequerd.com/courses/3385/PE/1929/
+PE 1930,Women's Soccer,http://cornell.chequerd.com/courses/3386/PE/1930/
+PE 1931,Softball,http://cornell.chequerd.com/courses/3387/PE/1931/
+PE 1932,Women's Swimming and Diving,http://cornell.chequerd.com/courses/3388/PE/1932/
+PE 1933,Women's Tennis,http://cornell.chequerd.com/courses/3389/PE/1933/
+PE 1934,Women's Track/Cross Country,http://cornell.chequerd.com/courses/3390/PE/1934/
+PE 1935,Volleyball,http://cornell.chequerd.com/courses/3391/PE/1935/
+PE 1936,Women's Squash,http://cornell.chequerd.com/courses/3392/PE/1936/
+PE 1999,Physical Education Independent Study,http://cornell.chequerd.com/courses/3394/PE/1999/
+

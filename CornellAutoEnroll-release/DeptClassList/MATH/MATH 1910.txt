@@ -1,0 +1,4 @@
+5898,LEC,MWF,12:20p - 1:10p,PHL 219,Raymer (amr373),
+5900,DIS,TR,9:05a - 9:55a,PHL 307,,
+5899,DIS,TR,8:00a - 8:50a,PHL 307,,
+

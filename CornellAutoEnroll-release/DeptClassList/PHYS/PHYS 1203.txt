@@ -1,0 +1,11 @@
+16706,DIS,W,12:20p - 1:10p,RCK 132,Padamsee (hsp3),
+6638,DIS,W,3:35p - 4:25p,RCK 102,Padamsee (hsp3),
+6637,DIS,W,3:35p - 4:25p,RCK 110,Padamsee (hsp3),
+6636,DIS,W,2:30p - 3:20p,RCK 102,Padamsee (hsp3),
+6635,DIS,W,2:30p - 3:20p,RCK 112,Padamsee (hsp3),
+6634,DIS,W,1:25p - 2:15p,RCK 102,Padamsee (hsp3),
+6633,DIS,W,1:25p - 2:15p,RCK 112,Padamsee (hsp3),
+6632,DIS,W,12:20p - 1:10p,RCK 102,Padamsee (hsp3),
+6631,DIS,W,12:20p - 1:10p,RCK 112,Padamsee (hsp3),
+6630,LEC,TR,2:55p - 4:10p,RCK 201,Padamsee (hsp3),
+

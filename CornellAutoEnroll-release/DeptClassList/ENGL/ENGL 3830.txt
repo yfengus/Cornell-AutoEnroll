@@ -1,0 +1,4 @@
+8400,SEM,TR,10:10a - 11:00a,GSH 162,McCoy (mem35),
+6237,SEM,MW,11:15a - 12:05p,GSH 156,Vaughn (sv19),
+5486,SEM,MW,10:10a - 11:00a,GSH 348,Lennon (jrl24),
+

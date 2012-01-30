@@ -1,0 +1,32 @@
+CHEM 1008,Chemistry 2080 Supplement,http://cornell.chequerd.com/courses/4547/CHEM/1008/
+CHEM 1058,Chemistry 3580 Supplement,http://cornell.chequerd.com/courses/4548/CHEM/1058/
+CHEM 1570,Introduction to Organic and Biological Chemistry,http://cornell.chequerd.com/courses/4549/CHEM/1570/
+CHEM 2080,General Chemistry,http://cornell.chequerd.com/courses/4550/CHEM/2080/
+CHEM 2090,Engineering General Chemistry,http://cornell.chequerd.com/courses/908/CHEM/2090/
+CHEM 2160,Honors General and Inorganic Chemistry,http://cornell.chequerd.com/courses/4551/CHEM/2160/
+CHEM 2510,Introduction to Experimental Organic Chemistry,http://cornell.chequerd.com/courses/910/CHEM/2510/
+CHEM 2880,Introductory Physical Chemistry,http://cornell.chequerd.com/courses/4552/CHEM/2880/
+CHEM 2900,Introductory Physical Chemistry Laboratory,http://cornell.chequerd.com/courses/912/CHEM/2900/
+CHEM 3010,Honors Experimental Chemistry I,http://cornell.chequerd.com/courses/4553/CHEM/3010/
+CHEM 3030,Honors Experimental Chemistry III,http://cornell.chequerd.com/courses/4554/CHEM/3030/
+CHEM 3580,Organic Chemistry for the Life Sciences,http://cornell.chequerd.com/courses/4555/CHEM/3580/
+CHEM 3600,Honors Organic Chemistry II,http://cornell.chequerd.com/courses/4556/CHEM/3600/
+CHEM 3900,Honors Physical Chem II,http://cornell.chequerd.com/courses/4557/CHEM/3900/
+CHEM 4040,Entrepreneurship in Chemical Enterprise,http://cornell.chequerd.com/courses/9284/CHEM/4040/
+CHEM 4210,Introduction to Inorganic Chemistry Research,http://cornell.chequerd.com/courses/919/CHEM/4210/
+CHEM 4330,Introduction to Analytical Chemistry Research,http://cornell.chequerd.com/courses/920/CHEM/4330/
+CHEM 4610,Introduction to Organic Chemistry Research,http://cornell.chequerd.com/courses/922/CHEM/4610/
+CHEM 4770,Introduction to Physical Chemistry Research,http://cornell.chequerd.com/courses/923/CHEM/4770/
+CHEM 4980,Honors Seminar,http://cornell.chequerd.com/courses/4559/CHEM/4980/
+CHEM 6010,General Chemistry Colloquium,http://cornell.chequerd.com/courses/4560/CHEM/6010/
+CHEM 6080,Advanced Inorganic Chemistry I: Organometallic Chemistry,http://cornell.chequerd.com/courses/7618/CHEM/6080/
+CHEM 6250,Advanced Analytical Chemistry I,http://cornell.chequerd.com/courses/4563/CHEM/6250/
+CHEM 6290,Electrochemistry,http://cornell.chequerd.com/courses/7619/CHEM/6290/
+CHEM 6510,Organic and Organometallic Chemistry Seminar,http://cornell.chequerd.com/courses/4564/CHEM/6510/
+CHEM 6660,Synthetic Organic Chemistry,http://cornell.chequerd.com/courses/4565/CHEM/6660/
+CHEM 7880,Macromolecular Crystallography,http://cornell.chequerd.com/courses/7620/CHEM/7880/
+CHEM 7900,Introductory to Nanoscale Materials,http://cornell.chequerd.com/courses/4567/CHEM/7900/
+CHEM 7910,Spectroscopy:Magnetic Reasonan,http://cornell.chequerd.com/courses/4568/CHEM/7910/
+CHEM 7940,Quantum Mechanics II,http://cornell.chequerd.com/courses/4569/CHEM/7940/
+CHEM 7960,Statistical Mechanics,http://cornell.chequerd.com/courses/4570/CHEM/7960/
+

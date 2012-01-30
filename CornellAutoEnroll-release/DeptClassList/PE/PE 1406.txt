@@ -1,0 +1,3 @@
+9281,LEC,SU,10:00a - 5:00p,TGL 138,Blodgett (mb93), Konrad (gk21),
+9281,LEC,F,7:00p - 10:00p,TGL 138,Blodgett (mb93), Konrad (gk21),
+

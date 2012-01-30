@@ -1,0 +1,4 @@
+POLSH 1131,Elementary Polish,http://cornell.chequerd.com/courses/3515/POLSH/1131/
+POLSH 1132,Elementary Polish,http://cornell.chequerd.com/courses/6152/POLSH/1132/
+POLSH 3300,Directed Studies,http://cornell.chequerd.com/courses/3516/POLSH/3300/
+

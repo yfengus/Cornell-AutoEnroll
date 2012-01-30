@@ -1,0 +1,3 @@
+9266,LEC,SU,10:00a - 5:00p,BTL B01,Holton (mh45), Leeming (csl45),
+9266,LEC,F,1:00p - 5:00p,BTL B01,Holton (mh45), Leeming (csl45),
+

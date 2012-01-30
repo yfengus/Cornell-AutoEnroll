@@ -1,0 +1,10 @@
+3974,RSC,TBA,,,Vatamaniuk (okv2),
+3973,RSC,TBA,,,Obendorf (rlo1),
+3972,RSC,TBA,,,Kochian (lvk1),
+3971,RSC,TBA,,,Fick (gwf2),
+3970,RSC,TBA,,,Duxbury (jmd17),
+3969,RSC,TBA,,,DiTommaso (ad97),
+3968,RSC,TBA,,,Cox (wjc3),
+3967,RSC,TBA,,,Cherney (jhc5),
+1795,RSC,TBA,,,Setter (tls1),
+

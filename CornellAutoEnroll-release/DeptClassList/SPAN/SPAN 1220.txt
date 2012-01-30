@@ -1,0 +1,10 @@
+7755,DIS,MTRF,2:30p - 3:20p,WHT B02,de la Torre (od27), Vega (fhv3),
+7754,DIS,MTRF,1:25p - 2:15p,WHT B02,Bevia (tjb99),
+5852,DIS,MTRF,12:20p - 1:10p,WHT B02,Vega (fhv3), Reyes-Cubides (wkr23),
+5851,DIS,MTRF,11:15a - 12:05p,GSH 181,Colanzi (lc566), Reyes-Cubides (wkr23),
+5850,DIS,MTRF,10:10a - 11:00a,GSH 181,Hung (ch567),
+5849,DIS,MTRF,10:10a - 11:00a,GSH 164,Llarull (gl284),
+5848,DIS,MTRF,9:05a - 9:55a,GSH 181,Medak-Seguin (bm389),
+5847,LEC,W,11:15a - 12:05p,MRL 106,Bevia (tjb99),
+5846,LEC,W,10:10a - 11:00a,MRL 106,Bevia (tjb99),
+

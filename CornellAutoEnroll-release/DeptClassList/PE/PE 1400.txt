@@ -1,0 +1,3 @@
+9130,LEC,W,1:30p - 3:00p,HNH B16,Hecht (dh68),
+9129,LEC,T,1:30p - 3:00p,TGL 210,Hecht (dh68),
+

@@ -1,0 +1,5 @@
+SINHA 1122,Elementary Sinhalese,http://cornell.chequerd.com/courses/6246/SINHA/1122/
+SINHA 2202,Intermediate Sinhalese Reading,http://cornell.chequerd.com/courses/6247/SINHA/2202/
+SINHA 3301,Literary Sinhala I,http://cornell.chequerd.com/courses/3643/SINHA/3301/
+SINHA 4400,Literary Sinhala II,http://cornell.chequerd.com/courses/3644/SINHA/4400/
+

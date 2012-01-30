@@ -1,0 +1,3 @@
+16499,DIS,F,11:00a - 12:15p,IVS 109,Bacharach (sb22),
+16498,LEC,M,3:00p - 5:30p,IVS 109,Bacharach (sb22),
+

@@ -1,0 +1,3 @@
+10463,DIS,R,2:55p - 4:25p,RCK 115,Pollack (lp26),
+10462,LEC,MWF,10:10a - 11:00a,PHS 120,Pollack (lp26),
+

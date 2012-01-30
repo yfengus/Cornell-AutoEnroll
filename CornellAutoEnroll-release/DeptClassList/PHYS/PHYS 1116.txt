@@ -1,0 +1,6 @@
+6622,LAB,R,2:30p - 4:25p,RCK B50,McAllister (lm432),
+6621,LAB,R,12:20p - 2:15p,RCK B50,McAllister (lm432),
+6620,DIS,MW,11:15a - 12:05p,RCK 231,McAllister (lm432),
+6619,DIS,TR,11:15a - 12:05p,RCK 104,McAllister (lm432),
+6618,LEC,MWF,10:10a - 11:00a,RCK 231,McAllister (lm432),
+

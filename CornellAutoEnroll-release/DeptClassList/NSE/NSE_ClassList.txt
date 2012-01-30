@@ -1,0 +1,5 @@
+NSE 4840,Introduction to Controlled Fusion: Principles and Technology,http://cornell.chequerd.com/courses/5976/NSE/4840/
+NSE 5900,Independent Study,http://cornell.chequerd.com/courses/3067/NSE/5900/
+NSE 5910,Project,http://cornell.chequerd.com/courses/3068/NSE/5910/
+NSE 6900,M.S. Thesis Research,http://cornell.chequerd.com/courses/3069/NSE/6900/
+

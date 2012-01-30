@@ -1,0 +1,5 @@
+14412,DIS,F,10:10a - 11:00a,PLS 141,Debbie (dpd22),
+14411,DIS,F,9:05a - 9:55a,PLS 141,Debbie (dpd22),
+14410,LEC,MW,10:10a - 11:00a,CMH A106,Debbie (dpd22),
+14409,LEC,MW,10:10a - 11:00a,CMH A106,Debbie (dpd22),
+

@@ -1,0 +1,5 @@
+4105,LAB,R,1:25p - 4:25p,MRS 174,Parks (jep5),
+4104,LAB,T,1:25p - 4:25p,MRS 174,Parks (jep5),
+1389,LAB,W,1:25p - 4:25p,MRS 174,Parks (jep5),
+1388,LAB,M,1:25p - 4:25p,MRS 174,Parks (jep5),
+

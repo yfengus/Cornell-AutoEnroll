@@ -1,0 +1,4 @@
+15242,DIS,F,11:15a - 12:05p,MCG B65,Arcadi (apc13),
+15241,DIS,F,10:10a - 11:00a,MCG B65,Arcadi (apc13),
+6345,LEC,MW,10:10a - 11:00a,URH 262,Arcadi (apc13),
+

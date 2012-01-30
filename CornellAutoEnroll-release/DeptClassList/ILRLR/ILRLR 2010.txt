@@ -1,0 +1,3 @@
+13316,LEC,TR,10:10a - 11:25a,IVS 219,Lieberwitz (rll5),
+13315,LEC,MWF,10:10a - 11:00a,IVS 105,Gold (meg3),
+

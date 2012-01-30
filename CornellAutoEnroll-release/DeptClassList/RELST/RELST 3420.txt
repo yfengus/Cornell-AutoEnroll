@@ -1,0 +1,4 @@
+6421,DIS,W,7:30p - 8:20p,RCK 183,,
+6420,DIS,W,3:35p - 4:25p,WHT 114,,
+6419,LEC,TR,11:40a - 12:55p,MRL 107,Holmberg (dhh8),
+

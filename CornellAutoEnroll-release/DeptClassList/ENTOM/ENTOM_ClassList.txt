@@ -1,0 +1,20 @@
+ENTOM 2010,Alien Empire: Bizarre Biology of Bugs,http://cornell.chequerd.com/courses/5069/ENTOM/2010/
+ENTOM 2011,Alien Empire: Bizarre Biology of Bugs,http://cornell.chequerd.com/courses/5070/ENTOM/2011/
+ENTOM 3250,Insect Behavior,http://cornell.chequerd.com/courses/11043/ENTOM/3250/
+ENTOM 3330,Maggots, Grubs, and Cutworms: Larval Insect Biology,http://cornell.chequerd.com/courses/7784/ENTOM/3330/
+ENTOM 3690,Chemical Ecology,http://cornell.chequerd.com/courses/5073/ENTOM/3690/
+ENTOM 4440,Integrated Pest Management,http://cornell.chequerd.com/courses/1752/ENTOM/4440/
+ENTOM 4630,Invertebrate Pathology,http://cornell.chequerd.com/courses/1754/ENTOM/4630/
+ENTOM 4970,Individual Study in Entomology,http://cornell.chequerd.com/courses/1755/ENTOM/4970/
+ENTOM 4980,Undergraduate Teaching,http://cornell.chequerd.com/courses/1756/ENTOM/4980/
+ENTOM 4990,Undergraduate Research in Entomology,http://cornell.chequerd.com/courses/1757/ENTOM/4990/
+ENTOM 4991,Undergraduate Honors Research in Entomology,http://cornell.chequerd.com/courses/1758/ENTOM/4991/
+ENTOM 6340,Special Topics in Systematic Entomology,http://cornell.chequerd.com/courses/1759/ENTOM/6340/
+ENTOM 6900,Seminar in Ecology and Evolution of Infectious Disease,http://cornell.chequerd.com/courses/1761/ENTOM/6900/
+ENTOM 7070,Individual Study for Graduate Students,http://cornell.chequerd.com/courses/1762/ENTOM/7070/
+ENTOM 7090,Teaching Entomology,http://cornell.chequerd.com/courses/1763/ENTOM/7090/
+ENTOM 7640,Plant-Insect Interactions Seminar,http://cornell.chequerd.com/courses/9767/ENTOM/7640/
+ENTOM 7670,Current Topics in Entomology,http://cornell.chequerd.com/courses/1764/ENTOM/7670/
+ENTOM 8900,Master's-Level Thesis Research,http://cornell.chequerd.com/courses/1765/ENTOM/8900/
+ENTOM 9900,Doctoral-Level Thesis Research,http://cornell.chequerd.com/courses/1766/ENTOM/9900/
+

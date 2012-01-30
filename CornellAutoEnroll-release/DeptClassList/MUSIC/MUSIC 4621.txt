@@ -1,0 +1,3 @@
+6224,STU,T,4:45p - 6:15p,BRN 301,Kim (cyk8),
+6224,STU,R,4:45p - 6:45p,BRN 301,Kim (cyk8),
+

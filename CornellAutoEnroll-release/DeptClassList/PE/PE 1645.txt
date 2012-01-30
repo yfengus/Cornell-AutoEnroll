@@ -1,0 +1,6 @@
+9264,LEC,S,1:30p - 11:59p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9264,LEC,M,6:00p - 8:00p,,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9264,LEC,M,6:00p - 9:00p,BTL B01,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9264,LEC,MTWRFSU,12:01a - 11:59p,,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+9264,LEC,U,12:01a - 11:59p,,Bochniak (jb449), Holton (mh45), Woodin (akw2),
+

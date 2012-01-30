@@ -1,0 +1,3 @@
+10568,LAB,R,2:30p - 4:25p,OLH 255,Anton (aba6),
+10567,LEC,MWF,11:15a - 12:05p,OLH 255,Anton (aba6),
+

@@ -1,0 +1,52 @@
+EAS 1220,Earthquake!,http://cornell.chequerd.com/courses/4858/EAS/1220/
+EAS 1340,Special Topics in Atmospheric Science: Weather Analysis and Forecasting,http://cornell.chequerd.com/courses/4859/EAS/1340/
+EAS 1700,Evolution of the Earth and Life,http://cornell.chequerd.com/courses/4861/EAS/1700/
+EAS 2200,The Earth System,http://cornell.chequerd.com/courses/1376/EAS/2200/
+EAS 2550,The Next Generation of NASA Missions,http://cornell.chequerd.com/courses/11009/EAS/2550/
+EAS 2680,Climate and Global Warming,http://cornell.chequerd.com/courses/4862/EAS/2680/
+EAS 2900,Computer Programming and Meteorology Software,http://cornell.chequerd.com/courses/4863/EAS/2900/
+EAS 2960,Forecast Competition,http://cornell.chequerd.com/courses/1379/EAS/2960/
+EAS 3040,Interior of the Earth,http://cornell.chequerd.com/courses/4864/EAS/3040/
+EAS 3220,Biogeochemistry of the Hawaiian Islands,http://cornell.chequerd.com/courses/4865/EAS/3220/
+EAS 3340,Microclimatology,http://cornell.chequerd.com/courses/7720/EAS/3340/
+EAS 3400,Field Study of the Earth System,http://cornell.chequerd.com/courses/4866/EAS/3400/
+EAS 3420,Atmospheric Dynamics,http://cornell.chequerd.com/courses/4867/EAS/3420/
+EAS 3510,Conservation Oceanography,http://cornell.chequerd.com/courses/4868/EAS/3510/
+EAS 3520,Synoptic Meteorology I,http://cornell.chequerd.com/courses/4869/EAS/3520/
+EAS 3555,Marine Biology,http://cornell.chequerd.com/courses/9783/EAS/3555/
+EAS 4060,Marine Geology and Geophysics,http://cornell.chequerd.com/courses/11010/EAS/4060/
+EAS 4260,Structural Geology,http://cornell.chequerd.com/courses/4872/EAS/4260/
+EAS 4400,Seminar on Climate Change Science,http://cornell.chequerd.com/courses/7722/EAS/4400/
+EAS 4540,Petrology and Geochemistry,http://cornell.chequerd.com/courses/4873/EAS/4540/
+EAS 4560,Mesoscale Meteorology,http://cornell.chequerd.com/courses/7723/EAS/4560/
+EAS 4700,Weather Forecasting and Analysis,http://cornell.chequerd.com/courses/4874/EAS/4700/
+EAS 4790,Paleobiology,http://cornell.chequerd.com/courses/4876/EAS/4790/
+EAS 4870,Intro to Radar Remote Sensing,http://cornell.chequerd.com/courses/4877/EAS/4870/
+EAS 4880,Global Geophysics,http://cornell.chequerd.com/courses/4878/EAS/4880/
+EAS 4920,Undergraduate Research,http://cornell.chequerd.com/courses/4879/EAS/4920/
+EAS 4960,Internship Experience,http://cornell.chequerd.com/courses/1401/EAS/4960/
+EAS 4970,Individual Study in Atmospheric Science,http://cornell.chequerd.com/courses/1402/EAS/4970/
+EAS 4980,Teaching Experience in Earth and Atmospheric Sciences,http://cornell.chequerd.com/courses/1403/EAS/4980/
+EAS 4990,Undergraduate Research in Atmospheric Science,http://cornell.chequerd.com/courses/1404/EAS/4990/
+EAS 5000,Design Project in Geohydrology,http://cornell.chequerd.com/courses/1405/EAS/5000/
+EAS 5050,Fluid Dynamics in the Earth Sciences,http://cornell.chequerd.com/courses/7726/EAS/5050/
+EAS 5780,Planet Formation & Evolution,http://cornell.chequerd.com/courses/1408/EAS/5780/
+EAS 6280,Geology of Orogenic Belts,http://cornell.chequerd.com/courses/9337/EAS/6280/
+EAS 6750,Modeling the Soil-Plant-Atmosphere System,http://cornell.chequerd.com/courses/11011/EAS/6750/
+EAS 6920,Special Topics in Atmospheric Science,http://cornell.chequerd.com/courses/1410/EAS/6920/
+EAS 7020,Thesis Research,http://cornell.chequerd.com/courses/4885/EAS/7020/
+EAS 7110,Upper Atmosp & Space Physics,http://cornell.chequerd.com/courses/1413/EAS/7110/
+EAS 7220,Advanced Topics in Structural Geology,http://cornell.chequerd.com/courses/1414/EAS/7220/
+EAS 7310,Advanced Topics in Remote Sensing and Geophysics,http://cornell.chequerd.com/courses/1415/EAS/7310/
+EAS 7510,Petrology and Geochemistry,http://cornell.chequerd.com/courses/1416/EAS/7510/
+EAS 7550,Advanced Topics in Tectonics and Geochemistry,http://cornell.chequerd.com/courses/1417/EAS/7550/
+EAS 7570,Current Research in Petrology and Geochemistry,http://cornell.chequerd.com/courses/1418/EAS/7570/
+EAS 7620,Advanced Topics in Paleobiology,http://cornell.chequerd.com/courses/1419/EAS/7620/
+EAS 7730,Paleobiology,http://cornell.chequerd.com/courses/1422/EAS/7730/
+EAS 7810,Exploration Geophysics,http://cornell.chequerd.com/courses/1424/EAS/7810/
+EAS 7930,Andes-Himalaya Seminar,http://cornell.chequerd.com/courses/1425/EAS/7930/
+EAS 7960,Geochemistry of the Solid Earth,http://cornell.chequerd.com/courses/1427/EAS/7960/
+EAS 8500,Master's Level Thesis Research,http://cornell.chequerd.com/courses/1429/EAS/8500/
+EAS 9500,Graduate-Level Dissertation Research in Atmospheric Science,http://cornell.chequerd.com/courses/1430/EAS/9500/
+EAS 9510,Doctoral-Level Dissertation Research in Atmospheric Science,http://cornell.chequerd.com/courses/1431/EAS/9510/
+

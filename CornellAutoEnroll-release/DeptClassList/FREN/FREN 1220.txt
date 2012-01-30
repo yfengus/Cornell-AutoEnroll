@@ -1,0 +1,9 @@
+14319,DIS,TWRF,2:30p - 3:20p,MRL 107,Wender (ysw4),
+5813,DIS,TWRF,1:25p - 2:15p,WHT 114,Kane (ekk43),
+5812,DIS,TWRF,12:20p - 1:10p,WHT B06,Lenoble (ml783),
+5811,DIS,TWRF,11:15a - 12:05p,WHT B02,Chavaroche (omc6),
+5810,DIS,TWRF,10:10a - 11:00a,WHT B02,Sparfel (cms8),
+5809,DIS,TWRF,9:05a - 9:55a,WHT B02,Sparfel (cms8),
+5808,LEC,M,11:15a - 12:05p,MRL 106,Sparfel (cms8),
+5807,LEC,M,10:10a - 11:00a,MRL 106,Sparfel (cms8),
+

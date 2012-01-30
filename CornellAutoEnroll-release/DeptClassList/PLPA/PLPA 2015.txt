@@ -1,0 +1,4 @@
+3892,DIS,F,9:05a - 9:55a,PLS 336,Hudler (gwh2), Pawlowska (tep8), Turgeon (bgt1),
+3839,DIS,F,9:05a - 9:55a,PLS 404,Hudler (gwh2), Pawlowska (tep8), Turgeon (bgt1),
+1080,LEC,TR,10:10a - 11:00a,KND 116,Hudler (gwh2),
+

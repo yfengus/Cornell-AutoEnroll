@@ -1,0 +1,5 @@
+11392,LAB,F,2:30p - 4:30p,DUF 331,Van Dover (rbv2),
+11391,LAB,T,2:30p - 4:30p,DUF 331,Van Dover (rbv2),
+11390,LAB,M,2:30p - 4:30p,DUF 331,Van Dover (rbv2),
+11389,LEC,MWF,1:25p - 2:15p,THR 203,Van Dover (rbv2),
+

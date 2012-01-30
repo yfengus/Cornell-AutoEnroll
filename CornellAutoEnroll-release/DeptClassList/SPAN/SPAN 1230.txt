@@ -1,0 +1,7 @@
+5858,SEM,MTWR,1:25p - 2:15p,WHT B06,,
+5857,SEM,MTWR,12:20p - 1:10p,URH 394,Reyes-Cubides (wkr23), de la Torre (od27),
+5856,SEM,MTWR,11:15a - 12:05p,URH 394,,
+5855,SEM,MTWR,10:10a - 11:00a,URH 394,,
+5854,SEM,MTWR,10:10a - 11:00a,WHT B06,Foreman (mf477),
+5853,SEM,MTWR,9:05a - 9:55a,URH 254,Curran (ejc95),
+

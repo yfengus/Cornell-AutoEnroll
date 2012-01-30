@@ -1,0 +1,33 @@
+CHEME 3010,Nonresident Lectures,http://cornell.chequerd.com/courses/4571/CHEME/3010/
+CHEME 3230,Fluid Mechanics,http://cornell.chequerd.com/courses/4572/CHEME/3230/
+CHEME 3320,Analysis of Separation Processes,http://cornell.chequerd.com/courses/4573/CHEME/3320/
+CHEME 3720,Introduction to Process Dynamics and Control,http://cornell.chequerd.com/courses/4574/CHEME/3720/
+CHEME 3900,Chemical Kinetics and Reactor Design,http://cornell.chequerd.com/courses/4575/CHEME/3900/
+CHEME 4020,Cellular Principles of Biomedical Engineering,http://cornell.chequerd.com/courses/4576/CHEME/4020/
+CHEME 4620,Chemical Process Design,http://cornell.chequerd.com/courses/4578/CHEME/4620/
+CHEME 4630,Chemical Product Design,http://cornell.chequerd.com/courses/11373/CHEME/4630/
+CHEME 4700,Process Control Strategies,http://cornell.chequerd.com/courses/4579/CHEME/4700/
+CHEME 4810,Biomedical Engineering,http://cornell.chequerd.com/courses/4580/CHEME/4810/
+CHEME 4900,Undergraduate Projects in Chemical Engineering,http://cornell.chequerd.com/courses/944/CHEME/4900/
+CHEME 4980,Design and Testing of the Chemical Engineering Car,http://cornell.chequerd.com/courses/945/CHEME/4980/
+CHEME 4990,Senior Seminar,http://cornell.chequerd.com/courses/946/CHEME/4990/
+CHEME 5201,Introduction to Biomedical Engineering,http://cornell.chequerd.com/courses/4581/CHEME/5201/
+CHEME 5207,Introduction to Petroleum Refinery,http://cornell.chequerd.com/courses/949/CHEME/5207/
+CHEME 5440,Systems Biology in Biotechnology and Medicine,http://cornell.chequerd.com/courses/7622/CHEME/5440/
+CHEME 5650,Design Project,http://cornell.chequerd.com/courses/951/CHEME/5650/
+CHEME 5880,Energy Seminar II,http://cornell.chequerd.com/courses/4583/CHEME/5880/
+CHEME 5950,Medical and Industrial Biotechnology Laboratory Project,http://cornell.chequerd.com/courses/9286/CHEME/5950/
+CHEME 5990,Medical and Industrial Biotechnology Seminar,http://cornell.chequerd.com/courses/6760/CHEME/5990/
+CHEME 5999,Special Projects in Chemical Engineering,http://cornell.chequerd.com/courses/954/CHEME/5999/
+CHEME 6240,Physics of Micro & Nanoscale Fluid Mechanics,http://cornell.chequerd.com/courses/955/CHEME/6240/
+CHEME 6440,Aerosols and Colloids,http://cornell.chequerd.com/courses/4584/CHEME/6440/
+CHEME 6560,Membrane Separations,http://cornell.chequerd.com/courses/9287/CHEME/6560/
+CHEME 6610,Air Pollution Control,http://cornell.chequerd.com/courses/4585/CHEME/6610/
+CHEME 6650,Energy Engineering,http://cornell.chequerd.com/courses/4586/CHEME/6650/
+CHEME 6661,Bioenergy and Biofuels Module,http://cornell.chequerd.com/courses/9023/CHEME/6661/
+CHEME 6663,Geothermal Energy Module,http://cornell.chequerd.com/courses/9025/CHEME/6663/
+CHEME 7130,Chemical Kinetics and Transport,http://cornell.chequerd.com/courses/4587/CHEME/7130/
+CHEME 7900,Chemical Engineering Seminar,http://cornell.chequerd.com/courses/962/CHEME/7900/
+CHEME 8999,Thesis Research,http://cornell.chequerd.com/courses/964/CHEME/8999/
+CHEME 9999,Thesis Research,http://cornell.chequerd.com/courses/965/CHEME/9999/
+

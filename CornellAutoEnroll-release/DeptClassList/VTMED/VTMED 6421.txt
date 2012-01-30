@@ -1,0 +1,3 @@
+13795,LEC,R,12:00p - 1:00p,,Mohammed (hom1),
+13795,LEC,MT,2:00p - 3:00p,,Mohammed (hom1),
+

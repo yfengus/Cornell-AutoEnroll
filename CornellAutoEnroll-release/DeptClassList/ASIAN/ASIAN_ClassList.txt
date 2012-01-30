@@ -1,0 +1,52 @@
+ASIAN 1100,FWS: Fictional Fascinations: Literature from Colonial Southeast Asia,http://cornell.chequerd.com/courses/6651/ASIAN/1100/
+ASIAN 1117,FWS: Love, Poverty and Revolution in Vietnamese Literature,http://cornell.chequerd.com/courses/11319/ASIAN/1117/
+ASIAN 1190,East Asia to 1800,http://cornell.chequerd.com/courses/9226/ASIAN/1190/
+ASIAN 2212,Introduction to China,http://cornell.chequerd.com/courses/4236/ASIAN/2212/
+ASIAN 2219,Women & Gender in South Asia,http://cornell.chequerd.com/courses/10926/ASIAN/2219/
+ASIAN 2245,Gamelan in Indonesian History and Cultures,http://cornell.chequerd.com/courses/503/ASIAN/2245/
+ASIAN 2250,Introduction to Asian Religions,http://cornell.chequerd.com/courses/504/ASIAN/2250/
+ASIAN 2260,Popular Culture of Japan,http://cornell.chequerd.com/courses/7496/ASIAN/2260/
+ASIAN 2275,History of Modern South Asia,http://cornell.chequerd.com/courses/7497/ASIAN/2275/
+ASIAN 2277,Meditation In Indian Culture,http://cornell.chequerd.com/courses/4240/ASIAN/2277/
+ASIAN 2285,Material Worlds: Trade and the Arts of Asia,http://cornell.chequerd.com/courses/10927/ASIAN/2285/
+ASIAN 2292,Europe's Asia: Modern European Discourse on History and Subjectivity,http://cornell.chequerd.com/courses/9227/ASIAN/2292/
+ASIAN 3318,Literature & Media in Japan,http://cornell.chequerd.com/courses/6656/ASIAN/3318/
+ASIAN 3320,Central Asian Culture Wars,http://cornell.chequerd.com/courses/10928/ASIAN/3320/
+ASIAN 3321,China Under Revolution & Reform,http://cornell.chequerd.com/courses/10929/ASIAN/3321/
+ASIAN 3322,Modernity and Contested Tradition in Korea,http://cornell.chequerd.com/courses/10930/ASIAN/3322/
+ASIAN 3327,China and the World,http://cornell.chequerd.com/courses/10931/ASIAN/3327/
+ASIAN 3334,Southeast Asian Politics,http://cornell.chequerd.com/courses/9228/ASIAN/3334/
+ASIAN 3335,Japan From War To Prosperity,http://cornell.chequerd.com/courses/8409/ASIAN/3335/
+ASIAN 3344,Introduction to Indian Philosophy,http://cornell.chequerd.com/courses/508/ASIAN/3344/
+ASIAN 3365,Traditional Japanese Theatre,http://cornell.chequerd.com/courses/7502/ASIAN/3365/
+ASIAN 3386,Translating Southeast Asia Through Film,http://cornell.chequerd.com/courses/7504/ASIAN/3386/
+ASIAN 3396,Southeast Asian History from the Eighteenth Century,http://cornell.chequerd.com/courses/4248/ASIAN/3396/
+ASIAN 4401,Asian Studies Honors Course,http://cornell.chequerd.com/courses/513/ASIAN/4401/
+ASIAN 4402,Asian Studies Honors: Senior Essay,http://cornell.chequerd.com/courses/4249/ASIAN/4402/
+ASIAN 4404,Supervised Reading,http://cornell.chequerd.com/courses/515/ASIAN/4404/
+ASIAN 4417,Themes and Problems in Asian Studies,http://cornell.chequerd.com/courses/4250/ASIAN/4417/
+ASIAN 4420,Cultural Studies on Modern Korean Popular Culture,http://cornell.chequerd.com/courses/9230/ASIAN/4420/
+ASIAN 4436,Topics In Indian Film,http://cornell.chequerd.com/courses/6665/ASIAN/4436/
+ASIAN 4440,Bodies at the Border,http://cornell.chequerd.com/courses/10932/ASIAN/4440/
+ASIAN 4442,Shadowplay: Asian Art and Performance,http://cornell.chequerd.com/courses/10933/ASIAN/4442/
+ASIAN 4443,Work and Labor in China,http://cornell.chequerd.com/courses/10783/ASIAN/4443/
+ASIAN 4448,Unifying While Integrating: China in the World,http://cornell.chequerd.com/courses/9723/ASIAN/4448/
+ASIAN 4449,History and Methods of the Academic Study of Religion,http://cornell.chequerd.com/courses/7509/ASIAN/4449/
+ASIAN 4454,Modernity, Spatiality, Urban Culture: Seoul,http://cornell.chequerd.com/courses/10934/ASIAN/4454/
+ASIAN 4469,History of Medicine and Healing in China,http://cornell.chequerd.com/courses/4254/ASIAN/4469/
+ASIAN 4470,Modernity in East Asia,http://cornell.chequerd.com/courses/8418/ASIAN/4470/
+ASIAN 4473,Modern Chinese Art,http://cornell.chequerd.com/courses/9231/ASIAN/4473/
+ASIAN 4479,Performing Modernism in the Chinese Body,http://cornell.chequerd.com/courses/10935/ASIAN/4479/
+ASIAN 4481,Translation and Cultural Difference,http://cornell.chequerd.com/courses/4255/ASIAN/4481/
+ASIAN 4490,China's Economy under Mao and Deng,http://cornell.chequerd.com/courses/7511/ASIAN/4490/
+ASIAN 4498,Asian Political Economy,http://cornell.chequerd.com/courses/10936/ASIAN/4498/
+ASIAN 5505,Methodology of Asian Language,http://cornell.chequerd.com/courses/4258/ASIAN/5505/
+ASIAN 6640,Bodies at the Border,http://cornell.chequerd.com/courses/11320/ASIAN/6640/
+ASIAN 6646,Shadowplay: Asian Art and Performance,http://cornell.chequerd.com/courses/10937/ASIAN/6646/
+ASIAN 6665,Japanese Theatre: Space, Sound, and Spectacle,http://cornell.chequerd.com/courses/10938/ASIAN/6665/
+ASIAN 6673,Modern Chinese Art,http://cornell.chequerd.com/courses/9235/ASIAN/6673/
+ASIAN 6696,Southeast Asian History from the Eighteenth Century,http://cornell.chequerd.com/courses/4264/ASIAN/6696/
+ASIAN 7704,Directed Research,http://cornell.chequerd.com/courses/529/ASIAN/7704/
+ASIAN 8899,Masters Thesis Research,http://cornell.chequerd.com/courses/530/ASIAN/8899/
+ASIAN 9999,Doctoral Dissertation Research,http://cornell.chequerd.com/courses/531/ASIAN/9999/
+

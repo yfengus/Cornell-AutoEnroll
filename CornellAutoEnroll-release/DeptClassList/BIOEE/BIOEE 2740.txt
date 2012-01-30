@@ -1,0 +1,4 @@
+2739,LAB,T,1:25p - 4:25p,STM 310,McGuire (bam65),
+2738,LAB,M,1:25p - 4:25p,STM 310,McGuire (bam65),
+2737,LEC,TR,11:40a - 12:55p,CMH A409,McGuire (bam65),
+

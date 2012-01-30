@@ -1,0 +1,3 @@
+6583,SEM,MTWRF,12:20p - 1:10p,GSH 162,Krivitsky (rvk3), Paperno (sp27), Tsimberov (vt13),
+6582,SEM,MTWRF,11:15a - 12:05p,GSH 162,Krivitsky (rvk3), Paperno (sp27), Tsimberov (vt13),
+

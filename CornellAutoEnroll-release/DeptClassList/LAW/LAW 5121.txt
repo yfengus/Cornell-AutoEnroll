@@ -1,0 +1,7 @@
+15114,LEC,F,10:10a - 11:05a,,Underkuffler (lu27),
+15114,LEC,TWR,2:30p - 3:25p,,Underkuffler (lu27),
+15108,LEC,MTWR,2:30p - 3:25p,,Sherwin (els36),
+15106,LEC,TWRF,1:25p - 2:20p,,McSweeney (tjm37),
+15105,LEC,TWR,1:25p - 2:20p,,Alexander (gsa9),
+15105,LEC,F,10:10a - 11:05a,,Alexander (gsa9),
+

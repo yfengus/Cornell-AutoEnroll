@@ -1,0 +1,7 @@
+11436,DIS,F,2:30p - 4:25p,UPS 205,Lewis (mel47),
+11435,DIS,R,2:30p - 4:25p,UPS 205,Lewis (mel47),
+11434,DIS,W,2:30p - 4:25p,PHL 203,Lewis (mel47),
+11433,DIS,T,2:30p - 4:25p,UPS 205,Lewis (mel47),
+11432,DIS,M,2:30p - 4:25p,PHL 203,Lewis (mel47),
+11431,LEC,MWF,10:10a - 11:00a,KMB B11,Lewis (mel47),
+

@@ -1,0 +1,7 @@
+9268,LEC,MW,10:05a - 11:00a,TGL 138,Saahas (ch287),
+9153,LEC,TR,2:30p - 3:25p,TGL 138,Saahas (ch287),
+9152,LEC,TR,9:00a - 9:55a,TGL 138,Freedman (lmf10),
+9151,LEC,MW,6:05p - 7:00p,TGL 138,Johnston (lmj6),
+9150,LEC,MW,2:30p - 3:25p,TGL 138,Freedman (lmf10),
+9149,LEC,MW,1:25p - 2:20p,TGL 138,Saahas (ch287),
+

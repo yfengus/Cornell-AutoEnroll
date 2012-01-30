@@ -1,0 +1,3 @@
+14728,LAB,M,2:30p - 4:25p,MNL B30A,Hooker (gjh27),
+14726,LEC,TR,8:40a - 9:55a,CMS B108,Hooker (gjh27),
+

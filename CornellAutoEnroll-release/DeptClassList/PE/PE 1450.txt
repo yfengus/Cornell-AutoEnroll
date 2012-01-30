@@ -1,0 +1,4 @@
+9282,LEC,MW,11:10a - 12:00p,RTC 101,Falkson (abf11),
+9160,LEC,MW,10:05a - 10:55a,RTC 101,Falkson (abf11),
+9159,LEC,MW,9:00a - 9:50a,RTC 101,Falkson (abf11),
+

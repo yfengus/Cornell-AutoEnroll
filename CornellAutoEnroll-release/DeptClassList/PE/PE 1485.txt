@@ -1,0 +1,7 @@
+9180,LEC,U,2:00p - 5:00p,MSC 103,Crowley (pc93),
+9179,LEC,U,10:00a - 1:00p,MSC 103,Crowley (pc93),
+9178,LEC,S,2:00p - 5:00p,MSC 103,Crowley (pc93),
+9177,LEC,S,10:00a - 1:00p,MSC 103,Crowley (pc93),
+9176,LEC,F,2:00p - 5:00p,MSC 103,Crowley (pc93),
+9175,LEC,F,10:00a - 1:00p,MSC 103,Crowley (pc93),
+

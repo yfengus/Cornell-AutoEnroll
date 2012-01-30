@@ -1,0 +1,6 @@
+14858,DIS,R,1:25p - 2:15p,MCG 215,,
+8076,DIS,R,11:15a - 12:05p,URH 375A,,
+8075,DIS,W,3:35p - 4:25p,GSH 158,,
+8074,DIS,W,2:30p - 3:20p,GSH 181,,
+8073,LEC,MW,1:25p - 2:15p,MCG 165,Hinrichs (th289), Hirano (kh326),
+

@@ -1,0 +1,17 @@
+ILRIC 2301,Migrants and Migration,http://cornell.chequerd.com/courses/2340/ILRIC/2301/
+ILRIC 2310,Globalization and the Sociology of Work,http://cornell.chequerd.com/courses/11162/ILRIC/2310/
+ILRIC 2350,Work,Labor&Capital in Global Economy,http://cornell.chequerd.com/courses/2341/ILRIC/2350/
+ILRIC 4011,Comparative Education and Development,http://cornell.chequerd.com/courses/11163/ILRIC/4011/
+ILRIC 4018,Industrial Relations and Political Economy in Southern Europe,http://cornell.chequerd.com/courses/11164/ILRIC/4018/
+ILRIC 4315,Work and Family Policy in Comparative Perspective,http://cornell.chequerd.com/courses/9474/ILRIC/4315/
+ILRIC 4345,South African Industrial Relations in Transition,http://cornell.chequerd.com/courses/11165/ILRIC/4345/
+ILRIC 4355,Work and Labor in China,http://cornell.chequerd.com/courses/10424/ILRIC/4355/
+ILRIC 4365,French Industrial Relations in European Perspective,http://cornell.chequerd.com/courses/11166/ILRIC/4365/
+ILRIC 6011,Comparative Education and Development,http://cornell.chequerd.com/courses/7977/ILRIC/6011/
+ILRIC 6018,Industrial Relations and Political Economy in Southern Europe,http://cornell.chequerd.com/courses/9475/ILRIC/6018/
+ILRIC 6020,Corporate Social Responsibility,http://cornell.chequerd.com/courses/5440/ILRIC/6020/
+ILRIC 6345,South African Industrial Relations in Transition,http://cornell.chequerd.com/courses/11167/ILRIC/6345/
+ILRIC 6350,Labor Markets, Income Distribution, and Globalization: Perspectives on the Developing World,http://cornell.chequerd.com/courses/5441/ILRIC/6350/
+ILRIC 6365,French Industrial Releations in European Perspective,http://cornell.chequerd.com/courses/11168/ILRIC/6365/
+ILRIC 6385,Political Economy of the United Kingdom,http://cornell.chequerd.com/courses/9477/ILRIC/6385/
+

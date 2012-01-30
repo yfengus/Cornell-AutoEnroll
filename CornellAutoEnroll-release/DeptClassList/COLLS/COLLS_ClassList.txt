@@ -1,0 +1,4 @@
+COLLS 3970,Independent Study,http://cornell.chequerd.com/courses/1029/COLLS/3970/
+COLLS 4990,Honors Research,http://cornell.chequerd.com/courses/1030/COLLS/4990/
+COLLS 4991,Honors Research,http://cornell.chequerd.com/courses/1031/COLLS/4991/
+

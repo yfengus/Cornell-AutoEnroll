@@ -1,0 +1,37 @@
+ORIE 3120,Industrial Data and Systems Analysis,http://cornell.chequerd.com/courses/6003/ORIE/3120/
+ORIE 3310,Optimization II,http://cornell.chequerd.com/courses/6004/ORIE/3310/
+ORIE 3510,Introduction to Engineering Stochastic Processes I,http://cornell.chequerd.com/courses/6005/ORIE/3510/
+ORIE 4150,Economica Analsis of Engineering Systems,http://cornell.chequerd.com/courses/6006/ORIE/4150/
+ORIE 4300,Optimization Modeling,http://cornell.chequerd.com/courses/9580/ORIE/4300/
+ORIE 4350,Introduction to Game Theory,http://cornell.chequerd.com/courses/3112/ORIE/4350/
+ORIE 4740,Statistical Data Mining I,http://cornell.chequerd.com/courses/3116/ORIE/4740/
+ORIE 4820,Spreadsheet-Based Modeling and Data Analysis,http://cornell.chequerd.com/courses/6009/ORIE/4820/
+ORIE 4990,Teaching in ORIE,http://cornell.chequerd.com/courses/3117/ORIE/4990/
+ORIE 4998,International Research Internship,http://cornell.chequerd.com/courses/6010/ORIE/4998/
+ORIE 4999,OR&IE Project,http://cornell.chequerd.com/courses/3118/ORIE/4999/
+ORIE 5122,Inventory Management,http://cornell.chequerd.com/courses/6011/ORIE/5122/
+ORIE 5126,Supply Chain Management,http://cornell.chequerd.com/courses/6012/ORIE/5126/
+ORIE 5130,Service System Modeling and Design,http://cornell.chequerd.com/courses/6014/ORIE/5130/
+ORIE 5142,System Architecture, Behavior, and Optimization,http://cornell.chequerd.com/courses/6015/ORIE/5142/
+ORIE 5150,Economic Analysis of Engineering Systems,http://cornell.chequerd.com/courses/6016/ORIE/5150/
+ORIE 5191,Selected Topics In Applied ORIE,http://cornell.chequerd.com/courses/6017/ORIE/5191/
+ORIE 5310,Optimization II,http://cornell.chequerd.com/courses/6018/ORIE/5310/
+ORIE 5311,Topics in Linear Optimization,http://cornell.chequerd.com/courses/6019/ORIE/5311/
+ORIE 5510,Introduction to Engineering Stochastic Processes I,http://cornell.chequerd.com/courses/6020/ORIE/5510/
+ORIE 5550,Applied Time Series Analysis,http://cornell.chequerd.com/courses/3125/ORIE/5550/
+ORIE 5582,Monte Carlo Methods in Financial Engineering,http://cornell.chequerd.com/courses/6021/ORIE/5582/
+ORIE 5610,Financial Engineering with Stochastic Calculus II,http://cornell.chequerd.com/courses/6022/ORIE/5610/
+ORIE 5620,Credit Risk: Modeling, Valuation, and Management,http://cornell.chequerd.com/courses/3129/ORIE/5620/
+ORIE 5640,Statistics for Financial Engineering,http://cornell.chequerd.com/courses/6023/ORIE/5640/
+ORIE 5910,Manufacturing Option Project,http://cornell.chequerd.com/courses/3131/ORIE/5910/
+ORIE 5940,Systems Engineering Project,http://cornell.chequerd.com/courses/3135/ORIE/5940/
+ORIE 5980,Applied ORIE & IT Project,http://cornell.chequerd.com/courses/3138/ORIE/5980/
+ORIE 6327,Semidefinite Programming,http://cornell.chequerd.com/courses/11242/ORIE/6327/
+ORIE 6510,Probability,http://cornell.chequerd.com/courses/6028/ORIE/6510/
+ORIE 6780,Bayesian Statistics and Data Analysis,http://cornell.chequerd.com/courses/8145/ORIE/6780/
+ORIE 7900,Special Investigations,http://cornell.chequerd.com/courses/3150/ORIE/7900/
+ORIE 9000,ORIE Graduate Colloquium,http://cornell.chequerd.com/courses/3151/ORIE/9000/
+ORIE 9100,Enterprise Engineering Colloquium,http://cornell.chequerd.com/courses/3152/ORIE/9100/
+ORIE 9110,MEng Professional Review,http://cornell.chequerd.com/courses/3153/ORIE/9110/
+ORIE 9999,Thesis Research,http://cornell.chequerd.com/courses/3155/ORIE/9999/
+

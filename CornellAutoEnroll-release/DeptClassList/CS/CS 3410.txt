@@ -1,0 +1,8 @@
+11662,DIS,W,7:30p - 8:45p,CRP 235,Weatherspoon (hw228),
+11471,DIS,F,2:55p - 4:10p,CRP 235,Weatherspoon (hw228),
+11470,DIS,R,2:55p - 4:10p,CRP 235,Weatherspoon (hw228),
+11469,DIS,R,11:40a - 12:55p,CRP 235,Weatherspoon (hw228),
+11468,DIS,W,3:35p - 4:50p,CRP 235,Weatherspoon (hw228),
+11467,DIS,T,2:55p - 4:10p,CRP 235,Weatherspoon (hw228),
+11428,LEC,TR,1:25p - 2:40p,HLS B14,Weatherspoon (hw228),
+

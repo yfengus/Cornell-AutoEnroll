@@ -1,0 +1,11 @@
+8159,DIS,MTWR,1:25p - 2:15p,MRL 102,Battig von Wittelsbach (keb11),
+5790,DIS,MTWR,12:20p - 1:10p,MRL 102,Battig von Wittelsbach (keb11),
+5789,DIS,MTWR,12:20p - 1:10p,GSH 164,Selenu (ss2835),
+5788,DIS,MTWR,11:15a - 12:05p,URH G22,Hakopian (sth53),
+5787,DIS,MTWR,11:15a - 12:05p,URH G20,Garvin (deg97),
+5786,DIS,MTWR,10:10a - 11:00a,MCG 366,Renwick (mer56),
+5785,DIS,MTWR,10:10a - 11:00a,MRL 102,Selenu (ss2835),
+5784,DIS,MTWR,9:05a - 9:55a,MRL 102,Selenu (ss2835),
+5783,LEC,F,11:15a - 12:05p,MRL 106,Battig von Wittelsbach (keb11),
+5782,LEC,F,10:10a - 11:00a,MRL 106,Battig von Wittelsbach (keb11),
+

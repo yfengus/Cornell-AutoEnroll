@@ -1,0 +1,3 @@
+9024,LEC,TR,2:45p - 3:30p,TGL 151B,Reilly (cpr24),
+9023,LEC,MW,1:30p - 2:15p,HNH 201,Reilly (cpr24),
+

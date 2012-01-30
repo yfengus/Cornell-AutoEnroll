@@ -1,0 +1,4 @@
+9208,LEC,TR,10:10a - 10:55a,TGL 145,Ponton (smp53),
+9207,LEC,TR,9:00a - 9:45a,TGL 145,Ponton (smp53),
+9206,LEC,MW,8:00a - 8:45a,TBA TBA,Hayes (mh249),
+

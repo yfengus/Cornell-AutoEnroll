@@ -1,0 +1,4 @@
+13130,DIS,TBA,12:20p - 1:10p,TBA,Evans (gwe1),
+12756,DIS,F,12:20p - 1:10p,HEB 201,Evans (gwe1),
+12755,LEC,MW,12:20p - 1:10p,IVS 305,Evans (gwe1),
+

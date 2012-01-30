@@ -1,0 +1,79 @@
+ENGL 1105,FWS: Gender and Writing,http://cornell.chequerd.com/courses/1604/ENGL/1105/
+ENGL 1111,FWS: Thinking Across Cultures,http://cornell.chequerd.com/courses/1606/ENGL/1111/
+ENGL 1127,FWS: Shakespeare,http://cornell.chequerd.com/courses/1607/ENGL/1127/
+ENGL 1134,FWS: Memoir and Memory,http://cornell.chequerd.com/courses/1608/ENGL/1134/
+ENGL 1140,FWS:Cornell & Ithaca Collabor,http://cornell.chequerd.com/courses/1609/ENGL/1140/
+ENGL 1147,FWS:The Mystery in the Story,http://cornell.chequerd.com/courses/1610/ENGL/1147/
+ENGL 1158,FWS: American Lit & Culture,http://cornell.chequerd.com/courses/1611/ENGL/1158/
+ENGL 1167,FWS: Great New Books,http://cornell.chequerd.com/courses/8567/ENGL/1167/
+ENGL 1168,FWS: Cultural Studies,http://cornell.chequerd.com/courses/1612/ENGL/1168/
+ENGL 1170,FWS: Linked Stories,http://cornell.chequerd.com/courses/1613/ENGL/1170/
+ENGL 1191,FWS: British Literature,http://cornell.chequerd.com/courses/8568/ENGL/1191/
+ENGL 1270,FWS: Writing About Literature,http://cornell.chequerd.com/courses/8569/ENGL/1270/
+ENGL 2000,Intro To Criticism&Theory,http://cornell.chequerd.com/courses/1616/ENGL/2000/
+ENGL 2020,The English Literary Tradition,http://cornell.chequerd.com/courses/4990/ENGL/2020/
+ENGL 2040,Introduction to American Literatures: The Making of America: Reconstruction to the Present,http://cornell.chequerd.com/courses/4991/ENGL/2040/
+ENGL 2060,The Great American Cornell Novel,http://cornell.chequerd.com/courses/4993/ENGL/2060/
+ENGL 2090,Introduction to Cultural Studies,http://cornell.chequerd.com/courses/6919/ENGL/2090/
+ENGL 2180,History of the English Language since 1300,http://cornell.chequerd.com/courses/7751/ENGL/2180/
+ENGL 2620,Asian American Literature,http://cornell.chequerd.com/courses/4997/ENGL/2620/
+ENGL 2674,Introductory Seminar in Historical Fiction,http://cornell.chequerd.com/courses/11381/ENGL/2674/
+ENGL 2675,Cultures of the Cold War,http://cornell.chequerd.com/courses/11017/ENGL/2675/
+ENGL 2781,Human Rights, Ethics and Literature,http://cornell.chequerd.com/courses/11018/ENGL/2781/
+ENGL 2810,Creative Writing,http://cornell.chequerd.com/courses/4998/ENGL/2810/
+ENGL 2890,Expository Writing,http://cornell.chequerd.com/courses/4999/ENGL/2890/
+ENGL 2901,Utopia: From Thomas More to Science Fiction,http://cornell.chequerd.com/courses/9349/ENGL/2901/
+ENGL 2960,Linguistic Theory and Poetic Structure,http://cornell.chequerd.com/courses/7752/ENGL/2960/
+ENGL 2998,Literature of the American South,http://cornell.chequerd.com/courses/11370/ENGL/2998/
+ENGL 3030,Introduction to Critical Theory,http://cornell.chequerd.com/courses/11019/ENGL/3030/
+ENGL 3115,Video and New Media: Art, Theory, Politics,http://cornell.chequerd.com/courses/9350/ENGL/3115/
+ENGL 3120,Beowulf,http://cornell.chequerd.com/courses/5001/ENGL/3120/
+ENGL 3260,Spenser,http://cornell.chequerd.com/courses/7755/ENGL/3260/
+ENGL 3270,Shakespeare,http://cornell.chequerd.com/courses/7756/ENGL/3270/
+ENGL 3611,American Renaissance,http://cornell.chequerd.com/courses/11021/ENGL/3611/
+ENGL 3710,Literature of the Outlaw,http://cornell.chequerd.com/courses/11022/ENGL/3710/
+ENGL 3750,Studies in Drama and Theatre: Modernism and Metatheatre,http://cornell.chequerd.com/courses/9353/ENGL/3750/
+ENGL 3762,Law and Literature,http://cornell.chequerd.com/courses/8577/ENGL/3762/
+ENGL 3780,Studies in Queer Fiction,http://cornell.chequerd.com/courses/11023/ENGL/3780/
+ENGL 3830,Narrative Writing,http://cornell.chequerd.com/courses/5014/ENGL/3830/
+ENGL 3850,Verse Writing,http://cornell.chequerd.com/courses/1647/ENGL/3850/
+ENGL 3860,Philosophic Fictions,http://cornell.chequerd.com/courses/5015/ENGL/3860/
+ENGL 4079,Sounding the Animal,http://cornell.chequerd.com/courses/11345/ENGL/4079/
+ENGL 4170,Archaeology of the Text from Chaucer Through the Renaissance,http://cornell.chequerd.com/courses/1652/ENGL/4170/
+ENGL 4260,The Animal,http://cornell.chequerd.com/courses/11024/ENGL/4260/
+ENGL 4270,Advanced Seminar in Shakespeare: Shakespeare's Sonnets and Narrative Poems,http://cornell.chequerd.com/courses/5019/ENGL/4270/
+ENGL 4303,Lit as History: The Americas,http://cornell.chequerd.com/courses/6935/ENGL/4303/
+ENGL 4430,Victorian Literature and Psychology,http://cornell.chequerd.com/courses/11025/ENGL/4430/
+ENGL 4507,Black Women Writers: International Dimensions,http://cornell.chequerd.com/courses/5023/ENGL/4507/
+ENGL 4580,Imagining the Holocaust,http://cornell.chequerd.com/courses/1656/ENGL/4580/
+ENGL 4651,American Elegy,http://cornell.chequerd.com/courses/11026/ENGL/4651/
+ENGL 4797,A Matter of Brevity: Borges in Translation,http://cornell.chequerd.com/courses/11027/ENGL/4797/
+ENGL 4810,Seminar in Writing,http://cornell.chequerd.com/courses/5027/ENGL/4810/
+ENGL 4850,Contemporary Poetry,http://cornell.chequerd.com/courses/11028/ENGL/4850/
+ENGL 4851,Reading Place, Writing Place,http://cornell.chequerd.com/courses/11029/ENGL/4851/
+ENGL 4920,Honors Seminar II,http://cornell.chequerd.com/courses/5029/ENGL/4920/
+ENGL 4930,Honors Essay Tutorial I,http://cornell.chequerd.com/courses/1664/ENGL/4930/
+ENGL 4940,Honors Essay Tutorial II,http://cornell.chequerd.com/courses/1665/ENGL/4940/
+ENGL 4950,Independent Study,http://cornell.chequerd.com/courses/1666/ENGL/4950/
+ENGL 4961,Race and the University,http://cornell.chequerd.com/courses/11030/ENGL/4961/
+ENGL 5850,Linguistic Theory and Poetic Structure,http://cornell.chequerd.com/courses/11382/ENGL/5850/
+ENGL 6120,Beowulf,http://cornell.chequerd.com/courses/5031/ENGL/6120/
+ENGL 6171,Archaeology of the Text from Chaucer Through the Renaissance,http://cornell.chequerd.com/courses/1671/ENGL/6171/
+ENGL 6220,Renaissance Poetry,http://cornell.chequerd.com/courses/1673/ENGL/6220/
+ENGL 6272,Theories and Forms of Knowledge in Early Modern England,http://cornell.chequerd.com/courses/11032/ENGL/6272/
+ENGL 6507,Black Women Writers: Books to Screen,http://cornell.chequerd.com/courses/11383/ENGL/6507/
+ENGL 6643,The American 1890s,http://cornell.chequerd.com/courses/11033/ENGL/6643/
+ENGL 6700,Joyce's Ulysses,http://cornell.chequerd.com/courses/11034/ENGL/6700/
+ENGL 6742,Black Literary and Cultural Theory,http://cornell.chequerd.com/courses/11035/ENGL/6742/
+ENGL 6772,Theories of Postcolonial Statehood,http://cornell.chequerd.com/courses/11036/ENGL/6772/
+ENGL 6777,Judith Butler: Gender and Philosophy in the 90s,http://cornell.chequerd.com/courses/11037/ENGL/6777/
+ENGL 6793,Genres of Translation,http://cornell.chequerd.com/courses/11038/ENGL/6793/
+ENGL 6794,Explosive Histories,http://cornell.chequerd.com/courses/11039/ENGL/6794/
+ENGL 6975,Heidegger and Deleuze: A Matter of Temporality,http://cornell.chequerd.com/courses/11040/ENGL/6975/
+ENGL 6992,Art Writing: Tracing the Visible,http://cornell.chequerd.com/courses/11041/ENGL/6992/
+ENGL 7810,MFA Seminar: Fiction,http://cornell.chequerd.com/courses/5049/ENGL/7810/
+ENGL 7811,MFA Seminar: Poetry,http://cornell.chequerd.com/courses/5050/ENGL/7811/
+ENGL 7850,Close Reading For Writers: The Perceptive,http://cornell.chequerd.com/courses/1686/ENGL/7850/
+ENGL 7940,Directed Study,http://cornell.chequerd.com/courses/1688/ENGL/7940/
+ENGL 7950,Group Study,http://cornell.chequerd.com/courses/1689/ENGL/7950/
+

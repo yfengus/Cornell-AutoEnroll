@@ -1,0 +1,4 @@
+TAG 1122,Elementary Tagalog,http://cornell.chequerd.com/courses/6329/TAG/1122/
+TAG 2202,Intermediate Tagalog II,http://cornell.chequerd.com/courses/9631/TAG/2202/
+TAG 3302,Advanced Tagalog,http://cornell.chequerd.com/courses/6331/TAG/3302/
+

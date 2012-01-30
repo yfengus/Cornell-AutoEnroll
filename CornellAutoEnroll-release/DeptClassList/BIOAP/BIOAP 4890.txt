@@ -1,0 +1,3 @@
+14432,LAB,T,2:30p - 4:25p,VEC S2166A,Noden (dmn2),
+14431,LEC,TR,1:25p - 2:15p,SRM S1017,Noden (dmn2),
+

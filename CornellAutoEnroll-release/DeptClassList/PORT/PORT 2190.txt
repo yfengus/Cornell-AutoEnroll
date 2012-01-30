@@ -1,0 +1,3 @@
+5823,SEM,TR,11:40a - 12:55p,URH 302,Oliveira (jo20),
+5822,SEM,MWF,10:10a - 11:00a,MRL 111,Oliveira (jo20),
+

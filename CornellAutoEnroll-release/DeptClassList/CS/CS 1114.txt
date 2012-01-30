@@ -1,0 +1,5 @@
+10883,DIS,W,3:35p - 4:25p,HLS 312,Snavely (kns32),
+10882,DIS,W,2:30p - 3:20p,HLS 312,Snavely (kns32),
+10881,DIS,W,1:25p - 2:15p,THR 202,Snavely (kns32),
+10606,LEC,TR,11:15a - 12:05p,UPS 211,Snavely (kns32),
+

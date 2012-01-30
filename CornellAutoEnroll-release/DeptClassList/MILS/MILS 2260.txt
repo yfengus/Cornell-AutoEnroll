@@ -1,0 +1,3 @@
+13435,LEC,W,10:00a - 11:00a,,Alexander (sea74), Pasto (tep3),
+13418,LEC,R,9:00a - 10:00a,BTN G01,Alexander (sea74), Pasto (tep3),
+

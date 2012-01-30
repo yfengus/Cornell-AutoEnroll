@@ -1,0 +1,13 @@
+AIS 1110,Introduction to American Indian Studies II: Contemporary Issues in Indigenous North America,http://cornell.chequerd.com/courses/4047/AIS/1110/
+AIS 1121,FWS: Seeing Red: American Indian (Mis)Representations,http://cornell.chequerd.com/courses/11367/AIS/1121/
+AIS 2660,Introduction to Native American History,http://cornell.chequerd.com/courses/4048/AIS/2660/
+AIS 3400,Contested Terrain: Hawaii,http://cornell.chequerd.com/courses/4049/AIS/3400/
+AIS 3422,Culture, Politics, and Environment in the Circumpolar North,http://cornell.chequerd.com/courses/7412/AIS/3422/
+AIS 4000,Critical Approaches to AIS,http://cornell.chequerd.com/courses/9689/AIS/4000/
+AIS 4600,Field and Analytical Methods in Archaeology,http://cornell.chequerd.com/courses/4050/AIS/4600/
+AIS 4970,Independent Study,http://cornell.chequerd.com/courses/143/AIS/4970/
+AIS 6000,Critical Approaches to AIS,http://cornell.chequerd.com/courses/9690/AIS/6000/
+AIS 6350,Indigenous Peoples and Globalization,http://cornell.chequerd.com/courses/10867/AIS/6350/
+AIS 6422,Culture, Politcs, and Environment in the Circumpolar North,http://cornell.chequerd.com/courses/7413/AIS/6422/
+AIS 6970,Independent Study in AIS,http://cornell.chequerd.com/courses/146/AIS/6970/
+

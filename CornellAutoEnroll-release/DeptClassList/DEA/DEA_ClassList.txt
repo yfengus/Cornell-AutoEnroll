@@ -1,0 +1,39 @@
+DEA 1102,Interior Design Studio II,http://cornell.chequerd.com/courses/4813/DEA/1102/
+DEA 1150,Design Graphics Visualization,http://cornell.chequerd.com/courses/4814/DEA/1150/
+DEA 1500,Intro to Human Environ Relat,http://cornell.chequerd.com/courses/4815/DEA/1500/
+DEA 1501,Introduction to Human Environment Relations - Writing in the Major,http://cornell.chequerd.com/courses/4816/DEA/1501/
+DEA 2030,Digital Communications,http://cornell.chequerd.com/courses/4817/DEA/2030/
+DEA 2040,Building Technology,http://cornell.chequerd.com/courses/4818/DEA/2040/
+DEA 2202,Interior Design Studio IV,http://cornell.chequerd.com/courses/4819/DEA/2202/
+DEA 2410,Computer-Aided Design,http://cornell.chequerd.com/courses/4820/DEA/2410/
+DEA 2420,Advanced Computer-Aided Design,http://cornell.chequerd.com/courses/4821/DEA/2420/
+DEA 3040,Professional Practice,http://cornell.chequerd.com/courses/4822/DEA/3040/
+DEA 3050,Construct Documents and Detailing,http://cornell.chequerd.com/courses/4823/DEA/3050/
+DEA 3302,Interior Design Studio VI,http://cornell.chequerd.com/courses/4824/DEA/3302/
+DEA 3500,Human Factors: Ambient Environment,http://cornell.chequerd.com/courses/7707/DEA/3500/
+DEA 3520,Inside-Out Ergonomics I: Anatomy for Design,http://cornell.chequerd.com/courses/7708/DEA/3520/
+DEA 3540,Facility Planning and Management Studio,http://cornell.chequerd.com/courses/4825/DEA/3540/
+DEA 4000,Directed Readings,http://cornell.chequerd.com/courses/1320/DEA/4000/
+DEA 4010,Empirical Research,http://cornell.chequerd.com/courses/1321/DEA/4010/
+DEA 4020,Supervised Fieldwork,http://cornell.chequerd.com/courses/1322/DEA/4020/
+DEA 4030,Teaching Apprenticeship,http://cornell.chequerd.com/courses/1323/DEA/4030/
+DEA 4100,Facility Planning and Design in a Diverse Society,http://cornell.chequerd.com/courses/4826/DEA/4100/
+DEA 4230,Restaurant Design Charrette,http://cornell.chequerd.com/courses/9655/DEA/4230/
+DEA 4300,Furniture as a Social Art,http://cornell.chequerd.com/courses/4829/DEA/4300/
+DEA 4402,Interior Design Studio VIII,http://cornell.chequerd.com/courses/4830/DEA/4402/
+DEA 4580,Introduction to REVIT and Building Information Modeling (BIM),http://cornell.chequerd.com/courses/7709/DEA/4580/
+DEA 4700,Applied Ergonomic Methods,http://cornell.chequerd.com/courses/7710/DEA/4700/
+DEA 4990,Senior Honors Thesis,http://cornell.chequerd.com/courses/1330/DEA/4990/
+DEA 6000,Special Problems for Grads,http://cornell.chequerd.com/courses/1331/DEA/6000/
+DEA 6010,Directed Readings,http://cornell.chequerd.com/courses/1332/DEA/6010/
+DEA 6020,Empirical Research,http://cornell.chequerd.com/courses/8547/DEA/6020/
+DEA 6030,Graduate Practicum,http://cornell.chequerd.com/courses/8548/DEA/6030/
+DEA 6520,Human Factors: Ambient Environment,http://cornell.chequerd.com/courses/7712/DEA/6520/
+DEA 6540,Facility Planning and Management Stucio,http://cornell.chequerd.com/courses/4832/DEA/6540/
+DEA 6610,Environment Health Human Life Course,http://cornell.chequerd.com/courses/7713/DEA/6610/
+DEA 6700,Applied Ergonomic Methods,http://cornell.chequerd.com/courses/7714/DEA/6700/
+DEA 6760,Universal Design: Ergonomics and Accessibility,http://cornell.chequerd.com/courses/4834/DEA/6760/
+DEA 7100,DEA Graduate Pro Seminar,http://cornell.chequerd.com/courses/8549/DEA/7100/
+DEA 8990,Masters Thesis,http://cornell.chequerd.com/courses/1339/DEA/8990/
+DEA 9990,Ph.D. Thesis and Research,http://cornell.chequerd.com/courses/6863/DEA/9990/
+
